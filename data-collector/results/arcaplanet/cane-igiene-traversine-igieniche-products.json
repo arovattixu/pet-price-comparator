@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "23157",
+    "sku": "23157",
+    "gtin": "10173086",
+    "title": "Tappetini Igienici 60x60CM",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x60-23157/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301249/Tappetini-Igienici-60x60CM-10173086-1.jpg?v=638515386524630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301250/Tappetini-Igienici-60x60CM-10173086-2.jpg?v=638515386637700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301251/Tappetini-Igienici-60x60CM-10173086-3.jpg?v=638515386713230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301252/Tappetini-Igienici-60x60CM-10173086-4.jpg?v=638515386798600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301253/Tappetini-Igienici-60x60CM-101730865-5.jpg?v=638515386896670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301254/Tappetini-Igienici-60x60CM-101730866-6.jpg?v=638515386982130000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23157",
+        "sku": "23157",
+        "gtin": "10173086",
+        "title": "120PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x60-23157/p",
+        "price": {
+          "current": 24.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-tappetini-igienici-60x60-23157p",
+        "name": "Tappetini Igienici 60x60CM",
+        "path": "/lovedi-cane-tappetini-igienici-60x60-23157/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "4196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "7084",
+    "sku": "7084",
+    "gtin": "10108604",
+    "title": "Tappetini Advanced Hygiene 10PZ",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-cane-tappetini-advanced-7084/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243068/perfect-hygiene-cane-tappetini-advanced.jpg?v=637455003723000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7084",
+        "sku": "7084",
+        "gtin": "10108604",
+        "title": "CM.60X90",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-cane-tappetini-advanced-7084/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-cane-tappetini-advanced-7084p",
+        "name": "Tappetini Advanced Hygiene 10PZ",
+        "path": "/perfect-hygiene-cane-tappetini-advanced-7084/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6369",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "23158",
+    "sku": "23158",
+    "gtin": "10173087",
+    "title": "Tappetini Igienici 60X90CM",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x90-23158/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301255/Tappetini-Igienici-60X90CM-10173087-1.jpg?v=638515390762930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301256/Tappetini-Igienici-60X90CM-10173087-2.jpg?v=638515391870470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301259/Tappetini-Igienici-60X90CM-10173087-4.jpg?v=638515393475870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301260/Tappetini-Igienici-60X90CM-10173087-4.jpg?v=638515394019130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301261/Tappetini-Igienici-60X90CM-10173087-5.jpg?v=638515394221730000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23158",
+        "sku": "23158",
+        "gtin": "10173087",
+        "title": "120PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x90-23158/p",
+        "price": {
+          "current": 34.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-tappetini-igienici-60x90-23158p",
+        "name": "Tappetini Igienici 60X90CM",
+        "path": "/lovedi-cane-tappetini-igienici-60x90-23158/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "6594",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "7214",
+    "sku": "7214",
+    "gtin": "10110576",
+    "title": "Tappetini Profumati Antiscivolo 10pz",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-tappetini-profumati-antiscivolo-60x60cm-7214/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297085/Tappetini_PERFECT_60x60.jpg?v=638460306066500000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "7214",
+        "sku": "7214",
+        "gtin": "10110576",
+        "title": "CM.60X60",
+        "url": "https://www.arcaplanet.it/perfect-cane-tappetini-profumati-antiscivolo-60x60cm-7214/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-tappetini-profumati-antiscivolo-60x60cm-7214p",
+        "name": "Tappetini Profumati Antiscivolo 10pz",
+        "path": "/perfect-cane-tappetini-profumati-antiscivolo-60x60cm-7214/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7053",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "7221",
+    "sku": "7221",
+    "gtin": "10077688",
+    "title": "Tappetini Super Assorbenti 30Pz",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240925/next-dog-cane-tappetini-super-assorbenti-30pz.jpg?v=637454985826730000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7221",
+        "sku": "7221",
+        "gtin": "10077688",
+        "title": "CM.60xX60",
+        "url": "https://www.arcaplanet.it/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "next-dog-cane-tappetini-super-assorbenti-30pz-7221p",
+        "name": "Tappetini Super Assorbenti 30Pz",
+        "path": "/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7060",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "9116",
+    "sku": "9116",
+    "gtin": "10110268",
+    "title": "Tendi Tappetino per Cane Bridge",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-tendi-tappetino-per-cane-bridge-9116/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227298/yes-cane-tenditappetino-bridge-cm-60x60.jpg?v=637454791746800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250855/yes-cane-tenditappetino-bridge-cm-60x60.jpg?v=637455070710300000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9116",
+        "sku": "9116",
+        "gtin": "10110268",
+        "title": "CM.60X60",
+        "url": "https://www.arcaplanet.it/yes-tendi-tappetino-per-cane-bridge-9116/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "yes-tendi-tappetino-per-cane-bridge-9116p",
+        "name": "Tendi Tappetino per Cane Bridge",
+        "path": "/yes-tendi-tappetino-per-cane-bridge-9116/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8938",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "11426",
+    "sku": "11426",
+    "gtin": "10138252",
+    "title": "Tappetini Odour Stop per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-dog-tappetini-carboni-attivi-11426/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253674/Perfect-tappetini-per-cani.jpg?v=637528664067900000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11426",
+        "sku": "11426",
+        "gtin": "10138252",
+        "title": "CM.57X54",
+        "url": "https://www.arcaplanet.it/perfect-dog-tappetini-carboni-attivi-11426/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-dog-tappetini-carboni-attivi-11426p",
+        "name": "Tappetini Odour Stop per Cane",
+        "path": "/perfect-dog-tappetini-carboni-attivi-11426/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11020",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "11733",
+    "sku": "11733",
+    "gtin": "10076350",
+    "title": "Tappettino Lavabile Riutilizzabile",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-tappettino-lavabile-riutilizzabile-11733/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254406/camon-tappetino-lavabile-riutilizzabile-cane.jpg?v=637550317722800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254408/camon-tappetino-lavabile-riutilizzabile-dettaglio.jpg?v=637550391708770000"
+    ],
+    "price": {
+      "current": 20.9,
+      "original": 20.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1045,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11733",
+        "sku": "11733",
+        "gtin": "10076350",
+        "title": "CM.70X60",
+        "url": "https://www.arcaplanet.it/camon-tappettino-lavabile-riutilizzabile-11733/p",
+        "price": {
+          "current": 20.9,
+          "original": 20.9,
+          "pricePerUnit": {
+            "value": 1045,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "camon-tappettino-lavabile-riutilizzabile-11733p",
+        "name": "Tappettino Lavabile Riutilizzabile",
+        "path": "/camon-tappettino-lavabile-riutilizzabile-11733/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11761",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "12753",
+    "sku": "12753",
+    "gtin": "10138752",
+    "title": "Tappetino Eco Super Nappy",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-tappetino-eco-super-nappy-cane-12753/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301789/tappetino-eco-super-nappy-10138752--1-.jpg?v=638525663869700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301790/tappetino-eco-super-nappy-10138752--2-.jpg?v=638525663957370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301791/tappetino-eco-super-nappy-10138752--3-.jpg?v=638525664055470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301792/tappetino-eco-super-nappy-10138752--4-.jpg?v=638525664179300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301793/tappetino-eco-super-nappy-10138752--5-.jpg?v=638525664327430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301794/tappetino-eco-super-nappy-10138752--6-.jpg?v=638525664467870000"
+    ],
+    "price": {
+      "current": 9.5,
+      "original": 9.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 475,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12753",
+        "sku": "12753",
+        "gtin": "10138752",
+        "title": "CM.57X54",
+        "url": "https://www.arcaplanet.it/croci-tappetino-eco-super-nappy-cane-12753/p",
+        "price": {
+          "current": 9.5,
+          "original": 9.5,
+          "pricePerUnit": {
+            "value": 475,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "croci-tappetino-eco-super-nappy-cane-12753p",
+        "name": "Tappetino Eco Super Nappy",
+        "path": "/croci-tappetino-eco-super-nappy-cane-12753/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14889",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "14014",
+    "sku": "14014",
+    "gtin": "10139821",
+    "title": "Tappetini con Clorexidina Hygiene",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-tappetini-clorexidina-14014/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266835/perfect-hygiene-tappetini-clorexidina-60x60.jpg?v=637789686518870000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 324.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14014",
+        "sku": "14014",
+        "gtin": "10139821",
+        "title": "CM.60X60",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-tappetini-clorexidina-14014/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 324.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-tappetini-clorexidina-14014p",
+        "name": "Tappetini con Clorexidina Hygiene",
+        "path": "/perfect-hygiene-tappetini-clorexidina-14014/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "15871",
+    "sku": "15871",
+    "gtin": "10152717",
+    "title": "AniOne Tappetini Profumati 60x60cm",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetini-profumati-60x60cm-15871/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275174/10152717.jpg?v=637968442989470000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15871",
+        "sku": "15871",
+        "gtin": "10152717",
+        "title": "7 PZ",
+        "url": "https://www.arcaplanet.it/anione-tappetini-profumati-60x60cm-15871/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "anione-tappetini-profumati-60x60cm-15871p",
+        "name": "AniOne Tappetini Profumati 60x60cm",
+        "path": "/anione-tappetini-profumati-60x60cm-15871/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18008",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "15969",
+    "sku": "15969",
+    "gtin": "10153394",
+    "title": "Tappettini Igienici Premium 60x60CM",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-tappettini-igienici-premium-60x60cm-15969/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297137/Take-CareTappettini-Igienici-Premium-60x60CM-10153394.jpg?v=638461011653330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297138/Take-CareTappettini-Igienici-Premium-60x60CM-10153394..jpg?v=638461011721870000"
+    ],
+    "price": {
+      "current": 7.59,
+      "original": 7.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 379.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "15969",
+        "sku": "15969",
+        "gtin": "10153394",
+        "title": "14PZ",
+        "url": "https://www.arcaplanet.it/take-care-tappettini-igienici-premium-60x60cm-15969/p",
+        "price": {
+          "current": 7.59,
+          "original": 7.59,
+          "pricePerUnit": {
+            "value": 379.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "take-care-tappettini-igienici-premium-60x60cm-15969p",
+        "name": "Tappettini Igienici Premium 60x60CM",
+        "path": "/take-care-tappettini-igienici-premium-60x60cm-15969/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "18205",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "16459",
+    "sku": "16459",
+    "gtin": "10151723",
+    "title": "AniOne Tappetini Assorbenti 60x60CM",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetini-assorbenti-16459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295327/Anione-Tappetini-Assorbenti-60x60CM-10151723.jpg?v=638439325260670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295328/Anione-Tappetini-Assorbenti-60x60CM-10151723..jpg?v=638439325344100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295329/Anione-Tappetini-Assorbenti-60x60CM-10151723.jpg?v=638439325419870000"
+    ],
+    "price": {
+      "current": 11.49,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 574.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16459",
+        "sku": "16459",
+        "gtin": "10151723",
+        "title": "30PZ",
+        "url": "https://www.arcaplanet.it/anione-tappetini-assorbenti-16459/p",
+        "price": {
+          "current": 11.49,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 574.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "anione-tappetini-assorbenti-16459p",
+        "name": "AniOne Tappetini Assorbenti 60x60CM",
+        "path": "/anione-tappetini-assorbenti-16459/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18587",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "26825",
+    "sku": "26825",
+    "gtin": "10135395",
+    "title": "Croci Traversine per Cane Super Nappy 30PZ",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-traversine-per-cane-super-nappy-30pz-26825/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318305/Tappetini_assorbenti_per_cani_Super_Nappy_57.84._30_risultato.jpg.jpg?v=638769410421100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318306/traversine_per_cani_carboni_attivi_Super_Nappy_risultato.jpg.jpg?v=638769410421270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318307/tappetini_igienici_per-_cani_60x60_-offerte_Super_Nappy_risultato.jpg.jpg?v=638769410421430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318308/Offerta_tappetini_igienici_per_cani_Super_Nappy_risultato.jpg.jpg?v=638769410421600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318309/Traversine_assorbenti_per_cani_Super_Nappy_risultato.jpg.jpg?v=638769410421730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318310/Traversine_assorbenti_per_cani_risultato.jpg.jpg?v=638769410421730000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 824.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26825",
+        "sku": "26825",
+        "gtin": "10135395",
+        "title": "57X84CM",
+        "url": "https://www.arcaplanet.it/croci-traversine-per-cane-super-nappy-30pz-26825/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 824.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "croci-traversine-per-cane-super-nappy-30pz-26825p",
+        "name": "Croci Traversine per Cane Super Nappy 30PZ",
+        "path": "/croci-traversine-per-cane-super-nappy-30pz-26825/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  },
+  {
+    "id": "26826",
+    "sku": "26826",
+    "gtin": "10186750",
+    "title": "Croci Traversine per Cane Super Nappy 25PZ",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-traversine-per-cane-super-nappy-25pz-26826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318315/Croci-Traversine-per-Cane-Super-Nappy-25PZ-10186750.jpg.jpg?v=638769427826500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318316/traversine_per_cani_carboni_attivi_Super_Nappy_risultato.jpg.jpg?v=638769426534030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318317/tappetini_igienici_per-_cani_60x60_-offerte_Super_Nappy_risultato.jpg.jpg?v=638769426534030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318318/Offerta_tappetini_igienici_per_cani_Super_Nappy_risultato.jpg.jpg?v=638769426534200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318319/Traversine_assorbenti_per_cani_Super_Nappy_risultato.jpg.jpg?v=638769426534330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318320/Traversine_assorbenti_per_cani_risultato.jpg.jpg?v=638769426534330000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26826",
+        "sku": "26826",
+        "gtin": "10186750",
+        "title": "71X112CM",
+        "url": "https://www.arcaplanet.it/croci-traversine-per-cane-super-nappy-25pz-26826/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "croci-traversine-per-cane-super-nappy-25pz-26826p",
+        "name": "Croci Traversine per Cane Super Nappy 25PZ",
+        "path": "/croci-traversine-per-cane-super-nappy-25pz-26826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28817",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:44:57.301Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/traversine/igieniche/"
+  }
+]

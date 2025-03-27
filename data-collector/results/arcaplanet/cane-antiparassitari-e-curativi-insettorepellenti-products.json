@@ -1,0 +1,868 @@
+[
+  {
+    "id": "755",
+    "sku": "755",
+    "gtin": "10063569",
+    "title": "Toglizecche per Cane",
+    "brand": "BARZON",
+    "url": "https://www.arcaplanet.it/croci-cane-toglizecche-755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221159/croci-cane-toglizecche.jpg?v=637454708432930000"
+    ],
+    "price": {
+      "current": 4.5,
+      "original": 5.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 225,
+        "unit": "none"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "755",
+        "sku": "755",
+        "gtin": "10063569",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-cane-toglizecche-755/p",
+        "price": {
+          "current": 4.5,
+          "original": 5.9,
+          "pricePerUnit": {
+            "value": 225,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "croci-cane-toglizecche-755p",
+        "name": "Toglizecche per Cane",
+        "path": "/croci-cane-toglizecche-755/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "713",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "4187",
+    "sku": "4187",
+    "gtin": "10066457",
+    "title": "Flyblock Lozione Cane",
+    "brand": "FLYBLOCK",
+    "url": "https://www.arcaplanet.it/flyblock-cane-antiparassitario-lozione-150-ml-4187/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221695/flyblock-cane-antiparassitario-lozione.jpg?v=637454714252530000"
+    ],
+    "price": {
+      "current": 18.6,
+      "original": 21.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 930,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4187",
+        "sku": "4187",
+        "gtin": "10066457",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/flyblock-cane-antiparassitario-lozione-150-ml-4187/p",
+        "price": {
+          "current": 18.6,
+          "original": 21.9,
+          "pricePerUnit": {
+            "value": 930,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "flyblock-cane-antiparassitario-lozione-150-ml-4187p",
+        "name": "Flyblock Lozione Cane",
+        "path": "/flyblock-cane-antiparassitario-lozione-150-ml-4187/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4082",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "4810",
+    "sku": "4810",
+    "gtin": "10111770",
+    "title": "Lozione Spray Neem",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208265/Perfect-Lozione-Spray-Neem-250ml.jpg?v=637413969505730000"
+    ],
+    "price": {
+      "current": 14.9,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 57.30769230769231,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4810",
+        "sku": "4810",
+        "gtin": "10111770",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "price": {
+          "current": 14.9,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 57.30769230769231,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-lozione-spray-neem-250ml-4810p",
+        "name": "Lozione Spray Neem",
+        "path": "/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4691",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "11056",
+    "sku": "11056",
+    "gtin": "10130836",
+    "title": "Pinzetta Togli Zecche",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-pinzetta-per-cani-e-gatti-togli-zecche-11056/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294555/Pinzetta-Togli-Zecche-10130836.jpg?v=638428954249100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294556/Pinzetta-Togli-Zecche-10130836..jpg?v=638428954364770000"
+    ],
+    "price": {
+      "current": 2.9,
+      "original": 2.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 145,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11056",
+        "sku": "11056",
+        "gtin": "10130836",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/camon-pinzetta-per-cani-e-gatti-togli-zecche-11056/p",
+        "price": {
+          "current": 2.9,
+          "original": 2.9,
+          "pricePerUnit": {
+            "value": 145,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "camon-pinzetta-per-cani-e-gatti-togli-zecche-11056p",
+        "name": "Pinzetta Togli Zecche",
+        "path": "/camon-pinzetta-per-cani-e-gatti-togli-zecche-11056/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10650",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "6146",
+    "sku": "6146",
+    "gtin": "10079421",
+    "title": "Lovedì Collare Barriera Olio Di Neem Cane",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-cane-barriera-olio-di-neem-cm-75-6146/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/246704/lovedi-cane-collare-barriera-olio-di-neem.jpg?v=637455033461070000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6146",
+        "sku": "6146",
+        "gtin": "10079421",
+        "title": "75CM",
+        "url": "https://www.arcaplanet.it/lovedi-collare-cane-barriera-olio-di-neem-cm-75-6146/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-collare-cane-barriera-olio-di-neem-cm-75-6146p",
+        "name": "Lovedì Collare Barriera Olio Di Neem Cane",
+        "path": "/lovedi-collare-cane-barriera-olio-di-neem-cm-75-6146/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13760",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "996",
+    "sku": "996",
+    "gtin": "10057633",
+    "title": "Beaphar Collare a Protezione Naturale per Cani",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-collare-cane-naturale-996/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253472/collare-protezione-naturale.jpg?v=637522841124400000"
+    ],
+    "price": {
+      "current": 5.52,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 276,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "996",
+        "sku": "996",
+        "gtin": "10057633",
+        "title": "65CM",
+        "url": "https://www.arcaplanet.it/beaphar-collare-cane-naturale-996/p",
+        "price": {
+          "current": 5.52,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 276,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "beaphar-collare-cane-naturale-996p",
+        "name": "Beaphar Collare a Protezione Naturale per Cani",
+        "path": "/beaphar-collare-cane-naturale-996/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13961",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "10157",
+    "sku": "10157",
+    "gtin": "10064978",
+    "title": "Beaphar Collare a Protezione Naturale per Cani Grandi",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-collare-cane-grande-naturale--10157/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253477/collare-beaphar-cane-grande.jpg?v=637522851740170000"
+    ],
+    "price": {
+      "current": 6.24,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 312,
+        "unit": "none"
+      },
+      "discountPercentage": 52
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10157",
+        "sku": "10157",
+        "gtin": "10064978",
+        "title": "80CM",
+        "url": "https://www.arcaplanet.it/beaphar-collare-cane-grande-naturale--10157/p",
+        "price": {
+          "current": 6.24,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 312,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "beaphar-collare-cane-grande-naturale--10157p",
+        "name": "Beaphar Collare a Protezione Naturale per Cani Grandi",
+        "path": "/beaphar-collare-cane-grande-naturale--10157/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13962",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "15375",
+    "sku": "15375",
+    "gtin": "10140643",
+    "title": "Lozione Corpo Olio di Neem per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/lozione-corpo-olio-di-neem-per-cane-15375/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273002/perfect-lozione-corpo-neem-per-cane.jpg?v=637919128831700000"
+    ],
+    "price": {
+      "current": 6.5,
+      "original": 8.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 216.66666666666669,
+        "unit": "none"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15375",
+        "sku": "15375",
+        "gtin": "10140643",
+        "title": "30ML",
+        "url": "https://www.arcaplanet.it/lozione-corpo-olio-di-neem-per-cane-15375/p",
+        "price": {
+          "current": 6.5,
+          "original": 8.3,
+          "pricePerUnit": {
+            "value": 216.66666666666669,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "30ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "lozione-corpo-olio-di-neem-per-cane-15375p",
+        "name": "Lozione Corpo Olio di Neem per Cane",
+        "path": "/lozione-corpo-olio-di-neem-per-cane-15375/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17512",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  },
+  {
+    "id": "18315",
+    "sku": "18315",
+    "gtin": "10148943",
+    "title": "Anio Pinza Rimuovi Zecche",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anio-pinza-rimuovi-zecche-18315/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280988/099d43ffd04a39cde81a78fc2d84abae32753396_962b142869b03191ca9d82839274fbad8de4d538--1-.jpg?v=638122251000600000"
+    ],
+    "price": {
+      "current": 1.49,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18315",
+        "sku": "18315",
+        "gtin": "10148943",
+        "title": "9CM",
+        "url": "https://www.arcaplanet.it/anio-pinza-rimuovi-zecche-18315/p",
+        "price": {
+          "current": 1.49,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 74.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "anio-pinza-rimuovi-zecche-18315p",
+        "name": "Anio Pinza Rimuovi Zecche",
+        "path": "/anio-pinza-rimuovi-zecche-18315/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20433",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:47:38.898Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/insettorepellenti/"
+  }
+]

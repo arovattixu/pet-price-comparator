@@ -1,0 +1,3860 @@
+[
+  {
+    "id": "342",
+    "sku": "342",
+    "gtin": "10111436",
+    "title": "Toilette con Griglia Fucsia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-grande-place-large-griglia-viola-l-viola-342/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250799/lovedi-gatto-toilette-grande-place-large-griglia-viola-l.jpg?v=637455070235400000"
+    ],
+    "price": {
+      "current": 36.99,
+      "original": 36.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1849.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "342",
+        "sku": "342",
+        "gtin": "10111436",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-grande-place-large-griglia-viola-l-viola-342/p",
+        "price": {
+          "current": 36.99,
+          "original": 36.99,
+          "pricePerUnit": {
+            "value": 1849.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-toilette-grande-place-large-griglia-viola-l-viola-342p",
+        "name": "Toilette con Griglia Fucsia",
+        "path": "/lovedi-gatto-toilette-grande-place-large-griglia-viola-l-viola-342/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "329",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "4004",
+    "sku": "4004",
+    "gtin": "10111427",
+    "title": "Lovedì Toilette Aperta Place",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-place-4004/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289988/lovedi-toilette-aperta-place.jpg?v=638318559779630000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4004",
+        "sku": "4004",
+        "gtin": "10111427",
+        "title": "CM.37",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-place-4004/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-aperta-place-4004p",
+        "name": "Lovedì Toilette Aperta Place",
+        "path": "/lovedi-toilette-aperta-place-4004/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3907",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "5337",
+    "sku": "5337",
+    "gtin": "10111430",
+    "title": "Toilette Aperta Place Blu",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-place-cm-50-blu-5337/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254621/lovedi-toilette-aperta-place-50cm-blu.jpg?v=637553025344930000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5337",
+        "sku": "5337",
+        "gtin": "10111430",
+        "title": "CM.50",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-place-cm-50-blu-5337/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.50"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-aperta-place-cm-50-blu-5337p",
+        "name": "Toilette Aperta Place Blu",
+        "path": "/lovedi-toilette-aperta-place-cm-50-blu-5337/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5208",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "6332",
+    "sku": "6332",
+    "gtin": "10111434",
+    "title": "Toilette con Cornice  Aperta Fucsia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-cornice-place-plus-l-fucsia-6332/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225736/lovedi-gatto-toilette-cornice-place-plus-l.jpg?v=637454755119070000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6332",
+        "sku": "6332",
+        "gtin": "10111434",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-cornice-place-plus-l-fucsia-6332/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-toilette-cornice-place-plus-l-fucsia-6332p",
+        "name": "Toilette con Cornice  Aperta Fucsia",
+        "path": "/lovedi-gatto-toilette-cornice-place-plus-l-fucsia-6332/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6178",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "6387",
+    "sku": "6387",
+    "gtin": "10111433",
+    "title": "Toilette con Cornice Blu",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/toilette-cornice-gatto-lovedi-blu-6387/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207694/LOVEDI-TOILETTE-CORNICE-PLACE-PLUS-LARGE-BLU.jpg?v=637413960758830000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6387",
+        "sku": "6387",
+        "gtin": "10111433",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/toilette-cornice-gatto-lovedi-blu-6387/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "toilette-cornice-gatto-lovedi-blu-6387p",
+        "name": "Toilette con Cornice Blu",
+        "path": "/toilette-cornice-gatto-lovedi-blu-6387/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6231",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "6895",
+    "sku": "6895",
+    "gtin": "10077778",
+    "title": "Toilette Chiusa Oliver",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-toilette-fegato-46x35x40-6895/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227828/croci-toilette-fegato.jpg?v=637454797140870000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6895",
+        "sku": "6895",
+        "gtin": "10077778",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-toilette-fegato-46x35x40-6895/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "croci-toilette-fegato-46x35x40-6895p",
+        "name": "Toilette Chiusa Oliver",
+        "path": "/croci-toilette-fegato-46x35x40-6895/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6736",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "7102",
+    "sku": "7102",
+    "gtin": "10111435",
+    "title": "Toilette Griglia Grigia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-grande-place-con-griglia-l-grigia-7102/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227250/lovedi-gatto-toilette-grande-place-con-griglia-l.jpg?v=637454791359130000"
+    ],
+    "price": {
+      "current": 36.99,
+      "original": 36.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1849.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7102",
+        "sku": "7102",
+        "gtin": "10111435",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-grande-place-con-griglia-l-grigia-7102/p",
+        "price": {
+          "current": 36.99,
+          "original": 36.99,
+          "pricePerUnit": {
+            "value": 1849.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-toilette-grande-place-con-griglia-l-grigia-7102p",
+        "name": "Toilette Griglia Grigia",
+        "path": "/lovedi-gatto-toilette-grande-place-con-griglia-l-grigia-7102/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6941",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "7227",
+    "sku": "7227",
+    "gtin": "10111429",
+    "title": "Toilette Aperta per Gatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-aperta-place-cm-50-grigio-7227/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207690/Lovedi-Toilette-aperta-Place-50cm-grigio.jpg?v=637413960727830000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7227",
+        "sku": "7227",
+        "gtin": "10111429",
+        "title": "CM.50",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-toilette-aperta-place-cm-50-grigio-7227/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.50"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-toilette-aperta-place-cm-50-grigio-7227p",
+        "name": "Toilette Aperta per Gatto",
+        "path": "/lovedi-gatto-toilette-aperta-place-cm-50-grigio-7227/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7066",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "9370",
+    "sku": "9370",
+    "gtin": "10110262",
+    "title": "Toilette Aperta con Cornice Beige",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--brandon-gatto-toilette-aperta-con-cornice-beige-beige-9370/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227301/yes-brandon-gatto-toilette-aperta-con-cornice-beige.jpg?v=637454791775730000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9370",
+        "sku": "9370",
+        "gtin": "10110262",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--brandon-gatto-toilette-aperta-con-cornice-beige-beige-9370/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes--brandon-gatto-toilette-aperta-con-cornice-beige-beige-9370p",
+        "name": "Toilette Aperta con Cornice Beige",
+        "path": "/yes--brandon-gatto-toilette-aperta-con-cornice-beige-beige-9370/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9188",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "9381",
+    "sku": "9381",
+    "gtin": "10112029",
+    "title": "Toilette Starter Kit Grigio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gatto-toilette-starter-kit-grigio-9381/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258193/toilette-starter-kit-grigio.jpg?v=637593415990530000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9381",
+        "sku": "9381",
+        "gtin": "10112029",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gatto-toilette-starter-kit-grigio-9381/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-gatto-toilette-starter-kit-grigio-9381p",
+        "name": "Toilette Starter Kit Grigio",
+        "path": "/yes-gatto-toilette-starter-kit-grigio-9381/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9199",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "9400",
+    "sku": "9400",
+    "gtin": "10110260",
+    "title": "Toilette Chiusa Angolare Trinity con Paletta Beige",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--trinity-gatto-toilette-chiusa-angolare-con-paletta-beige-palett-9400/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225533/yes-trinity-gatto-toilette-chiusa-angolare-con-paletta-beige.jpg?v=637454753331830000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9400",
+        "sku": "9400",
+        "gtin": "10110260",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--trinity-gatto-toilette-chiusa-angolare-con-paletta-beige-palett-9400/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 1449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes--trinity-gatto-toilette-chiusa-angolare-con-paletta-beige-palett-9400p",
+        "name": "Toilette Chiusa Angolare Trinity con Paletta Beige",
+        "path": "/yes--trinity-gatto-toilette-chiusa-angolare-con-paletta-beige-palett-9400/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9218",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "10707",
+    "sku": "10707",
+    "gtin": "10074366",
+    "title": "Lettiera Gatto Birba con Bordo",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/lettiera-gatto-birba-con-bordino-10707/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280987/Lettiera-Gatto-Birba-Copertina.jpg?v=638122246964630000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10707",
+        "sku": "10707",
+        "gtin": "10074366",
+        "title": "56X39X21.5CM",
+        "url": "https://www.arcaplanet.it/lettiera-gatto-birba-con-bordino-10707/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-gatto-birba-con-bordino-10707p",
+        "name": "Lettiera Gatto Birba con Bordo",
+        "path": "/lettiera-gatto-birba-con-bordino-10707/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10301",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "10743",
+    "sku": "10743",
+    "gtin": "10077775",
+    "title": "Toilette con Bordino Birba",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-toilette-birba-con-bordino-cm-46x35x20-10743/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266998/croci-toilette-birba.jpg?v=637800198478800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266999/croci-toilette-birba-colori.jpg?v=637800198564870000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10743",
+        "sku": "10743",
+        "gtin": "10077775",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-toilette-birba-con-bordino-cm-46x35x20-10743/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "croci-toilette-birba-con-bordino-cm-46x35x20-10743p",
+        "name": "Toilette con Bordino Birba",
+        "path": "/croci-toilette-birba-con-bordino-cm-46x35x20-10743/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10337",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "10746",
+    "sku": "10746",
+    "gtin": "10077779",
+    "title": "Toilette Chiusa Romeo",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/toilette-romeo-con-filtro-cm-57x39x41-10746/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227829/toilette-romeo-con-filtro-cm-57x39x41.jpg?v=637454797151370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251999/toilette-romeo-con-filtro-cm-57x39x41.jpg?v=637455081928770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252000/toilette-romeo-con-filtro-cm-57x39x41.jpg?v=637455081939970000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10746",
+        "sku": "10746",
+        "gtin": "10077779",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/toilette-romeo-con-filtro-cm-57x39x41-10746/p",
+        "price": {
+          "current": 20.99,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 1049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "toilette-romeo-con-filtro-cm-57x39x41-10746p",
+        "name": "Toilette Chiusa Romeo",
+        "path": "/toilette-romeo-con-filtro-cm-57x39x41-10746/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10340",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "11437",
+    "sku": "11437",
+    "gtin": "10130723",
+    "title": "Toilette Sandy color Mango",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-toilette-sandy-color-mango-11437/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265640/yes-toilette-sandy-mango.jpg?v=637733652071900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265641/yes-toilette-sandy-mango-aperta.jpg?v=637733652162800000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11437",
+        "sku": "11437",
+        "gtin": "10130723",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-toilette-sandy-color-mango-11437/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-toilette-sandy-color-mango-11437p",
+        "name": "Toilette Sandy color Mango",
+        "path": "/yes-toilette-sandy-color-mango-11437/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11031",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "11438",
+    "sku": "11438",
+    "gtin": "10130724",
+    "title": "Toilette Sandy color Menta",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-toilette-sandy-color-menta-11438/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266191/yes-toilette-sandy-color-menta.jpg?v=637753281271000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266192/yes-toilette-sandy-color-menta-aperta.jpg?v=637753281363030000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11438",
+        "sku": "11438",
+        "gtin": "10130724",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-toilette-sandy-color-menta-11438/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-toilette-sandy-color-menta-11438p",
+        "name": "Toilette Sandy color Menta",
+        "path": "/yes-toilette-sandy-color-menta-11438/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11032",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "11439",
+    "sku": "11439",
+    "gtin": "10130725",
+    "title": "Toilette Sandy Rosa",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-toilette-sandy-rosa-11439/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266193/yes-toilette-sandy-rosa.jpg?v=637753300928230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266194/yes-toilette-sandy-rosa-aperta.jpg?v=637753301020030000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11439",
+        "sku": "11439",
+        "gtin": "10130725",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-toilette-sandy-rosa-11439/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-toilette-sandy-rosa-11439p",
+        "name": "Toilette Sandy Rosa",
+        "path": "/yes-toilette-sandy-rosa-11439/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11033",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "12711",
+    "sku": "12711",
+    "gtin": "10138702",
+    "title": "Toilette Chiusa Angolare  Grace Cipria",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-toilette-angolare-chiusa-grace-cipria-12711/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264630/yes-toilette-angolare-grace-color-cipria.jpg?v=637719836460500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264631/yes-toilette-angolare-grace-color-cipria-base.jpg?v=637719836565770000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12711",
+        "sku": "12711",
+        "gtin": "10138702",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-toilette-angolare-chiusa-grace-cipria-12711/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-toilette-angolare-chiusa-grace-cipria-12711p",
+        "name": "Toilette Chiusa Angolare  Grace Cipria",
+        "path": "/yes-toilette-angolare-chiusa-grace-cipria-12711/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14847",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "13816",
+    "sku": "13816",
+    "gtin": "10139663",
+    "title": "Toilette Maxi Saturn Azzurro",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-maxi-saturn-azzurro-13816/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270411/lovedi-toilette-maxi-saturn-azzurro.jpg?v=637848273023630000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13816",
+        "sku": "13816",
+        "gtin": "10139663",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-maxi-saturn-azzurro-13816/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-maxi-saturn-azzurro-13816p",
+        "name": "Toilette Maxi Saturn Azzurro",
+        "path": "/lovedi-toilette-maxi-saturn-azzurro-13816/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15953",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "13817",
+    "sku": "13817",
+    "gtin": "10139664",
+    "title": "Toilette Maxi Saturn Verde Lime",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-maxi-saturn-verde-lime-13817/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270410/lovedi-toilette-maxi-saturn-verde-lime.jpg?v=637848257363800000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13817",
+        "sku": "13817",
+        "gtin": "10139664",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-maxi-saturn-verde-lime-13817/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-maxi-saturn-verde-lime-13817p",
+        "name": "Toilette Maxi Saturn Verde Lime",
+        "path": "/lovedi-toilette-maxi-saturn-verde-lime-13817/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15954",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "14429",
+    "sku": "14429",
+    "gtin": "10140219",
+    "title": "Toilette Dixie Chiusa",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-dixie-chiusa-14429/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276705/lovedi-toilette-dixie-chiusa-blu.jpg?v=638036005999200000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14429",
+        "sku": "14429",
+        "gtin": "10140219",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-dixie-chiusa-14429/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BLU"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-dixie-chiusa-14429p",
+        "name": "Toilette Dixie Chiusa",
+        "path": "/lovedi-toilette-dixie-chiusa-14429/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16567",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "15129",
+    "sku": "15129",
+    "gtin": "10140897",
+    "title": "Toilette Chiusa Tango con Filtro Eco per Gatto",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-toilette-chiusa-tango-con-filtro-eco-per-gatto-15129/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279379/yes-toilette-chiusa-tango-con-filtro-eco-per-gatto-azzurra.jpg?v=638106848429800000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15129",
+        "sku": "15129",
+        "gtin": "10140897",
+        "title": "AZZURRO",
+        "url": "https://www.arcaplanet.it/yes-toilette-chiusa-tango-con-filtro-eco-per-gatto-15129/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "AZZURRO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-toilette-chiusa-tango-con-filtro-eco-per-gatto-15129p",
+        "name": "Toilette Chiusa Tango con Filtro Eco per Gatto",
+        "path": "/yes-toilette-chiusa-tango-con-filtro-eco-per-gatto-15129/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17266",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "15212",
+    "sku": "15212",
+    "gtin": "10141000",
+    "title": "Toilette Aperta Jungle",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-jungle-15212/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276816/lovedi-toilette-aperta-jungle.jpg?v=638040172094600000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15212",
+        "sku": "15212",
+        "gtin": "10141000",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-aperta-jungle-15212/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-aperta-jungle-15212p",
+        "name": "Toilette Aperta Jungle",
+        "path": "/lovedi-toilette-aperta-jungle-15212/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17349",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "16170",
+    "sku": "16170",
+    "gtin": "10155692",
+    "title": "Lovedì Toilette Eco Friendly Galaxy Chiusa",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-galaxy-chiusa-16170/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276696/lovedi-toilette-galaxy.jpg?v=638035993482870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276697/lovedi-toilette-galaxy-alzata.jpg?v=638035993586400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276698/lovedi-toilette-galaxy-gatto.jpg?v=638035993672770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276699/lovedi-toilette-galaxy-montaggio.jpg?v=638035993747300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276700/lovedi-toilette-galaxy-spostata.jpg?v=638035993836330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276701/lovedi-toilette-galaxy-view.jpg?v=638035993945330000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16170",
+        "sku": "16170",
+        "gtin": "10155692",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-galaxy-chiusa-16170/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-galaxy-chiusa-16170p",
+        "name": "Lovedì Toilette Eco Friendly Galaxy Chiusa",
+        "path": "/lovedi-toilette-galaxy-chiusa-16170/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18307",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17278",
+    "sku": "17278",
+    "gtin": "10154801",
+    "title": "More Toilet in Titanio",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-toilet-in-titanio-17278/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317927/more-toilet-in-titanio-10154801--2-.jpg.jpg?v=638766059039500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317928/more-toilet-in-titanio-10154801--1-.jpg.jpg?v=638766059039500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317929/more-toilet-in-titanio-10154801--6-.jpg.jpg?v=638766059039500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317930/more-toilet-in-titanio-10154801--8-.jpg.jpg?v=638766059039500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317931/more-toilet-in-titanio-10154801--7-.jpg.jpg?v=638766059039500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317932/more-toilet-in-titanio-10154801.jpg.jpg?v=638766053258230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317933/more-toilet-in-titanio-10154801--3-.jpg.jpg?v=638766059039670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317934/more-toilet-in-titanio-10154801--4-.jpg.jpg?v=638766059039670000"
+    ],
+    "price": {
+      "current": 66.99,
+      "original": 66.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3349.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17278",
+        "sku": "17278",
+        "gtin": "10154801",
+        "title": "XXL",
+        "url": "https://www.arcaplanet.it/more-toilet-in-titanio-17278/p",
+        "price": {
+          "current": 66.99,
+          "original": 66.99,
+          "pricePerUnit": {
+            "value": 3349.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "more-toilet-in-titanio-17278p",
+        "name": "More Toilet in Titanio",
+        "path": "/more-toilet-in-titanio-17278/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19396",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17440",
+    "sku": "17440",
+    "gtin": "10154689",
+    "title": "Anione Toilet Chiusa Cat lover",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-chiusa-cat-lover-17440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283433/ddb9e25581de01f22dfa7b62c5d8f18a92d6cc8d_3f22481aa9427a9f5ddfe15d711dd9c15f78aff4--1-.jpg?v=638163808276470000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17440",
+        "sku": "17440",
+        "gtin": "10154689",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-toilet-chiusa-cat-lover-17440/p",
+        "price": {
+          "current": 29.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-chiusa-cat-lover-17440p",
+        "name": "Anione Toilet Chiusa Cat lover",
+        "path": "/anione-toilet-chiusa-cat-lover-17440/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19558",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17604",
+    "sku": "17604",
+    "gtin": "10152706",
+    "title": "Anione Toilet Clean",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-clean-17604/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283431/05016211f46d2d40bdda390f2291964fb32b61fa_13139f6fcf8ff9641a4363ac7eaa1adef353ebcc--1-.jpg?v=638163746983070000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17604",
+        "sku": "17604",
+        "gtin": "10152706",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-toilet-clean-17604/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-clean-17604p",
+        "name": "Anione Toilet Clean",
+        "path": "/anione-toilet-clean-17604/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19722",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17952",
+    "sku": "17952",
+    "gtin": "10154708",
+    "title": "Anione Toilet Aperta Cat Lover",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-aperta-cat-lover-17952/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283434/b38b550ba83e94385fe55011b5c6d0746390a195_694071d02ddfd366333523079b69b229f2ab90e3--1-.jpg?v=638163809987970000"
+    ],
+    "price": {
+      "current": 8,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 400,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17952",
+        "sku": "17952",
+        "gtin": "10154708",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-toilet-aperta-cat-lover-17952/p",
+        "price": {
+          "current": 8,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 400,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-aperta-cat-lover-17952p",
+        "name": "Anione Toilet Aperta Cat Lover",
+        "path": "/anione-toilet-aperta-cat-lover-17952/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20070",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17964",
+    "sku": "17964",
+    "gtin": "10149361",
+    "title": "Anione Toilet Chiusa Tray",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-chiusa-tray-17964/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283411/5ab416ec62b69773419587f41f5f4d4dfc99121f_3b8771616d767c1475553127ee5dac050863929c--1-.jpg?v=638163734807200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307727/ANIONE-2.jpg?v=638641544737100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307728/ANIONE-4.jpg?v=638641545269930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307729/cc4ceb16ee538eb092561c2ecefd951343d63cc9_8b864a73ca4e4ab07a25a2f67982c0e41fbd8368_risultato.jpg?v=638641545487230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307730/ANIONE-3.jpg?v=638641545641100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307731/ANIONE-1.jpg?v=638641545796430000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1949.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17964",
+        "sku": "17964",
+        "gtin": "10149361",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-toilet-chiusa-tray-17964/p",
+        "price": {
+          "current": 38.99,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 1949.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-chiusa-tray-17964p",
+        "name": "Anione Toilet Chiusa Tray",
+        "path": "/anione-toilet-chiusa-tray-17964/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20082",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17982",
+    "sku": "17982",
+    "gtin": "10155187",
+    "title": "Anione Toilet Aperta Design",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-aperta-design-17982/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283439/076f28d9bbebd277b184424c150ba1028ca36fbc_1366363__de_DE__anione_katzentoilette_main--1-.jpg?v=638163822572800000"
+    ],
+    "price": {
+      "current": 8.25,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 412.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17982",
+        "sku": "17982",
+        "gtin": "10155187",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-toilet-aperta-design-17982/p",
+        "price": {
+          "current": 8.25,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 412.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-aperta-design-17982p",
+        "name": "Anione Toilet Aperta Design",
+        "path": "/anione-toilet-aperta-design-17982/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20100",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "18123",
+    "sku": "18123",
+    "gtin": "10148195",
+    "title": "Fit and Fun Toilette Classic",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-toilette-classic-18123/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283958/f5d00d469231f477d20f8dea60f238fa47b78259_e3dac47ae7bd29b18394f4ef125b0ca740755359--1-.jpg?v=638173240683070000"
+    ],
+    "price": {
+      "current": 3.5,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 175,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18123",
+        "sku": "18123",
+        "gtin": "10148195",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/fit-and-fun-toilette-classic-18123/p",
+        "price": {
+          "current": 3.5,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-toilette-classic-18123p",
+        "name": "Fit and Fun Toilette Classic",
+        "path": "/fit-and-fun-toilette-classic-18123/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20241",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17605",
+    "sku": "17605",
+    "gtin": "10152707",
+    "title": "Anione Toilet Mega Tray",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-mega-tray-17605/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283432/cc008c4c177dfde67c7e4f66e6a7525b17cf34c3_c03c4570401041ee01e887d4553e388f0eaa1208--1-.jpg?v=638163749810130000"
+    ],
+    "price": {
+      "current": 22.49,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1124.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17605",
+        "sku": "17605",
+        "gtin": "10152707",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/anione-toilet-mega-tray-17605/p",
+        "price": {
+          "current": 22.49,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1124.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "VERDE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-mega-tray-17605p",
+        "name": "Anione Toilet Mega Tray",
+        "path": "/anione-toilet-mega-tray-17605/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20242",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "18126",
+    "sku": "18126",
+    "gtin": "10148199",
+    "title": "Anione Lettiera Toilette Flipcat Nera",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toliet-flip-nera-18126/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283404/345916bc5835917ce2b192ac42ead191c379ebd8_bd261d24dd5730b0972aaf35f9f00c484bef02e4--1-.jpg?v=638163721554070000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18126",
+        "sku": "18126",
+        "gtin": "10148199",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-toliet-flip-nera-18126/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toliet-flip-nera-18126p",
+        "name": "Anione Lettiera Toilette Flipcat Nera",
+        "path": "/anione-toliet-flip-nera-18126/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20244",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "18128",
+    "sku": "18128",
+    "gtin": "10148198",
+    "title": "Lettiera Toilette Flipcat Grigia",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-flipcat-s-18128/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283403/480b457b098b59291867e1959ab578db49c9aa2e_ad8db725ec2fe44d90f5eda0a26a26562ef6e2e7--1-.jpg?v=638163717273800000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18128",
+        "sku": "18128",
+        "gtin": "10148198",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-toilet-flipcat-s-18128/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-flipcat-s-18128p",
+        "name": "Lettiera Toilette Flipcat Grigia",
+        "path": "/anione-toilet-flipcat-s-18128/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20246",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17978",
+    "sku": "17978",
+    "gtin": "10155181",
+    "title": "Anione Toilet Artist O-Tray M",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-artist-o-tray-m-17978/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283437/44d75a2551afe00f37fa9775d1ae560facf98369_1365825__de_DE__anione_katzen--1-.jpg?v=638163818534500000"
+    ],
+    "price": {
+      "current": 8.75,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 437.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17978",
+        "sku": "17978",
+        "gtin": "10155181",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/anione-toilet-artist-o-tray-m-17978/p",
+        "price": {
+          "current": 8.75,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 437.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M",
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-artist-o-tray-m-17978p",
+        "name": "Anione Toilet Artist O-Tray M",
+        "path": "/anione-toilet-artist-o-tray-m-17978/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20249",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17601",
+    "sku": "17601",
+    "gtin": "10152705",
+    "title": "Anione Toilet Bordi Alti",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-bordi-alti-17601/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283430/45b750e1287710553aedee7ff0aa47237623e8fd_765bf2f0dac19b752c50f12886ba505cefa32447--1-.jpg?v=638163745081930000"
+    ],
+    "price": {
+      "current": 23.49,
+      "original": 23.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17601",
+        "sku": "17601",
+        "gtin": "10152705",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/anione-toilet-bordi-alti-17601/p",
+        "price": {
+          "current": 23.49,
+          "original": 23.49,
+          "pricePerUnit": {
+            "value": 1174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M",
+            "Color": "VERDE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-bordi-alti-17601p",
+        "name": "Anione Toilet Bordi Alti",
+        "path": "/anione-toilet-bordi-alti-17601/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20252",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "17336",
+    "sku": "17336",
+    "gtin": "10151586",
+    "title": "Anione Toilet Smart S",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-toilet-smart-s-17336/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283426/1a7187fcc17300f4169e6060c0b0365017f71220_87276ae6fed6081893da03f162bb1634c7a56fc7--1-.jpg?v=638163737679930000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 949.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17336",
+        "sku": "17336",
+        "gtin": "10151586",
+        "title": "BIANCO",
+        "url": "https://www.arcaplanet.it/anione-toilet-smart-s-17336/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 949.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "BIANCO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-toilet-smart-s-17336p",
+        "name": "Anione Toilet Smart S",
+        "path": "/anione-toilet-smart-s-17336/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20278",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "20697",
+    "sku": "20697",
+    "gtin": "10166284",
+    "title": "Lovedi Toilette Cucu Grigia e Verde Ecologica",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-cucu-grigia-verde-eco-20697/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287164/AG50-0373-Olive-Green-2--1-.jpg?v=638225094095300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287165/AG50-0373-Olive-Green-open-lid--1-.jpg?v=638225094329900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287166/AG50-0373-Olive-Green-Hand--1---1-.jpg?v=638225094690100000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20697",
+        "sku": "20697",
+        "gtin": "10166284",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-cucu-grigia-verde-eco-20697/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-cucu-grigia-verde-eco-20697p",
+        "name": "Lovedi Toilette Cucu Grigia e Verde Ecologica",
+        "path": "/lovedi-toilette-cucu-grigia-verde-eco-20697/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22814",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "20713",
+    "sku": "20713",
+    "gtin": "10166300",
+    "title": "Toilette Cassetto Jupiter Mix Color",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/toilette-cassetto-jupiter-mix-color-20713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288303/10166300_LOVEDI-TOILETTE-JUPITER-CIPRIA--2-.jpg?v=638243165825700000"
+    ],
+    "price": {
+      "current": 32.99,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20713",
+        "sku": "20713",
+        "gtin": "10166300",
+        "title": "CIPRIA",
+        "url": "https://www.arcaplanet.it/toilette-cassetto-jupiter-mix-color-20713/p",
+        "price": {
+          "current": 32.99,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 1649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "CIPRIA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "toilette-cassetto-jupiter-mix-color-20713p",
+        "name": "Toilette Cassetto Jupiter Mix Color",
+        "path": "/toilette-cassetto-jupiter-mix-color-20713/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22822",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  },
+  {
+    "id": "23219",
+    "sku": "23219",
+    "gtin": "10173145",
+    "title": "Lovedì Toilette Eco Friendly Casetto Venus",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-toilette-casetto-venus-23219/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301269/lovedi-toilette-casetto-venus-10173145.jpg?v=638517915559600000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23219",
+        "sku": "23219",
+        "gtin": "10173145",
+        "title": "ANTRACITE",
+        "url": "https://www.arcaplanet.it/lovedi-toilette-casetto-venus-23219/p",
+        "price": {
+          "current": 39.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoritoilette",
+        "name": "Toilette",
+        "path": "/gatto/toilette-e-accessori/toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-toilette-casetto-venus-23219p",
+        "name": "Lovedì Toilette Eco Friendly Casetto Venus",
+        "path": "/lovedi-toilette-casetto-venus-23219/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25228",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:02.759Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/toilette/"
+  }
+]

@@ -1,0 +1,4137 @@
+[
+  {
+    "id": "10217",
+    "sku": "10217",
+    "gtin": "00010930",
+    "title": "Gabbia Laura per Criceti",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-gabbia-laura-bianca-roditori-10217/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306281/gabbia-laura-per-criceti-00010930--1-.jpg?v=638614680139100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306282/gabbia-laura-per-criceti-00010930--2-.jpg?v=638614680330870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306283/gabbia-laura-per-criceti-00010930--3-.jpg?v=638614680448570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306284/gabbia-laura-per-criceti-00010930--4-.jpg?v=638614680557970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306285/gabbia-laura-per-criceti-00010930--5-.jpg?v=638614680761570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306286/gabbia-laura-per-criceti-00010930--6-.jpg?v=638614680906370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306287/gabbia-laura-per-criceti-00010930--7-.jpg?v=638614681011170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306288/gabbia-laura-per-criceti-00010930--8-.jpg?v=638614681160700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306289/gabbia-laura-per-criceti-00010930--9-.jpg?v=638614681303600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306290/gabbia-laura-per-criceti-00010930--10-.jpg?v=638614681426130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306291/gabbia-laura-per-criceti-00010930--11-.jpg?v=638614681520630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306292/gabbia-laura-per-criceti-00010930--12-.jpg?v=638614683975070000"
+    ],
+    "price": {
+      "current": 46.99,
+      "original": 51.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10217",
+        "sku": "10217",
+        "gtin": "00010930",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/ferplast-gabbia-laura-bianca-roditori-10217/p",
+        "price": {
+          "current": 46.99,
+          "original": 51.99,
+          "pricePerUnit": {
+            "value": 2349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "ferplast-gabbia-laura-bianca-roditori-10217p",
+        "name": "Gabbia Laura per Criceti",
+        "path": "/ferplast-gabbia-laura-bianca-roditori-10217/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9811",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "10218",
+    "sku": "10218",
+    "gtin": "10112509",
+    "title": "Gabbia Roditori Cavia",
+    "brand": "FOP",
+    "url": "https://www.arcaplanet.it/gabbia-roditori-cavia-100-10218/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261054/cavia.jpg?v=637624528003200000"
+    ],
+    "price": {
+      "current": 49.9,
+      "original": 56.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2495,
+        "unit": "none"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10218",
+        "sku": "10218",
+        "gtin": "10112509",
+        "title": "80",
+        "url": "https://www.arcaplanet.it/gabbia-roditori-cavia-100-10218/p",
+        "price": {
+          "current": 49.9,
+          "original": 56.99,
+          "pricePerUnit": {
+            "value": 2495,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "80"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "gabbia-roditori-cavia-100-10218p",
+        "name": "Gabbia Roditori Cavia",
+        "path": "/gabbia-roditori-cavia-100-10218/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11593",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "11582",
+    "sku": "11582",
+    "gtin": "10092381",
+    "title": "Gabbia per roditori Casita",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/gabbia-roditori-casita-bianca-11582/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254056/Gabbia-casita-ferplast-conigli.jpg?v=637540791270870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254057/gabbia-coniglio.jpg?v=637540791358500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254058/gabbia-gabbie.jpg?v=637540791454700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254059/gabbia-roditori.jpg?v=637540791548770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254060/gabbie.jpg?v=637540791712330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254061/gabbie-per-conigli.jpg?v=637540791814470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254062/gabbie-per-porcellini-d-india.jpg?v=637540791900270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254063/gabbietta-roditori.jpg?v=637540792004500000"
+    ],
+    "price": {
+      "current": 89.99,
+      "original": 89.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11582",
+        "sku": "11582",
+        "gtin": "10092381",
+        "title": "CM.100",
+        "url": "https://www.arcaplanet.it/gabbia-roditori-casita-bianca-11582/p",
+        "price": {
+          "current": 89.99,
+          "original": 89.99,
+          "pricePerUnit": {
+            "value": 4499.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.100"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "gabbia-roditori-casita-bianca-11582p",
+        "name": "Gabbia per roditori Casita",
+        "path": "/gabbia-roditori-casita-bianca-11582/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11609",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "11604",
+    "sku": "11604",
+    "gtin": "00010642",
+    "title": "Abbeveratoio Sippy per Roditori",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-abbeveratoio-sippy-per-roditori-11604/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258828/ferplast-beverino-per-roditori-sippy.jpg?v=637599477994700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258827/ferplast-beverino-per-criceti-sippy.jpg?v=637599477910270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258829/ferplast-beverino-sippy.jpg?v=637599478080100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258830/ferplast-beverino-sippy-dettaglio.jpg?v=637599478172930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258831/ferplast-beverino-sippy-dettaglio-gabbia.jpg?v=637599478251930000"
+    ],
+    "price": {
+      "current": 7.69,
+      "original": 7.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 384.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11604",
+        "sku": "11604",
+        "gtin": "00010642",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/ferplast-abbeveratoio-sippy-per-roditori-11604/p",
+        "price": {
+          "current": 7.69,
+          "original": 7.69,
+          "pricePerUnit": {
+            "value": 384.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibodispenser-acqua",
+        "name": "Dispenser acqua",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/dispenser-acqua/",
+        "level": 6
+      },
+      {
+        "id": "ferplast-abbeveratoio-sippy-per-roditori-11604p",
+        "name": "Abbeveratoio Sippy per Roditori",
+        "path": "/ferplast-abbeveratoio-sippy-per-roditori-11604/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11854",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "11837",
+    "sku": "11837",
+    "gtin": "10115220",
+    "title": "Gabbia Karat",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/gabbia-roditori-karat-11837/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254334/gabbia-roditore-karat-ferplast.jpg?v=637547714151170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254335/gabbia-roditore-karat-80-ferplast.jpg?v=637547714227370000"
+    ],
+    "price": {
+      "current": 148.99,
+      "original": 151,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 1
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11837",
+        "sku": "11837",
+        "gtin": "10115220",
+        "title": "80",
+        "url": "https://www.arcaplanet.it/gabbia-roditori-karat-11837/p",
+        "price": {
+          "current": 148.99,
+          "original": 151,
+          "pricePerUnit": {
+            "value": 7449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "80"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "gabbia-roditori-karat-11837p",
+        "name": "Gabbia Karat",
+        "path": "/gabbia-roditori-karat-11837/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11862",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "11578",
+    "sku": "11578",
+    "gtin": "10070261",
+    "title": "Ferplast Abbeveratoio Drinky",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/abbeveratoio-drinky-11578/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280454/MicrosoftTeams-image---3-.jpg?v=638115384007930000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11578",
+        "sku": "11578",
+        "gtin": "10070261",
+        "title": "75ML",
+        "url": "https://www.arcaplanet.it/abbeveratoio-drinky-11578/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibodispenser-acqua",
+        "name": "Dispenser acqua",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/dispenser-acqua/",
+        "level": 6
+      },
+      {
+        "id": "abbeveratoio-drinky-11578p",
+        "name": "Ferplast Abbeveratoio Drinky",
+        "path": "/abbeveratoio-drinky-11578/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11867",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "11848",
+    "sku": "11848",
+    "gtin": "10073084",
+    "title": "Ferplast Ruota Baloon Medium",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-ruota-baloon-medium-per-roditori-11848/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255344/ferplast-gioco-roditore-ruota-baloon-medium.jpg?v=637559787423430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255345/ferplast-ruota-baloon-medium-verde.jpg?v=637559805973870000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11848",
+        "sku": "11848",
+        "gtin": "10073084",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/ferplast-ruota-baloon-medium-per-roditori-11848/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "ferplast-ruota-baloon-medium-per-roditori-11848p",
+        "name": "Ferplast Ruota Baloon Medium",
+        "path": "/ferplast-ruota-baloon-medium-per-roditori-11848/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11873",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12351",
+    "sku": "12351",
+    "gtin": "10057556",
+    "title": "Gabbia Circus Fun",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/gabbia-criceti-circus-fun-12351/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306308/gabbia-circus-fun-10057556--1-.jpg?v=638614815532670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306309/gabbia-circus-fun-10057556--2-.jpg?v=638614815720700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306310/gabbia-circus-fun-10057556--3-.jpg?v=638614816001000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306311/gabbia-circus-fun-10057556--4-.jpg?v=638614816131630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306312/gabbia-circus-fun-10057556--5-.jpg?v=638614816266700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306313/gabbia-circus-fun-10057556--6-.jpg?v=638614816456100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306314/gabbia-circus-fun-10057556--7-.jpg?v=638614816585200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306315/gabbia-circus-fun-10057556--8-.jpg?v=638614816787430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306316/gabbia-circus-fun-10057556--9-.jpg?v=638614817037630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306317/gabbia-circus-fun-10057556--10-.jpg?v=638614817219370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306318/gabbia-circus-fun-10057556--11-.jpg?v=638614817334000000"
+    ],
+    "price": {
+      "current": 48.6,
+      "original": 53.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2430,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12351",
+        "sku": "12351",
+        "gtin": "10057556",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gabbia-criceti-circus-fun-12351/p",
+        "price": {
+          "current": 48.6,
+          "original": 53.99,
+          "pricePerUnit": {
+            "value": 2430,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "gabbia-criceti-circus-fun-12351p",
+        "name": "Gabbia Circus Fun",
+        "path": "/gabbia-criceti-circus-fun-12351/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13805",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12543",
+    "sku": "12543",
+    "gtin": "10115215",
+    "title": "Gabbia Roditori Hamsterville",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/gabbia-roditori-hamsterville-nera-12543/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254264/1-0180016339_1800x1800.jpg?v=637546977168830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254265/2-0190013292_1800x1800.jpg?v=637546977261830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254266/4-0190013675_1800x1800.jpg?v=637546977351330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254267/9-0190008142_1800x1800.jpg?v=637546977444970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254268/12-0190013671_1800x1800.jpg?v=637546977529200000"
+    ],
+    "price": {
+      "current": 86.9,
+      "original": 90.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4345,
+        "unit": "none"
+      },
+      "discountPercentage": 4
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12543",
+        "sku": "12543",
+        "gtin": "10115215",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gabbia-roditori-hamsterville-nera-12543/p",
+        "price": {
+          "current": 86.9,
+          "original": 90.99,
+          "pricePerUnit": {
+            "value": 4345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "gabbia-roditori-hamsterville-nera-12543p",
+        "name": "Gabbia Roditori Hamsterville",
+        "path": "/gabbia-roditori-hamsterville-nera-12543/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14674",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12591",
+    "sku": "12591",
+    "gtin": "00010479",
+    "title": "Ruota Piccola per Criceti",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-ruota-piccola-per-criceti-12591/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265448/ferplast-ruota-piccola-per-criceti.jpg?v=637728296850800000"
+    ],
+    "price": {
+      "current": 5.8,
+      "original": 7.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 290,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12591",
+        "sku": "12591",
+        "gtin": "00010479",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/ferplast-ruota-piccola-per-criceti-12591/p",
+        "price": {
+          "current": 5.8,
+          "original": 7.25,
+          "pricePerUnit": {
+            "value": 290,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "ferplast-ruota-piccola-per-criceti-12591p",
+        "name": "Ruota Piccola per Criceti",
+        "path": "/ferplast-ruota-piccola-per-criceti-12591/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14726",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12622",
+    "sku": "12622",
+    "gtin": "10111825",
+    "title": "Gabbia Rody 3 Trio Blu",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gabbia-rody3-trio-blu-12622/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254415/gabbia-zolux-rody-3-trio-blu-criceti.jpg?v=637550437717600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254416/gabbie-zolux-rody-3-trio-blu-criceti.jpg?v=637550437789000000"
+    ],
+    "price": {
+      "current": 84.99,
+      "original": 84.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12622",
+        "sku": "12622",
+        "gtin": "10111825",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gabbia-rody3-trio-blu-12622/p",
+        "price": {
+          "current": 84.99,
+          "original": 84.99,
+          "pricePerUnit": {
+            "value": 4249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "gabbia-rody3-trio-blu-12622p",
+        "name": "Gabbia Rody 3 Trio Blu",
+        "path": "/gabbia-rody3-trio-blu-12622/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14758",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12633",
+    "sku": "12633",
+    "gtin": "10081038",
+    "title": "Casetta Hendrik Criceto",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-casetta-criceto-hendrik-12633/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257786/6171.jpg?v=637587638938630000"
+    ],
+    "price": {
+      "current": 7.15,
+      "original": 7.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 357.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12633",
+        "sku": "12633",
+        "gtin": "10081038",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tx-casetta-criceto-hendrik-12633/p",
+        "price": {
+          "current": 7.15,
+          "original": 7.15,
+          "pricePerUnit": {
+            "value": 357.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinti",
+        "name": "Cucce e recinti",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinticucce",
+        "name": "Cucce",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/cucce/",
+        "level": 6
+      },
+      {
+        "id": "tx-casetta-criceto-hendrik-12633p",
+        "name": "Casetta Hendrik Criceto",
+        "path": "/tx-casetta-criceto-hendrik-12633/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14769",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12634",
+    "sku": "12634",
+    "gtin": "10081051",
+    "title": "Set di giochi in paglia roditore",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-set-giochi-paglia-roditori-cm-15-pz-2-12634/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257469/set-roditore-giochi.jpg?v=637581334576870000"
+    ],
+    "price": {
+      "current": 2.89,
+      "original": 2.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 144.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12634",
+        "sku": "12634",
+        "gtin": "10081051",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/tx-set-giochi-paglia-roditori-cm-15-pz-2-12634/p",
+        "price": {
+          "current": 2.89,
+          "original": 2.89,
+          "pricePerUnit": {
+            "value": 144.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "tx-set-giochi-paglia-roditori-cm-15-pz-2-12634p",
+        "name": "Set di giochi in paglia roditore",
+        "path": "/tx-set-giochi-paglia-roditori-cm-15-pz-2-12634/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14770",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12639",
+    "sku": "12639",
+    "gtin": "10138649",
+    "title": "Ciotola in ceramica per criceti",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-ciotola-ceraminca-sagoma-topino-cm-8-12639/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257788/180341_PHO_PRO_CLIP_60731-1.jpg?v=637587645444030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257789/180344_PHO_PRO_CLIP_60732-1.jpg?v=637587645664470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257790/180345_PHO_PRO_CLIP_60732-2.jpg?v=637587645841370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257791/180346_PHO_PRO_CLIP_60732-3.jpg?v=637587646008700000"
+    ],
+    "price": {
+      "current": 4.3,
+      "original": 4.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 215,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12639",
+        "sku": "12639",
+        "gtin": "10138649",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tx-ciotola-ceraminca-sagoma-topino-cm-8-12639/p",
+        "price": {
+          "current": 4.3,
+          "original": 4.3,
+          "pricePerUnit": {
+            "value": 215,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibociotole",
+        "name": "Ciotole",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/ciotole/",
+        "level": 6
+      },
+      {
+        "id": "tx-ciotola-ceraminca-sagoma-topino-cm-8-12639p",
+        "name": "Ciotola in ceramica per criceti",
+        "path": "/tx-ciotola-ceraminca-sagoma-topino-cm-8-12639/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14775",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12641",
+    "sku": "12641",
+    "gtin": "10138652",
+    "title": "Palla vimini per roditore",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-palla-vimini-roditori-cm-4-12641/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257837/61822.jpg?v=637588250150370000"
+    ],
+    "price": {
+      "current": 1.84,
+      "original": 2.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 92,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12641",
+        "sku": "12641",
+        "gtin": "10138652",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tx-palla-vimini-roditori-cm-4-12641/p",
+        "price": {
+          "current": 1.84,
+          "original": 2.3,
+          "pricePerUnit": {
+            "value": 92,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "tx-palla-vimini-roditori-cm-4-12641p",
+        "name": "Palla vimini per roditore",
+        "path": "/tx-palla-vimini-roditori-cm-4-12641/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14777",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "12642",
+    "sku": "12642",
+    "gtin": "10138653",
+    "title": "Tunnel Vimini per Criceti",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-tunnel-vimini-criceti-cm-38-12642/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257846/62833.jpg?v=637588257013300000"
+    ],
+    "price": {
+      "current": 22.5,
+      "original": 22.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1125,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12642",
+        "sku": "12642",
+        "gtin": "10138653",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tx-tunnel-vimini-criceti-cm-38-12642/p",
+        "price": {
+          "current": 22.5,
+          "original": 22.5,
+          "pricePerUnit": {
+            "value": 1125,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "tx-tunnel-vimini-criceti-cm-38-12642p",
+        "name": "Tunnel Vimini per Criceti",
+        "path": "/tx-tunnel-vimini-criceti-cm-38-12642/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14778",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14165",
+    "sku": "14165",
+    "gtin": "10139982",
+    "title": "Gabbia per Criceti Lisbona",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-lisbona-14165/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265349/gabbia-per-criceti-lisbona1.jpg?v=637726745961170000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14165",
+        "sku": "14165",
+        "gtin": "10139982",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-lisbona-14165/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "yes-gabbia-per-criceti-lisbona-14165p",
+        "name": "Gabbia per Criceti Lisbona",
+        "path": "/yes-gabbia-per-criceti-lisbona-14165/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16302",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14166",
+    "sku": "14166",
+    "gtin": "10139983",
+    "title": "Gabbia per Criceti Madrid",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-madrid-14166/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265343/gabbia-per-criceti-madrid1.jpg?v=637726710996330000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14166",
+        "sku": "14166",
+        "gtin": "10139983",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-madrid-14166/p",
+        "price": {
+          "current": 29.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "yes-gabbia-per-criceti-madrid-14166p",
+        "name": "Gabbia per Criceti Madrid",
+        "path": "/yes-gabbia-per-criceti-madrid-14166/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16303",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14167",
+    "sku": "14167",
+    "gtin": "10139984",
+    "title": "Gabbia per Criceti Praga",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-praga-14167/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265346/gabbia-per-criceti-praga1.jpg?v=637726730042500000"
+    ],
+    "price": {
+      "current": 61.99,
+      "original": 61.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14167",
+        "sku": "14167",
+        "gtin": "10139984",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gabbia-per-criceti-praga-14167/p",
+        "price": {
+          "current": 61.99,
+          "original": 61.99,
+          "pricePerUnit": {
+            "value": 3099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "yes-gabbia-per-criceti-praga-14167p",
+        "name": "Gabbia per Criceti Praga",
+        "path": "/yes-gabbia-per-criceti-praga-14167/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16304",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14168",
+    "sku": "14168",
+    "gtin": "10139987",
+    "title": "Gabbia per Conigli Nizza",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gabbia-per-conigli-nizza-14168/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265424/gabbia-per-criceti-nizza1.jpg?v=637727608373630000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14168",
+        "sku": "14168",
+        "gtin": "10139987",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gabbia-per-conigli-nizza-14168/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "yes-gabbia-per-conigli-nizza-14168p",
+        "name": "Gabbia per Conigli Nizza",
+        "path": "/yes-gabbia-per-conigli-nizza-14168/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16305",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14169",
+    "sku": "14169",
+    "gtin": "10139985",
+    "title": "Gabbia per Conigli Roma",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gabbia-per-conigli-roma-14169/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265348/gabbia-per-coniglio-roma1.jpg?v=637726735177630000"
+    ],
+    "price": {
+      "current": 45.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14169",
+        "sku": "14169",
+        "gtin": "10139985",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gabbia-per-conigli-roma-14169/p",
+        "price": {
+          "current": 45.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 2299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiegabbie-e-voliere",
+        "name": "Gabbie e Voliere",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/gabbie-e-voliere/",
+        "level": 6
+      },
+      {
+        "id": "yes-gabbia-per-conigli-roma-14169p",
+        "name": "Gabbia per Conigli Roma",
+        "path": "/yes-gabbia-per-conigli-roma-14169/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16306",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14791",
+    "sku": "14791",
+    "gtin": "10140512",
+    "title": "Gioco per Roditori Torre per Scavare Natural",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gioco-per-roditori-torre-per-scavare-natural-14791/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267609/gioco-per.roditori-torre-per-scavare.jpg?v=637811193310970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267610/gioco-per.roditori-torre-per-scavare1.jpg?v=637811193496730000"
+    ],
+    "price": {
+      "current": 15.49,
+      "original": 15.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 774.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14791",
+        "sku": "14791",
+        "gtin": "10140512",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-gioco-per-roditori-torre-per-scavare-natural-14791/p",
+        "price": {
+          "current": 15.49,
+          "original": 15.49,
+          "pricePerUnit": {
+            "value": 774.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "trixie-gioco-per-roditori-torre-per-scavare-natural-14791p",
+        "name": "Gioco per Roditori Torre per Scavare Natural",
+        "path": "/trixie-gioco-per-roditori-torre-per-scavare-natural-14791/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16928",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14792",
+    "sku": "14792",
+    "gtin": "10140516",
+    "title": "Gioco per Roditori Ponte Sospeso",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gioco-per-roditori-ponte-sospeso-14792/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267418/gioco-per-roditore-ponte-sospeso.jpg?v=637810555153800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267419/gioco-per-roditore-ponte-sospeso1.jpg?v=637810555394970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267420/gioco-per-roditore-ponte-sospeso3.jpg?v=637810555570700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267422/gioco-per-roditore-ponte-sospeso4.jpg?v=637810555894230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267423/gioco-per-roditore-ponte-sospeso5.jpg?v=637810556023500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267424/gioco-per-roditore-ponte-sospeso6.jpg?v=637810556245800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267429/gioco-per-roditore-ponte-sospeso7.jpg?v=637810557727200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267439/gioco-per-roditore-ponte-sospeso8.jpg?v=637810562499170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267440/gioco-per-roditore-ponte-sospeso9.jpg?v=637810562630470000"
+    ],
+    "price": {
+      "current": 8.35,
+      "original": 8.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 417.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14792",
+        "sku": "14792",
+        "gtin": "10140516",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-gioco-per-roditori-ponte-sospeso-14792/p",
+        "price": {
+          "current": 8.35,
+          "original": 8.35,
+          "pricePerUnit": {
+            "value": 417.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "trixie-gioco-per-roditori-ponte-sospeso-14792p",
+        "name": "Gioco per Roditori Ponte Sospeso",
+        "path": "/trixie-gioco-per-roditori-ponte-sospeso-14792/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16929",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14794",
+    "sku": "14794",
+    "gtin": "10140513",
+    "title": "Amaca da Appendere per Roditori",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-amaca-da-appendere-per-roditori-14794/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267535/amaca-da-appendere-per-roditori.jpg?v=637811162527700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267536/amaca-da-appendere-per-roditori1.jpg?v=637811162677770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267537/amaca-da-appendere-per-roditori2.jpg?v=637811162783100000"
+    ],
+    "price": {
+      "current": 6.29,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 314.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14794",
+        "sku": "14794",
+        "gtin": "10140513",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-amaca-da-appendere-per-roditori-14794/p",
+        "price": {
+          "current": 6.29,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 314.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinti",
+        "name": "Cucce e recinti",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinticucce",
+        "name": "Cucce",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/cucce/",
+        "level": 6
+      },
+      {
+        "id": "trixie-amaca-da-appendere-per-roditori-14794p",
+        "name": "Amaca da Appendere per Roditori",
+        "path": "/trixie-amaca-da-appendere-per-roditori-14794/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16931",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "14793",
+    "sku": "14793",
+    "gtin": "10140515",
+    "title": "Cuccia per Roditori in Pelliccia Morbida",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cuccia-per-roditori-in-pelliccia-morbida-14793/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267492/cuccia-per-roditori-in-pelliccia-morbida4.jpg?v=637811142333770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267494/cuccia-per-roditori-in-pelliccia-morbida5.jpg?v=637811142668200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267495/cuccia-per-roditori-in-pelliccia-morbida6.jpg?v=637811142783270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267496/cuccia-per-roditori-in-pelliccia-morbida7.jpg?v=637811142927930000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14793",
+        "sku": "14793",
+        "gtin": "10140515",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cuccia-per-roditori-in-pelliccia-morbida-14793/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinti",
+        "name": "Cucce e recinti",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinticucce",
+        "name": "Cucce",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/cucce/",
+        "level": 6
+      },
+      {
+        "id": "trixie-cuccia-per-roditori-in-pelliccia-morbida-14793p",
+        "name": "Cuccia per Roditori in Pelliccia Morbida",
+        "path": "/trixie-cuccia-per-roditori-in-pelliccia-morbida-14793/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16932",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "16472",
+    "sku": "16472",
+    "gtin": "10149461",
+    "title": "Casa Angolo Jule",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/casa-angolo-jule-16472/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286374/c9da9c0e06d490c2497a4ed4abc98d4ec173f6d9_7476527bd1833e91882d662eb9806be566238e0f--1-.jpg?v=638206159532530000"
+    ],
+    "price": {
+      "current": 22.65,
+      "original": 22.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1132.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16472",
+        "sku": "16472",
+        "gtin": "10149461",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/casa-angolo-jule-16472/p",
+        "price": {
+          "current": 22.65,
+          "original": 22.65,
+          "pricePerUnit": {
+            "value": 1132.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbienidi",
+        "name": "Nidi",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/nidi/",
+        "level": 6
+      },
+      {
+        "id": "casa-angolo-jule-16472p",
+        "name": "Casa Angolo Jule",
+        "path": "/casa-angolo-jule-16472/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18685",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "16685",
+    "sku": "16685",
+    "gtin": "10142297",
+    "title": "Tappeto per Roditori",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/tappeto-per-roditori-16685/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281050/e4b908456e08eae2871627aebd35a9696aa9872e_4bbb2fbb2da66113bef27fb4514a9efa7a1de1cf--1-.jpg?v=638124189385300000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16685",
+        "sku": "16685",
+        "gtin": "10142297",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/tappeto-per-roditori-16685/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recinti",
+        "name": "Cucce e recinti",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricucce-e-recintitappeti",
+        "name": "Tappeti",
+        "path": "/piccoli-animali/roditori/accessori/cucce-e-recinti/tappeti/",
+        "level": 6
+      },
+      {
+        "id": "tappeto-per-roditori-16685p",
+        "name": "Tappeto per Roditori",
+        "path": "/tappeto-per-roditori-16685/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18803",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "18247",
+    "sku": "18247",
+    "gtin": "10147798",
+    "title": "Anione Ripiano Angolare Nils",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ripiano-angolare-nils-18247/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286351/1fded79b108e35947ea12f2a7779a8606b9ac1d7_5790bdf2f60c910e53b456f316a0f09a5d929404--1-.jpg?v=638206137022630000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18247",
+        "sku": "18247",
+        "gtin": "10147798",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-ripiano-angolare-nils-18247/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbiealtro",
+        "name": "Altro",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/altro/",
+        "level": 6
+      },
+      {
+        "id": "anione-ripiano-angolare-nils-18247p",
+        "name": "Anione Ripiano Angolare Nils",
+        "path": "/anione-ripiano-angolare-nils-18247/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20365",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "18327",
+    "sku": "18327",
+    "gtin": "10152581",
+    "title": "Anione Ciotola per Roditori Frutta",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-per-roditori-frutta-18327/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283313/dfbdadfc5d88efea9ae9460caf2173910c8fdce0_b7407fc0183cdfbd61d5a42c02f18aecbb6a7e4a--1-.jpg?v=638162095777030000"
+    ],
+    "price": {
+      "current": 5.15,
+      "original": 5.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 257.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18327",
+        "sku": "18327",
+        "gtin": "10152581",
+        "title": "ARANCIA 250ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-per-roditori-frutta-18327/p",
+        "price": {
+          "current": 5.15,
+          "original": 5.15,
+          "pricePerUnit": {
+            "value": 257.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-per-roditori-frutta-18327p",
+        "name": "Anione Ciotola per Roditori Frutta",
+        "path": "/anione-ciotola-per-roditori-frutta-18327/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20460",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "18553",
+    "sku": "18553",
+    "gtin": "10147792",
+    "title": "Anione Pallina di Paglia per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pallina-di-paglia-per-roditori-18553/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286168/a75992b93faa924950bed0c9ab852784bee45960_299f57ce0138a3773f26e7d474398c492ce416a1--1-.jpg?v=638204347247300000"
+    ],
+    "price": {
+      "current": 4.85,
+      "original": 4.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 242.49999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18553",
+        "sku": "18553",
+        "gtin": "10147792",
+        "title": "10CM",
+        "url": "https://www.arcaplanet.it/anione-pallina-di-paglia-per-roditori-18553/p",
+        "price": {
+          "current": 4.85,
+          "original": 4.85,
+          "pricePerUnit": {
+            "value": 242.49999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.10"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "anione-pallina-di-paglia-per-roditori-18553p",
+        "name": "Anione Pallina di Paglia per Roditori",
+        "path": "/anione-pallina-di-paglia-per-roditori-18553/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20671",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "17231",
+    "sku": "17231",
+    "gtin": "10151129",
+    "title": "Anione Toilette per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-bagno-per-roditori-17231/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283308/45804301a67b8d746f4a6151b39716bd8065f6b7_3316d9829dc9b92d4bcf60a98c9ce14e7bd12185--1-.jpg?v=638162086328370000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 524.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17231",
+        "sku": "17231",
+        "gtin": "10151129",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-bagno-per-roditori-17231/p",
+        "price": {
+          "current": 10.49,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 524.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "anione-bagno-per-roditori-17231p",
+        "name": "Anione Toilette per Roditori",
+        "path": "/anione-bagno-per-roditori-17231/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21061",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "18888",
+    "sku": "18888",
+    "gtin": "10151134",
+    "title": "Beverino Roditori Vetro Misurino",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/beverino-roditori-vetro-misurino-18888/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286083/1296703_1296704_1296705.jpg?v=638203401021730000"
+    ],
+    "price": {
+      "current": 9.29,
+      "original": 9.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 464.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18888",
+        "sku": "18888",
+        "gtin": "10151134",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/beverino-roditori-vetro-misurino-18888/p",
+        "price": {
+          "current": 9.29,
+          "original": 9.29,
+          "pricePerUnit": {
+            "value": 464.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibodispenser-acqua",
+        "name": "Dispenser acqua",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/dispenser-acqua/",
+        "level": 6
+      },
+      {
+        "id": "beverino-roditori-vetro-misurino-18888p",
+        "name": "Beverino Roditori Vetro Misurino",
+        "path": "/beverino-roditori-vetro-misurino-18888/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21072",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "18367",
+    "sku": "18367",
+    "gtin": "10153782",
+    "title": "Anione Ciotola per Roditori in Ceramica",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-per-roditori-in-ceramica-18367/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285696/42ad7e0bf740ad57ab15959869ef8e11563372fc_7f4ce33aeea4b50b2785e01ab9dfa6731d796f56--1-.jpg?v=638197540613000000"
+    ],
+    "price": {
+      "current": 5.79,
+      "original": 5.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 289.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18367",
+        "sku": "18367",
+        "gtin": "10153782",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-per-roditori-in-ceramica-18367/p",
+        "price": {
+          "current": 5.79,
+          "original": 5.79,
+          "pricePerUnit": {
+            "value": 289.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "500ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibociotole",
+        "name": "Ciotole",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/ciotole/",
+        "level": 6
+      },
+      {
+        "id": "anione-ciotola-per-roditori-in-ceramica-18367p",
+        "name": "Anione Ciotola per Roditori in Ceramica",
+        "path": "/anione-ciotola-per-roditori-in-ceramica-18367/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21077",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "19178",
+    "sku": "19178",
+    "gtin": "10154259",
+    "title": "Anione Ruota per Roditori con Sughero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ruota-per-roditori-con-sughero-19178/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283320/884ecc0a16889890025515d2ad4e21c384eaa17a_2d648deab3e7e9e2c16db6b1265afe52820cfafc--1-.jpg?v=638162107642000000"
+    ],
+    "price": {
+      "current": 19.22,
+      "original": 21.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 960.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19178",
+        "sku": "19178",
+        "gtin": "10154259",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-ruota-per-roditori-con-sughero-19178/p",
+        "price": {
+          "current": 19.22,
+          "original": 21.35,
+          "pricePerUnit": {
+            "value": 960.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "anione-ruota-per-roditori-con-sughero-19178p",
+        "name": "Anione Ruota per Roditori con Sughero",
+        "path": "/anione-ruota-per-roditori-con-sughero-19178/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21296",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "19152",
+    "sku": "19152",
+    "gtin": "10149281",
+    "title": "Anione Portafieno in Metallo Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-portafieno-in-metallo-nero-19152/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283290/e2aaa4a0a9dc835e32d73d6a408536664ef59a1c_4ab16ee9c6a5479a49f65f3d1c3af4bf19f11bae--1-.jpg?v=638162018636570000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 359.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19152",
+        "sku": "19152",
+        "gtin": "10149281",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-portafieno-in-metallo-nero-19152/p",
+        "price": {
+          "current": 7.19,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 359.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "anione-portafieno-in-metallo-nero-19152p",
+        "name": "Anione Portafieno in Metallo Nero",
+        "path": "/anione-portafieno-in-metallo-nero-19152/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21301",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "19193",
+    "sku": "19193",
+    "gtin": "10149276",
+    "title": "Anione Pallina Snack per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pallina-snack-per-roditori-19193/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286173/372985aee0d836b4aadd1d0cd5a3ff573336aa0d_3b60a221029b6bda2bcf93c6066bab02acf2e135--1-.jpg?v=638204411895970000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 4.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 209.50000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19193",
+        "sku": "19193",
+        "gtin": "10149276",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-pallina-snack-per-roditori-19193/p",
+        "price": {
+          "current": 4.19,
+          "original": 4.65,
+          "pricePerUnit": {
+            "value": 209.50000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "anione-pallina-snack-per-roditori-19193p",
+        "name": "Anione Pallina Snack per Roditori",
+        "path": "/anione-pallina-snack-per-roditori-19193/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21311",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "17594",
+    "sku": "17594",
+    "gtin": "10152633",
+    "title": "Anione Casa per Roditori con Sabbia",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-casa-per-roditori-con-sabbia-17594/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283316/0b1bd4e63f732b56591695f6b84aee2edf85eda8_9438919b28e6e4af692cc8cd935ac740631e9406--1-.jpg?v=638162099873670000"
+    ],
+    "price": {
+      "current": 22.45,
+      "original": 22.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1122.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17594",
+        "sku": "17594",
+        "gtin": "10152633",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-casa-per-roditori-con-sabbia-17594/p",
+        "price": {
+          "current": 22.45,
+          "original": 22.45,
+          "pricePerUnit": {
+            "value": 1122.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigabbie",
+        "name": "Gabbie",
+        "path": "/piccoli-animali/roditori/accessori/gabbie/",
+        "level": 5
+      },
+      {
+        "id": "anione-casa-per-roditori-con-sabbia-17594p",
+        "name": "Anione Casa per Roditori con Sabbia",
+        "path": "/anione-casa-per-roditori-con-sabbia-17594/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21643",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "19534",
+    "sku": "19534",
+    "gtin": "10152660",
+    "title": "Anione Dadi per Addestramento per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-dadi-per-addestramento-per-roditori-19534/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285737/2ffa5d814b1d5c4d0fbe8b457b13135a2c3f4eba_3464b291dd9f6d864448923d9df131a1ff99426f--1-.jpg?v=638198303476930000"
+    ],
+    "price": {
+      "current": 9.95,
+      "original": 11.05,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 497.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19534",
+        "sku": "19534",
+        "gtin": "10152660",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-dadi-per-addestramento-per-roditori-19534/p",
+        "price": {
+          "current": 9.95,
+          "original": 11.05,
+          "pricePerUnit": {
+            "value": 497.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessorigiochi",
+        "name": "Giochi",
+        "path": "/piccoli-animali/roditori/accessori/giochi/",
+        "level": 5
+      },
+      {
+        "id": "anione-dadi-per-addestramento-per-roditori-19534p",
+        "name": "Anione Dadi per Addestramento per Roditori",
+        "path": "/anione-dadi-per-addestramento-per-roditori-19534/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21652",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "19551",
+    "sku": "19551",
+    "gtin": "10149856",
+    "title": "Anione Trasportino per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-trasportino-per-roditori-19551/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283362/582e1019da65f35e96bbf18e1fe70d5f6e1cbefe_27943f12b9271e7ee121761c1f1e16bed2396a1c--1-.jpg?v=638162840179570000"
+    ],
+    "price": {
+      "current": 11.69,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 584.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19551",
+        "sku": "19551",
+        "gtin": "10149856",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-trasportino-per-roditori-19551/p",
+        "price": {
+          "current": 11.69,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 584.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoritrasportini",
+        "name": "Trasportini",
+        "path": "/piccoli-animali/roditori/accessori/trasportini/",
+        "level": 5
+      },
+      {
+        "id": "anione-trasportino-per-roditori-19551p",
+        "name": "Anione Trasportino per Roditori",
+        "path": "/anione-trasportino-per-roditori-19551/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21669",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  },
+  {
+    "id": "23530",
+    "sku": "23530",
+    "gtin": "00010146",
+    "title": "Ferplast Abbeveratoio Drinky Rosso",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-abbeveratoio-drinky-rosso-23530/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297320/Ferplast-Abbeveratoio-Drinky-Rosso-00010146-1.jpg?v=638466945521130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297321/Ferplast-Abbeveratoio-Drinky-Rosso-00010146-2.jpg?v=638466945662870000"
+    ],
+    "price": {
+      "current": 3.25,
+      "original": 3.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 162.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23530",
+        "sku": "23530",
+        "gtin": "00010146",
+        "title": "75ML",
+        "url": "https://www.arcaplanet.it/ferplast-abbeveratoio-drinky-rosso-23530/p",
+        "price": {
+          "current": 3.25,
+          "original": 3.25,
+          "pricePerUnit": {
+            "value": 162.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/roditori/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibo",
+        "name": "Contenitori Cibo",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "piccoli-animaliroditoriaccessoricontenitori-cibodispenser-acqua",
+        "name": "Dispenser acqua",
+        "path": "/piccoli-animali/roditori/accessori/contenitori-cibo/dispenser-acqua/",
+        "level": 6
+      },
+      {
+        "id": "ferplast-abbeveratoio-drinky-rosso-23530p",
+        "name": "Ferplast Abbeveratoio Drinky Rosso",
+        "path": "/ferplast-abbeveratoio-drinky-rosso-23530/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25545",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:08:04.088Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/accessori/"
+  }
+]

@@ -1,0 +1,4053 @@
+[
+  {
+    "id": "1270",
+    "sku": "1270",
+    "gtin": "00032916",
+    "title": "Adaptil Calm Collare per Cane",
+    "brand": "ADAPTIL",
+    "url": "https://www.arcaplanet.it/adaptil-collare-cane-1270/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297265/Adaptil-Calm-Collare-per-Cane-00032916.jpg?v=638466112896600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297266/Adaptil-Calm-Collare-per-Cane-00032916..jpg?v=638466113073700000"
+    ],
+    "price": {
+      "current": 33.14,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1657,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1270",
+        "sku": "1270",
+        "gtin": "00032916",
+        "title": "M-L",
+        "url": "https://www.arcaplanet.it/adaptil-collare-cane-1270/p",
+        "price": {
+          "current": 33.14,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 1657,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "adaptil-collare-cane-1270p",
+        "name": "Adaptil Calm Collare per Cane",
+        "path": "/adaptil-collare-cane-1270/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "839",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "1121",
+    "sku": "1121",
+    "gtin": "10130166",
+    "title": "Perfect Hygiene Attrattivo Cuccioli",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-cane-attrattivo-cuccioli-50ml-1121/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208240/Perfect-attrattivo-per-cuccioli-50ml.jpg?v=637413969118530000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 159.79999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1121",
+        "sku": "1121",
+        "gtin": "10130166",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-cane-attrattivo-cuccioli-50ml-1121/p",
+        "price": {
+          "current": 7.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 159.79999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "perfect-hygiene-cane-attrattivo-cuccioli-50ml-1121p",
+        "name": "Perfect Hygiene Attrattivo Cuccioli",
+        "path": "/perfect-hygiene-cane-attrattivo-cuccioli-50ml-1121/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1078",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "1885",
+    "sku": "1885",
+    "gtin": "10067112",
+    "title": "Adaptil Calm Ricarica per Diffusore",
+    "brand": "ADAPTIL",
+    "url": "https://www.arcaplanet.it/adaptil-gatto-ricarica-48ml-1885/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297261/Adaptil-Calm-Ricarica-per-Diffusore-10067112.jpg?v=638466101626830000"
+    ],
+    "price": {
+      "current": 25.07,
+      "original": 29.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1253.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1885",
+        "sku": "1885",
+        "gtin": "10067112",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/adaptil-gatto-ricarica-48ml-1885/p",
+        "price": {
+          "current": 25.07,
+          "original": 29.49,
+          "pricePerUnit": {
+            "value": 1253.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "48ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "adaptil-gatto-ricarica-48ml-1885p",
+        "name": "Adaptil Calm Ricarica per Diffusore",
+        "path": "/adaptil-gatto-ricarica-48ml-1885/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1814",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "1886",
+    "sku": "1886",
+    "gtin": "10055791",
+    "title": "Candioli Forbid Mangime Complementare in Polvere",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/candioli-forbid-cane-e-gatto-50-g-1886/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313041/candioli-forbid-cane-e-gatto.jpg?v=638695251492300000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1886",
+        "sku": "1886",
+        "gtin": "10055791",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/candioli-forbid-cane-e-gatto-50-g-1886/p",
+        "price": {
+          "current": 15.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "candioli-forbid-cane-e-gatto-50-g-1886p",
+        "name": "Candioli Forbid Mangime Complementare in Polvere",
+        "path": "/candioli-forbid-cane-e-gatto-50-g-1886/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1815",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "2511",
+    "sku": "2511",
+    "gtin": "10118919",
+    "title": "Collare Elisabetta Soft Camouflage",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-collare-elisabettiano-cane-soft-camouflage-2511/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293935/Collare-Elisabetta-Soft-Camouflage-10118919.jpg?v=638411728486300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293936/Collare-Elisabetta-Soft-Camouflage-10118919..jpg?v=638411728588000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293937/Collare-Elisabetta-Soft-Camouflage-10118919.jpg?v=638411728679200000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2511",
+        "sku": "2511",
+        "gtin": "10118919",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/croci-collare-elisabettiano-cane-soft-camouflage-2511/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacollari-elisabetta",
+        "name": "Collari Elisabetta",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/collari-elisabetta/",
+        "level": 5
+      },
+      {
+        "id": "croci-collare-elisabettiano-cane-soft-camouflage-2511p",
+        "name": "Collare Elisabetta Soft Camouflage",
+        "path": "/croci-collare-elisabettiano-cane-soft-camouflage-2511/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2431",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "3480",
+    "sku": "3480",
+    "gtin": "10061380",
+    "title": "Winterpad Pomata Anti Gelo",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/cane-winterpad-50ml-3480/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278430/winterpad-50ml.jpg?v=638077276614230000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3480",
+        "sku": "3480",
+        "gtin": "10061380",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/cane-winterpad-50ml-3480/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "cane-winterpad-50ml-3480p",
+        "name": "Winterpad Pomata Anti Gelo",
+        "path": "/cane-winterpad-50ml-3480/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3386",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "3632",
+    "sku": "3632",
+    "gtin": "10063819",
+    "title": "Detergente Auricolare Epiotic Otite",
+    "brand": "VIRBAC",
+    "url": "https://www.arcaplanet.it/virbac-cane-epiotic-ml-125-120ml-3632/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259535/epiotic.jpg?v=637605696940600000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 161.46153846153845,
+        "unit": "none"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3632",
+        "sku": "3632",
+        "gtin": "10063819",
+        "title": "120ML",
+        "url": "https://www.arcaplanet.it/virbac-cane-epiotic-ml-125-120ml-3632/p",
+        "price": {
+          "current": 20.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 161.46153846153845,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "120ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "virbac-cane-epiotic-ml-125-120ml-3632p",
+        "name": "Detergente Auricolare Epiotic Otite",
+        "path": "/virbac-cane-epiotic-ml-125-120ml-3632/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3536",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "3836",
+    "sku": "3836",
+    "gtin": "10111905",
+    "title": "Body Post Operatorio per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-body-post-operatorio-3836/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227252/perfect-cane-body-post-operatorio.jpg?v=638757493816000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250800/perfect-cane-body-post-operatorio.jpg?v=638757493816000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250814/perfect-cane-body-post-operatorio.jpg?v=638757493816000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300003/Body-Post-Operatorio-per-Cane-10111905.jpg?v=638757493816000000"
+    ],
+    "price": {
+      "current": 38.9,
+      "original": 38.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1945,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3836",
+        "sku": "3836",
+        "gtin": "10111905",
+        "title": "TG.27",
+        "url": "https://www.arcaplanet.it/perfect-cane-body-post-operatorio-3836/p",
+        "price": {
+          "current": 38.9,
+          "original": 38.9,
+          "pricePerUnit": {
+            "value": 1945,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciabody-post-operatori",
+        "name": "Body Post Operatori",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/body-post-operatori/",
+        "level": 5
+      },
+      {
+        "id": "perfect-cane-body-post-operatorio-3836p",
+        "name": "Body Post Operatorio per Cane",
+        "path": "/perfect-cane-body-post-operatorio-3836/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3739",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "4085",
+    "sku": "4085",
+    "gtin": "10067359",
+    "title": "Spray Anti Accoppiamento",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-spray-anti-accoppiamento-cane-200ml-4085/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255210/camon-spray-antiaccoppiamento-200ml.jpg?v=637558869494900000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 69.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4085",
+        "sku": "4085",
+        "gtin": "10067359",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/camon-spray-anti-accoppiamento-cane-200ml-4085/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 69.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "camon-spray-anti-accoppiamento-cane-200ml-4085p",
+        "name": "Spray Anti Accoppiamento",
+        "path": "/camon-spray-anti-accoppiamento-cane-200ml-4085/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3986",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "4089",
+    "sku": "4089",
+    "gtin": "10067111",
+    "title": "Adaptil Calm Diffusore con Ricarica",
+    "brand": "ADAPTIL",
+    "url": "https://www.arcaplanet.it/adaptil-diffusore-ricarica-48ml-4089/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297262/Adaptil-Calm-Diffusore-con-Ricarica-10067111.jpg?v=638466103619230000"
+    ],
+    "price": {
+      "current": 30.59,
+      "original": 35.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1529.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4089",
+        "sku": "4089",
+        "gtin": "10067111",
+        "title": "48ML",
+        "url": "https://www.arcaplanet.it/adaptil-diffusore-ricarica-48ml-4089/p",
+        "price": {
+          "current": 30.59,
+          "original": 35.99,
+          "pricePerUnit": {
+            "value": 1529.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "48ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "adaptil-diffusore-ricarica-48ml-4089p",
+        "name": "Adaptil Calm Diffusore con Ricarica",
+        "path": "/adaptil-diffusore-ricarica-48ml-4089/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3990",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "4225",
+    "sku": "4225",
+    "gtin": "00010064",
+    "title": "Clorexyderm Oto",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/clorexyderm-cane-oto-4225/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304658/Clorexyderm-Oto-00010064-1.jpg?v=638575822404730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304659/Clorexyderm-Oto-00010064-2.jpg?v=638575822500530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304660/Clorexyderm-Oto-00010064-3.jpg?v=638575822592100000"
+    ],
+    "price": {
+      "current": 19.49,
+      "original": 19.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 129.93333333333334,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4225",
+        "sku": "4225",
+        "gtin": "00010064",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/clorexyderm-cane-oto-4225/p",
+        "price": {
+          "current": 19.49,
+          "original": 19.49,
+          "pricePerUnit": {
+            "value": 129.93333333333334,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "clorexyderm-cane-oto-4225p",
+        "name": "Clorexyderm Oto",
+        "path": "/clorexyderm-cane-oto-4225/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4120",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "4862",
+    "sku": "4862",
+    "gtin": "00000647",
+    "title": "Ribes Pet Shampoo/Balsamo",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/nbf-ribes-pet-cane-shampoo-balsamo-200ml-4862/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265652/61U1XlPwzhL._AC_SL1000_--1-.jpg?v=637734486071800000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 29.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4862",
+        "sku": "4862",
+        "gtin": "00000647",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/nbf-ribes-pet-cane-shampoo-balsamo-200ml-4862/p",
+        "price": {
+          "current": 24.99,
+          "original": 29.49,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "nbf-ribes-pet-cane-shampoo-balsamo-200ml-4862p",
+        "name": "Ribes Pet Shampoo/Balsamo",
+        "path": "/nbf-ribes-pet-cane-shampoo-balsamo-200ml-4862/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4743",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "5044",
+    "sku": "5044",
+    "gtin": "10077408",
+    "title": "Zylkene Rilassante Mangime Complementare 450mg",
+    "brand": "ZYLKENE",
+    "url": "https://www.arcaplanet.it/zylkene-cane-20-compresse-450mg-5044/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270396/zylkene-cane-450g.jpg?v=637847622566500000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 37.49038461538461,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5044",
+        "sku": "5044",
+        "gtin": "10077408",
+        "title": "450MG",
+        "url": "https://www.arcaplanet.it/zylkene-cane-20-compresse-450mg-5044/p",
+        "price": {
+          "current": 38.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 37.49038461538461,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "zylkene-cane-20-compresse-450mg-5044p",
+        "name": "Zylkene Rilassante Mangime Complementare 450mg",
+        "path": "/zylkene-cane-20-compresse-450mg-5044/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4923",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "5133",
+    "sku": "5133",
+    "gtin": "10108437",
+    "title": "Copriorecchie per Cane Nero",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-cane-copriorecchie-nero-cm-16x33-5133/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265859/camon-copriorecchie-per-cane-nero.jpg?v=637743752206600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265860/camon-copriorecchie-per-cane-nero-pack.jpg?v=637743752314270000"
+    ],
+    "price": {
+      "current": 16.5,
+      "original": 16.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 825,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5133",
+        "sku": "5133",
+        "gtin": "10108437",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-cane-copriorecchie-nero-cm-16x33-5133/p",
+        "price": {
+          "current": 16.5,
+          "original": 16.5,
+          "pricePerUnit": {
+            "value": 825,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "camon-cane-copriorecchie-nero-cm-16x33-5133p",
+        "name": "Copriorecchie per Cane Nero",
+        "path": "/camon-cane-copriorecchie-nero-cm-16x33-5133/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5012",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "5070",
+    "sku": "5070",
+    "gtin": "10108575",
+    "title": "Tutore Neck Black eco Antileccamento",
+    "brand": "BALTO",
+    "url": "https://www.arcaplanet.it/balto-tutore-bt-cane-neck-black-eco-antileccamento-5070/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/224656/balto-tutore-bt-cane-neck-black-eco-antileccamento.jpg?v=637454744790200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/242656/balto-tutore-bt-cane-neck-black-eco-antileccamento.jpg?v=637455000104000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259514/balto-tutore-neck-black-antileccamento-gatto.jpg?v=637605574295600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259516/balto-tutore-neck-black-eco-antileccamento-istruzioni.jpg?v=637605574489300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259541/balto-tutore-antileccamento-istruzioni.jpg?v=637605709614900000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 36.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5070",
+        "sku": "5070",
+        "gtin": "10108575",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/balto-tutore-bt-cane-neck-black-eco-antileccamento-5070/p",
+        "price": {
+          "current": 34.99,
+          "original": 36.9,
+          "pricePerUnit": {
+            "value": 1749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacollari-elisabetta",
+        "name": "Collari Elisabetta",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/collari-elisabetta/",
+        "level": 5
+      },
+      {
+        "id": "balto-tutore-bt-cane-neck-black-eco-antileccamento-5070p",
+        "name": "Tutore Neck Black eco Antileccamento",
+        "path": "/balto-tutore-bt-cane-neck-black-eco-antileccamento-5070/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6174",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "6814",
+    "sku": "6814",
+    "gtin": "10108582",
+    "title": "Tutore Balto Up Sospensore Posteriore",
+    "brand": "BALTO",
+    "url": "https://www.arcaplanet.it/balto-tutore-bt-cane-up-sospensore-posteriore-manig-l-6814/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259534/balto-sospensore-posteriore-maniglia-cane.jpg?v=637605696604800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/224663/balto-tutore-bt-cane-up-sospensore-posteriore-manig.jpg?v=637454744854970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259533/balto-sospensore-posteriore-maniglia-istruzioni-cane.jpg?v=637605695736600000"
+    ],
+    "price": {
+      "current": 110.99,
+      "original": 116.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6814",
+        "sku": "6814",
+        "gtin": "10108582",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/balto-tutore-bt-cane-up-sospensore-posteriore-manig-l-6814/p",
+        "price": {
+          "current": 110.99,
+          "original": 116.8,
+          "pricePerUnit": {
+            "value": 5549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciatutori",
+        "name": "Tutori",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/tutori/",
+        "level": 5
+      },
+      {
+        "id": "balto-tutore-bt-cane-up-sospensore-posteriore-manig-l-6814p",
+        "name": "Tutore Balto Up Sospensore Posteriore",
+        "path": "/balto-tutore-bt-cane-up-sospensore-posteriore-manig-l-6814/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6655",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "989",
+    "sku": "989",
+    "gtin": "00036268",
+    "title": "Otodine Cane e Gatto",
+    "brand": "OTODINE",
+    "url": "https://www.arcaplanet.it/otodine-cane-989/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221253/otodine-cane.jpg?v=637454709345830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231185/otodine-cane.jpg?v=637454836235530000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 229.89999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "989",
+        "sku": "989",
+        "gtin": "00036268",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/otodine-cane-989/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 229.89999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/gatto/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "otodine-cane-989p",
+        "name": "Otodine Cane e Gatto",
+        "path": "/otodine-cane-989/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9384",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "1946",
+    "sku": "1946",
+    "gtin": "00010085",
+    "title": "LENIDERM Spuma",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/leniderm-cane-spuna-1946/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221245/leniderm-cane-spuna.jpg?v=637454709256630000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 109.94999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1946",
+        "sku": "1946",
+        "gtin": "00010085",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/leniderm-cane-spuna-1946/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 109.94999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "leniderm-cane-spuna-1946p",
+        "name": "LENIDERM Spuma",
+        "path": "/leniderm-cane-spuna-1946/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9396",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "3617",
+    "sku": "3617",
+    "gtin": "00010086",
+    "title": "Leniderm Shampoo Cane e Gatto",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/leniderm-cane-shampoo-3617/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221246/leniderm-cane-shampoo.jpg?v=637454709271400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231183/leniderm-cane-shampoo.jpg?v=637454836221470000"
+    ],
+    "price": {
+      "current": 22.49,
+      "original": 22.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3617",
+        "sku": "3617",
+        "gtin": "00010086",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/leniderm-cane-shampoo-3617/p",
+        "price": {
+          "current": 22.49,
+          "original": 22.49,
+          "pricePerUnit": {
+            "value": 89.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "leniderm-cane-shampoo-3617p",
+        "name": "Leniderm Shampoo Cane e Gatto",
+        "path": "/leniderm-cane-shampoo-3617/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9407",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "4473",
+    "sku": "4473",
+    "gtin": "00000909",
+    "title": "Korrector Seda Alimento Complementare per Cane e Gatto",
+    "brand": "KORRECTOR",
+    "url": "https://www.arcaplanet.it/korrector-cane-seda-4473/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220449/korrector-cane-seda.jpg?v=637454700798200000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4473",
+        "sku": "4473",
+        "gtin": "00000909",
+        "title": "160ML",
+        "url": "https://www.arcaplanet.it/korrector-cane-seda-4473/p",
+        "price": {
+          "current": 21.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "160ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "korrector-cane-seda-4473p",
+        "name": "Korrector Seda Alimento Complementare per Cane e Gatto",
+        "path": "/korrector-cane-seda-4473/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9413",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "9789",
+    "sku": "9789",
+    "gtin": "10065273",
+    "title": "Leniderm Salviette Pocket",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/leniderm-cane-salviette-pocket-15-strappi-9789/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304692/Leniderm-Salviette-Pocket--10065273.jpg?v=638575991903700000"
+    ],
+    "price": {
+      "current": 5.69,
+      "original": 5.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 284.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9789",
+        "sku": "9789",
+        "gtin": "10065273",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/leniderm-cane-salviette-pocket-15-strappi-9789/p",
+        "price": {
+          "current": 5.69,
+          "original": 5.69,
+          "pricePerUnit": {
+            "value": 284.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "leniderm-cane-salviette-pocket-15-strappi-9789p",
+        "name": "Leniderm Salviette Pocket",
+        "path": "/leniderm-cane-salviette-pocket-15-strappi-9789/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9578",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "12324",
+    "sku": "12324",
+    "gtin": "10110155",
+    "title": "Detergente Orecchie Bio",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-bio-detergente-orecchie-ml-100-12324/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280118/thumbnail_EXE-PERFECT_linea-Bio_Detergente-Orecchie.jpg?v=638114490734370000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12324",
+        "sku": "12324",
+        "gtin": "10110155",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/perfect-bio-detergente-orecchie-ml-100-12324/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "perfect-bio-detergente-orecchie-ml-100-12324p",
+        "name": "Detergente Orecchie Bio",
+        "path": "/perfect-bio-detergente-orecchie-ml-100-12324/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13734",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "14179",
+    "sku": "14179",
+    "gtin": "10139995",
+    "title": "Balsamo Polpastrelli del Cane",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-balsamo-polpastelli-del-cane-50ml-14179/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264776/lovedi-balsamo-polpastrelli-50ml.jpg?v=637721621948870000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14179",
+        "sku": "14179",
+        "gtin": "10139995",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/lovedi-balsamo-polpastelli-del-cane-50ml-14179/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-balsamo-polpastelli-del-cane-50ml-14179p",
+        "name": "Balsamo Polpastrelli del Cane",
+        "path": "/lovedi-balsamo-polpastelli-del-cane-50ml-14179/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16316",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "14348",
+    "sku": "14348",
+    "gtin": "10140168",
+    "title": "Relaxigen Pet Mini Cane e Gatto",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/relaxigen-pet-mini-cane-e-gatto-14348/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266435/10140168-relaxigen-pet-mini-20-compresse.jpg?v=637767994953000000"
+    ],
+    "price": {
+      "current": 20.4,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1019.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14348",
+        "sku": "14348",
+        "gtin": "10140168",
+        "title": "20 CP",
+        "url": "https://www.arcaplanet.it/relaxigen-pet-mini-cane-e-gatto-14348/p",
+        "price": {
+          "current": 20.4,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1019.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "relaxigen-pet-mini-cane-e-gatto-14348p",
+        "name": "Relaxigen Pet Mini Cane e Gatto",
+        "path": "/relaxigen-pet-mini-cane-e-gatto-14348/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16485",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "14367",
+    "sku": "14367",
+    "gtin": "10109643",
+    "title": "Otoact Detergente Auricolare",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/otoact-100-ml-14367/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304693/Otoact-Detergente-Auricolare-10109643-1.jpg?v=638575996180070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304694/Otoact-Detergente-Auricolare-10109643-2.jpg?v=638575996255830000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 164.89999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14367",
+        "sku": "14367",
+        "gtin": "10109643",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/otoact-100-ml-14367/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 164.89999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "otoact-100-ml-14367p",
+        "name": "Otoact Detergente Auricolare",
+        "path": "/otoact-100-ml-14367/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16504",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "14840",
+    "sku": "14840",
+    "gtin": "10113144",
+    "title": "Scarpetta Protezione Zampe Cane Walker",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267378/scarpetta-protezione-zampe-cane-walker.jpg?v=637810516054200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267379/scarpetta-protezione-zampe-cane-walker1.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267380/scarpetta-protezione-zampe-cane-walker2.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267381/scarpetta-protezione-zampe-cane-walker3.jpg?v=638762474684370000"
+    ],
+    "price": {
+      "current": 11.3,
+      "original": 11.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 565,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14840",
+        "sku": "14840",
+        "gtin": "10113144",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "price": {
+          "current": 11.3,
+          "original": 11.3,
+          "pricePerUnit": {
+            "value": 565,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "trixe-scarpetta-protezione-zampe-cane-walker-14840p",
+        "name": "Scarpetta Protezione Zampe Cane Walker",
+        "path": "/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16979",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15075",
+    "sku": "15075",
+    "gtin": "10140802",
+    "title": "Purina Pro Plan Supplement Skin & Coat per Cani",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-pro-plan-supplement-skin-coat-per-cani-15075/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273173/purina-pro-plan-supplement-skin-coat-per-cani.jpg?v=637922014800800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273174/purina-pro-plan-supplement-skin-coat---per-cani.jpg?v=637922014998100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273175/purina-pro-plan-supplement-skin-coat-per-cani-benefici.jpg?v=637922015185900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273176/purina-pro-plan-supplement-skin-coat-per-cani-gustoso.jpg?v=637922015562500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273177/purina-pro-plan-supplement-skin-coat-per-cani-sviluppato-da-esperti.jpg?v=637922015708170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273178/purina-pro-plan-supplement-skin-coat-per-cani-ingredienti.jpg?v=637922015869170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273179/purina-pro-plan-supplement-skin-coat-per-cani-dosaggio.jpg?v=637922015975370000"
+    ],
+    "price": {
+      "current": 20.9,
+      "original": 20.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 83.6,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15075",
+        "sku": "15075",
+        "gtin": "10140802",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/purina-pro-plan-supplement-skin-coat-per-cani-15075/p",
+        "price": {
+          "current": 20.9,
+          "original": 20.9,
+          "pricePerUnit": {
+            "value": 83.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "purina-pro-plan-supplement-skin-coat-per-cani-15075p",
+        "name": "Purina Pro Plan Supplement Skin & Coat per Cani",
+        "path": "/purina-pro-plan-supplement-skin-coat-per-cani-15075/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17212",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15299",
+    "sku": "15299",
+    "gtin": "10108350",
+    "title": "Actea Oto Gocce Auricolari",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/actea-oral-gel-stomatologico-protettivo-15299/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306983/actea-oto-gocce-auricolari-10108350.jpg?v=638628753610500000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 17,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15299",
+        "sku": "15299",
+        "gtin": "10108350",
+        "title": "15ML",
+        "url": "https://www.arcaplanet.it/actea-oral-gel-stomatologico-protettivo-15299/p",
+        "price": {
+          "current": 16.99,
+          "original": 17,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "15ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "actea-oral-gel-stomatologico-protettivo-15299p",
+        "name": "Actea Oto Gocce Auricolari",
+        "path": "/actea-oral-gel-stomatologico-protettivo-15299/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15300",
+    "sku": "15300",
+    "gtin": "10120674",
+    "title": "Allerpet Elite Deallerg Ca Gat 350 ML",
+    "brand": "PET VILLAGE",
+    "url": "https://www.arcaplanet.it/allerpet-elite-deallerg-ca-gat-350-ml-15300/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272762/ALLERPET-ELITE-DEALLERG-CA-GAT-355-ML.jpg?v=637910691588830000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 26.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 3
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15300",
+        "sku": "15300",
+        "gtin": "10120674",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/allerpet-elite-deallerg-ca-gat-350-ml-15300/p",
+        "price": {
+          "current": 25.99,
+          "original": 26.9,
+          "pricePerUnit": {
+            "value": 1299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "allerpet-elite-deallerg-ca-gat-350-ml-15300p",
+        "name": "Allerpet Elite Deallerg Ca Gat 350 ML",
+        "path": "/allerpet-elite-deallerg-ca-gat-350-ml-15300/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15304",
+    "sku": "15304",
+    "gtin": "10091609",
+    "title": "Clorexyderm Shampoo 4 Per Cento",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/clorexyderm-shampoo-4-250ml--15304/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304698/Clorexyderm-Shampoo-4--10091609-1.jpg?v=638576049333200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304699/Clorexyderm-Shampoo-4--10091609-2.jpg?v=638772131340370000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 103.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15304",
+        "sku": "15304",
+        "gtin": "10091609",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/clorexyderm-shampoo-4-250ml--15304/p",
+        "price": {
+          "current": 25.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 103.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "clorexyderm-shampoo-4-250ml--15304p",
+        "name": "Clorexyderm Shampoo 4 Per Cento",
+        "path": "/clorexyderm-shampoo-4-250ml--15304/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17441",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15305",
+    "sku": "15305",
+    "gtin": "00010070",
+    "title": "Clorexyderm Soluzione Schiumosa",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/clorexyderm-soluzione-schiumosa-200ml-15305/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272782/CLOREXYDERM-SOLUZIONE-SCHIUMOSA-ML.200.jpg?v=637913148096300000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 109.94999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15305",
+        "sku": "15305",
+        "gtin": "00010070",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/clorexyderm-soluzione-schiumosa-200ml-15305/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 109.94999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "clorexyderm-soluzione-schiumosa-200ml-15305p",
+        "name": "Clorexyderm Soluzione Schiumosa",
+        "path": "/clorexyderm-soluzione-schiumosa-200ml-15305/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17442",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15316",
+    "sku": "15316",
+    "gtin": "00031182",
+    "title": "Neoxide Detergente Auricolare 100ML",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/neoxide-detergente-auricolare-100ml-15316/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272836/NEOXIDE-DETERGENTE-AURICOLARE-ML.100.jpg?v=637913941051830000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 15.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15316",
+        "sku": "15316",
+        "gtin": "00031182",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/neoxide-detergente-auricolare-100ml-15316/p",
+        "price": {
+          "current": 13.99,
+          "original": 15.5,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciaorecchie",
+        "name": "Orecchie",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/orecchie/",
+        "level": 5
+      },
+      {
+        "id": "neoxide-detergente-auricolare-100ml-15316p",
+        "name": "Neoxide Detergente Auricolare 100ML",
+        "path": "/neoxide-detergente-auricolare-100ml-15316/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17453",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15321",
+    "sku": "15321",
+    "gtin": "10069736",
+    "title": "Ribes Pet Ultra Shampoo-Balsamo  200ML",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/ribes-pet-ultra-shampoo-balsamo-200ml--15321/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272844/RIBES-PET-ULTRA-SHAMPOO-BALSAMO--200ML-.jpg?v=637913963652870000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15321",
+        "sku": "15321",
+        "gtin": "10069736",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/ribes-pet-ultra-shampoo-balsamo-200ml--15321/p",
+        "price": {
+          "current": 24.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "ribes-pet-ultra-shampoo-balsamo-200ml--15321p",
+        "name": "Ribes Pet Ultra Shampoo-Balsamo  200ML",
+        "path": "/ribes-pet-ultra-shampoo-balsamo-200ml--15321/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17458",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15323",
+    "sku": "15323",
+    "gtin": "10109646",
+    "title": "Zincoseb Shampoo",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/zincoseb-shampoo-250ml-15323/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304700/Zincoseb-Shampoo-250-ML-10109646.jpg?v=638576068880030000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 91.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15323",
+        "sku": "15323",
+        "gtin": "10109646",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/zincoseb-shampoo-250ml-15323/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 91.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciamanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/manto-e-cute/",
+        "level": 5
+      },
+      {
+        "id": "zincoseb-shampoo-250ml-15323p",
+        "name": "Zincoseb Shampoo",
+        "path": "/zincoseb-shampoo-250ml-15323/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17460",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15330",
+    "sku": "15330",
+    "gtin": "10130174",
+    "title": "Disabituante per Cuccioli e Gattini da Interno",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-disabituante-per-cuccioli-e-gattini-da-interno-15330/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273064/perfect-disabituante-interni-cuccioli-e-gattini.jpg?v=637919994189200000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.986666666666666,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15330",
+        "sku": "15330",
+        "gtin": "10130174",
+        "title": "750 ML",
+        "url": "https://www.arcaplanet.it/perfect-disabituante-per-cuccioli-e-gattini-da-interno-15330/p",
+        "price": {
+          "current": 8.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 11.986666666666666,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "750ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "perfect-disabituante-per-cuccioli-e-gattini-da-interno-15330p",
+        "name": "Disabituante per Cuccioli e Gattini da Interno",
+        "path": "/perfect-disabituante-per-cuccioli-e-gattini-da-interno-15330/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17467",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15334",
+    "sku": "15334",
+    "gtin": "10130175",
+    "title": "Disabituante da Esterno",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-disabituante-per-cani-e-gatti-da-esterno-15334/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273067/perfect-disabituante-esterno-cane-e-gatto.jpg?v=637919999528400000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.32,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15334",
+        "sku": "15334",
+        "gtin": "10130175",
+        "title": "750 ML",
+        "url": "https://www.arcaplanet.it/perfect-disabituante-per-cani-e-gatti-da-esterno-15334/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 13.32,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "750ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "perfect-disabituante-per-cani-e-gatti-da-esterno-15334p",
+        "name": "Disabituante da Esterno",
+        "path": "/perfect-disabituante-per-cani-e-gatti-da-esterno-15334/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17471",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15335",
+    "sku": "15335",
+    "gtin": "10130172",
+    "title": "Disabituante per Cani da Interno",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-disabituante-per-cani-da-interno-15335/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273060/perfect-disabituante-interni-cane.jpg?v=637919975759130000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.32,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15335",
+        "sku": "15335",
+        "gtin": "10130172",
+        "title": "750 ML",
+        "url": "https://www.arcaplanet.it/perfect-disabituante-per-cani-da-interno-15335/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 13.32,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "750ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "perfect-disabituante-per-cani-da-interno-15335p",
+        "name": "Disabituante per Cani da Interno",
+        "path": "/perfect-disabituante-per-cani-da-interno-15335/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17472",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "15371",
+    "sku": "15371",
+    "gtin": "10139549",
+    "title": "Lovedì Disabituante Spray",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-disabituante-spray-15371/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272678/LOVEDI-DISABITUANTE-SPRAY-ML.350--1-.jpg?v=637907927740700000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15371",
+        "sku": "15371",
+        "gtin": "10139549",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/lovedi-disabituante-spray-15371/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacomportamentali",
+        "name": "Comportamentali",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-disabituante-spray-15371p",
+        "name": "Lovedì Disabituante Spray",
+        "path": "/lovedi-disabituante-spray-15371/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17508",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "22720",
+    "sku": "22720",
+    "gtin": "10170296",
+    "title": "Oculvet Gocce 10ML",
+    "brand": "INNOVET",
+    "url": "https://www.arcaplanet.it/oculvet-gocce-10ml-22720/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295547/Oculvet-Gocce-10-ML-10170296.jpg?v=638441194618400000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22720",
+        "sku": "22720",
+        "gtin": "10170296",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/oculvet-gocce-10ml-22720/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "oculvet-gocce-10ml-22720p",
+        "name": "Oculvet Gocce 10ML",
+        "path": "/oculvet-gocce-10ml-22720/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24740",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  },
+  {
+    "id": "23519",
+    "sku": "23519",
+    "gtin": "10173521",
+    "title": "Pet Health Collare Elisabettiano",
+    "brand": "PETZ HEALTH",
+    "url": "https://www.arcaplanet.it/pet-health-collare-elisabettiano--23519/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297325/pet-health-collare-elisabettiano-10173521.jpg?v=638467008561770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297326/pet-health-collare-elisabettiano-presentazione-10173521.jpg?v=638467008639830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297327/tabella-dimensioni-10173521.jpg?v=638467008787730000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 359.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23519",
+        "sku": "23519",
+        "gtin": "10173521",
+        "title": "10CM",
+        "url": "https://www.arcaplanet.it/pet-health-collare-elisabettiano--23519/p",
+        "price": {
+          "current": 7.19,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 359.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmaciacollari-elisabetta",
+        "name": "Collari Elisabetta",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/collari-elisabetta/",
+        "level": 5
+      },
+      {
+        "id": "pet-health-collare-elisabettiano--23519p",
+        "name": "Pet Health Collare Elisabettiano",
+        "path": "/pet-health-collare-elisabettiano--23519/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25530",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:49:42.597Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/parafarmacia/"
+  }
+]

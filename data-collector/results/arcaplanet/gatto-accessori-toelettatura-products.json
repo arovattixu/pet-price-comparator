@@ -1,0 +1,2228 @@
+[
+  {
+    "id": "2219",
+    "sku": "2219",
+    "gtin": "10129088",
+    "title": "Tagliaunghie con Lima",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-tagliaunghie-con-lima-gatto-2219/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261554/10129088-PERFECT-GROOMING-TAGLIAUNGHIE-CAT.jpg?v=637637658322300000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2219",
+        "sku": "2219",
+        "gtin": "10129088",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/perfect-grooming-tagliaunghie-con-lima-gatto-2219/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/gatto/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-tagliaunghie-con-lima-gatto-2219p",
+        "name": "Tagliaunghie con Lima",
+        "path": "/perfect-grooming-tagliaunghie-con-lima-gatto-2219/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2142",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "3755",
+    "sku": "3755",
+    "gtin": "10130011",
+    "title": "Spazzola Adesiva Antizanzare 60 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254393/lovedi-spazzola-adesiva-antizanzare-60-strati-cane.jpg?v=637550221850500000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 345,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3755",
+        "sku": "3755",
+        "gtin": "10130011",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/gatto/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755p",
+        "name": "Spazzola Adesiva Antizanzare 60 Strappi",
+        "path": "/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3658",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "3756",
+    "sku": "3756",
+    "gtin": "10130013",
+    "title": "Spazzola Adesiva 40 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-per-cane-40-strappi-3756/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254394/lovedi-spazzola-adesiva-per-cane-60-strappi.jpg?v=637550227107900000"
+    ],
+    "price": {
+      "current": 5.8,
+      "original": 5.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 290,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3756",
+        "sku": "3756",
+        "gtin": "10130013",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-per-cane-40-strappi-3756/p",
+        "price": {
+          "current": 5.8,
+          "original": 5.8,
+          "pricePerUnit": {
+            "value": 290,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/gatto/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-per-cane-40-strappi-3756p",
+        "name": "Spazzola Adesiva 40 Strappi",
+        "path": "/lovedi-spazzola-adesiva-per-cane-40-strappi-3756/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3659",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "3757",
+    "sku": "3757",
+    "gtin": "10130012",
+    "title": "Lovedì Spazzola Adesiva per Gatto 40 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-per-gatto-40-strappi-3757/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254611/lovedi-spazzola-adesiva-per-gatto-60-strappi.jpg?v=637552900849600000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3757",
+        "sku": "3757",
+        "gtin": "10130012",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-per-gatto-40-strappi-3757/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/gatto/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-per-gatto-40-strappi-3757p",
+        "name": "Lovedì Spazzola Adesiva per Gatto 40 Strappi",
+        "path": "/lovedi-spazzola-adesiva-per-gatto-40-strappi-3757/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3660",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "2786",
+    "sku": "2786",
+    "gtin": "10074368",
+    "title": "Furminator per Gatti a Pelo Corto",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-gatto-a-pelo-corto-tg-piccola-2786/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296955/furminator-gatto-a-pelo-corto-tg-piccola-10074368.jpg?v=638457728900670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296956/furminator-gatto-a-pelo-corto-tg-piccola-10074368--2-.jpg?v=638457728992570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296958/furminator-gatto-a-pelo-corto-tg-piccola-10074368--1-.jpg?v=638457729113700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296960/furminator-gatto-a-pelo-corto-tg-piccola-10074368--3-.jpg?v=638457729201470000"
+    ],
+    "price": {
+      "current": 24.14,
+      "original": 34.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1207,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2786",
+        "sku": "2786",
+        "gtin": "10074368",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/furminator-gatto-a-pelo-corto-tg-piccola-2786/p",
+        "price": {
+          "current": 24.14,
+          "original": 34.49,
+          "pricePerUnit": {
+            "value": 1207,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "furminator-gatto-a-pelo-corto-tg-piccola-2786p",
+        "name": "Furminator per Gatti a Pelo Corto",
+        "path": "/furminator-gatto-a-pelo-corto-tg-piccola-2786/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5287",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "4312",
+    "sku": "4312",
+    "gtin": "10061308",
+    "title": "Furminator per Gatti a Pelo Lungo",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-gatto-a-pelo-lungo-4312/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296967/furminator-gatto-a-pelo-corto-tg-piccola-10074368.jpg?v=638457733302200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296968/furminator-gatto-a-pelo-corto-tg-piccola-10074368--2-.jpg?v=638457733395670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296969/furminator-gatto-a-pelo-corto-tg-piccola-10074368--1-.jpg?v=638457733530830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296970/furminator-gatto-a-pelo-corto-tg-piccola-10074368--3-.jpg?v=638457733621500000"
+    ],
+    "price": {
+      "current": 24.14,
+      "original": 34.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1207,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4312",
+        "sku": "4312",
+        "gtin": "10061308",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/furminator-gatto-a-pelo-lungo-4312/p",
+        "price": {
+          "current": 24.14,
+          "original": 34.49,
+          "pricePerUnit": {
+            "value": 1207,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "furminator-gatto-a-pelo-lungo-4312p",
+        "name": "Furminator per Gatti a Pelo Lungo",
+        "path": "/furminator-gatto-a-pelo-lungo-4312/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5288",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "517",
+    "sku": "517",
+    "gtin": "10129082",
+    "title": "Perfect Grooming Spazzola Universale Gatto",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-spazzola-universale-cat-517/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280374/Perfect-Grooming-Spazzola-per-gatti.jpg?v=638115345094770000"
+    ],
+    "price": {
+      "current": 15.9,
+      "original": 15.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 795,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "517",
+        "sku": "517",
+        "gtin": "10129082",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/perfect-grooming-spazzola-universale-cat-517/p",
+        "price": {
+          "current": 15.9,
+          "original": 15.9,
+          "pricePerUnit": {
+            "value": 795,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-spazzola-universale-cat-517p",
+        "name": "Perfect Grooming Spazzola Universale Gatto",
+        "path": "/perfect-grooming-spazzola-universale-cat-517/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14612",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "17446",
+    "sku": "17446",
+    "gtin": "10153496",
+    "title": "Take Care Rimuovi Peli Hygiene",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-rimuovi-peli-17446/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318295/take-care-rimuovi-peli-10153496 -3-.jpg.jpg?v=638769405651270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318296/take-care-rimuovi-peli-10153496 -1-.jpg.jpg?v=638769405651400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318297/take-care-rimuovi-peli-10153496 -2-.jpg.jpg?v=638769405651400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318298/take-care-rimuovi-peli-10153496 -5-.jpg.jpg?v=638769405651400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318299/take-care-rimuovi-peli-10153496 -6-.jpg.jpg?v=638769405651400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318300/take-care-rimuovi-peli-10153496 -4-.jpg.jpg?v=638769405651400000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17446",
+        "sku": "17446",
+        "gtin": "10153496",
+        "title": "GRIGIO",
+        "url": "https://www.arcaplanet.it/take-care-rimuovi-peli-17446/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA",
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "take-care-rimuovi-peli-17446p",
+        "name": "Take Care Rimuovi Peli Hygiene",
+        "path": "/take-care-rimuovi-peli-17446/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19564",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "19299",
+    "sku": "19299",
+    "gtin": "10153498",
+    "title": "Take Care Spazzola di Gomma 2in1",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-di-gomma-2in1-19299/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318302/aa7139c0dc19d287dac82f3cdae086d86229ae67_30bf47f1adc8d5b66361113ff8bcea296cbb4beb--1-.jpg?v=638769409877830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318303/take-care-spazzola-di-gomma-2in1-10153498.webp.webp?v=638769409878000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318304/343c8868d699b160cda70dca031130702e078cb0_b12961e9a9f968550a08cec0ff3bb388bad23caf--1-.jpg?v=638769409878000000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19299",
+        "sku": "19299",
+        "gtin": "10153498",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-di-gomma-2in1-19299/p",
+        "price": {
+          "current": 9.99,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-di-gomma-2in1-19299p",
+        "name": "Take Care Spazzola di Gomma 2in1",
+        "path": "/take-care-spazzola-di-gomma-2in1-19299/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21417",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20673",
+    "sku": "20673",
+    "gtin": "10166242",
+    "title": "Tagliaunghie per Gatto Brigitte",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tagliaunghie-per-gatti-brigitte-20673/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280562/lovedi-tagliaunghie-per-gatti-brigitte-s.jpg?v=638115496620600000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20673",
+        "sku": "20673",
+        "gtin": "10166242",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/lovedi-tagliaunghie-per-gatti-brigitte-20673/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/gatto/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-tagliaunghie-per-gatti-brigitte-20673p",
+        "name": "Tagliaunghie per Gatto Brigitte",
+        "path": "/lovedi-tagliaunghie-per-gatti-brigitte-20673/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22791",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20674",
+    "sku": "20674",
+    "gtin": "10166241",
+    "title": "Lovedi Pettine Fine Brigitte Gatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pettine-fine-brigitte-gatto-20674/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280573/23.01.2023---Brosserie-Arcaplanet--5-.jpg?v=638115511463870000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20674",
+        "sku": "20674",
+        "gtin": "10166241",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/lovedi-pettine-fine-brigitte-gatto-20674/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pettine-fine-brigitte-gatto-20674p",
+        "name": "Lovedi Pettine Fine Brigitte Gatto",
+        "path": "/lovedi-pettine-fine-brigitte-gatto-20674/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20675",
+    "sku": "20675",
+    "gtin": "10166240",
+    "title": "Lovedi Pettine Pulci Brigitte Gatto Tondo",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pettine-pulci-brigitte-gatto-tondo-20675/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282192/Brigitte-pettine-pulci.jpg?v=638133688720970000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20675",
+        "sku": "20675",
+        "gtin": "10166240",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-pettine-pulci-brigitte-gatto-tondo-20675/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-pettine-pulci-brigitte-gatto-tondo-20675p",
+        "name": "Lovedi Pettine Pulci Brigitte Gatto Tondo",
+        "path": "/lovedi-pettine-pulci-brigitte-gatto-tondo-20675/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22793",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20676",
+    "sku": "20676",
+    "gtin": "10166239",
+    "title": "Lovedi Spazzola Brigitte Gatto In Gomma",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-in-gomma-20676/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282188/spazzola-toeletta-gomma.jpg?v=638133682974170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282189/spazzola-toeletta-gomma-4.jpg?v=638133683046600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282190/spazzola-toeletta-gomma-3.jpg?v=638133683131670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282191/spazzola-toeletta-gomma-2.jpg?v=638133683218730000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20676",
+        "sku": "20676",
+        "gtin": "10166239",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-in-gomma-20676/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-brigitte-gatto-in-gomma-20676p",
+        "name": "Lovedi Spazzola Brigitte Gatto In Gomma",
+        "path": "/lovedi-spazzola-brigitte-gatto-in-gomma-20676/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22794",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20677",
+    "sku": "20677",
+    "gtin": "10166238",
+    "title": "Lovedi Spazzola Brigitte Gatto Morbida",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280567/23.01.2023---Brosserie-Arcaplanet--7-.jpg?v=638115505727200000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20677",
+        "sku": "20677",
+        "gtin": "10166238",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-brigitte-gatto-morbida-20677p",
+        "name": "Lovedi Spazzola Brigitte Gatto Morbida",
+        "path": "/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22795",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20678",
+    "sku": "20678",
+    "gtin": "10166237",
+    "title": "Lovedi Spazzola Slanatore Brigitte Gatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-slanatore-brigitte-gatto-20678/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280582/23.01.2023---Brosserie-Arcaplanet--6-.jpg?v=638115547821200000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20678",
+        "sku": "20678",
+        "gtin": "10166237",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-slanatore-brigitte-gatto-20678/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-slanatore-brigitte-gatto-20678p",
+        "name": "Lovedi Spazzola Slanatore Brigitte Gatto",
+        "path": "/lovedi-spazzola-slanatore-brigitte-gatto-20678/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22797",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20680",
+    "sku": "20680",
+    "gtin": "10166235",
+    "title": "Lovedi Cardatore Brigitte Gatto Morbido",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cardatore-brigitte-gatto-morbido-20680/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280561/23.01.2023---Brosserie-Arcaplanet--14-.jpg?v=638115492430100000"
+    ],
+    "price": {
+      "current": 15.49,
+      "original": 15.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 774.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20680",
+        "sku": "20680",
+        "gtin": "10166235",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/lovedi-cardatore-brigitte-gatto-morbido-20680/p",
+        "price": {
+          "current": 15.49,
+          "original": 15.49,
+          "pricePerUnit": {
+            "value": 774.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/gatto/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-cardatore-brigitte-gatto-morbido-20680p",
+        "name": "Lovedi Cardatore Brigitte Gatto Morbido",
+        "path": "/lovedi-cardatore-brigitte-gatto-morbido-20680/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22799",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20683",
+    "sku": "20683",
+    "gtin": "10166232",
+    "title": "Cardatore per Gatto Brigitte",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cardatore-per-gatto-brigitte-20683/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280553/lovedi-cardatore-per-gatto-brigitte-s.jpg?v=638115472591930000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 474.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20683",
+        "sku": "20683",
+        "gtin": "10166232",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/lovedi-cardatore-per-gatto-brigitte-20683/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.49,
+          "pricePerUnit": {
+            "value": 474.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/gatto/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-cardatore-per-gatto-brigitte-20683p",
+        "name": "Cardatore per Gatto Brigitte",
+        "path": "/lovedi-cardatore-per-gatto-brigitte-20683/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22801",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "20684",
+    "sku": "20684",
+    "gtin": "10166231",
+    "title": "Lovedi Guanto Baby Collection",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-guanto-baby-collection-20684/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280568/23.01.2023---Brosserie-Arcaplanet--2-.jpg?v=638115508132500000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20684",
+        "sku": "20684",
+        "gtin": "10166231",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/lovedi-guanto-baby-collection-20684/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-guanto-baby-collection-20684p",
+        "name": "Lovedi Guanto Baby Collection",
+        "path": "/lovedi-guanto-baby-collection-20684/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22802",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "23939",
+    "sku": "23939",
+    "gtin": "10173990",
+    "title": "Lovedì Taglia Unghie Cactus 3 in 1 con Luce Led",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led--23939/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311453/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--1-.jpg?v=638678814161400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311454/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--2-.jpg?v=638678814251500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311455/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--3-.jpg?v=638678814338370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311456/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--4-.jpg?v=638678814690700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311457/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--5-.jpg?v=638678814797670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311458/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--6-.jpg?v=638678814901730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311459/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--7-.jpg?v=638678815010100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311460/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--8-.jpg?v=638678815128270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311461/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--9-.jpg?v=638678815247130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311462/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--10-.jpg?v=638678815352330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311463/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--11-.jpg?v=638678815454100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311464/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--12-.jpg?v=638678815555800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311465/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led-10173990--13-.jpg?v=638678815664130000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23939",
+        "sku": "23939",
+        "gtin": "10173990",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led--23939/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/gatto/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-taglia-unghie-cactus-3-in-1-con-luce-led--23939p",
+        "name": "Lovedì Taglia Unghie Cactus 3 in 1 con Luce Led",
+        "path": "/lovedi-taglia-unghie-cactus-3-in-1-con-luce-led--23939/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25950",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "23940",
+    "sku": "23940",
+    "gtin": "10173989",
+    "title": "Lovedì Taglia Unghie Avocado con Luce Led",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-taglia-unghie-avocado-con-luce-led--23940/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311466/lovedi-taglia-unghie-avocado-con-luce-led-10173989--1-.jpg?v=638678822418070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311467/lovedi-taglia-unghie-avocado-con-luce-led-10173989--2-.jpg?v=638678822509600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311468/lovedi-taglia-unghie-avocado-con-luce-led-10173989--3-.jpg?v=638678822593830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311469/lovedi-taglia-unghie-avocado-con-luce-led-10173989--4-.jpg?v=638678822918000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311470/lovedi-taglia-unghie-avocado-con-luce-led-10173989--7-.jpg?v=638678823086470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311471/lovedi-taglia-unghie-avocado-con-luce-led-10173989--8-.jpg?v=638678823192400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311472/lovedi-taglia-unghie-avocado-con-luce-led-10173989--9-.jpg?v=638678823322370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311473/lovedi-taglia-unghie-avocado-con-luce-led-10173989--10-.jpg?v=638678823426300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311474/lovedi-taglia-unghie-avocado-con-luce-led-10173989--11-.jpg?v=638678823519500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311475/lovedi-taglia-unghie-avocado-con-luce-led-10173989--12-.jpg?v=638678823624500000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23940",
+        "sku": "23940",
+        "gtin": "10173989",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-taglia-unghie-avocado-con-luce-led--23940/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/gatto/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-taglia-unghie-avocado-con-luce-led--23940p",
+        "name": "Lovedì Taglia Unghie Avocado con Luce Led",
+        "path": "/lovedi-taglia-unghie-avocado-con-luce-led--23940/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25951",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  },
+  {
+    "id": "23941",
+    "sku": "23941",
+    "gtin": "10173988",
+    "title": "Lovedì Grooming Guanto Leva Pelo del Gatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-grooming-guanto-leva-pelo-del-gatto-23941/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313784/Lovedi-Grooming-Guanto-Leva-Pelo-del-Gatto-10173988-1.jpg?v=638712504580470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313785/Lovedi-Grooming-Guanto-Leva-Pelo-del-Gatto-10173988-2.jpg?v=638712504684930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313786/Lovedi-Grooming-Guanto-Leva-Pelo-del-Gatto-10173988-3.jpg?v=638712504803430000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 674.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23941",
+        "sku": "23941",
+        "gtin": "10173988",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-grooming-guanto-leva-pelo-del-gatto-23941/p",
+        "price": {
+          "current": 13.49,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 674.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-grooming-guanto-leva-pelo-del-gatto-23941p",
+        "name": "Lovedì Grooming Guanto Leva Pelo del Gatto",
+        "path": "/lovedi-grooming-guanto-leva-pelo-del-gatto-23941/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25952",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:49:32.920Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/toelettatura/"
+  }
+]

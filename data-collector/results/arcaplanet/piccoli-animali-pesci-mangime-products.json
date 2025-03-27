@@ -1,0 +1,3742 @@
+[
+  {
+    "id": "998",
+    "sku": "998",
+    "gtin": "10109100",
+    "title": "Expecial Mangime Pesci Rossi Granuli",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-pesci-rossi-mangime-granuli-40g-998/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227009/expecial-pesci-rossi-mangime-granuli.jpg?v=637454788826870000"
+    ],
+    "price": {
+      "current": 3.7,
+      "original": 3.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 92.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "998",
+        "sku": "998",
+        "gtin": "10109100",
+        "title": "40G",
+        "url": "https://www.arcaplanet.it/expecial-pesci-rossi-mangime-granuli-40g-998/p",
+        "price": {
+          "current": 3.7,
+          "original": 3.7,
+          "pricePerUnit": {
+            "value": 92.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "40G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-pesci-rossi-mangime-granuli-40g-998p",
+        "name": "Expecial Mangime Pesci Rossi Granuli",
+        "path": "/expecial-pesci-rossi-mangime-granuli-40g-998/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "956",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "1503",
+    "sku": "1503",
+    "gtin": "10109101",
+    "title": "Expecial Mangime Pesci Rossi Fiocchi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-pesci-rossi-mangime-fiocchi-1503/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225106/expecial-pesci-rossi-mangime-fiocchi.jpg?v=637454749500900000"
+    ],
+    "price": {
+      "current": 3.95,
+      "original": 3.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 65.83333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1503",
+        "sku": "1503",
+        "gtin": "10109101",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/expecial-pesci-rossi-mangime-fiocchi-1503/p",
+        "price": {
+          "current": 3.95,
+          "original": 3.95,
+          "pricePerUnit": {
+            "value": 65.83333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-pesci-rossi-mangime-fiocchi-1503p",
+        "name": "Expecial Mangime Pesci Rossi Fiocchi",
+        "path": "/expecial-pesci-rossi-mangime-fiocchi-1503/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1457",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "5435",
+    "sku": "5435",
+    "gtin": "10109099",
+    "title": "Expecial Pesci da Laghetto Bastoncini",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-pesci-laghetto-bastoncini-300g-5435/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225113/expecial-pesci-laghetto-bastoncini.jpg?v=637454749552670000"
+    ],
+    "price": {
+      "current": 8.5,
+      "original": 8.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.333333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5435",
+        "sku": "5435",
+        "gtin": "10109099",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/expecial-pesci-laghetto-bastoncini-300g-5435/p",
+        "price": {
+          "current": 8.5,
+          "original": 8.5,
+          "pricePerUnit": {
+            "value": 28.333333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-pesci-laghetto-bastoncini-300g-5435p",
+        "name": "Expecial Pesci da Laghetto Bastoncini",
+        "path": "/expecial-pesci-laghetto-bastoncini-300g-5435/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5299",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "10895",
+    "sku": "10895",
+    "gtin": "10118951",
+    "title": "Amtra Pro Gran",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-pro-gran-1-5-ml-250-10895/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258001/8188937_1.jpg?v=637589160460470000"
+    ],
+    "price": {
+      "current": 4.86,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.44,
+        "unit": "KG"
+      },
+      "discountPercentage": 51
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10895",
+        "sku": "10895",
+        "gtin": "10118951",
+        "title": "250 ML",
+        "url": "https://www.arcaplanet.it/amtra-pro-gran-1-5-ml-250-10895/p",
+        "price": {
+          "current": 4.86,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 19.44,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-pro-gran-1-5-ml-250-10895p",
+        "name": "Amtra Pro Gran",
+        "path": "/amtra-pro-gran-1-5-ml-250-10895/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10489",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "11405",
+    "sku": "11405",
+    "gtin": "10118947",
+    "title": "Amtra Pro Vegetal Tabs",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-pro-vegetal-tabs-ml-100-11405/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258490/amtra-pro-vegetal-tabs.jpg?v=637596006117330000"
+    ],
+    "price": {
+      "current": 5.31,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 53.099999999999994,
+        "unit": "KG"
+      },
+      "discountPercentage": 41
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11405",
+        "sku": "11405",
+        "gtin": "10118947",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/amtra-pro-vegetal-tabs-ml-100-11405/p",
+        "price": {
+          "current": 5.31,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 53.099999999999994,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-pro-vegetal-tabs-ml-100-11405p",
+        "name": "Amtra Pro Vegetal Tabs",
+        "path": "/amtra-pro-vegetal-tabs-ml-100-11405/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10999",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "11407",
+    "sku": "11407",
+    "gtin": "10118949",
+    "title": "Amtra Pro Flake 100ml",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-pro-flake-ml-100-11407/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258814/amtra-pro-flake-100-ml.jpg?v=637599445243000000"
+    ],
+    "price": {
+      "current": 1.76,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.599999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11407",
+        "sku": "11407",
+        "gtin": "10118949",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/amtra-pro-flake-ml-100-11407/p",
+        "price": {
+          "current": 1.76,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 17.599999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-pro-flake-ml-100-11407p",
+        "name": "Amtra Pro Flake 100ml",
+        "path": "/amtra-pro-flake-ml-100-11407/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11001",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "11408",
+    "sku": "11408",
+    "gtin": "10118950",
+    "title": "Mangime per Pesci Pro Gran",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-mangime-per-pesci-pro-gran-11408/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271700/croci-pro-gran-mangime.jpg?v=637880248232670000"
+    ],
+    "price": {
+      "current": 2.61,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.099999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 52
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11408",
+        "sku": "11408",
+        "gtin": "10118950",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/amtra-mangime-per-pesci-pro-gran-11408/p",
+        "price": {
+          "current": 2.61,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 26.099999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-mangime-per-pesci-pro-gran-11408p",
+        "name": "Mangime per Pesci Pro Gran",
+        "path": "/amtra-mangime-per-pesci-pro-gran-11408/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11002",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "11713",
+    "sku": "11713",
+    "gtin": "00008756",
+    "title": "Aqua Tropical",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/aqua-tropical-gr-200-11713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222204/aqua-tropical-gr-200.jpg?v=637454719575930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/233476/aqua-tropical-gr-200.jpg?v=637454861245170000"
+    ],
+    "price": {
+      "current": 8.33,
+      "original": 11.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 41.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11713",
+        "sku": "11713",
+        "gtin": "00008756",
+        "title": "200G",
+        "url": "https://www.arcaplanet.it/aqua-tropical-gr-200-11713/p",
+        "price": {
+          "current": 8.33,
+          "original": 11.9,
+          "pricePerUnit": {
+            "value": 41.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "200G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "aqua-tropical-gr-200-11713p",
+        "name": "Aqua Tropical",
+        "path": "/aqua-tropical-gr-200-11713/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11741",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "11778",
+    "sku": "11778",
+    "gtin": "00034827",
+    "title": "Aqua Pond Granuli",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/aqua-pond-granul-gr350-l1-pz-11778/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/233477/aqua-pond-granul-gr350-l1-pz.jpg?v=637454861252870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222205/aqua-pond-granul-gr350-l1-pz.jpg?v=637454719583600000"
+    ],
+    "price": {
+      "current": 5.1,
+      "original": 7.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.571428571428571,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11778",
+        "sku": "11778",
+        "gtin": "00034827",
+        "title": "350G",
+        "url": "https://www.arcaplanet.it/aqua-pond-granul-gr350-l1-pz-11778/p",
+        "price": {
+          "current": 5.1,
+          "original": 7.29,
+          "pricePerUnit": {
+            "value": 14.571428571428571,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "350G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "aqua-pond-granul-gr350-l1-pz-11778p",
+        "name": "Aqua Pond Granuli",
+        "path": "/aqua-pond-granul-gr350-l1-pz-11778/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11804",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12034",
+    "sku": "12034",
+    "gtin": "00004431",
+    "title": "Tetra Pro Crisps",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetrapro-crisps-18-gr-100-ml-12034/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254475/Tetra-Pro-Crisps.jpg?v=637551970311900000"
+    ],
+    "price": {
+      "current": 2.65,
+      "original": 3.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 132.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12034",
+        "sku": "12034",
+        "gtin": "00004431",
+        "title": "18G",
+        "url": "https://www.arcaplanet.it/tetrapro-crisps-18-gr-100-ml-12034/p",
+        "price": {
+          "current": 2.65,
+          "original": 3.79,
+          "pricePerUnit": {
+            "value": 132.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "18G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetrapro-crisps-18-gr-100-ml-12034p",
+        "name": "Tetra Pro Crisps",
+        "path": "/tetrapro-crisps-18-gr-100-ml-12034/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13389",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12694",
+    "sku": "12694",
+    "gtin": "10138687",
+    "title": "Fiocchi per Pesci Rossi",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-fiocchi-per-pesci-rossi-12694/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258048/next-pesci-rossi-fiocchi.jpg?v=637590012799600000"
+    ],
+    "price": {
+      "current": 2.75,
+      "original": 2.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 55,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12694",
+        "sku": "12694",
+        "gtin": "10138687",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/next-fiocchi-per-pesci-rossi-12694/p",
+        "price": {
+          "current": 2.75,
+          "original": 2.75,
+          "pricePerUnit": {
+            "value": 55,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "next-fiocchi-per-pesci-rossi-12694p",
+        "name": "Fiocchi per Pesci Rossi",
+        "path": "/next-fiocchi-per-pesci-rossi-12694/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14830",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12696",
+    "sku": "12696",
+    "gtin": "10138689",
+    "title": "Granuli per Pesci Rossi",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-granuli-per-pesci-rossi-12696/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258037/next-pesci-rossi-granuli.jpg?v=637589990308400000"
+    ],
+    "price": {
+      "current": 2.35,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 47,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12696",
+        "sku": "12696",
+        "gtin": "10138689",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/next-granuli-per-pesci-rossi-12696/p",
+        "price": {
+          "current": 2.35,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 47,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "next-granuli-per-pesci-rossi-12696p",
+        "name": "Granuli per Pesci Rossi",
+        "path": "/next-granuli-per-pesci-rossi-12696/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14832",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12699",
+    "sku": "12699",
+    "gtin": "10138692",
+    "title": "Fiocchi per Pesci Tropicali",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-fiocchi-pesci-tropicali-50gr-12699/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258082/next-pesci-tropicali-fiocchi-50gr.jpg?v=637592537056870000"
+    ],
+    "price": {
+      "current": 3.1,
+      "original": 3.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 62,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12699",
+        "sku": "12699",
+        "gtin": "10138692",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/next-fiocchi-pesci-tropicali-50gr-12699/p",
+        "price": {
+          "current": 3.1,
+          "original": 3.1,
+          "pricePerUnit": {
+            "value": 62,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "next-fiocchi-pesci-tropicali-50gr-12699p",
+        "name": "Fiocchi per Pesci Tropicali",
+        "path": "/next-fiocchi-pesci-tropicali-50gr-12699/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14835",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12939",
+    "sku": "12939",
+    "gtin": "10131106",
+    "title": "Amtra Pro Weekend",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-pro-weekend-9-g-12939/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258834/amtra-pro-weekend-9-g.jpg?v=637599545599800000"
+    ],
+    "price": {
+      "current": 0.81,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 40.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 59
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12939",
+        "sku": "12939",
+        "gtin": "10131106",
+        "title": "9G",
+        "url": "https://www.arcaplanet.it/amtra-pro-weekend-9-g-12939/p",
+        "price": {
+          "current": 0.81,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 40.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "9G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-pro-weekend-9-g-12939p",
+        "name": "Amtra Pro Weekend",
+        "path": "/amtra-pro-weekend-9-g-12939/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15076",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "12941",
+    "sku": "12941",
+    "gtin": "10131119",
+    "title": "Amtra Pro Soft Stick 250ml",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-pro-soft-stick-250ml-12941/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258826/amtra-pro-soft-stick-250-ml.jpg?v=637599476139430000"
+    ],
+    "price": {
+      "current": 3.24,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.96,
+        "unit": "KG"
+      },
+      "discountPercentage": 59
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12941",
+        "sku": "12941",
+        "gtin": "10131119",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/amtra-pro-soft-stick-250ml-12941/p",
+        "price": {
+          "current": 3.24,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 12.96,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-pro-soft-stick-250ml-12941p",
+        "name": "Amtra Pro Soft Stick 250ml",
+        "path": "/amtra-pro-soft-stick-250ml-12941/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15078",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "14346",
+    "sku": "14346",
+    "gtin": "00004425",
+    "title": "Tetramin Granuli per Pesci Tropicali",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetramin-granuli-per-pesci-tropicali-14346/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265786/tetramin-granules-mangime-per-pesci.jpg?v=637739452056330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265848/tetramin-granuli-per-pesci-tropicali-dimensioni.jpg?v=637741262721200000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 55.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14346",
+        "sku": "14346",
+        "gtin": "00004425",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/tetramin-granuli-per-pesci-tropicali-14346/p",
+        "price": {
+          "current": 5.59,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 55.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetramin-granuli-per-pesci-tropicali-14346p",
+        "name": "Tetramin Granuli per Pesci Tropicali",
+        "path": "/tetramin-granuli-per-pesci-tropicali-14346/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16483",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15425",
+    "sku": "15425",
+    "gtin": "00004424",
+    "title": "Mangime per Pesci in Fiocchi",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-in-fiocchi-15425/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317249/Screenshot-2025-02-25-150222_risultato.jpg.jpg?v=638760856742600000"
+    ],
+    "price": {
+      "current": 8.11,
+      "original": 11.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.22,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15425",
+        "sku": "15425",
+        "gtin": "00004424",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-in-fiocchi-15425/p",
+        "price": {
+          "current": 8.11,
+          "original": 11.59,
+          "pricePerUnit": {
+            "value": 16.22,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "500ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-per-pesci-in-fiocchi-15425p",
+        "name": "Mangime per Pesci in Fiocchi",
+        "path": "/tetra-mangime-per-pesci-in-fiocchi-15425/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17562",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15428",
+    "sku": "15428",
+    "gtin": "00004456",
+    "title": "Mangime per Pesci Discus in Granuli",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-pesci-discus-in-granuli-15428/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272706/tetra-discus-granules.jpg?v=637909599968130000"
+    ],
+    "price": {
+      "current": 7.13,
+      "original": 10.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.52,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15428",
+        "sku": "15428",
+        "gtin": "00004456",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/tetra-mangime-pesci-discus-in-granuli-15428/p",
+        "price": {
+          "current": 7.13,
+          "original": 10.19,
+          "pricePerUnit": {
+            "value": 28.52,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-pesci-discus-in-granuli-15428p",
+        "name": "Mangime per Pesci Discus in Granuli",
+        "path": "/tetra-mangime-pesci-discus-in-granuli-15428/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17565",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15429",
+    "sku": "15429",
+    "gtin": "00004461",
+    "title": "Tetra Plecomin 35GR",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-plecomin-35gr-15429/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272743/TETRA-PLECOMIN-34-GR_200-TAV..jpg?v=637910516427270000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 139.66666666666669,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15429",
+        "sku": "15429",
+        "gtin": "00004461",
+        "title": "35G",
+        "url": "https://www.arcaplanet.it/tetra-plecomin-35gr-15429/p",
+        "price": {
+          "current": 4.19,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 139.66666666666669,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "35G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-plecomin-35gr-15429p",
+        "name": "Tetra Plecomin 35GR",
+        "path": "/tetra-plecomin-35gr-15429/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17566",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15430",
+    "sku": "15430",
+    "gtin": "00004468",
+    "title": "Tetra Animin Gold Color 100ML",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-animin-gold-color-100ml-15430/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272717/TETRA-ANIMIN-GOLD-COLOUR-30-GR_100-ML.jpg?v=637909705173000000"
+    ],
+    "price": {
+      "current": 1.71,
+      "original": 2.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 57,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15430",
+        "sku": "15430",
+        "gtin": "00004468",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-animin-gold-color-100ml-15430/p",
+        "price": {
+          "current": 1.71,
+          "original": 2.45,
+          "pricePerUnit": {
+            "value": 57,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-animin-gold-color-100ml-15430p",
+        "name": "Tetra Animin Gold Color 100ML",
+        "path": "/tetra-animin-gold-color-100ml-15430/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17567",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15431",
+    "sku": "15431",
+    "gtin": "00004472",
+    "title": "Mangime per Pesci Tropicali Baby",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-tropicali-baby-15431/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272712/tetra-min-baby.jpg?v=637909654174500000"
+    ],
+    "price": {
+      "current": 3.33,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 47.57142857142857,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15431",
+        "sku": "15431",
+        "gtin": "00004472",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-tropicali-baby-15431/p",
+        "price": {
+          "current": 3.33,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 47.57142857142857,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "30G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-per-pesci-tropicali-baby-15431p",
+        "name": "Mangime per Pesci Tropicali Baby",
+        "path": "/tetra-mangime-per-pesci-tropicali-baby-15431/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17568",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15433",
+    "sku": "15433",
+    "gtin": "00023697",
+    "title": "Tetra Animin Holiday Block 2X12 GR",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-animin-holiday-block-2x12-gr-15433/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310899/Tetra-Animin-Holiday-Block-2X12-GR-4004218158764--00023697_result.jpg?v=638676120916400000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 157,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15433",
+        "sku": "15433",
+        "gtin": "00023697",
+        "title": "2X12 GR",
+        "url": "https://www.arcaplanet.it/tetra-animin-holiday-block-2x12-gr-15433/p",
+        "price": {
+          "current": 3.14,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 157,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-animin-holiday-block-2x12-gr-15433p",
+        "name": "Tetra Animin Holiday Block 2X12 GR",
+        "path": "/tetra-animin-holiday-block-2x12-gr-15433/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17570",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15435",
+    "sku": "15435",
+    "gtin": "00031421",
+    "title": "Mangime Holiday per Pesci",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-holiday-per-pesci-15435/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272710/tetraholiday-.jpg?v=637909628046570000"
+    ],
+    "price": {
+      "current": 3.33,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 111,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15435",
+        "sku": "15435",
+        "gtin": "00031421",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/tetra-mangime-holiday-per-pesci-15435/p",
+        "price": {
+          "current": 3.33,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 111,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "30G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-holiday-per-pesci-15435p",
+        "name": "Mangime Holiday per Pesci",
+        "path": "/tetra-mangime-holiday-per-pesci-15435/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17572",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15436",
+    "sku": "15436",
+    "gtin": "10015745",
+    "title": "Tetra Gold Fish Pro ML.100",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-gold-fish-pro-ml-100--15436/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272729/TETRA-GOLD-FISH-PRO-ML.100-PZ12.jpg?v=637910478203500000"
+    ],
+    "price": {
+      "current": 1.71,
+      "original": 2.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.099999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15436",
+        "sku": "15436",
+        "gtin": "10015745",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-gold-fish-pro-ml-100--15436/p",
+        "price": {
+          "current": 1.71,
+          "original": 2.45,
+          "pricePerUnit": {
+            "value": 17.099999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-gold-fish-pro-ml-100--15436p",
+        "name": "Tetra Gold Fish Pro ML.100",
+        "path": "/tetra-gold-fish-pro-ml-100--15436/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17573",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15437",
+    "sku": "15437",
+    "gtin": "10022621",
+    "title": "Mangime per Pesci in Wafer",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-in-wafer-15437/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272748/tetra-wafer-mix.jpg?v=637910556852700000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 41.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15437",
+        "sku": "15437",
+        "gtin": "10022621",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-in-wafer-15437/p",
+        "price": {
+          "current": 4.19,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 41.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-per-pesci-in-wafer-15437p",
+        "name": "Mangime per Pesci in Wafer",
+        "path": "/tetra-mangime-per-pesci-in-wafer-15437/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17574",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15442",
+    "sku": "15442",
+    "gtin": "10029432",
+    "title": "Tetra Pond Color  1 L",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-pond-color--1l-15442/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272747/TETRA-POND-COLOR-L.1.jpg?v=637910554051770000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.14,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15442",
+        "sku": "15442",
+        "gtin": "10029432",
+        "title": "1L",
+        "url": "https://www.arcaplanet.it/tetra-pond-color--1l-15442/p",
+        "price": {
+          "current": 3.14,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 3.14,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-pond-color--1l-15442p",
+        "name": "Tetra Pond Color  1 L",
+        "path": "/tetra-pond-color--1l-15442/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17579",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15444",
+    "sku": "15444",
+    "gtin": "10032420",
+    "title": "Tetra Animin Granules 100ML",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-animin-granules-100ml-15444/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277899/tetra-anim-granules-300g.jpg?v=638055063828770000"
+    ],
+    "price": {
+      "current": 1.6,
+      "original": 2.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15444",
+        "sku": "15444",
+        "gtin": "10032420",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-animin-granules-100ml-15444/p",
+        "price": {
+          "current": 1.6,
+          "original": 2.29,
+          "pricePerUnit": {
+            "value": 16,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-animin-granules-100ml-15444p",
+        "name": "Tetra Animin Granules 100ML",
+        "path": "/tetra-animin-granules-100ml-15444/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17581",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15445",
+    "sku": "15445",
+    "gtin": "10045607",
+    "title": "Reptomin Menu 250 ML.",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/reptomin-menu-250ml-15445/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272705/REPTOMIN-MENU-ML.250-PZ48.jpg?v=637908925731030000"
+    ],
+    "price": {
+      "current": 4.87,
+      "original": 6.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.48,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15445",
+        "sku": "15445",
+        "gtin": "10045607",
+        "title": "250 ML",
+        "url": "https://www.arcaplanet.it/reptomin-menu-250ml-15445/p",
+        "price": {
+          "current": 4.87,
+          "original": 6.95,
+          "pricePerUnit": {
+            "value": 19.48,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "reptomin-menu-250ml-15445p",
+        "name": "Reptomin Menu 250 ML.",
+        "path": "/reptomin-menu-250ml-15445/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17582",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "15446",
+    "sku": "15446",
+    "gtin": "10055031",
+    "title": "Mangime per Pesci Delicato",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-delicato-15446/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272745/tetra-pro-energy-multi-crips.jpg?v=637910521700200000"
+    ],
+    "price": {
+      "current": 6.29,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.16,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15446",
+        "sku": "15446",
+        "gtin": "10055031",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/tetra-mangime-per-pesci-delicato-15446/p",
+        "price": {
+          "current": 6.29,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 25.16,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-per-pesci-delicato-15446p",
+        "name": "Mangime per Pesci Delicato",
+        "path": "/tetra-mangime-per-pesci-delicato-15446/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17583",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "16818",
+    "sku": "16818",
+    "gtin": "10141470",
+    "title": "Fit+Fun Stick per Pesci da Laghetto",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-fun-stick-per-pesci-da-laghetto-16818/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283388/fit-fun-stick-per-pesci-da-laghetto-7l.jpg?v=638163636982900000"
+    ],
+    "price": {
+      "current": 5.94,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 297,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16818",
+        "sku": "16818",
+        "gtin": "10141470",
+        "title": "7L",
+        "url": "https://www.arcaplanet.it/fit-fun-stick-per-pesci-da-laghetto-16818/p",
+        "price": {
+          "current": 5.94,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 297,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "7L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "fit-fun-stick-per-pesci-da-laghetto-16818p",
+        "name": "Fit+Fun Stick per Pesci da Laghetto",
+        "path": "/fit-fun-stick-per-pesci-da-laghetto-16818/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18936",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "17090",
+    "sku": "17090",
+    "gtin": "10152371",
+    "title": "Fit and Fun Mangime per Pesci Bastoncini Mix",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-bastoncini-mix-17090/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284769/01029c5dce52c9b0d866b8272ac1222000e5f46a_f3e99033a9485444a320b13b92aba1e091118248--1-.jpg?v=638187044008830000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.532467532467533,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17090",
+        "sku": "17090",
+        "gtin": "10152371",
+        "title": "770G",
+        "url": "https://www.arcaplanet.it/fit-and-fun-bastoncini-mix-17090/p",
+        "price": {
+          "current": 3.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 4.532467532467533,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "750G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-bastoncini-mix-17090p",
+        "name": "Fit and Fun Mangime per Pesci Bastoncini Mix",
+        "path": "/fit-and-fun-bastoncini-mix-17090/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19208",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "17368",
+    "sku": "17368",
+    "gtin": "10141999",
+    "title": "MultiFit Nutrimix per Pesci da Laghetto",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-nutrimix-per-pesci-da-laghetto-17368/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283373/86202f81022f46075919a7209d56015fc5f9007f_f838ad0a591009d1e7aa9064f508437a0049ac8d--1-.jpg?v=638162886995200000"
+    ],
+    "price": {
+      "current": 3.25,
+      "original": 4.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17368",
+        "sku": "17368",
+        "gtin": "10141999",
+        "title": "1LT",
+        "url": "https://www.arcaplanet.it/multifit-nutrimix-per-pesci-da-laghetto-17368/p",
+        "price": {
+          "current": 3.25,
+          "original": 4.65,
+          "pricePerUnit": {
+            "value": 3.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-nutrimix-per-pesci-da-laghetto-17368p",
+        "name": "MultiFit Nutrimix per Pesci da Laghetto",
+        "path": "/multifit-nutrimix-per-pesci-da-laghetto-17368/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "17844",
+    "sku": "17844",
+    "gtin": "10141463",
+    "title": "Fit and Fun Stick per Pesci da Laghetto",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-stick-per-pesci-da-laghetto-17844/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284767/d5075c9b251c40d8f986cae2f833a8aa69f2fa8e_3ab8bd51164d3021c5e0f13a8b689a341f191553--1-.jpg?v=638187030340330000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.5245,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17844",
+        "sku": "17844",
+        "gtin": "10141463",
+        "title": "20LT",
+        "url": "https://www.arcaplanet.it/fit-and-fun-stick-per-pesci-da-laghetto-17844/p",
+        "price": {
+          "current": 10.49,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 0.5245,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "20L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-stick-per-pesci-da-laghetto-17844p",
+        "name": "Fit and Fun Stick per Pesci da Laghetto",
+        "path": "/fit-and-fun-stick-per-pesci-da-laghetto-17844/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19962",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "17277",
+    "sku": "17277",
+    "gtin": "10153403",
+    "title": "MultiFit Ghiaia Colorata 5KG",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-ghiaia-colorata-5kg-17277/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284848/b35466346fe1d6b95c3861a142340f3c32440e5a_3c614bfb9a41c72f2ca61b7ba2df83e738d08724--1-.jpg?v=638188052393730000"
+    ],
+    "price": {
+      "current": 5.85,
+      "original": 8.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 292.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17277",
+        "sku": "17277",
+        "gtin": "10153403",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/multifit-ghiaia-colorata-5kg-17277/p",
+        "price": {
+          "current": 5.85,
+          "original": 8.35,
+          "pricePerUnit": {
+            "value": 292.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-ghiaia-colorata-5kg-17277p",
+        "name": "MultiFit Ghiaia Colorata 5KG",
+        "path": "/multifit-ghiaia-colorata-5kg-17277/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20294",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "17279",
+    "sku": "17279",
+    "gtin": "10153411",
+    "title": "MultiFit Sabbia Nera",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-nera-17279/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282706/5af244bef701b7b23b2ef348c2d9959d9910e3b1_8f0013eaa009e7792f1523ca8783caac0f580eb1--1-.jpg?v=638152599953030000"
+    ],
+    "price": {
+      "current": 11.89,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.189,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17279",
+        "sku": "17279",
+        "gtin": "10153411",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-nera-17279/p",
+        "price": {
+          "current": 11.89,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 1.189,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sabbia-nera-17279p",
+        "name": "MultiFit Sabbia Nera",
+        "path": "/multifit-sabbia-nera-17279/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20298",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "18707",
+    "sku": "18707",
+    "gtin": "10145929",
+    "title": "More For Fish Mangime Per Gamberetti Macao 60G",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/mangime-more-per-gamberetti-macao-18707/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283303/mangime-more-per-gamberetti-macao-60g.jpg?v=638162039938770000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 8.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.83333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18707",
+        "sku": "18707",
+        "gtin": "10145929",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/mangime-more-per-gamberetti-macao-18707/p",
+        "price": {
+          "current": 5.99,
+          "original": 8.55,
+          "pricePerUnit": {
+            "value": 99.83333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "mangime-more-per-gamberetti-macao-18707p",
+        "name": "More For Fish Mangime Per Gamberetti Macao 60G",
+        "path": "/mangime-more-per-gamberetti-macao-18707/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20825",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "18721",
+    "sku": "18721",
+    "gtin": "10145938",
+    "title": "More For Fish Food Mahanadi",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/mangime-more-colorante-per-pesci-mahanadi-18721/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283294/mangime-more-colorante-per-pesci-mahanadi-60g.jpg?v=638162025306800000"
+    ],
+    "price": {
+      "current": 5.29,
+      "original": 7.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 88.16666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18721",
+        "sku": "18721",
+        "gtin": "10145938",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/mangime-more-colorante-per-pesci-mahanadi-18721/p",
+        "price": {
+          "current": 5.29,
+          "original": 7.55,
+          "pricePerUnit": {
+            "value": 88.16666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "mangime-more-colorante-per-pesci-mahanadi-18721p",
+        "name": "More For Fish Food Mahanadi",
+        "path": "/mangime-more-colorante-per-pesci-mahanadi-18721/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20839",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "18722",
+    "sku": "18722",
+    "gtin": "10145936",
+    "title": "Mangime per Pesci More Rio Orinoco Fiocchi",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/10145936-18722/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283279/mangime-per-pesci-more-rio-orinoco-fiocchi-30g.jpg?v=638161996971170000"
+    ],
+    "price": {
+      "current": 4.61,
+      "original": 6.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 153.66666666666669,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18722",
+        "sku": "18722",
+        "gtin": "10145936",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/10145936-18722/p",
+        "price": {
+          "current": 4.61,
+          "original": 6.59,
+          "pricePerUnit": {
+            "value": 153.66666666666669,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "30G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "10145936-18722p",
+        "name": "Mangime per Pesci More Rio Orinoco Fiocchi",
+        "path": "/10145936-18722/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20840",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "18786",
+    "sku": "18786",
+    "gtin": "10145789",
+    "title": "Mangime per Carpe Koi Power Multivitamin",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-koi-power-multivitamin-18786/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284765/cb52655bb36e97891312336a3f9fcf9ac4415028_05bb6d3acfea43476e8151d89458a15e998142c6--1-.jpg?v=638187021365570000"
+    ],
+    "price": {
+      "current": 6.5,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 65,
+        "unit": "KG"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18786",
+        "sku": "18786",
+        "gtin": "10145789",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/more-koi-power-multivitamin-18786/p",
+        "price": {
+          "current": 6.5,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "more-koi-power-multivitamin-18786p",
+        "name": "Mangime per Carpe Koi Power Multivitamin",
+        "path": "/more-koi-power-multivitamin-18786/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20904",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  },
+  {
+    "id": "19703",
+    "sku": "19703",
+    "gtin": "10141993",
+    "title": "MultiFit Pastiglie da Fondo",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-pastiglie-da-fondo-19703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282819/bcdbc2003d463b0a5b0945ef957fd4bd4dfa8f49_69d0f9e5fb1f080532ed3dc23af88c0ac3af6c3f--1-.jpg?v=638155199703430000"
+    ],
+    "price": {
+      "current": 7.95,
+      "original": 11.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19703",
+        "sku": "19703",
+        "gtin": "10141993",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/multifit-pastiglie-da-fondo-19703/p",
+        "price": {
+          "current": 7.95,
+          "original": 11.35,
+          "pricePerUnit": {
+            "value": 31.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipescimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/pesci/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-pastiglie-da-fondo-19703p",
+        "name": "MultiFit Pastiglie da Fondo",
+        "path": "/multifit-pastiglie-da-fondo-19703/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21821",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:16:49.643Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/mangime/"
+  }
+]

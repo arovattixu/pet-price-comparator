@@ -1,0 +1,3807 @@
+[
+  {
+    "id": "1403",
+    "sku": "1403",
+    "gtin": "10060033",
+    "title": "KONG Squeezz Ball",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-squeezz-ball-1403/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255687/Squeezz-Ball-001.jpg?v=637564077106500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255688/Squeezz-Ball-002.jpg?v=637564077189000000"
+    ],
+    "price": {
+      "current": 8.54,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 426.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1403",
+        "sku": "1403",
+        "gtin": "10060033",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/kong-cane-squeezz-ball-1403/p",
+        "price": {
+          "current": 8.54,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 426.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-squeezz-ball-1403p",
+        "name": "KONG Squeezz Ball",
+        "path": "/kong-cane-squeezz-ball-1403/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1357",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "1431",
+    "sku": "1431",
+    "gtin": "10055097",
+    "title": "KONG Puppy",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-puppy-1431/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243678/kong-puppy.jpg?v=637455009405600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218567/https---www.arcaplanet.it-media-catalog-product--k-o-kong-puppy-konc9.jpg?v=637454598916830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243681/kong-puppy.jpg?v=637455009431700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243684/kong-puppy.jpg?v=637455009462830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243687/kong-puppy.jpg?v=637455009498300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243690/kong-puppy.jpg?v=637455009529730000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 474.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1431",
+        "sku": "1431",
+        "gtin": "10055097",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/kong-puppy-1431/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 474.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-puppy-1431p",
+        "name": "KONG Puppy",
+        "path": "/kong-puppy-1431/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1385",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "2671",
+    "sku": "2671",
+    "gtin": "10045223",
+    "title": "Peluche Scoiattolo Striato",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-pelouche-scoiattolo-striato-cm28-2671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/217805/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-scoiattolo-striato-in-peluche-tric85.jpg?v=637454593279430000"
+    ],
+    "price": {
+      "current": 6.35,
+      "original": 6.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 317.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2671",
+        "sku": "2671",
+        "gtin": "10045223",
+        "title": "CM.28",
+        "url": "https://www.arcaplanet.it/trixie-cane-pelouche-scoiattolo-striato-cm28-2671/p",
+        "price": {
+          "current": 6.35,
+          "original": 6.35,
+          "pricePerUnit": {
+            "value": 317.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.28"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-pelouche-scoiattolo-striato-cm28-2671p",
+        "name": "Peluche Scoiattolo Striato",
+        "path": "/trixie-cane-pelouche-scoiattolo-striato-cm28-2671/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2589",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "2826",
+    "sku": "2826",
+    "gtin": "10111468",
+    "title": "Camon Gioco Palla Gomma Squeaker",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-cane-palla-gomma-squeaker-cm-8-2826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/205592/Camon-palla-cane-8-cm-in-gomma-con-squeaker.jpg?v=637413929975030000"
+    ],
+    "price": {
+      "current": 4.6,
+      "original": 4.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 229.99999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2826",
+        "sku": "2826",
+        "gtin": "10111468",
+        "title": "CM.8",
+        "url": "https://www.arcaplanet.it/camon-gioco-cane-palla-gomma-squeaker-cm-8-2826/p",
+        "price": {
+          "current": 4.6,
+          "original": 4.6,
+          "pricePerUnit": {
+            "value": 229.99999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.8"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "camon-gioco-cane-palla-gomma-squeaker-cm-8-2826p",
+        "name": "Camon Gioco Palla Gomma Squeaker",
+        "path": "/camon-gioco-cane-palla-gomma-squeaker-cm-8-2826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2744",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "10097",
+    "sku": "10097",
+    "gtin": "10060032",
+    "title": "KONG Classic",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-classic-gioco-per-cane-10097/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256590/kong-classic1.jpg?v=637570148804400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218566/https---www.arcaplanet.it-media-catalog-product--k-o-kong-classic-konc7.jpg?v=637454598912930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235830/kong-classic-cane.jpg?v=637454885762370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235834/kong-classic-cane.jpg?v=637454885813870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235838/kong-classic-cane.jpg?v=637454885866600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235841/kong-classic-cane.jpg?v=637454885898130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235844/kong-classic-cane.jpg?v=637454885952600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256592/kong-classic3.jpg?v=637570150252330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256593/kong-classic4.jpg?v=637570150345970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257201/kong-classic3.jpg?v=637577889175270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257224/kong-classic-xs.jpg?v=637577899294400000"
+    ],
+    "price": {
+      "current": 9.02,
+      "original": 9.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 450.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10097",
+        "sku": "10097",
+        "gtin": "10060032",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/kong-classic-gioco-per-cane-10097/p",
+        "price": {
+          "current": 9.02,
+          "original": 9.49,
+          "pricePerUnit": {
+            "value": 450.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-classic-gioco-per-cane-10097p",
+        "name": "KONG Classic",
+        "path": "/kong-classic-gioco-per-cane-10097/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3551",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "2858",
+    "sku": "2858",
+    "gtin": "10056892",
+    "title": "KONG Extreme",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-extreme-gioco-cane-2858/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258247/kong-extreme1.jpg?v=637594261164770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258248/kong-extreme2.jpg?v=637594261248600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258249/kong-extreme3.jpg?v=637594261319630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258250/kong-extreme4.jpg?v=637594261615270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258251/kong-extreme5.jpg?v=637594263920200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258252/kong-extreme6.jpg?v=637594264026070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258253/kong-extreme7.jpg?v=637594264101830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258254/kong-extreme8.jpg?v=637594264189100000"
+    ],
+    "price": {
+      "current": 12.34,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 617,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2858",
+        "sku": "2858",
+        "gtin": "10056892",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/kong-extreme-gioco-cane-2858/p",
+        "price": {
+          "current": 12.34,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 617,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-extreme-gioco-cane-2858p",
+        "name": "KONG Extreme",
+        "path": "/kong-extreme-gioco-cane-2858/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3552",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "3714",
+    "sku": "3714",
+    "gtin": "10060305",
+    "title": "Dog Activity Snack Roll",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-dog-activity-cane-snack-roll-rosso-blu-6-5x14-3714/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218387/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-dog-activity-snack-roll-in-plastica-gomma-naturale-6-5-x-14-cm-tric91.jpg?v=637454597184500000"
+    ],
+    "price": {
+      "current": 7.25,
+      "original": 7.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 362.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3714",
+        "sku": "3714",
+        "gtin": "10060305",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-dog-activity-cane-snack-roll-rosso-blu-6-5x14-3714/p",
+        "price": {
+          "current": 7.25,
+          "original": 7.25,
+          "pricePerUnit": {
+            "value": 362.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "trixie-dog-activity-cane-snack-roll-rosso-blu-6-5x14-3714p",
+        "name": "Dog Activity Snack Roll",
+        "path": "/trixie-dog-activity-cane-snack-roll-rosso-blu-6-5x14-3714/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3617",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "4341",
+    "sku": "4341",
+    "gtin": "10108438",
+    "title": "Palla Baseball Dental Fun",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-cane-gioco-dental-fun-palla-baseball-cm-5-4341/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/224877/camon-cane-gioco-dental-fun-palla-baseball.jpg?v=637454747057370000"
+    ],
+    "price": {
+      "current": 3.75,
+      "original": 3.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 187.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4341",
+        "sku": "4341",
+        "gtin": "10108438",
+        "title": "CM.5",
+        "url": "https://www.arcaplanet.it/camon-cane-gioco-dental-fun-palla-baseball-cm-5-4341/p",
+        "price": {
+          "current": 3.75,
+          "original": 3.75,
+          "pricePerUnit": {
+            "value": 187.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.5"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "camon-cane-gioco-dental-fun-palla-baseball-cm-5-4341p",
+        "name": "Palla Baseball Dental Fun",
+        "path": "/camon-cane-gioco-dental-fun-palla-baseball-cm-5-4341/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4230",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "4342",
+    "sku": "4342",
+    "gtin": "10062622",
+    "title": "Peluche Leone per Cane con Squittio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-gioco-leone-in-peluche-con-squittio-cm-22-4342/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218050/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-leone-in-peluche-tric79.jpg?v=637454594787270000"
+    ],
+    "price": {
+      "current": 8.15,
+      "original": 8.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 407.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4342",
+        "sku": "4342",
+        "gtin": "10062622",
+        "title": "CM.22",
+        "url": "https://www.arcaplanet.it/trixie-cane-gioco-leone-in-peluche-con-squittio-cm-22-4342/p",
+        "price": {
+          "current": 8.15,
+          "original": 8.15,
+          "pricePerUnit": {
+            "value": 407.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.22"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-gioco-leone-in-peluche-con-squittio-cm-22-4342p",
+        "name": "Peluche Leone per Cane con Squittio",
+        "path": "/trixie-cane-gioco-leone-in-peluche-con-squittio-cm-22-4342/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4231",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "4390",
+    "sku": "4390",
+    "gtin": "10074605",
+    "title": "KONG  Ball",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-ball-4390/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258926/kong-ball-cane.jpg?v=637600510044870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258928/kong-cane-ball-s.jpg?v=637600512425770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258938/kong-cane-ball-dettaglio.jpg?v=637600521646170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258939/kong-cane-ball-palla.jpg?v=637600521762870000"
+    ],
+    "price": {
+      "current": 11.39,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 569.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4390",
+        "sku": "4390",
+        "gtin": "10074605",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/kong-cane-ball-4390/p",
+        "price": {
+          "current": 11.39,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 569.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-ball-4390p",
+        "name": "KONG  Ball",
+        "path": "/kong-cane-ball-4390/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4331",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "3977",
+    "sku": "3977",
+    "gtin": "10078508",
+    "title": "KONG Wild Knots Bears",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-wild-knots-bears-3977/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240643/kong-cane-wildknots-bears.jpg?v=637454983529000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223718/kong-cane-wildknots-bears.jpg?v=637454735037030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240641/kong-cane-wildknots-bears.jpg?v=637454983509600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256352/kong-wild-knots-bears3.jpg?v=637569254079930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256353/kong-wild-knots-bears5.jpg?v=637569254210100000"
+    ],
+    "price": {
+      "current": 17.58,
+      "original": 18.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 878.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3977",
+        "sku": "3977",
+        "gtin": "10078508",
+        "title": "S-M",
+        "url": "https://www.arcaplanet.it/kong-cane-wild-knots-bears-3977/p",
+        "price": {
+          "current": 17.58,
+          "original": 18.5,
+          "pricePerUnit": {
+            "value": 878.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S-M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-wild-knots-bears-3977p",
+        "name": "KONG Wild Knots Bears",
+        "path": "/kong-cane-wild-knots-bears-3977/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4497",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "5023",
+    "sku": "5023",
+    "gtin": "00043947",
+    "title": "Palla per Cane in Gomma Naturale con Squittio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-palla-in-gomma-naturale-con-squittio-5023/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218035/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-palla-gioco-con-impronte-in-gomma-naturale-tric83.jpg?v=637454594710630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218038/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-palla-gioco-con-impronte-in-gomma-naturale-tric83_1.jpg?v=637454594731730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218041/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-palla-gioco-con-impronte-in-gomma-naturale-tric83_2.jpg?v=637454594744270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218044/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-palla-gioco-con-impronte-in-gomma-naturale-tric83_3.jpg?v=637454594760770000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 6.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 339.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5023",
+        "sku": "5023",
+        "gtin": "00043947",
+        "title": "CM.7.5",
+        "url": "https://www.arcaplanet.it/trixie-cane-palla-in-gomma-naturale-con-squittio-5023/p",
+        "price": {
+          "current": 6.79,
+          "original": 6.79,
+          "pricePerUnit": {
+            "value": 339.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.7.5"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-palla-in-gomma-naturale-con-squittio-5023p",
+        "name": "Palla per Cane in Gomma Naturale con Squittio",
+        "path": "/trixie-cane-palla-in-gomma-naturale-con-squittio-5023/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4924",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "659",
+    "sku": "659",
+    "gtin": "10074136",
+    "title": "Frisbee in Gomma Naturale per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-frisbee-in-gomma-naturale-per-cane-659/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270017/trixie-frisbee-in-gomma-naturale-da-18-cm-blu-1.jpg?v=637840814234100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270016/trixie-frisbee-in-gomma-naturale-da-18-cm-blu.jpg?v=637840814118300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270018/trixie-frisbee-in-gomma-naturale-da-18-cm-blu-2.jpg?v=637840814353470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270019/trixie-frisbee-in-gomma-naturale-da-18-cm-arancione.jpg?v=637840814462070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270020/trixie-frisbee-in-gomma-naturale-da-18-cm-giallo.jpg?v=637840814607100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270021/trixie-frisbee-in-gomma-naturale-da-18-cm-rosso.jpg?v=637840814721330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270022/trixie-frisbee-in-gomma-naturale.jpg?v=637840814837600000"
+    ],
+    "price": {
+      "current": 7.3,
+      "original": 7.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 365,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "659",
+        "sku": "659",
+        "gtin": "10074136",
+        "title": "CM.18",
+        "url": "https://www.arcaplanet.it/trixie-frisbee-in-gomma-naturale-per-cane-659/p",
+        "price": {
+          "current": 7.3,
+          "original": 7.3,
+          "pricePerUnit": {
+            "value": 365,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.18"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiriporto",
+        "name": "Riporto",
+        "path": "/cane/giochi/riporto/",
+        "level": 4
+      },
+      {
+        "id": "trixie-frisbee-in-gomma-naturale-per-cane-659p",
+        "name": "Frisbee in Gomma Naturale per Cane",
+        "path": "/trixie-frisbee-in-gomma-naturale-per-cane-659/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5025",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "5491",
+    "sku": "5491",
+    "gtin": "10108440",
+    "title": "Palla Rugby Dental Fun",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-cane-gioco-dental-fun-palla-rugby-cm-11-5491/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/224875/camon-cane-gioco-dental-fun-palla-rugby.jpg?v=637454747044070000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5491",
+        "sku": "5491",
+        "gtin": "10108440",
+        "title": "CM.11",
+        "url": "https://www.arcaplanet.it/camon-cane-gioco-dental-fun-palla-rugby-cm-11-5491/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.11"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "camon-cane-gioco-dental-fun-palla-rugby-cm-11-5491p",
+        "name": "Palla Rugby Dental Fun",
+        "path": "/camon-cane-gioco-dental-fun-palla-rugby-cm-11-5491/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5352",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "2768",
+    "sku": "2768",
+    "gtin": "10078499",
+    "title": "KONG Extreme Goodie Bone",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-extreme-goodie-bone-2768/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223723/kong-cane-goodie-bone-extreme.jpg?v=637454735088100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256446/kong-extreme-goodie-bone1.jpg?v=637569419610170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256447/kong-extreme-goodie-bone2.jpg?v=637569419713700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256448/kong-extreme-goodie-bone3.jpg?v=637569419794130000"
+    ],
+    "price": {
+      "current": 17.57,
+      "original": 18.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 878.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2768",
+        "sku": "2768",
+        "gtin": "10078499",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/kong-cane-extreme-goodie-bone-2768/p",
+        "price": {
+          "current": 17.57,
+          "original": 18.49,
+          "pricePerUnit": {
+            "value": 878.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-extreme-goodie-bone-2768p",
+        "name": "KONG Extreme Goodie Bone",
+        "path": "/kong-cane-extreme-goodie-bone-2768/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5420",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "6290",
+    "sku": "6290",
+    "gtin": "10069168",
+    "title": "Dog Activity Flip Board",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-gioco-activity-flip-board-cm-23-6290/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265067/PHO_PRO_CLIP_32026-1_-SALL_-AWK_-V1.jpg?v=637723111753170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223854/trixie-cane-gioco-activity-flip-board.jpg?v=637454736522000000"
+    ],
+    "price": {
+      "current": 15.5,
+      "original": 15.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 775,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6290",
+        "sku": "6290",
+        "gtin": "10069168",
+        "title": "CM.28",
+        "url": "https://www.arcaplanet.it/trixie-cane-gioco-activity-flip-board-cm-23-6290/p",
+        "price": {
+          "current": 15.5,
+          "original": 15.5,
+          "pricePerUnit": {
+            "value": 775,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.28"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-gioco-activity-flip-board-cm-23-6290p",
+        "name": "Dog Activity Flip Board",
+        "path": "/trixie-cane-gioco-activity-flip-board-cm-23-6290/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6136",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "6306",
+    "sku": "6306",
+    "gtin": "10078415",
+    "title": "Gioco per Cane Corda Osso",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-gioco-corda-cm-40-6306/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223864/trixie-cane-gioco-corda.jpg?v=637454736645100000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 324.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6306",
+        "sku": "6306",
+        "gtin": "10078415",
+        "title": "CM.40",
+        "url": "https://www.arcaplanet.it/trixie-cane-gioco-corda-cm-40-6306/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 324.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.40"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochitira-e-molla",
+        "name": "Tira e Molla",
+        "path": "/cane/giochi/tira-e-molla/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-gioco-corda-cm-40-6306p",
+        "name": "Gioco per Cane Corda Osso",
+        "path": "/trixie-cane-gioco-corda-cm-40-6306/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "9181",
+    "sku": "9181",
+    "gtin": "10111997",
+    "title": "Mini Toys per Cane Pallina Squeak Gialla",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--mini-toys-cane-pallina-squeak-verde-3-8cm-9181/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227151/yes-mini-toys-cane-pallina-squeak-verde.jpg?v=637454790329500000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9181",
+        "sku": "9181",
+        "gtin": "10111997",
+        "title": "CM.3.8",
+        "url": "https://www.arcaplanet.it/yes--mini-toys-cane-pallina-squeak-verde-3-8cm-9181/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.3.8"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "yes--mini-toys-cane-pallina-squeak-verde-3-8cm-9181p",
+        "name": "Mini Toys per Cane Pallina Squeak Gialla",
+        "path": "/yes--mini-toys-cane-pallina-squeak-verde-3-8cm-9181/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9001",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "1161",
+    "sku": "1161",
+    "gtin": "10059183",
+    "title": "KONG SqueakAir Balls",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-air-squeakair-ball-bulk-1161/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256054/Squeakair-001.jpg?v=637565959334130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240629/kong-cane-air-squeakair-ball-bulk.jpg?v=637454983351330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256044/squeakair-medio-.jpg?v=637565957798670000"
+    ],
+    "price": {
+      "current": 2.84,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 142,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1161",
+        "sku": "1161",
+        "gtin": "10059183",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/kong-cane-air-squeakair-ball-bulk-1161/p",
+        "price": {
+          "current": 2.84,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 142,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-air-squeakair-ball-bulk-1161p",
+        "name": "KONG SqueakAir Balls",
+        "path": "/kong-cane-air-squeakair-ball-bulk-1161/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9560",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "9119",
+    "sku": "9119",
+    "gtin": "10109391",
+    "title": "Gioco per Cane Palla con Foro in Gomma",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gioco-cane-palla-con-foro-in-gomma-cm-5-9119/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269821/yes-pallina-con-foro-in-gomma.jpg?v=637837123348800000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9119",
+        "sku": "9119",
+        "gtin": "10109391",
+        "title": "CM.5",
+        "url": "https://www.arcaplanet.it/yes-gioco-cane-palla-con-foro-in-gomma-cm-5-9119/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.5"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "yes-gioco-cane-palla-con-foro-in-gomma-cm-5-9119p",
+        "name": "Gioco per Cane Palla con Foro in Gomma",
+        "path": "/yes-gioco-cane-palla-con-foro-in-gomma-cm-5-9119/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11261",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "9126",
+    "sku": "9126",
+    "gtin": "10109400",
+    "title": "Pallina Sport per Cane In Latex Mix Color",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pallina-sport-in-latex-cm-7-mix-color-9126/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209755/YES--pallina-sport-in-latex-7-cm.jpg?v=637413991292270000"
+    ],
+    "price": {
+      "current": 5.4,
+      "original": 5.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 270,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9126",
+        "sku": "9126",
+        "gtin": "10109400",
+        "title": "CM.7",
+        "url": "https://www.arcaplanet.it/yes--pallina-sport-in-latex-cm-7-mix-color-9126/p",
+        "price": {
+          "current": 5.4,
+          "original": 5.4,
+          "pricePerUnit": {
+            "value": 270,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.7"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "yes--pallina-sport-in-latex-cm-7-mix-color-9126p",
+        "name": "Pallina Sport per Cane In Latex Mix Color",
+        "path": "/yes--pallina-sport-in-latex-cm-7-mix-color-9126/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11270",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "12988",
+    "sku": "12988",
+    "gtin": "10138914",
+    "title": "Trixie Palla con Corda in Gomma",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gioco-cane-palla-con-corda-12988/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254783/palla-con-corda-in-gomma-arancio.jpg?v=637556277408130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254784/palla-con-corda-in-gomma-giallo.jpg?v=637556279133200000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12988",
+        "sku": "12988",
+        "gtin": "10138914",
+        "title": "CM.30",
+        "url": "https://www.arcaplanet.it/trixie-gioco-cane-palla-con-corda-12988/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.30"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochitira-e-molla",
+        "name": "Tira e Molla",
+        "path": "/cane/giochi/tira-e-molla/",
+        "level": 4
+      },
+      {
+        "id": "trixie-gioco-cane-palla-con-corda-12988p",
+        "name": "Trixie Palla con Corda in Gomma",
+        "path": "/trixie-gioco-cane-palla-con-corda-12988/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15125",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "13059",
+    "sku": "13059",
+    "gtin": "10138965",
+    "title": "Bungee Dummy",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-bungee-dummy-cm-20-13059/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257730/bungee-dummy1.jpg?v=637587333270530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257731/bungee-dummy2.jpg?v=637587333333900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257732/bungee-dummy3.jpg?v=637587333431530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257733/bungee-dummy4.jpg?v=637587333516630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257734/bungee-dummy5.jpg?v=637587333598200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257736/bungee-dummy6.jpg?v=637587333842270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257737/bungee-dummy7.jpg?v=637587333921600000"
+    ],
+    "price": {
+      "current": 7.59,
+      "original": 7.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 379.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13059",
+        "sku": "13059",
+        "gtin": "10138965",
+        "title": "CM.20",
+        "url": "https://www.arcaplanet.it/trixie-bungee-dummy-cm-20-13059/p",
+        "price": {
+          "current": 7.59,
+          "original": 7.59,
+          "pricePerUnit": {
+            "value": 379.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.20"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochitira-e-molla",
+        "name": "Tira e Molla",
+        "path": "/cane/giochi/tira-e-molla/",
+        "level": 4
+      },
+      {
+        "id": "trixie-bungee-dummy-cm-20-13059p",
+        "name": "Bungee Dummy",
+        "path": "/trixie-bungee-dummy-cm-20-13059/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15384",
+    "sku": "15384",
+    "gtin": "10140210",
+    "title": "KONG Signature Ball 2 pezzi",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-signature-ball-15384/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272845/kong-signature-ball.jpg?v=637913964710070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272846/kong-signature-ball-per-cane.jpg?v=637913964832570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272847/kong-signature-ball-per-cane-dimensioni.jpg?v=637913964990730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272848/kong-signature-ball-2-pezzi.jpg?v=637913965087230000"
+    ],
+    "price": {
+      "current": 25.27,
+      "original": 26.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1263.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15384",
+        "sku": "15384",
+        "gtin": "10140210",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/kong-cane-signature-ball-15384/p",
+        "price": {
+          "current": 25.27,
+          "original": 26.6,
+          "pricePerUnit": {
+            "value": 1263.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-signature-ball-15384p",
+        "name": "KONG Signature Ball 2 pezzi",
+        "path": "/kong-cane-signature-ball-15384/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17521",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15401",
+    "sku": "15401",
+    "gtin": "10129896",
+    "title": "Gioco Cane Peluche Atlantide Polpo",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-cane-peluche-atlantide-polpo-15401/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273062/LOVEDI-GIOCO-CANE-PELUCHE-ATLANTIDE-POLPO.jpg?v=637919988166230000"
+    ],
+    "price": {
+      "current": 11.49,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 574.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15401",
+        "sku": "15401",
+        "gtin": "10129896",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-cane-peluche-atlantide-polpo-15401/p",
+        "price": {
+          "current": 11.49,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 574.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "gioco-cane-peluche-atlantide-polpo-15401p",
+        "name": "Gioco Cane Peluche Atlantide Polpo",
+        "path": "/gioco-cane-peluche-atlantide-polpo-15401/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17538",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15419",
+    "sku": "15419",
+    "gtin": "10130927",
+    "title": "Gioco Cane Peluche Corda Jungle Volpe",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-cane-peluche-corda-jungle-volpe-15419/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273072/LOVEDI-GIOCO-CANE-PELUCHE-CORDA-JUNGLE-VOLPE.jpg?v=637920023069500000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15419",
+        "sku": "15419",
+        "gtin": "10130927",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-cane-peluche-corda-jungle-volpe-15419/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "gioco-cane-peluche-corda-jungle-volpe-15419p",
+        "name": "Gioco Cane Peluche Corda Jungle Volpe",
+        "path": "/gioco-cane-peluche-corda-jungle-volpe-15419/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17556",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15421",
+    "sku": "15421",
+    "gtin": "10130929",
+    "title": "Gioco Cane Peluche Atlantide Pesce Pagliaccio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-cane-peluche-atlantide-pesce-pagliaccio-15421/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273061/LOVEDI-GIOCO-CANE-PELUCHE-ATLANTIDE-PESCE-PAGLIACC.jpg?v=637919981384070000"
+    ],
+    "price": {
+      "current": 11.49,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 574.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15421",
+        "sku": "15421",
+        "gtin": "10130929",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-cane-peluche-atlantide-pesce-pagliaccio-15421/p",
+        "price": {
+          "current": 11.49,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 574.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "gioco-cane-peluche-atlantide-pesce-pagliaccio-15421p",
+        "name": "Gioco Cane Peluche Atlantide Pesce Pagliaccio",
+        "path": "/gioco-cane-peluche-atlantide-pesce-pagliaccio-15421/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17558",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15458",
+    "sku": "15458",
+    "gtin": "10066881",
+    "title": "Gioco per Cane con Anatra in Lattice",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gioco-per-cane-con-anatra-in-lattice-15458/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272928/trixie-gioco-in-lattice-per-cane.jpg?v=637915828836870000"
+    ],
+    "price": {
+      "current": 4.85,
+      "original": 4.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 242.49999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15458",
+        "sku": "15458",
+        "gtin": "10066881",
+        "title": "CM.13",
+        "url": "https://www.arcaplanet.it/trixie-gioco-per-cane-con-anatra-in-lattice-15458/p",
+        "price": {
+          "current": 4.85,
+          "original": 4.85,
+          "pricePerUnit": {
+            "value": 242.49999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.13"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "trixie-gioco-per-cane-con-anatra-in-lattice-15458p",
+        "name": "Gioco per Cane con Anatra in Lattice",
+        "path": "/trixie-gioco-per-cane-con-anatra-in-lattice-15458/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17595",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.101Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "15460",
+    "sku": "15460",
+    "gtin": "10066893",
+    "title": "Palla per Cane Termoplastica",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-palla-per-cane-termoplastica-15460/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272939/trixie-palla-riccio-arancione.jpg?v=637915867199900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272940/trixie-palla-riccio-verde.jpg?v=637915867309330000"
+    ],
+    "price": {
+      "current": 7.95,
+      "original": 7.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 397.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15460",
+        "sku": "15460",
+        "gtin": "10066893",
+        "title": "CM.12",
+        "url": "https://www.arcaplanet.it/trixie-palla-per-cane-termoplastica-15460/p",
+        "price": {
+          "current": 7.95,
+          "original": 7.95,
+          "pricePerUnit": {
+            "value": 397.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.12"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "trixie-palla-per-cane-termoplastica-15460p",
+        "name": "Palla per Cane Termoplastica",
+        "path": "/trixie-palla-per-cane-termoplastica-15460/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17597",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "16186",
+    "sku": "16186",
+    "gtin": "10155724",
+    "title": "Gioco Cane Bambù Osso",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-cane-bambu-osso-16186/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275274/camon-gioco-cane-osso-bambu.jpg?v=637969258759700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275275/camon-gioco-cane-osso-bambu-aperto.jpg?v=637969258844270000"
+    ],
+    "price": {
+      "current": 4.65,
+      "original": 4.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 232.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16186",
+        "sku": "16186",
+        "gtin": "10155724",
+        "title": "CM.10",
+        "url": "https://www.arcaplanet.it/camon-gioco-cane-bambu-osso-16186/p",
+        "price": {
+          "current": 4.65,
+          "original": 4.65,
+          "pricePerUnit": {
+            "value": 232.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.10"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochimasticabili",
+        "name": "Masticabili",
+        "path": "/cane/giochi/masticabili/",
+        "level": 4
+      },
+      {
+        "id": "camon-gioco-cane-bambu-osso-16186p",
+        "name": "Gioco Cane Bambù Osso",
+        "path": "/camon-gioco-cane-bambu-osso-16186/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18323",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "16424",
+    "sku": "16424",
+    "gtin": "10155920",
+    "title": "Osso Trio Bone per Cane Toy",
+    "brand": "TASTYBONE",
+    "url": "https://www.arcaplanet.it/tasty-bone-osso-trio-bone-per-cane-toy-16424/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275562/LAMPONI-E-MENTA.jpg?v=637997758235800000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16424",
+        "sku": "16424",
+        "gtin": "10155920",
+        "title": "LAMPONE E MENTA",
+        "url": "https://www.arcaplanet.it/tasty-bone-osso-trio-bone-per-cane-toy-16424/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochimasticabili",
+        "name": "Masticabili",
+        "path": "/cane/giochi/masticabili/",
+        "level": 4
+      },
+      {
+        "id": "tasty-bone-osso-trio-bone-per-cane-toy-16424p",
+        "name": "Osso Trio Bone per Cane Toy",
+        "path": "/tasty-bone-osso-trio-bone-per-cane-toy-16424/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18553",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "18408",
+    "sku": "18408",
+    "gtin": "10143546",
+    "title": "Anione Palla da Tennis con Corda",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-palla-da-tennis-con-corda-18408/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284698/fa2c128af81b6e21e70109b36224170a602762c3_539fd801ee6e3deb04559c0ac6f221cb55fa2db3--1-.jpg?v=638186150805230000"
+    ],
+    "price": {
+      "current": 3,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 150,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18408",
+        "sku": "18408",
+        "gtin": "10143546",
+        "title": "6CM",
+        "url": "https://www.arcaplanet.it/anione-palla-da-tennis-con-corda-18408/p",
+        "price": {
+          "current": 3,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 150,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.6"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochitira-e-molla",
+        "name": "Tira e Molla",
+        "path": "/cane/giochi/tira-e-molla/",
+        "level": 4
+      },
+      {
+        "id": "anione-palla-da-tennis-con-corda-18408p",
+        "name": "Anione Palla da Tennis con Corda",
+        "path": "/anione-palla-da-tennis-con-corda-18408/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20526",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "18774",
+    "sku": "18774",
+    "gtin": "10145810",
+    "title": "Anione Palla Snack Gialla",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-palla-snack-gialla-18774/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283496/654e1568e87af002f8bcb99c5569bbf435b1ffc0_830c9c6d13b822beb1ab4a88fc9a1f6bed78553c--1-.jpg?v=638164551534630000"
+    ],
+    "price": {
+      "current": 3.5,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 175,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18774",
+        "sku": "18774",
+        "gtin": "10145810",
+        "title": "7CM",
+        "url": "https://www.arcaplanet.it/anione-palla-snack-gialla-18774/p",
+        "price": {
+          "current": 3.5,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.7"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "anione-palla-snack-gialla-18774p",
+        "name": "Anione Palla Snack Gialla",
+        "path": "/anione-palla-snack-gialla-18774/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20892",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "18794",
+    "sku": "18794",
+    "gtin": "10145811",
+    "title": "Anione Palla Snack Blu",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-palla-snack-blu-18794/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283499/bd7ad7ce3f144975904b1e2eb1d2286f9b51c0f7_8154dcfda4188dbf523238d5989308104e02bcef--1-.jpg?v=638164556591170000"
+    ],
+    "price": {
+      "current": 4.5,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 225,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18794",
+        "sku": "18794",
+        "gtin": "10145811",
+        "title": "9CM",
+        "url": "https://www.arcaplanet.it/anione-palla-snack-blu-18794/p",
+        "price": {
+          "current": 4.5,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 225,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.9",
+            "Color": "BLU"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "anione-palla-snack-blu-18794p",
+        "name": "Anione Palla Snack Blu",
+        "path": "/anione-palla-snack-blu-18794/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20915",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "19254",
+    "sku": "19254",
+    "gtin": "10153541",
+    "title": "Fit and Fun Dog Osso",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-osso-19254/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281464/c2a831078de9fddbb189ca472566262daaa24c9e_1337376__de_DE__F_F_Spielzeug.jpg?v=638128356559000000"
+    ],
+    "price": {
+      "current": 1.86,
+      "original": 2.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 93,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19254",
+        "sku": "19254",
+        "gtin": "10153541",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/fit-and-fun-osso-19254/p",
+        "price": {
+          "current": 1.86,
+          "original": 2.19,
+          "pricePerUnit": {
+            "value": 93,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-osso-19254p",
+        "name": "Fit and Fun Dog Osso",
+        "path": "/fit-and-fun-osso-19254/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21372",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "19646",
+    "sku": "19646",
+    "gtin": "10143544",
+    "title": "Anione Palla da Tennis",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-palla-da-tennis-19646/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286439/1082389--1-.jpg?v=638207059746400000"
+    ],
+    "price": {
+      "current": 1.87,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 93.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19646",
+        "sku": "19646",
+        "gtin": "10143544",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/anione-palla-da-tennis-19646/p",
+        "price": {
+          "current": 1.87,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 93.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "anione-palla-da-tennis-19646p",
+        "name": "Anione Palla da Tennis",
+        "path": "/anione-palla-da-tennis-19646/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      }
+    ],
+    "metadata": {
+      "groupId": "21764",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "19444",
+    "sku": "19444",
+    "gtin": "10152891",
+    "title": "Anione Peluche Orso",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-peluche-orso-19444/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286530/8a2d79d93462b396112ee3ef0087a0593b93c4a6_efa2eb258647871d77d13b6fad22cbbd610602c9--1-.jpg?v=638210375260470000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19444",
+        "sku": "19444",
+        "gtin": "10152891",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-peluche-orso-19444/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipeluche",
+        "name": "Peluche",
+        "path": "/cane/giochi/peluche/",
+        "level": 4
+      },
+      {
+        "id": "anione-peluche-orso-19444p",
+        "name": "Anione Peluche Orso",
+        "path": "/anione-peluche-orso-19444/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      }
+    ],
+    "metadata": {
+      "groupId": "22174",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "20842",
+    "sku": "20842",
+    "gtin": "10168422",
+    "title": "Dog Activity Ball&Treat",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-dog-activity-ball-treat-20842/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282965/285097_PHO_PRO_CLIP_32009-1--1-.jpg?v=638156949056000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284137/trixie-dog-activity-ball-treat.jpg?v=638174231198530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284138/trixie-dog-activity-ball-treat-sopra.jpg?v=638174231278970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284139/trixie-dog-activity-ball-treat-view.jpg?v=638174231347270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284140/trixie-dog-activity-ball-treat-croccantini.jpg?v=638174231411270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284141/trixie-dog-activity-ball-treat-pallina.jpg?v=638174231480270000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20842",
+        "sku": "20842",
+        "gtin": "10168422",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/tx-dog-activity-ball-treat-20842/p",
+        "price": {
+          "current": 27.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiinterattivi",
+        "name": "Interattivi",
+        "path": "/cane/giochi/interattivi/",
+        "level": 4
+      },
+      {
+        "id": "tx-dog-activity-ball-treat-20842p",
+        "name": "Dog Activity Ball&Treat",
+        "path": "/tx-dog-activity-ball-treat-20842/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22943",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "21520",
+    "sku": "21520",
+    "gtin": "10161111",
+    "title": "Palla da Tennis Ginger per Cani",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/refill-palle-da-tennis-ginger-per-espositore-natalizio-per-cani-21520/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311429/Refill-Palle-da-Tennis-Ginger-per-Espositore-Natalizio-per-Cani.jpg?v=638678714006900000"
+    ],
+    "price": {
+      "current": 1.35,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 67.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21520",
+        "sku": "21520",
+        "gtin": "10161111",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/refill-palle-da-tennis-ginger-per-espositore-natalizio-per-cani-21520/p",
+        "price": {
+          "current": 1.35,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 67.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochipalle",
+        "name": "Palle",
+        "path": "/cane/giochi/palle/",
+        "level": 4
+      },
+      {
+        "id": "refill-palle-da-tennis-ginger-per-espositore-natalizio-per-cani-21520p",
+        "name": "Palla da Tennis Ginger per Cani",
+        "path": "/refill-palle-da-tennis-ginger-per-espositore-natalizio-per-cani-21520/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23609",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  },
+  {
+    "id": "23571",
+    "sku": "23571",
+    "gtin": "10173570",
+    "title": "KONG Reflex Gioco Palla per Cane",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-reflex-gioco-palla-per-cane-23571/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299260/KONG-Reflex-Gioco-Palla-per-Cane-10173570-2.jpg?v=638481700164200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299293/KONG-Reflex-Gioco-Palla-per-Cane-10173570-1.jpg?v=638481805857130000"
+    ],
+    "price": {
+      "current": 11.69,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 584.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23571",
+        "sku": "23571",
+        "gtin": "10173570",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/kong-reflex-gioco-palla-per-cane-23571/p",
+        "price": {
+          "current": 11.69,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 584.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-reflex-gioco-palla-per-cane-23571p",
+        "name": "KONG Reflex Gioco Palla per Cane",
+        "path": "/kong-reflex-gioco-palla-per-cane-23571/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25582",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:06.102Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/giochi/"
+  }
+]

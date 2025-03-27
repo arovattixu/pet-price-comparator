@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "520",
+    "sku": "520",
+    "gtin": "10129212",
+    "title": "Portasacchetti Easy con 2 Rotoli",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-portasacchetti-easy-per-cane-2-rotoli-520/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265077/trixie-porta-sacchetti-easy-nero-chiuso.jpg?v=637723131559270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265079/trixie-porta-sacchetti-easy-rosso.jpg?v=637723131672330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265080/trixie-porta-sacchetti-easy-verde.jpg?v=637723131774700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265082/trixie-porta-sacchetti-easy-nero.jpg?v=637723131869870000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "520",
+        "sku": "520",
+        "gtin": "10129212",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-portasacchetti-easy-per-cane-2-rotoli-520/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-portasacchetti-easy-per-cane-2-rotoli-520p",
+        "name": "Portasacchetti Easy con 2 Rotoli",
+        "path": "/pet-around-you-portasacchetti-easy-per-cane-2-rotoli-520/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "478",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "2856",
+    "sku": "2856",
+    "gtin": "10080149",
+    "title": "Porta Sacchetti o Snack Nero",
+    "brand": "FLEXI",
+    "url": "https://www.arcaplanet.it/flexi-porta-sacchetti-o-snack-cane-nero-2856/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259051/flexi-porta-sacchetti-porta-snack-nero.jpg?v=637601233571930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259052/flexi-porta-sacchetti-porta-snack-nero-dimensioni.jpg?v=637601233677600000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2856",
+        "sku": "2856",
+        "gtin": "10080149",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/flexi-porta-sacchetti-o-snack-cane-nero-2856/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "flexi-porta-sacchetti-o-snack-cane-nero-2856p",
+        "name": "Porta Sacchetti o Snack Nero",
+        "path": "/flexi-porta-sacchetti-o-snack-cane-nero-2856/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2774",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "10436",
+    "sku": "10436",
+    "gtin": "10130803",
+    "title": "Porta Sacchetti blu Classic",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-blu-10436/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254424/Bon-Ton-Classic-blu-dispenser-cane.jpg?v=637550501063100000"
+    ],
+    "price": {
+      "current": 7.89,
+      "original": 7.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 394.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10436",
+        "sku": "10436",
+        "gtin": "10130803",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-blu-10436/p",
+        "price": {
+          "current": 7.89,
+          "original": 7.89,
+          "pricePerUnit": {
+            "value": 394.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-classic-8x3-5x4-5-cm-blu-10436p",
+        "name": "Porta Sacchetti blu Classic",
+        "path": "/bon-ton-classic-8x3-5x4-5-cm-blu-10436/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10030",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "10437",
+    "sku": "10437",
+    "gtin": "10130806",
+    "title": "Porta Sacchetti nero Classic",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-nero-20-10437/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254426/Bon-Ton-Classic-nero-dispenser-cane.jpg?v=637550504628730000"
+    ],
+    "price": {
+      "current": 7.89,
+      "original": 7.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 394.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10437",
+        "sku": "10437",
+        "gtin": "10130806",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-nero-20-10437/p",
+        "price": {
+          "current": 7.89,
+          "original": 7.89,
+          "pricePerUnit": {
+            "value": 394.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-classic-8x3-5x4-5-cm-nero-20-10437p",
+        "name": "Porta Sacchetti nero Classic",
+        "path": "/bon-ton-classic-8x3-5x4-5-cm-nero-20-10437/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10031",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "10438",
+    "sku": "10438",
+    "gtin": "10130804",
+    "title": "Porta Sacchetti rosso Classic",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-rosso-10438/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254427/Bon-Ton-Classic-rosso-dispenser-cane.jpg?v=637550508939370000"
+    ],
+    "price": {
+      "current": 7.89,
+      "original": 7.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 394.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10438",
+        "sku": "10438",
+        "gtin": "10130804",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-rosso-10438/p",
+        "price": {
+          "current": 7.89,
+          "original": 7.89,
+          "pricePerUnit": {
+            "value": 394.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-classic-8x3-5x4-5-cm-rosso-10438p",
+        "name": "Porta Sacchetti rosso Classic",
+        "path": "/bon-ton-classic-8x3-5x4-5-cm-rosso-10438/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10032",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "10444",
+    "sku": "10444",
+    "gtin": "10130805",
+    "title": "Porta Sacchetti giallo Classic",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-giallo-10444/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254425/Bon-Ton-Classic-giallo-dispenser-cane.jpg?v=637550504342300000"
+    ],
+    "price": {
+      "current": 7.89,
+      "original": 7.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 394.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10444",
+        "sku": "10444",
+        "gtin": "10130805",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-classic-8x3-5x4-5-cm-giallo-10444/p",
+        "price": {
+          "current": 7.89,
+          "original": 7.89,
+          "pricePerUnit": {
+            "value": 394.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-classic-8x3-5x4-5-cm-giallo-10444p",
+        "name": "Porta Sacchetti giallo Classic",
+        "path": "/bon-ton-classic-8x3-5x4-5-cm-giallo-10444/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10038",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "10434",
+    "sku": "10434",
+    "gtin": "10130799",
+    "title": "Dispencer Portasacchetti Eco Nano Bon Ton Classic",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-nano-classic-osso-6x3x4-cm-grigio-antracit-10434/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254430/Bon-Ton-Classic-arancione-dispenser-cane.jpg?v=637550513129930000"
+    ],
+    "price": {
+      "current": 7.89,
+      "original": 7.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 394.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10434",
+        "sku": "10434",
+        "gtin": "10130799",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/bon-ton-nano-classic-osso-6x3x4-cm-grigio-antracit-10434/p",
+        "price": {
+          "current": 7.89,
+          "original": 7.89,
+          "pricePerUnit": {
+            "value": 394.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-nano-classic-osso-6x3x4-cm-grigio-antracit-10434p",
+        "name": "Dispencer Portasacchetti Eco Nano Bon Ton Classic",
+        "path": "/bon-ton-nano-classic-osso-6x3x4-cm-grigio-antracit-10434/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14720",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19324",
+    "sku": "19324",
+    "gtin": "10153254",
+    "title": "Anione Dispenser di Sacchetti",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-dispenser-di-sacchetti-19324/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283691/f3c7a258ec89c8b666838da8d673a09316dce269_1025219305f7fff87042e65047d51fd25f7bfc2b--1-.jpg?v=638168027082730000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19324",
+        "sku": "19324",
+        "gtin": "10153254",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/anione-dispenser-di-sacchetti-19324/p",
+        "price": {
+          "current": 4.49,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "anione-dispenser-di-sacchetti-19324p",
+        "name": "Anione Dispenser di Sacchetti",
+        "path": "/anione-dispenser-di-sacchetti-19324/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21442",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "18427",
+    "sku": "18427",
+    "gtin": "10153257",
+    "title": "More Dispenser Sacchetti",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-dispenser-sacchetti-18427/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281920/50c0e79d7434915e58c2ac261442d8fc5d82e0cb_9a5676b096dc4e08fdf051abc6922a59eda9d17f--1-.jpg?v=638131890903970000"
+    ],
+    "price": {
+      "current": 4,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 200,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18427",
+        "sku": "18427",
+        "gtin": "10153257",
+        "title": "MARRONE",
+        "url": "https://www.arcaplanet.it/more-dispenser-sacchetti-18427/p",
+        "price": {
+          "current": 4,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 200,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "more-dispenser-sacchetti-18427p",
+        "name": "More Dispenser Sacchetti",
+        "path": "/more-dispenser-sacchetti-18427/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21452",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19585",
+    "sku": "19585",
+    "gtin": "10150526",
+    "title": "Fit and Fun Dispenser di Sacchetti Igienici",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-dispenser-di-sacchetti-igienici-19585/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286827/1d1e530873c548fb2d52eb64f886b65e9e7bdfd9_32ad596bdad66e56128631ad53bb8fb10f888bc5.jpg?v=638217236563970000"
+    ],
+    "price": {
+      "current": 4.67,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 233.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19585",
+        "sku": "19585",
+        "gtin": "10150526",
+        "title": "2x20",
+        "url": "https://www.arcaplanet.it/fit-and-fun-dispenser-di-sacchetti-igienici-19585/p",
+        "price": {
+          "current": 4.67,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 233.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-dispenser-di-sacchetti-igienici-19585p",
+        "name": "Fit and Fun Dispenser di Sacchetti Igienici",
+        "path": "/fit-and-fun-dispenser-di-sacchetti-igienici-19585/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21703",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19872",
+    "sku": "19872",
+    "gtin": "10160967",
+    "title": "Dispenser Portasacchetti Complete Me Forever",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-complete-me-forever-19872/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277189/united-pets-dispenser-portasacchetti-complete-me-forever-arancione.jpg?v=638042974244300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277190/united-pets-dispenser-portasacchetti-complete-me-forever-arancione1.jpg?v=638042974331200000"
+    ],
+    "price": {
+      "current": 19.8,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 990,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19872",
+        "sku": "19872",
+        "gtin": "10160967",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-complete-me-forever-19872/p",
+        "price": {
+          "current": 19.8,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 990,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-dispenser-portasacchetti-complete-me-forever-19872p",
+        "name": "Dispenser Portasacchetti Complete Me Forever",
+        "path": "/united-pets-dispenser-portasacchetti-complete-me-forever-19872/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21990",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19873",
+    "sku": "19873",
+    "gtin": "10160971",
+    "title": "Dispenser Portasacchetti Complete Me Identity",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-complete-me-identity-19873/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277193/united-pets-dispenser-portasacchetti-complete-me-identity-nero-fucsia.jpg?v=638043001353700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277194/united-pets-dispenser-portasacchetti-complete-me-identity-nero-fucsia1.jpg?v=638748687682600000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19873",
+        "sku": "19873",
+        "gtin": "10160971",
+        "title": "FUCSIA",
+        "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-complete-me-identity-19873/p",
+        "price": {
+          "current": 20.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-dispenser-portasacchetti-complete-me-identity-19873p",
+        "name": "Dispenser Portasacchetti Complete Me Identity",
+        "path": "/united-pets-dispenser-portasacchetti-complete-me-identity-19873/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21991",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19853",
+    "sku": "19853",
+    "gtin": "10160937",
+    "title": "Dispenser Portasacchetti Eco Nano Bon Ton Neon Fluo",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-bon-ton-fluo-19853/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277102/united-pets-dispenser-portasacchetti-bon-ton-fluo-giallo.jpg?v=638042718008200000"
+    ],
+    "price": {
+      "current": 7.6,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 380,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19853",
+        "sku": "19853",
+        "gtin": "10160937",
+        "title": "GIALLO",
+        "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-bon-ton-fluo-19853/p",
+        "price": {
+          "current": 7.6,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 380,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-dispenser-portasacchetti-bon-ton-fluo-19853p",
+        "name": "Dispenser Portasacchetti Eco Nano Bon Ton Neon Fluo",
+        "path": "/united-pets-dispenser-portasacchetti-bon-ton-fluo-19853/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22004",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19891",
+    "sku": "19891",
+    "gtin": "10160943",
+    "title": "Dispenser Portasacchetti Eco Nano Bon Ton Provencal",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-bon-ton-provencal-19891/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277139/united-pets-dispenser-portasacchetti-bon-ton-provencal-arancione.jpg?v=638042779145370000"
+    ],
+    "price": {
+      "current": 7.6,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 380,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19891",
+        "sku": "19891",
+        "gtin": "10160943",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/united-pets-dispenser-portasacchetti-bon-ton-provencal-19891/p",
+        "price": {
+          "current": 7.6,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 380,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-dispenser-portasacchetti-bon-ton-provencal-19891p",
+        "name": "Dispenser Portasacchetti Eco Nano Bon Ton Provencal",
+        "path": "/united-pets-dispenser-portasacchetti-bon-ton-provencal-19891/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22009",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19922",
+    "sku": "19922",
+    "gtin": "10160934",
+    "title": "Ricariche Refill Sacchetti per Bon Ton",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-ricariche-refill-sacchetti-per-bon-ton-19922/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278491/united-pets-ricariche-refill-sacchetti-per-bon-ton.jpg?v=638078125350670000"
+    ],
+    "price": {
+      "current": 11.24,
+      "original": 12.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 562,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19922",
+        "sku": "19922",
+        "gtin": "10160934",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/united-pets-ricariche-refill-sacchetti-per-bon-ton-19922/p",
+        "price": {
+          "current": 11.24,
+          "original": 12.49,
+          "pricePerUnit": {
+            "value": 562,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-ricariche-refill-sacchetti-per-bon-ton-19922p",
+        "name": "Ricariche Refill Sacchetti per Bon Ton",
+        "path": "/united-pets-ricariche-refill-sacchetti-per-bon-ton-19922/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22040",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "19904",
+    "sku": "19904",
+    "gtin": "10160941",
+    "title": "Dispenser Portasacchetti Eco Nano Bon Ton Madreperla",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/unites-pets-dispenser-portasacchetti-nano-bon-ton-madreperla-19904/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277121/unites-pets-dispenser-portasacchetti-nano-bon-ton-madreperla-grigio.jpg?v=638042737322200000"
+    ],
+    "price": {
+      "current": 7.6,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 380,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19904",
+        "sku": "19904",
+        "gtin": "10160941",
+        "title": "GRIGIO",
+        "url": "https://www.arcaplanet.it/unites-pets-dispenser-portasacchetti-nano-bon-ton-madreperla-19904/p",
+        "price": {
+          "current": 7.6,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 380,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "unites-pets-dispenser-portasacchetti-nano-bon-ton-madreperla-19904p",
+        "name": "Dispenser Portasacchetti Eco Nano Bon Ton Madreperla",
+        "path": "/unites-pets-dispenser-portasacchetti-nano-bon-ton-madreperla-19904/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22086",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "21462",
+    "sku": "21462",
+    "gtin": "10169096",
+    "title": "Dispenser Portasacchetti Poo Tpr 2x15",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/dispenser-portasacchetti-poo-tpr-2x15-21462/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286620/10169096.jpg?v=638211245803300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286621/10169096_2.jpg?v=638211246138270000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 269.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21462",
+        "sku": "21462",
+        "gtin": "10169096",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/dispenser-portasacchetti-poo-tpr-2x15-21462/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 269.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "dispenser-portasacchetti-poo-tpr-2x15-21462p",
+        "name": "Dispenser Portasacchetti Poo Tpr 2x15",
+        "path": "/dispenser-portasacchetti-poo-tpr-2x15-21462/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23551",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "21967",
+    "sku": "21967",
+    "gtin": "10149418",
+    "title": "Porta Snack",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/porta-snack-21967/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287835/porta-snack.jpg?v=638235381194300000"
+    ],
+    "price": {
+      "current": 2.5,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 125,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21967",
+        "sku": "21967",
+        "gtin": "10149418",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/porta-snack-21967/p",
+        "price": {
+          "current": 2.5,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 125,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "porta-snack-21967p",
+        "name": "Porta Snack",
+        "path": "/porta-snack-21967/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "24055",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "22440",
+    "sku": "22440",
+    "gtin": "10170009",
+    "title": "Dispenser Lola&Miguel Pulcino",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-dispenser-lola-e-miguel-pulcino-22440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290534/Dispenser-Lola-Miguel-Pulcino-10170008.jpg?v=638337593267500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290535/Dispenser-Lola-Miguel-Pulcino-10170008..jpg?v=638337593674370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290536/Dispenser-Lola-Miguel-Pulcino-10170008.jpg?v=638337593836500000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22440",
+        "sku": "22440",
+        "gtin": "10170009",
+        "title": "GIALLO",
+        "url": "https://www.arcaplanet.it/croci-dispenser-lola-e-miguel-pulcino-22440/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "croci-dispenser-lola-e-miguel-pulcino-22440p",
+        "name": "Dispenser Lola&Miguel Pulcino",
+        "path": "/croci-dispenser-lola-e-miguel-pulcino-22440/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24501",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "23317",
+    "sku": "23317",
+    "gtin": "10173241",
+    "title": "Dispencer Portasacchetti Spille",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/dispencer-portasacchetti-spille-23317/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295180/Dispencer-Portasacchetti-Spille-10173241.jpg?v=638436114479700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295183/Dispencer-Portasacchetti-Spille-10173241-1.jpg?v=638436116856770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295184/Dispencer-Portasacchetti-Spille-10173241-2.jpg?v=638436117411570000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23317",
+        "sku": "23317",
+        "gtin": "10173241",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/dispencer-portasacchetti-spille-23317/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "dispencer-portasacchetti-spille-23317p",
+        "name": "Dispencer Portasacchetti Spille",
+        "path": "/dispencer-portasacchetti-spille-23317/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25328",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "23318",
+    "sku": "23318",
+    "gtin": "10173240",
+    "title": "Dispencer Portasacchetti Catene Rosa",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/dispencer-portasacchetti-catene-rosa-23318/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295177/Dispencer-Portasacchetti-Catene-Rosa-10173240.jpg?v=638436111895700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295178/Dispencer-Portasacchetti-Catene-Rosa-10173240-1.jpg?v=638436112166530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295179/Dispencer-Portasacchetti-Catene-Rosa-10173240-2.jpg?v=638436112375630000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "23318",
+        "sku": "23318",
+        "gtin": "10173240",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/dispencer-portasacchetti-catene-rosa-23318/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "dispencer-portasacchetti-catene-rosa-23318p",
+        "name": "Dispencer Portasacchetti Catene Rosa",
+        "path": "/dispencer-portasacchetti-catene-rosa-23318/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25329",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "23319",
+    "sku": "23319",
+    "gtin": "10173239",
+    "title": "Dispencer Portasacchetti Tie Dye",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/dispencer-portasacchetti-tie-dye-23319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295174/Dispencer-Portasacchetti-Tie-Dye-10173239.jpg?v=638436110131730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295175/Dispencer-Portasacchetti-Tie-Dye-10173239-1.jpg?v=638436110291570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295176/Dispencer-Portasacchetti-Tie-Dye-10173239-2.jpg?v=638436110434700000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23319",
+        "sku": "23319",
+        "gtin": "10173239",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/dispencer-portasacchetti-tie-dye-23319/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "dispencer-portasacchetti-tie-dye-23319p",
+        "name": "Dispencer Portasacchetti Tie Dye",
+        "path": "/dispencer-portasacchetti-tie-dye-23319/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25330",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  },
+  {
+    "id": "23839",
+    "sku": "23839",
+    "gtin": "10173902",
+    "title": "Pet Around You Spring Walk Porta Sacchetti Igienici Mix Color",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/lovedi-porta-sacchetti-igienici-mix-color-23839/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313777/Lovedi-Porta-Sacchetti-Igienici-Mix-Color-10173902-1.jpg?v=638712464436470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313778/Lovedi-Porta-Sacchetti-Igienici-Mix-Color-10173902-2.jpg?v=638712464555630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313779/Lovedi-Porta-Sacchetti-Igienici-Mix-Color-10173902-3.jpg?v=638712465465700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313780/Lovedi-Porta-Sacchetti-Igienici-Mix-Color-10173902-4.jpg?v=638712465613930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313781/Lovedi-Porta-Sacchetti-Igienici-Mix-Color-10173902-5.jpg?v=638712465811270000"
+    ],
+    "price": {
+      "current": 5.9,
+      "original": 5.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 295,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23839",
+        "sku": "23839",
+        "gtin": "10173902",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-porta-sacchetti-igienici-mix-color-23839/p",
+        "price": {
+          "current": 5.9,
+          "original": 5.9,
+          "pricePerUnit": {
+            "value": 295,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneportasacchetti",
+        "name": "Portasacchetti",
+        "path": "/cane/igiene/portasacchetti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-porta-sacchetti-igienici-mix-color-23839p",
+        "name": "Pet Around You Spring Walk Porta Sacchetti Igienici Mix Color",
+        "path": "/lovedi-porta-sacchetti-igienici-mix-color-23839/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25850",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:34:47.107Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/portasacchetti/"
+  }
+]

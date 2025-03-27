@@ -1,0 +1,666 @@
+[
+  {
+    "id": "6593",
+    "sku": "6593",
+    "gtin": "00040053",
+    "title": "Tartarughiera",
+    "brand": "GEORPLAST",
+    "url": "https://www.arcaplanet.it/geo-tartarughiera-54x40xh14-cm-6593/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257801/tartarughiera-geo1.jpg?v=637588198763970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257803/tartarughiera-geo2.jpg?v=637588199055600000"
+    ],
+    "price": {
+      "current": 6.93,
+      "original": 9.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 346.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6593",
+        "sku": "6593",
+        "gtin": "00040053",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/geo-tartarughiera-54x40xh14-cm-6593/p",
+        "price": {
+          "current": 6.93,
+          "original": 9.9,
+          "pricePerUnit": {
+            "value": 346.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/tartarughe/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "geo-tartarughiera-54x40xh14-cm-6593p",
+        "name": "Tartarughiera",
+        "path": "/geo-tartarughiera-54x40xh14-cm-6593/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "10500",
+    "sku": "10500",
+    "gtin": "00036616",
+    "title": "Turtle Dock",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/isola-turtle-dock-10500/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222241/isola-turtle-dock-sm.jpg?v=637454719948100000"
+    ],
+    "price": {
+      "current": 14.69,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 734.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10500",
+        "sku": "10500",
+        "gtin": "00036616",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/isola-turtle-dock-10500/p",
+        "price": {
+          "current": 14.69,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 734.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "isola-turtle-dock-10500p",
+        "name": "Turtle Dock",
+        "path": "/isola-turtle-dock-10500/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10125",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "10735",
+    "sku": "10735",
+    "gtin": "10077754",
+    "title": "Gabbia per Tartarughe Playpen",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gabbia-per-tartarughe-playpen-10735/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223464/gabbia-per-tartarughe-playpen.jpg?v=637454732377700000"
+    ],
+    "price": {
+      "current": 97.99,
+      "original": 139.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4899.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10735",
+        "sku": "10735",
+        "gtin": "10077754",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gabbia-per-tartarughe-playpen-10735/p",
+        "price": {
+          "current": 97.99,
+          "original": 139.99,
+          "pricePerUnit": {
+            "value": 4899.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/tartarughe/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "gabbia-per-tartarughe-playpen-10735p",
+        "name": "Gabbia per Tartarughe Playpen",
+        "path": "/gabbia-per-tartarughe-playpen-10735/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10329",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "11228",
+    "sku": "11228",
+    "gtin": "00037031",
+    "title": "Ventose di ricambio per Isola Turtle Dock",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/isola-turtle-dock-ventose-ric-pz-4-11228/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254245/Isola_Tartarughe_Turtle_Dock--1-.jpg?v=637546824287370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222370/isola-turtle-dock-ventose-ric--pz-4.jpg?v=637454721210300000"
+    ],
+    "price": {
+      "current": 2.09,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 104.49999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11228",
+        "sku": "11228",
+        "gtin": "00037031",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/isola-turtle-dock-ventose-ric-pz-4-11228/p",
+        "price": {
+          "current": 2.09,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 104.49999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "isola-turtle-dock-ventose-ric-pz-4-11228p",
+        "name": "Ventose di ricambio per Isola Turtle Dock",
+        "path": "/isola-turtle-dock-ventose-ric-pz-4-11228/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10822",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "11398",
+    "sku": "11398",
+    "gtin": "10118939",
+    "title": "Amtra Tartarughiera Giglio",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-tartarughiera-giglio-11398/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254710/amtra-tartarughiera-giglio-40.jpg?v=637553872311270000"
+    ],
+    "price": {
+      "current": 80.49,
+      "original": 114.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4024.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11398",
+        "sku": "11398",
+        "gtin": "10118939",
+        "title": "CM.40",
+        "url": "https://www.arcaplanet.it/amtra-tartarughiera-giglio-11398/p",
+        "price": {
+          "current": 80.49,
+          "original": 114.99,
+          "pricePerUnit": {
+            "value": 4024.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/tartarughe/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "amtra-tartarughiera-giglio-11398p",
+        "name": "Amtra Tartarughiera Giglio",
+        "path": "/amtra-tartarughiera-giglio-11398/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10993",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "11904",
+    "sku": "11904",
+    "gtin": "10045610",
+    "title": "Tetra Reptosafe 100ML",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/reptosafe-ml-100-pz12-11904/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222106/reptosafe-ml-100-pz12.jpg?v=637454718667900000"
+    ],
+    "price": {
+      "current": 3.47,
+      "original": 4.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 34.7,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11904",
+        "sku": "11904",
+        "gtin": "10045610",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/reptosafe-ml-100-pz12-11904/p",
+        "price": {
+          "current": 3.47,
+          "original": 4.95,
+          "pricePerUnit": {
+            "value": 34.7,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessoritrattamento-acqua",
+        "name": "Trattamento acqua",
+        "path": "/piccoli-animali/tartarughe/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "reptosafe-ml-100-pz12-11904p",
+        "name": "Tetra Reptosafe 100ML",
+        "path": "/reptosafe-ml-100-pz12-11904/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11928",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  },
+  {
+    "id": "12955",
+    "sku": "12955",
+    "gtin": "10137833",
+    "title": "Tartarughiera Panarea",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/tartarughiera-panarea-12955/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265596/croci-tartarughiera-panarea-verde.jpg?v=637732003189700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265597/croci-tartarughiera-panarea-blu.jpg?v=637732003279830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265598/croci-tartarughiera-panarea-rosa.jpg?v=637732003372230000"
+    ],
+    "price": {
+      "current": 39.89,
+      "original": 56.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1994.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12955",
+        "sku": "12955",
+        "gtin": "10137833",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tartarughiera-panarea-12955/p",
+        "price": {
+          "current": 39.89,
+          "original": 56.99,
+          "pricePerUnit": {
+            "value": 1994.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/tartarughe/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/tartarughe/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "tartarughiera-panarea-12955p",
+        "name": "Tartarughiera Panarea",
+        "path": "/tartarughiera-panarea-12955/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15092",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:20:20.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/accessori/"
+  }
+]

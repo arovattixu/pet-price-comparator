@@ -1,0 +1,3761 @@
+[
+  {
+    "id": "4309",
+    "sku": "4309",
+    "gtin": "10120945",
+    "title": "Tiragraffi Tavoletta Shape",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-tavoletta-shape-cm-21x58-beige-4309/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209049/Tavoletta-tiragraffi-Lovedi-cat-Shape.jpg?v=637413981728000000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4309",
+        "sku": "4309",
+        "gtin": "10120945",
+        "title": "BEIGE",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-tavoletta-shape-cm-21x58-beige-4309/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffipensile",
+        "name": "Pensile",
+        "path": "/gatto/tiragraffi/pensile/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-tiragraffi-tavoletta-shape-cm-21x58-beige-4309p",
+        "name": "Tiragraffi Tavoletta Shape",
+        "path": "/lovedi-gatto-tiragraffi-tavoletta-shape-cm-21x58-beige-4309/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4198",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "4826",
+    "sku": "4826",
+    "gtin": "10077275",
+    "title": "Tiragraffi da Gamba del Tavolo",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige-cm-60-4826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223235/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige.jpg?v=637454730013800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/239145/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige.jpg?v=637454970516800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/239146/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige.jpg?v=637454970527770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/239147/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige.jpg?v=637454970538070000"
+    ],
+    "price": {
+      "current": 22.49,
+      "original": 22.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1124.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4826",
+        "sku": "4826",
+        "gtin": "10077275",
+        "title": "CM.60",
+        "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige-cm-60-4826/p",
+        "price": {
+          "current": 22.49,
+          "original": 22.49,
+          "pricePerUnit": {
+            "value": 1124.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige-cm-60-4826p",
+        "name": "Tiragraffi da Gamba del Tavolo",
+        "path": "/croci-gatto-tiragraffi-cat-scratcher-da-gamba-beige-cm-60-4826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4707",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "5185",
+    "sku": "5185",
+    "gtin": "10075580",
+    "title": "Croci Tiragraffi Gatto in Cartone Fish",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce-44-5185/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223407/croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce.jpg?v=638766911193470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318004/croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce-44-10075580.jpg.jpg?v=638766916617800000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 38
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5185",
+        "sku": "5185",
+        "gtin": "10075580",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce-44-5185/p",
+        "price": {
+          "current": 7.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.44"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce-44-5185p",
+        "name": "Croci Tiragraffi Gatto in Cartone Fish",
+        "path": "/croci-gatto-tiragraffi-cartone-fish-con-catnip-pesce-44-5185/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5064",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "6320",
+    "sku": "6320",
+    "gtin": "10111268",
+    "title": "Tappetino Sisal Peluche",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gatto-gioco-tappetino-sisal-peluche-cm-60x33x42-6320/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257444/43114--2-.jpg?v=637581290772570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257445/43114.jpg?v=637581290991670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257446/43114-5.jpg?v=637581291206830000"
+    ],
+    "price": {
+      "current": 33.99,
+      "original": 33.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6320",
+        "sku": "6320",
+        "gtin": "10111268",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-gatto-gioco-tappetino-sisal-peluche-cm-60x33x42-6320/p",
+        "price": {
+          "current": 33.99,
+          "original": 33.99,
+          "pricePerUnit": {
+            "value": 1699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/gatto/accessori/cucce-e-lettini/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettinitappeti",
+        "name": "Tappeti",
+        "path": "/gatto/accessori/cucce-e-lettini/tappeti/",
+        "level": 5
+      },
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "trixie-gatto-gioco-tappetino-sisal-peluche-cm-60x33x42-6320p",
+        "name": "Tappetino Sisal Peluche",
+        "path": "/trixie-gatto-gioco-tappetino-sisal-peluche-cm-60x33x42-6320/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6166",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "6535",
+    "sku": "6535",
+    "gtin": "10067558",
+    "title": "Tiragraffi Tavoletta da Appendere",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-tavoletta-da-appendere-cm-15x50cm-6535/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222668/croci-gatto-tiragraffi-tavoletta-da-appendere.jpg?v=637454724381930000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6535",
+        "sku": "6535",
+        "gtin": "10067558",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-tavoletta-da-appendere-cm-15x50cm-6535/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "croci-gatto-tiragraffi-tavoletta-da-appendere-cm-15x50cm-6535p",
+        "name": "Tiragraffi Tavoletta da Appendere",
+        "path": "/croci-gatto-tiragraffi-tavoletta-da-appendere-cm-15x50cm-6535/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6379",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "24012",
+    "sku": "24012",
+    "gtin": "10174077",
+    "title": "Tiragraffi Lincoln Nero",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-lincoln-peluche-cm-15x35-nero-24012/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312101/Lovedi-Tiragraffi-Lincoln-Peluche-Grigio-10174077.jpg?v=638684697498400000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24012",
+        "sku": "24012",
+        "gtin": "10174077",
+        "title": "15X35CM",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-lincoln-peluche-cm-15x35-nero-24012/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-tiragraffi-lincoln-peluche-cm-15x35-nero-24012p",
+        "name": "Tiragraffi Lincoln Nero",
+        "path": "/lovedi-gatto-tiragraffi-lincoln-peluche-cm-15x35-nero-24012/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6470",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "6747",
+    "sku": "6747",
+    "gtin": "10077770",
+    "title": "Croci Tiragraffi Gatto Casetta in Cartone",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-6747/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317997/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--4-.jpg.jpg?v=638766857447530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317998/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--5-.jpg.jpg?v=638766857447570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317999/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--6-.jpg.jpg?v=638766857447600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318000/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--1-.jpg.jpg?v=638766857447600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318001/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--7-.jpg.jpg?v=638766857447630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318002/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--2-.jpg.jpg?v=638766857447670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318003/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-10077770--3-.jpg.jpg?v=638766857447670000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6747",
+        "sku": "6747",
+        "gtin": "10077770",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-6747/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-6747p",
+        "name": "Croci Tiragraffi Gatto Casetta in Cartone",
+        "path": "/croci-gatto-tiragraffi-casetta-in-cartone-cm-50x38x35-6747/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6588",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "24014",
+    "sku": "24014",
+    "gtin": "10174079",
+    "title": "Tiragraffi Tappeto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-carpet-peluche-cm-55x35-grigio-grigio-24014/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312107/Lovedi-Tiragraffi-Carpet-Peluche-10174079.jpg?v=638684722072670000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24014",
+        "sku": "24014",
+        "gtin": "10174079",
+        "title": "ANTRACITE",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-carpet-peluche-cm-55x35-grigio-grigio-24014/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffipensile",
+        "name": "Pensile",
+        "path": "/gatto/tiragraffi/pensile/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-tiragraffi-carpet-peluche-cm-55x35-grigio-grigio-24014p",
+        "name": "Tiragraffi Tappeto",
+        "path": "/lovedi-gatto-tiragraffi-carpet-peluche-cm-55x35-grigio-grigio-24014/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6887",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "24013",
+    "sku": "24013",
+    "gtin": "10174078",
+    "title": "Lovedì Tiragraffi North Pole",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-north-pole-cm-42-24013/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312103/Lovedi-Tiragraffi-North-Pole-10174078-.jpg?v=638684713502170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312104/Lovedi-Tiragraffi-North-Pole-10174078.jpg?v=638684713578200000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24013",
+        "sku": "24013",
+        "gtin": "10174078",
+        "title": "42CM",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-north-pole-cm-42-24013/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-tiragraffi-north-pole-cm-42-24013p",
+        "name": "Lovedì Tiragraffi North Pole",
+        "path": "/lovedi-gatto-tiragraffi-north-pole-cm-42-24013/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7032",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "8250",
+    "sku": "8250",
+    "gtin": "10076500",
+    "title": "Tiragraffi Natural Lilium",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-natural-gatto-lilium-cm-40x40x52-8250/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223448/croci-natural-gatto-lilium.jpg?v=637454732165500000"
+    ],
+    "price": {
+      "current": 27.5,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1375,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8250",
+        "sku": "8250",
+        "gtin": "10076500",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-natural-gatto-lilium-cm-40x40x52-8250/p",
+        "price": {
+          "current": 27.5,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 1375,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "croci-natural-gatto-lilium-cm-40x40x52-8250p",
+        "name": "Tiragraffi Natural Lilium",
+        "path": "/croci-natural-gatto-lilium-cm-40x40x52-8250/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8077",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "20052",
+    "sku": "20052",
+    "gtin": "10161103",
+    "title": "Tiragraffi Montana Due Cucce",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/tiragraffi-montana-due-cucce-20052/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277878/zolux-tiragraffi-montana-148.jpg?v=638054218799130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277879/zolux-tiragraffi-montana-148-view.jpg?v=638054218886200000"
+    ],
+    "price": {
+      "current": 111.92,
+      "original": 144.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5596,
+        "unit": "none"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20052",
+        "sku": "20052",
+        "gtin": "10161103",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/tiragraffi-montana-due-cucce-20052/p",
+        "price": {
+          "current": 111.92,
+          "original": 144.99,
+          "pricePerUnit": {
+            "value": 5596,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "tiragraffi-montana-due-cucce-20052p",
+        "name": "Tiragraffi Montana Due Cucce",
+        "path": "/tiragraffi-montana-due-cucce-20052/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8294",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "8511",
+    "sku": "8511",
+    "gtin": "00006454",
+    "title": "Tiragraffi Badalona Beige",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gatto-tiragraffi-badalona-beige-109cm-8511/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223801/trixie-gatto-tiragraffi-badalona-beige.jpg?v=637454735937700000"
+    ],
+    "price": {
+      "current": 54.99,
+      "original": 81.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8511",
+        "sku": "8511",
+        "gtin": "00006454",
+        "title": "CM.109",
+        "url": "https://www.arcaplanet.it/trixie-gatto-tiragraffi-badalona-beige-109cm-8511/p",
+        "price": {
+          "current": 54.99,
+          "original": 81.99,
+          "pricePerUnit": {
+            "value": 2749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.109"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "trixie-gatto-tiragraffi-badalona-beige-109cm-8511p",
+        "name": "Tiragraffi Badalona Beige",
+        "path": "/trixie-gatto-tiragraffi-badalona-beige-109cm-8511/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8338",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "8513",
+    "sku": "8513",
+    "gtin": "10120935",
+    "title": "Tiragraffi Columbus",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-columbus-cm-40x30-8513/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207673/Lovedi-tiragraffi-Columbus.jpg?v=637413960593100000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8513",
+        "sku": "8513",
+        "gtin": "10120935",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-tiragraffi-columbus-cm-40x30-8513/p",
+        "price": {
+          "current": 25.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 1299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-tiragraffi-columbus-cm-40x30-8513p",
+        "name": "Tiragraffi Columbus",
+        "path": "/lovedi-gatto-tiragraffi-columbus-cm-40x30-8513/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8340",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "20051",
+    "sku": "20051",
+    "gtin": "10161102",
+    "title": "Tiragraffi Montana Una Cuccia",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/tiragraffi-montana-una-cuccia-20051/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277874/zolux-tiragraffi-montana-105-view.jpg?v=638054218104300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277875/zolux-tiragraffi-montana-105.jpg?v=638054218222230000"
+    ],
+    "price": {
+      "current": 75.92,
+      "original": 98.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3796,
+        "unit": "none"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20051",
+        "sku": "20051",
+        "gtin": "10161102",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/tiragraffi-montana-una-cuccia-20051/p",
+        "price": {
+          "current": 75.92,
+          "original": 98.99,
+          "pricePerUnit": {
+            "value": 3796,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "tiragraffi-montana-una-cuccia-20051p",
+        "name": "Tiragraffi Montana Una Cuccia",
+        "path": "/tiragraffi-montana-una-cuccia-20051/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8740",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "9410",
+    "sku": "9410",
+    "gtin": "10111559",
+    "title": "Tiragraffi Colocolo",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/tiragraffi-colocolo-9410/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227480/yes-colocolo-gatto-tiragraffi-beige.jpg?v=638748663940930000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9410",
+        "sku": "9410",
+        "gtin": "10111559",
+        "title": "BEIGE",
+        "url": "https://www.arcaplanet.it/tiragraffi-colocolo-9410/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "tiragraffi-colocolo-9410p",
+        "name": "Tiragraffi Colocolo",
+        "path": "/tiragraffi-colocolo-9410/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9230",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16353",
+    "sku": "16353",
+    "gtin": "10155862",
+    "title": "Tiragraffi California",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tiragraffi-california-16353/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278745/lovedi-tiragraffi-california.jpg?v=638091168002100000"
+    ],
+    "price": {
+      "current": 54.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16353",
+        "sku": "16353",
+        "gtin": "10155862",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-tiragraffi-california-16353/p",
+        "price": {
+          "current": 54.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 2749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-tiragraffi-california-16353p",
+        "name": "Tiragraffi California",
+        "path": "/lovedi-tiragraffi-california-16353/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18490",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16354",
+    "sku": "16354",
+    "gtin": "10155863",
+    "title": "Tiragraffi Alaska",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tiragraffi-alaska-16354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278740/lovedi-tiragraffi-alaska.jpg?v=638091140340370000"
+    ],
+    "price": {
+      "current": 66.99,
+      "original": 66.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3349.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16354",
+        "sku": "16354",
+        "gtin": "10155863",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-tiragraffi-alaska-16354/p",
+        "price": {
+          "current": 66.99,
+          "original": 66.99,
+          "pricePerUnit": {
+            "value": 3349.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-tiragraffi-alaska-16354p",
+        "name": "Tiragraffi Alaska",
+        "path": "/lovedi-tiragraffi-alaska-16354/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18491",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16357",
+    "sku": "16357",
+    "gtin": "10155866",
+    "title": "Tiragraffi Cactus",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tiragraffi-cactus-16357/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279003/cactus-tiragraffi.jpg?v=638097356576470000"
+    ],
+    "price": {
+      "current": 66.99,
+      "original": 66.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3349.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16357",
+        "sku": "16357",
+        "gtin": "10155866",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-tiragraffi-cactus-16357/p",
+        "price": {
+          "current": 66.99,
+          "original": 66.99,
+          "pricePerUnit": {
+            "value": 3349.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-tiragraffi-cactus-16357p",
+        "name": "Tiragraffi Cactus",
+        "path": "/lovedi-tiragraffi-cactus-16357/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18494",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16361",
+    "sku": "16361",
+    "gtin": "10155870",
+    "title": "Tiragraffi Maine",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/tiragraffi-maine-16361/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277674/ap20036.jpg?v=638048794181530000"
+    ],
+    "price": {
+      "current": 73.99,
+      "original": 73.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3699.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16361",
+        "sku": "16361",
+        "gtin": "10155870",
+        "title": "61X45X105 CM.",
+        "url": "https://www.arcaplanet.it/tiragraffi-maine-16361/p",
+        "price": {
+          "current": 73.99,
+          "original": 73.99,
+          "pricePerUnit": {
+            "value": 3699.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "tiragraffi-maine-16361p",
+        "name": "Tiragraffi Maine",
+        "path": "/tiragraffi-maine-16361/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18498",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16460",
+    "sku": "16460",
+    "gtin": "10152012",
+    "title": "Fit and Fun Cat Tiragraffi Triangoli Verde",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-tavola-tiragraffi-triangoli-verde-16460/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285852/d6dbcf7085776d42aef859ef72cdc107977ea214_33af5a41930cb85d643366332de5493875bb6f86--1-.jpg?v=638199283608000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318892/fit-and-fun-tavola-tiragraffi-triangoli-verde-10152012.jpg.jpg?v=638778144162300000"
+    ],
+    "price": {
+      "current": 9.34,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 467,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16460",
+        "sku": "16460",
+        "gtin": "10152012",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-tavola-tiragraffi-triangoli-verde-16460/p",
+        "price": {
+          "current": 9.34,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 467,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "Color": "VERDE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-tavola-tiragraffi-triangoli-verde-16460p",
+        "name": "Fit and Fun Cat Tiragraffi Triangoli Verde",
+        "path": "/fit-and-fun-tavola-tiragraffi-triangoli-verde-16460/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18588",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16596",
+    "sku": "16596",
+    "gtin": "10150919",
+    "title": "Anione Tiragraffi Emilie",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tiragraffi-emilie-16596/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286811/aeb69a080bb767ee30536f49509301d3e3291160_02e0f62a2b6e80996c453e2247c19df522ddc7cb--1-.jpg?v=638216522454370000"
+    ],
+    "price": {
+      "current": 129,
+      "original": 129,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6450,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16596",
+        "sku": "16596",
+        "gtin": "10150919",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tiragraffi-emilie-16596/p",
+        "price": {
+          "current": 129,
+          "original": 129,
+          "pricePerUnit": {
+            "value": 6450,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "anione-tiragraffi-emilie-16596p",
+        "name": "Anione Tiragraffi Emilie",
+        "path": "/anione-tiragraffi-emilie-16596/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18717",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16800",
+    "sku": "16800",
+    "gtin": "10149166",
+    "title": "Fit and Fun Cat Tiragraffi S",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-tiragraffi-16800/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318872/fit-and-fun-tiragraffi-10149166--5-.jpg.jpg?v=638778092593030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318873/fit-and-fun-tiragraffi-10149166--6-.jpg.jpg?v=638778092593200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318874/fit-and-fun-tiragraffi-10149166--2-.jpg.jpg?v=638778092593200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318875/fit-and-fun-tiragraffi-10149166--1-.jpg.jpg?v=638778092593200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318876/fit-and-fun-tiragraffi-10149166--3-.jpg.jpg?v=638778092593200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318877/fit-and-fun-tiragraffi-10149166--4-.jpg.jpg?v=638778092593200000"
+    ],
+    "price": {
+      "current": 26.34,
+      "original": 30.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1317,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16800",
+        "sku": "16800",
+        "gtin": "10149166",
+        "title": "BEIGE",
+        "url": "https://www.arcaplanet.it/fit-and-fun-tiragraffi-16800/p",
+        "price": {
+          "current": 26.34,
+          "original": 30.99,
+          "pricePerUnit": {
+            "value": 1317,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-tiragraffi-16800p",
+        "name": "Fit and Fun Cat Tiragraffi S",
+        "path": "/fit-and-fun-tiragraffi-16800/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18918",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16837",
+    "sku": "16837",
+    "gtin": "10145628",
+    "title": "Anione Tavola Tiragraffi in Cartone",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tavola-tiragraffi-in-cartone-16837/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286789/74dbde21fa719a7fa064a3af41293d0e92a351f0_99954058b62c4e1b104176d3e6e21fb3d797f107.jpg?v=638216507715630000"
+    ],
+    "price": {
+      "current": 8.79,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 439.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16837",
+        "sku": "16837",
+        "gtin": "10145628",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tavola-tiragraffi-in-cartone-16837/p",
+        "price": {
+          "current": 8.79,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 439.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "anione-tavola-tiragraffi-in-cartone-16837p",
+        "name": "Anione Tavola Tiragraffi in Cartone",
+        "path": "/anione-tavola-tiragraffi-in-cartone-16837/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18955",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "16877",
+    "sku": "16877",
+    "gtin": "10154697",
+    "title": "Fit and Fun Tiragraffi Angolo Fudo",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-tiragraffi-angolo-fudo-16877/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283518/0a9ebfbbbc8b4aceadb66599553257602af36ac9_6bdf21afad577845a0638dc698f6b3d2da66507b--1-.jpg?v=638164597769230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297052/Fit-and-Fun-Tiragraffi-Angolo-Fudo-10154697.jpg?v=638459372473930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297053/Fit-and-Fun-Tiragraffi-Angolo-Fudo-10154697..jpg?v=638459372574500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297054/Fit-and-Fun-Tiragraffi-Angolo-Fudo-10154697.jpg?v=638459372659670000"
+    ],
+    "price": {
+      "current": 42.49,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2124.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16877",
+        "sku": "16877",
+        "gtin": "10154697",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-tiragraffi-angolo-fudo-16877/p",
+        "price": {
+          "current": 42.49,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2124.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-tiragraffi-angolo-fudo-16877p",
+        "name": "Fit and Fun Tiragraffi Angolo Fudo",
+        "path": "/fit-and-fun-tiragraffi-angolo-fudo-16877/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18995",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "17998",
+    "sku": "17998",
+    "gtin": "10154901",
+    "title": "Anione Tiragraffi Lizzie",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tiragraffi-lizzie-17998/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284719/dc62f3761fca795c2d1cb3a902e2f35431a81e4f_1358077__de_DE__AniOne_Kratpappe_Lizzy_main--1-.jpg?v=638186185718870000"
+    ],
+    "price": {
+      "current": 15.19,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 759.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17998",
+        "sku": "17998",
+        "gtin": "10154901",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tiragraffi-lizzie-17998/p",
+        "price": {
+          "current": 15.19,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 759.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "anione-tiragraffi-lizzie-17998p",
+        "name": "Anione Tiragraffi Lizzie",
+        "path": "/anione-tiragraffi-lizzie-17998/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20116",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "18121",
+    "sku": "18121",
+    "gtin": "10154054",
+    "title": "Anione Tappeto Tiragraffi Grigio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappeto-tiragraffi-grigio-18121/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283794/b5268d2826fcc61414299ef5e4ac700fc052ea1a_5ad47b5193e25f2077ab071a24e006e498e9f165--1-.jpg?v=638169776849100000"
+    ],
+    "price": {
+      "current": 9.59,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 479.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18121",
+        "sku": "18121",
+        "gtin": "10154054",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tappeto-tiragraffi-grigio-18121/p",
+        "price": {
+          "current": 9.59,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 479.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffipensile",
+        "name": "Pensile",
+        "path": "/gatto/tiragraffi/pensile/",
+        "level": 4
+      },
+      {
+        "id": "anione-tappeto-tiragraffi-grigio-18121p",
+        "name": "Anione Tappeto Tiragraffi Grigio",
+        "path": "/anione-tappeto-tiragraffi-grigio-18121/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20239",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "18634",
+    "sku": "18634",
+    "gtin": "10151685",
+    "title": "Anione Ricambio Corda per Tiragraffi",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ricambio-corda-per-tiragraffi-18634/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283791/8313be74586103a55c41e8fbaa0b83968f0db4d0_c3ba2134356aacc1be100083956fc9966cf44c3b--1-.jpg?v=638169768829370000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18634",
+        "sku": "18634",
+        "gtin": "10151685",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/anione-ricambio-corda-per-tiragraffi-18634/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "anione-ricambio-corda-per-tiragraffi-18634p",
+        "name": "Anione Ricambio Corda per Tiragraffi",
+        "path": "/anione-ricambio-corda-per-tiragraffi-18634/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20752",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "19427",
+    "sku": "19427",
+    "gtin": "10153499",
+    "title": "Anione Tiragraffi in Carta",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tiragraffi-in-carta-19427/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284704/1337051-416x165--1-.jpg?v=638186162735500000"
+    ],
+    "price": {
+      "current": 1.5,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 75,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19427",
+        "sku": "19427",
+        "gtin": "10153499",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tiragraffi-in-carta-19427/p",
+        "price": {
+          "current": 1.5,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "anione-tiragraffi-in-carta-19427p",
+        "name": "Anione Tiragraffi in Carta",
+        "path": "/anione-tiragraffi-in-carta-19427/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21545",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "20050",
+    "sku": "20050",
+    "gtin": "10161101",
+    "title": "Tiragraffi Montana Basic",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-tiragraffi-montana-20050/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277876/zolux-tiragraffi-montana-55.jpg?v=638054218438530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277877/zolux-tiragraffi-montana-55-view.jpg?v=638054218516400000"
+    ],
+    "price": {
+      "current": 51.99,
+      "original": 57.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20050",
+        "sku": "20050",
+        "gtin": "10161101",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/zolux-tiragraffi-montana-20050/p",
+        "price": {
+          "current": 51.99,
+          "original": 57.99,
+          "pricePerUnit": {
+            "value": 2599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.55"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "zolux-tiragraffi-montana-20050p",
+        "name": "Tiragraffi Montana Basic",
+        "path": "/zolux-tiragraffi-montana-20050/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22168",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "20316",
+    "sku": "20316",
+    "gtin": "10166099",
+    "title": "Yes! Tiragraffi in Cartone Circle",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-tiragraffi-in-cartone-circle-20316/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286934/11814_01_mod--1-.jpg?v=638221730575200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286935/11814_02_mod--1-.jpg?v=638756466959070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286936/11814_03_mod--1-.jpg?v=638756466959070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286937/11814_04_mod--1-.jpg?v=638756466959070000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20316",
+        "sku": "20316",
+        "gtin": "10166099",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/yes-tiragraffi-in-cartone-circle-20316/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "yes-tiragraffi-in-cartone-circle-20316p",
+        "name": "Yes! Tiragraffi in Cartone Circle",
+        "path": "/yes-tiragraffi-in-cartone-circle-20316/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22434",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "21906",
+    "sku": "21906",
+    "gtin": "10149560",
+    "title": "More Tiragraffi Boogie Ricambio Colonna in Sisal",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-tiragraffi-boogie-ricambio-colonna-in-sisal-21906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287791/0bc1a862fcbab38771aafc7b8ba9bf4dad8277e4_586559491f18f90fff73e20c13fe9417d31db068--1-.jpg?v=638234670528200000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 674.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21906",
+        "sku": "21906",
+        "gtin": "10149560",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/more-tiragraffi-boogie-ricambio-colonna-in-sisal-21906/p",
+        "price": {
+          "current": 13.49,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 674.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "more-tiragraffi-boogie-ricambio-colonna-in-sisal-21906p",
+        "name": "More Tiragraffi Boogie Ricambio Colonna in Sisal",
+        "path": "/more-tiragraffi-boogie-ricambio-colonna-in-sisal-21906/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23994",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "21792",
+    "sku": "21792",
+    "gtin": "10145649",
+    "title": "More Tiragraffi Charlie Ricambio Colonna in Sisal Grigia",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-tiragraffi-charlie-ricambio-colonna-in-sisal-grigia-21792/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287782/862a48163ed65e6fc96e0a3a7b15e5cc866c3608_7665daad1e8f5ad611b19e0c99c70910ed4291ce--1-.jpg?v=638234651479500000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21792",
+        "sku": "21792",
+        "gtin": "10145649",
+        "title": "F",
+        "url": "https://www.arcaplanet.it/more-tiragraffi-charlie-ricambio-colonna-in-sisal-grigia-21792/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffiarredo",
+        "name": "Arredo",
+        "path": "/gatto/tiragraffi/arredo/",
+        "level": 4
+      },
+      {
+        "id": "more-tiragraffi-charlie-ricambio-colonna-in-sisal-grigia-21792p",
+        "name": "More Tiragraffi Charlie Ricambio Colonna in Sisal Grigia",
+        "path": "/more-tiragraffi-charlie-ricambio-colonna-in-sisal-grigia-21792/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23999",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "22527",
+    "sku": "22527",
+    "gtin": "10170101",
+    "title": "Yes! Tiragraffi Candy Tree",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-tiragraffi-candy-tree-22527/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300532/Yes--Tiragraffi-Candy-Tree-10170101-1.jpg?v=638502337243670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300533/Yes--Tiragraffi-Candy-Tree-10170101-2.jpg?v=638502337318630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300534/Yes--Tiragraffi-Candy-Tree-10170101-3.jpg?v=638502337395170000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22527",
+        "sku": "22527",
+        "gtin": "10170101",
+        "title": "GRIGIO",
+        "url": "https://www.arcaplanet.it/yes-tiragraffi-candy-tree-22527/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "yes-tiragraffi-candy-tree-22527p",
+        "name": "Yes! Tiragraffi Candy Tree",
+        "path": "/yes-tiragraffi-candy-tree-22527/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24574",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "22730",
+    "sku": "22730",
+    "gtin": "10170311",
+    "title": "Lovedì Tiragraffi di Natale Rotondo",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tiragraffi-di-natale-rotondo-22730/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291762/Lovedi-Tiragraffi-di-Natale-Rotondo-10170311..jpg?v=638352243222230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291763/Lovedi-Tiragraffi-di-Natale-Rotondo-10170311.jpg?v=638352243304030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291764/Lovedi-Tiragraffi-di-Natale-Rotondo-10170311...jpg?v=638352243442030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291765/Lovedi-Tiragraffi-di-Natale-Rotondo-10170311.jpg?v=638352243545870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291767/Lovedi-Tiragraffi-di-Natale-Rotondo-10170311.jpg?v=638352245089300000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22730",
+        "sku": "22730",
+        "gtin": "10170311",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-tiragraffi-di-natale-rotondo-22730/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "lovedi-tiragraffi-di-natale-rotondo-22730p",
+        "name": "Lovedì Tiragraffi di Natale Rotondo",
+        "path": "/lovedi-tiragraffi-di-natale-rotondo-22730/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24750",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "22731",
+    "sku": "22731",
+    "gtin": "10170312",
+    "title": "Lovedì Tiragraffi di Natale Rettangolare",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-tiragraffi-di-natale-rettangolare-22731/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291741/Lovedi-Tiragraffi-di-Natale-Rettangolare-10170312.jpg?v=638352184984970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291742/Lovedi-Tiragraffi-di-Natale-Rettangolare-10170312..jpg?v=638755072331100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291743/Lovedi-Tiragraffi-di-Natale-Rettangolare-10170312.jpg?v=638755072331270000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22731",
+        "sku": "22731",
+        "gtin": "10170312",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-tiragraffi-di-natale-rettangolare-22731/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "lovedi-tiragraffi-di-natale-rettangolare-22731p",
+        "name": "Lovedì Tiragraffi di Natale Rettangolare",
+        "path": "/lovedi-tiragraffi-di-natale-rettangolare-22731/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24751",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "22765",
+    "sku": "22765",
+    "gtin": "10170348",
+    "title": "Croci Gioco Gatto Corda Youpi da 12CM",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-gatto-corda-youpi-12-cm-22765/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290774/Croci-Gioco-Gatto-Corda-Youpi-da-12CM-10170348.jpg?v=638339947011000000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22765",
+        "sku": "22765",
+        "gtin": "10170348",
+        "title": "ROSA",
+        "url": "https://www.arcaplanet.it/croci-gioco-gatto-corda-youpi-12-cm-22765/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "croci-gioco-gatto-corda-youpi-12-cm-22765p",
+        "name": "Croci Gioco Gatto Corda Youpi da 12CM",
+        "path": "/croci-gioco-gatto-corda-youpi-12-cm-22765/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24785",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "23458",
+    "sku": "23458",
+    "gtin": "10173430",
+    "title": "Tiragraffi in Cartone Eco Picasso",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/tiragraffi-in-cartone-eco-picasso-23458/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308625/Tiragraffi-in-Cartone-Eco-Picasso-10173430-5.jpg?v=638652880849130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308618/Tiragraffi-in-Cartone-Eco-Picasso-10173430-1.jpg?v=638652879240200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308619/Tiragraffi-in-Cartone-Eco-Picasso-10173430-2..jpg?v=638652879385700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308620/Tiragraffi-in-Cartone-Eco-Picasso-10173430-2.jpg?v=638652879598500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308623/Tiragraffi-in-Cartone-Eco-Picasso-10173430-3.jpg?v=638652880478500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308624/Tiragraffi-in-Cartone-Eco-Picasso-10173430-4.jpg?v=638652880749670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308626/Tiragraffi-in-Cartone-Eco-Picasso-10173430-6.jpg?v=638652880933500000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23458",
+        "sku": "23458",
+        "gtin": "10173430",
+        "title": "47X24CM",
+        "url": "https://www.arcaplanet.it/tiragraffi-in-cartone-eco-picasso-23458/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "tiragraffi-in-cartone-eco-picasso-23458p",
+        "name": "Tiragraffi in Cartone Eco Picasso",
+        "path": "/tiragraffi-in-cartone-eco-picasso-23458/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25469",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "23459",
+    "sku": "23459",
+    "gtin": "10173431",
+    "title": "Tiragraffi in Cartone Eco Matisse",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/tiragraffi-in-cartone-eco-matisse-23459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308616/Tiragraffi-in-Cartone-Eco-Matisse-10173431-4.jpg?v=638652876634800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308613/Tiragraffi-in-Cartone-Eco-Matisse-10173431-1.jpg?v=638652876140800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308614/Tiragraffi-in-Cartone-Eco-Matisse-10173431-2.jpg?v=638652876457330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308615/Tiragraffi-in-Cartone-Eco-Matisse-10173431-3.jpg?v=638652876562300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308617/Tiragraffi-in-Cartone-Eco-Matisse-10173431-5.jpg?v=638652876718900000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23459",
+        "sku": "23459",
+        "gtin": "10173431",
+        "title": "47X13CM",
+        "url": "https://www.arcaplanet.it/tiragraffi-in-cartone-eco-matisse-23459/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "tiragraffi-in-cartone-eco-matisse-23459p",
+        "name": "Tiragraffi in Cartone Eco Matisse",
+        "path": "/tiragraffi-in-cartone-eco-matisse-23459/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25470",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "23906",
+    "sku": "23906",
+    "gtin": "10155189",
+    "title": "AniOne Tavola Tiragraffi Celebration",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tavola-tiragraffi-celebration-23906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301754/anione-tavola-tiragraffi-celebration-10155189--1-.jpg?v=638524835492600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301755/anione-tavola-tiragraffi-celebration-10155189--2-.jpg?v=638524835692530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301756/anione-tavola-tiragraffi-celebration-10155189--3-.jpg?v=638524835819830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301757/anione-tavola-tiragraffi-celebration-10155189--4-.jpg?v=638524835916400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301758/anione-tavola-tiragraffi-celebration-10155189--5-.jpg?v=638524836003900000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 949.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23906",
+        "sku": "23906",
+        "gtin": "10155189",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tavola-tiragraffi-celebration-23906/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 949.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "gattotiragraffitavoletta",
+        "name": "Tavoletta",
+        "path": "/gatto/tiragraffi/tavoletta/",
+        "level": 4
+      },
+      {
+        "id": "anione-tavola-tiragraffi-celebration-23906p",
+        "name": "AniOne Tavola Tiragraffi Celebration",
+        "path": "/anione-tavola-tiragraffi-celebration-23906/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25917",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  },
+  {
+    "id": "24654",
+    "sku": "24654",
+    "gtin": "10176378",
+    "title": "Record Tiragraffi Pagoda in Cartone",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/record-tiragraffi-pagoda-in-cartone-24654/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312125/record-tiragraffi-pagoda-in-cartone-10176378--1-.jpg?v=638684874105970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312126/record-tiragraffi-pagoda-in-cartone-10176378--2-.jpg?v=638684874179700000"
+    ],
+    "price": {
+      "current": 36.79,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1839.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24654",
+        "sku": "24654",
+        "gtin": "10176378",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/record-tiragraffi-pagoda-in-cartone-24654/p",
+        "price": {
+          "current": 36.79,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 1839.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotiragraffi",
+        "name": "Tiragraffi",
+        "path": "/gatto/tiragraffi/",
+        "level": 3
+      },
+      {
+        "id": "record-tiragraffi-pagoda-in-cartone-24654p",
+        "name": "Record Tiragraffi Pagoda in Cartone",
+        "path": "/record-tiragraffi-pagoda-in-cartone-24654/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26665",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:50:26.635Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/tiragraffi/"
+  }
+]

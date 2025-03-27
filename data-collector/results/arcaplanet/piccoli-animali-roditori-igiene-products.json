@@ -1,0 +1,644 @@
+[
+  {
+    "id": "2878",
+    "sku": "2878",
+    "gtin": "10111210",
+    "title": "Furminator per Piccoli Animali",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-piccoli-animali-2878/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253079/furminator-deshedding-per-piccoli-animali.jpg?v=637502711711000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296929/furminator-piccoli-animali-10111210.jpg?v=638457698625670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296930/furminator-piccoli-animali-10111210--4-.jpg?v=638457698811300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296931/furminator-piccoli-animali-10111210--2-.jpg?v=638457698894400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296932/furminator-piccoli-animali-10111210--3-.jpg?v=638457698990200000"
+    ],
+    "price": {
+      "current": 26.49,
+      "original": 26.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1324.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2878",
+        "sku": "2878",
+        "gtin": "10111210",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/furminator-piccoli-animali-2878/p",
+        "price": {
+          "current": 26.49,
+          "original": 26.49,
+          "pricePerUnit": {
+            "value": 1324.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "furminator-piccoli-animali-2878p",
+        "name": "Furminator per Piccoli Animali",
+        "path": "/furminator-piccoli-animali-2878/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2796",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "11756",
+    "sku": "11756",
+    "gtin": "00008729",
+    "title": "Legnetti per Pulizia dei Denti Conigli",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/valman-legnetti-per-pulizia-denti-conigli-11756/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265350/valman-legnetti-per-pulizia-denti-coniglio.jpg?v=637726765193870000"
+    ],
+    "price": {
+      "current": 5.3,
+      "original": 5.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 88.33333333333333,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11756",
+        "sku": "11756",
+        "gtin": "00008729",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/valman-legnetti-per-pulizia-denti-conigli-11756/p",
+        "price": {
+          "current": 5.3,
+          "original": 5.3,
+          "pricePerUnit": {
+            "value": 88.33333333333333,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "valman-legnetti-per-pulizia-denti-conigli-11756p",
+        "name": "Legnetti per Pulizia dei Denti Conigli",
+        "path": "/valman-legnetti-per-pulizia-denti-conigli-11756/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11784",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "11877",
+    "sku": "11877",
+    "gtin": "00008728",
+    "title": "Legnetti per Pulizia Denti Criceti",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/woodgnaws-legnetti-per-pulizia-denti-criceti-11877/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262293/woodgnaws-criceti-legnetti.jpg?v=637667097194300000"
+    ],
+    "price": {
+      "current": 3.8,
+      "original": 3.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 63.333333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11877",
+        "sku": "11877",
+        "gtin": "00008728",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/woodgnaws-legnetti-per-pulizia-denti-criceti-11877/p",
+        "price": {
+          "current": 3.8,
+          "original": 3.8,
+          "pricePerUnit": {
+            "value": 63.333333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "woodgnaws-legnetti-per-pulizia-denti-criceti-11877p",
+        "name": "Legnetti per Pulizia Denti Criceti",
+        "path": "/woodgnaws-legnetti-per-pulizia-denti-criceti-11877/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11901",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "18672",
+    "sku": "18672",
+    "gtin": "10147023",
+    "title": "Anione Spazzola per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-spazzola-per-roditori-18672/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286177/b38854fe0d2802dbd327198cfbc69c8fd945c38b_e2c371666d5f9163474284b19aebb4f80fb5a36a--1-.jpg?v=638204420042400000"
+    ],
+    "price": {
+      "current": 9.29,
+      "original": 9.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 464.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18672",
+        "sku": "18672",
+        "gtin": "10147023",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-spazzola-per-roditori-18672/p",
+        "price": {
+          "current": 9.29,
+          "original": 9.29,
+          "pricePerUnit": {
+            "value": 464.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "anione-spazzola-per-roditori-18672p",
+        "name": "Anione Spazzola per Roditori",
+        "path": "/anione-spazzola-per-roditori-18672/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20790",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "18673",
+    "sku": "18673",
+    "gtin": "10147026",
+    "title": "Anione Forbicine per Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-forbicine-per-roditori-18673/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286178/d810235611918667a0ad9111dee2d48f12367a24_bd31b820607faa1e0f91f3edcf9918e717ad7ab1--1-.jpg?v=638204422515900000"
+    ],
+    "price": {
+      "current": 10.65,
+      "original": 10.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 532.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18673",
+        "sku": "18673",
+        "gtin": "10147026",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-forbicine-per-roditori-18673/p",
+        "price": {
+          "current": 10.65,
+          "original": 10.65,
+          "pricePerUnit": {
+            "value": 532.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "anione-forbicine-per-roditori-18673p",
+        "name": "Anione Forbicine per Roditori",
+        "path": "/anione-forbicine-per-roditori-18673/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20791",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "18675",
+    "sku": "18675",
+    "gtin": "10147022",
+    "title": "Anione Kit per la Cura dei Roditori",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-kit-per-la-cura-dei-roditori-18675/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286176/289c496c04c593f82fba568c5a06cbff840a8ad5_57aa9bf7411d638f4e0798c61fe340cf531f4aae--1-.jpg?v=638204417720300000"
+    ],
+    "price": {
+      "current": 17.85,
+      "original": 17.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 892.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18675",
+        "sku": "18675",
+        "gtin": "10147022",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-kit-per-la-cura-dei-roditori-18675/p",
+        "price": {
+          "current": 17.85,
+          "original": 17.85,
+          "pricePerUnit": {
+            "value": 892.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "anione-kit-per-la-cura-dei-roditori-18675p",
+        "name": "Anione Kit per la Cura dei Roditori",
+        "path": "/anione-kit-per-la-cura-dei-roditori-18675/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20793",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  },
+  {
+    "id": "23752",
+    "sku": "23752",
+    "gtin": "10170663",
+    "title": "Inodorina Salviette per Roditori",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-salviette-per-roditori-23752/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303861/Inodorina-Salviette-per-Roditori-10170663.jpg?v=638557645963630000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23752",
+        "sku": "23752",
+        "gtin": "10170663",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/inodorina-salviette-per-roditori-23752/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriigiene",
+        "name": "Igiene",
+        "path": "/piccoli-animali/roditori/igiene/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-salviette-per-roditori-23752p",
+        "name": "Inodorina Salviette per Roditori",
+        "path": "/inodorina-salviette-per-roditori-23752/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25763",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:07:12.946Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/igiene/"
+  }
+]

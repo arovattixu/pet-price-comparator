@@ -1,0 +1,4049 @@
+[
+  {
+    "id": "872",
+    "sku": "872",
+    "gtin": "00013273",
+    "title": "Collare Nylon Camon Nero",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-collare-cane-nylon-semistrandolo-nero-872/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221154/camon-collare-cane-nylon-semistrandolo-nero.jpg?v=637454708195800000"
+    ],
+    "price": {
+      "current": 4.92,
+      "original": 6.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 246,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "872",
+        "sku": "872",
+        "gtin": "00013273",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/camon-collare-cane-nylon-semistrandolo-nero-872/p",
+        "price": {
+          "current": 4.92,
+          "original": 6.15,
+          "pricePerUnit": {
+            "value": 246,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "camon-collare-cane-nylon-semistrandolo-nero-872p",
+        "name": "Collare Nylon Camon Nero",
+        "path": "/camon-collare-cane-nylon-semistrandolo-nero-872/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "830",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "1009",
+    "sku": "1009",
+    "gtin": "10065007",
+    "title": "Fischietto Ultrasuoni Skin",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-cane-fischietto-ultrasuoni-skin-1009/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221291/zolux-cane-fischietto-ultrasuoni-skin.jpg?v=637454709812030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231226/zolux-cane-fischietto-ultrasuoni-skin.jpg?v=637454836836700000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1009",
+        "sku": "1009",
+        "gtin": "10065007",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/zolux-cane-fischietto-ultrasuoni-skin-1009/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "zolux-cane-fischietto-ultrasuoni-skin-1009p",
+        "name": "Fischietto Ultrasuoni Skin",
+        "path": "/zolux-cane-fischietto-ultrasuoni-skin-1009/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "967",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "1188",
+    "sku": "1188",
+    "gtin": "10065006",
+    "title": "Clicker Addestramento Cane con Cordino",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-cane-clicker-addestramento-con-cordino-1188/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/217331/https---www.arcaplanet.it-media-catalog-product--c-l-clicker-addestramento-con-cordino-croc224.jpg?v=637454587001230000"
+    ],
+    "price": {
+      "current": 3.3,
+      "original": 3.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 165,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1188",
+        "sku": "1188",
+        "gtin": "10065006",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-cane-clicker-addestramento-con-cordino-1188/p",
+        "price": {
+          "current": 3.3,
+          "original": 3.3,
+          "pricePerUnit": {
+            "value": 165,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "croci-cane-clicker-addestramento-con-cordino-1188p",
+        "name": "Clicker Addestramento Cane con Cordino",
+        "path": "/croci-cane-clicker-addestramento-con-cordino-1188/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1145",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "1244",
+    "sku": "1244",
+    "gtin": "10128994",
+    "title": "Collare Tubolare Vogue  Semistrozzo Rosso",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-rosso--1244/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227527/pet-around-you-vogue-cane-collare-tubolare-semistrozzo-rosso.jpg?v=637454793847530000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 824.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1244",
+        "sku": "1244",
+        "gtin": "10128994",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-rosso--1244/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 824.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "p-a-y-coll-vogue-tub-semistrozzo-rosso--1244p",
+        "name": "Collare Tubolare Vogue  Semistrozzo Rosso",
+        "path": "/p-a-y-coll-vogue-tub-semistrozzo-rosso--1244/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1201",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "1432",
+    "sku": "1432",
+    "gtin": "10059561",
+    "title": "Collare Antiabbaio Cani Piccoli",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-cane-collare-antiabbaio-cani-piccoli-1432/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/230396/zolux-cane-collare-antiabbaio-cani-piccoli.jpg?v=637454826061600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220968/zolux-cane-collare-antiabbaio-cani-piccoli.jpg?v=637454706081530000"
+    ],
+    "price": {
+      "current": 38.49,
+      "original": 38.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1924.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1432",
+        "sku": "1432",
+        "gtin": "10059561",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/zolux-cane-collare-antiabbaio-cani-piccoli-1432/p",
+        "price": {
+          "current": 38.49,
+          "original": 38.49,
+          "pricePerUnit": {
+            "value": 1924.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "zolux-cane-collare-antiabbaio-cani-piccoli-1432p",
+        "name": "Collare Antiabbaio Cani Piccoli",
+        "path": "/zolux-cane-collare-antiabbaio-cani-piccoli-1432/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1386",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "1243",
+    "sku": "1243",
+    "gtin": "10129003",
+    "title": "Collare Tubolare Vogue Semistrozzo Rosa",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-rosa--1243/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227520/pet-around-you-vogue-cane-collare-tubolare-semistrozzo-rosa.jpg?v=637454793795430000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1243",
+        "sku": "1243",
+        "gtin": "10129003",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-rosa--1243/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "p-a-y-coll-vogue-tub-semistrozzo-rosa--1243p",
+        "name": "Collare Tubolare Vogue Semistrozzo Rosa",
+        "path": "/p-a-y-coll-vogue-tub-semistrozzo-rosa--1243/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2339",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "3053",
+    "sku": "3053",
+    "gtin": "10111955",
+    "title": "Clicker Addestramento per Cane",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-cane-clicker-per-addestramento-cane-3053/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226017/zolux-cane-clicker-per-addestramento.jpg?v=637454757717170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/248078/zolux-cane-clicker-per-addestramento.jpg?v=637455044324630000"
+    ],
+    "price": {
+      "current": 3.89,
+      "original": 3.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 194.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3053",
+        "sku": "3053",
+        "gtin": "10111955",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/zolux-cane-clicker-per-addestramento-cane-3053/p",
+        "price": {
+          "current": 3.89,
+          "original": 3.89,
+          "pricePerUnit": {
+            "value": 194.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "zolux-cane-clicker-per-addestramento-cane-3053p",
+        "name": "Clicker Addestramento per Cane",
+        "path": "/zolux-cane-clicker-per-addestramento-cane-3053/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2967",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "3654",
+    "sku": "3654",
+    "gtin": "10059562",
+    "title": "Collare Antiabbaio Cani Grandi",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-cane-collare-antiabbaio-cani-grandi-3654/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/230397/zolux-cane-collare-antiabbaio-cani-grandi.jpg?v=637454826067230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/230399/zolux-cane-collare-antiabbaio-cani-grandi.jpg?v=637454826093530000"
+    ],
+    "price": {
+      "current": 50.99,
+      "original": 50.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3654",
+        "sku": "3654",
+        "gtin": "10059562",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/zolux-cane-collare-antiabbaio-cani-grandi-3654/p",
+        "price": {
+          "current": 50.99,
+          "original": 50.99,
+          "pricePerUnit": {
+            "value": 2549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "zolux-cane-collare-antiabbaio-cani-grandi-3654p",
+        "name": "Collare Antiabbaio Cani Grandi",
+        "path": "/zolux-cane-collare-antiabbaio-cani-grandi-3654/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3558",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "3805",
+    "sku": "3805",
+    "gtin": "10112965",
+    "title": "Ferplast Chrome Collare Strangolo",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/bellomania-chrome-cane-collare-strangolo-cm-42-3805/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227744/bellomania-chrome-cane-collare-strangolo.jpg?v=637454796393930000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3805",
+        "sku": "3805",
+        "gtin": "10112965",
+        "title": "CM.42",
+        "url": "https://www.arcaplanet.it/bellomania-chrome-cane-collare-strangolo-cm-42-3805/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.42"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "bellomania-chrome-cane-collare-strangolo-cm-42-3805p",
+        "name": "Ferplast Chrome Collare Strangolo",
+        "path": "/bellomania-chrome-cane-collare-strangolo-cm-42-3805/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3708",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "3918",
+    "sku": "3918",
+    "gtin": "10063352",
+    "title": "KONG Cane Sport Balls Pz.3",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-sport-balls-pz-3-3918/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240658/kong-cane-sport-balls-pz-3.jpg?v=637454983667800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240661/kong-cane-sport-balls-pz-3.jpg?v=637454983692570000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 474.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3918",
+        "sku": "3918",
+        "gtin": "10063352",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/kong-cane-sport-balls-pz-3-3918/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 474.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-sport-balls-pz-3-3918p",
+        "name": "KONG Cane Sport Balls Pz.3",
+        "path": "/kong-cane-sport-balls-pz-3-3918/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3821",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "4303",
+    "sku": "4303",
+    "gtin": "10129728",
+    "title": "Trixie Salvagente Giallo per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-salvagente-giallo-4303/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297356/Salvagente-Giallo-per-Cane-Trixie-10129728.jpg?v=638467141714300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297357/Salvagente-Giallo-per-Cane-Trixie-10129728..jpg?v=638467141774100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297358/Salvagente-Giallo-per-Cane-Trixie-10129728.jpg?v=638467141834070000"
+    ],
+    "price": {
+      "current": 35.6,
+      "original": 35.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1780,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4303",
+        "sku": "4303",
+        "gtin": "10129728",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/trixie-cane-salvagente-giallo-4303/p",
+        "price": {
+          "current": 35.6,
+          "original": 35.6,
+          "pricePerUnit": {
+            "value": 1780,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentosalvagente",
+        "name": "Salvagente",
+        "path": "/cane/accessori/addestramento/salvagente/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-salvagente-giallo-4303p",
+        "name": "Trixie Salvagente Giallo per Cane",
+        "path": "/trixie-cane-salvagente-giallo-4303/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4193",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "5095",
+    "sku": "5095",
+    "gtin": "10063350",
+    "title": "KONG Cane Sport Balls Pz.2",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-cane-sport-balls-pz-2-l-5095/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223729/kong-cane-sport-balls-pz-2.jpg?v=637454735156200000"
+    ],
+    "price": {
+      "current": 13.02,
+      "original": 13.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 651,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5095",
+        "sku": "5095",
+        "gtin": "10063350",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/kong-cane-sport-balls-pz-2-l-5095/p",
+        "price": {
+          "current": 13.02,
+          "original": 13.7,
+          "pricePerUnit": {
+            "value": 651,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canegiochi",
+        "name": "Giochi",
+        "path": "/cane/giochi/",
+        "level": 3
+      },
+      {
+        "id": "canegiochiextrastrong",
+        "name": "Extrastrong",
+        "path": "/cane/giochi/extrastrong/",
+        "level": 4
+      },
+      {
+        "id": "kong-cane-sport-balls-pz-2-l-5095p",
+        "name": "KONG Cane Sport Balls Pz.2",
+        "path": "/kong-cane-sport-balls-pz-2-l-5095/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4974",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.832Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "5176",
+    "sku": "5176",
+    "gtin": "10128992",
+    "title": "Collare Vogue Tubolare Semistrozzo Nero",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-nero--5176/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227524/pet-around-you-vogue-cane-collare-tubolare-semistrozzo-nero.jpg?v=637454793822670000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 824.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5176",
+        "sku": "5176",
+        "gtin": "10128992",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/p-a-y-coll-vogue-tub-semistrozzo-nero--5176/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 824.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "p-a-y-coll-vogue-tub-semistrozzo-nero--5176p",
+        "name": "Collare Vogue Tubolare Semistrozzo Nero",
+        "path": "/p-a-y-coll-vogue-tub-semistrozzo-nero--5176/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5055",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "6096",
+    "sku": "6096",
+    "gtin": "10111259",
+    "title": "Gioco Sporting Training Dummy",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-gioco-sporting-training-dummy-cm26x6-6096/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257164/32860-2.jpg?v=637577218676600000"
+    ],
+    "price": {
+      "current": 8.65,
+      "original": 8.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 432.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6096",
+        "sku": "6096",
+        "gtin": "10111259",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-gioco-sporting-training-dummy-cm26x6-6096/p",
+        "price": {
+          "current": 8.65,
+          "original": 8.65,
+          "pricePerUnit": {
+            "value": 432.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-gioco-sporting-training-dummy-cm26x6-6096p",
+        "name": "Gioco Sporting Training Dummy",
+        "path": "/trixie-cane-gioco-sporting-training-dummy-cm26x6-6096/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5943",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "7066",
+    "sku": "7066",
+    "gtin": "10066594",
+    "title": "Gioco Anello Agility per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-gioco-cane-anello-agility-cm-115x3x65-7066/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223574/trixie-cane-gioco-anello-agility.jpg?v=637454733616100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259456/trixie-gioco-cane-anello-agility.jpg?v=637605507054470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259457/trixie-gioco-cane-anello-agility1.jpg?v=637605507126800000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 34.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7066",
+        "sku": "7066",
+        "gtin": "10066594",
+        "title": "CM.115X3X65",
+        "url": "https://www.arcaplanet.it/trixie-gioco-cane-anello-agility-cm-115x3x65-7066/p",
+        "price": {
+          "current": 34.99,
+          "original": 34.99,
+          "pricePerUnit": {
+            "value": 1749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.115X3X65"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "trixie-gioco-cane-anello-agility-cm-115x3x65-7066p",
+        "name": "Gioco Anello Agility per Cane",
+        "path": "/trixie-gioco-cane-anello-agility-cm-115x3x65-7066/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6906",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "7632",
+    "sku": "7632",
+    "gtin": "10066593",
+    "title": "Gioco Ostacolo Agility per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/gioco-ostacolo-agility-per-cane-cm-123x115x3-7632/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223575/trixie-cane-gioco-ostacolo-agility.jpg?v=637454733626400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240220/trixie-cane-gioco-ostacolo-agility.jpg?v=637454979922470000"
+    ],
+    "price": {
+      "current": 30.29,
+      "original": 30.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1514.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7632",
+        "sku": "7632",
+        "gtin": "10066593",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-ostacolo-agility-per-cane-cm-123x115x3-7632/p",
+        "price": {
+          "current": 30.29,
+          "original": 30.29,
+          "pricePerUnit": {
+            "value": 1514.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "gioco-ostacolo-agility-per-cane-cm-123x115x3-7632p",
+        "name": "Gioco Ostacolo Agility per Cane",
+        "path": "/gioco-ostacolo-agility-per-cane-cm-123x115x3-7632/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7465",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "8197",
+    "sku": "8197",
+    "gtin": "10066592",
+    "title": "Gioco Slalom Agility per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/gioco-slalom-agility-per-cane-cm-115x3-8197/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223576/trixie-cane-gioco-slalom-agility.jpg?v=637454733637530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235463/trixie-cane-gioco-slalom-agility.jpg?v=637454882055900000"
+    ],
+    "price": {
+      "current": 72.99,
+      "original": 72.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3649.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8197",
+        "sku": "8197",
+        "gtin": "10066592",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-slalom-agility-per-cane-cm-115x3-8197/p",
+        "price": {
+          "current": 72.99,
+          "original": 72.99,
+          "pricePerUnit": {
+            "value": 3649.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "gioco-slalom-agility-per-cane-cm-115x3-8197p",
+        "name": "Gioco Slalom Agility per Cane",
+        "path": "/gioco-slalom-agility-per-cane-cm-115x3-8197/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8026",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "6879",
+    "sku": "6879",
+    "gtin": "10055766",
+    "title": "Tunnel Agility per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-tunnel-agility-per-cane-6879/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270381/trixie-agility-tunnel-mini-.jpg?v=637847544194500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270382/trixie-tunnel-agility-mini-blu.jpg?v=637847544313870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270383/trixie-tunnel-agility-mini.jpg?v=637847544413530000"
+    ],
+    "price": {
+      "current": 43.29,
+      "original": 43.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2164.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6879",
+        "sku": "6879",
+        "gtin": "10055766",
+        "title": "CM.200",
+        "url": "https://www.arcaplanet.it/trixie-tunnel-agility-per-cane-6879/p",
+        "price": {
+          "current": 43.29,
+          "original": 43.29,
+          "pricePerUnit": {
+            "value": 2164.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.200"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "trixie-tunnel-agility-per-cane-6879p",
+        "name": "Tunnel Agility per Cane",
+        "path": "/trixie-tunnel-agility-per-cane-6879/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8886",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "12750",
+    "sku": "12750",
+    "gtin": "10138749",
+    "title": "Coni e Aste per Allenamento Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/coni-aste-per-allenamento-cane-12750/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257015/set-di-ostacoli-per-cani-4-coni-agilita.jpg?v=637576103319070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257014/trixie-dog-activity-4-coni-cm30x50.jpg?v=637576102695470000"
+    ],
+    "price": {
+      "current": 63.99,
+      "original": 63.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12750",
+        "sku": "12750",
+        "gtin": "10138749",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/coni-aste-per-allenamento-cane-12750/p",
+        "price": {
+          "current": 63.99,
+          "original": 63.99,
+          "pricePerUnit": {
+            "value": 3199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "coni-aste-per-allenamento-cane-12750p",
+        "name": "Coni e Aste per Allenamento Cane",
+        "path": "/coni-aste-per-allenamento-cane-12750/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14886",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "12751",
+    "sku": "12751",
+    "gtin": "10138750",
+    "title": "Aste e Coni per Allenamento Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/aste-coni-per-allenamento-cane-12751/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257016/trixie-set-ostacoli-per-cani-3-aste-6-coni.jpg?v=637576117233400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257017/trixie-set-ostacoli-per-cani.jpg?v=637576118639000000"
+    ],
+    "price": {
+      "current": 42.99,
+      "original": 42.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12751",
+        "sku": "12751",
+        "gtin": "10138750",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/aste-coni-per-allenamento-cane-12751/p",
+        "price": {
+          "current": 42.99,
+          "original": 42.99,
+          "pricePerUnit": {
+            "value": 2149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "aste-coni-per-allenamento-cane-12751p",
+        "name": "Aste e Coni per Allenamento Cane",
+        "path": "/aste-coni-per-allenamento-cane-12751/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14887",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "13280",
+    "sku": "13280",
+    "gtin": "10074430",
+    "title": "Croci Salvagente Arancione per Cane",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/salvagente-per-cani-13280/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256566/Salvagente-per-cani.jpg?v=637570122456400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256568/salvagenti-cane.jpg?v=637570122529870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256570/salvagente-per-cane.jpg?v=637570122602830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256571/cane-salvagente.jpg?v=637570122682470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297396/Croci-Salvagente-Arancione-per-Cane-10074430.jpg?v=638467164412870000"
+    ],
+    "price": {
+      "current": 20.7,
+      "original": 20.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1035,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13280",
+        "sku": "13280",
+        "gtin": "10074430",
+        "title": "XXL",
+        "url": "https://www.arcaplanet.it/salvagente-per-cani-13280/p",
+        "price": {
+          "current": 20.7,
+          "original": 20.7,
+          "pricePerUnit": {
+            "value": 1035,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.45"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentosalvagente",
+        "name": "Salvagente",
+        "path": "/cane/accessori/addestramento/salvagente/",
+        "level": 5
+      },
+      {
+        "id": "salvagente-per-cani-13280p",
+        "name": "Croci Salvagente Arancione per Cane",
+        "path": "/salvagente-per-cani-13280/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15417",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "15485",
+    "sku": "15485",
+    "gtin": "10065700",
+    "title": "Fischietto Ultrasuoni per Cani",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-fischietto-ultrasuoni-per-cani-15485/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273136/croci-fischietto-ultrasuoni-per-cane.jpg?v=637921752326100000"
+    ],
+    "price": {
+      "current": 3.1,
+      "original": 3.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 155,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15485",
+        "sku": "15485",
+        "gtin": "10065700",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-fischietto-ultrasuoni-per-cani-15485/p",
+        "price": {
+          "current": 3.1,
+          "original": 3.1,
+          "pricePerUnit": {
+            "value": 155,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "croci-fischietto-ultrasuoni-per-cani-15485p",
+        "name": "Fischietto Ultrasuoni per Cani",
+        "path": "/croci-fischietto-ultrasuoni-per-cani-15485/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17622",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "16538",
+    "sku": "16538",
+    "gtin": "10149466",
+    "title": "Anione Pali da Slalom",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pali-da-slalom-16538/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286184/7c3d6919cff2352d2e5259200cb2107d5752912c_6d62b2001ccfa772aa23140fa1e80effb448dd5c--1-.jpg?v=638204433723770000"
+    ],
+    "price": {
+      "current": 37.49,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1874.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16538",
+        "sku": "16538",
+        "gtin": "10149466",
+        "title": "12 PZ",
+        "url": "https://www.arcaplanet.it/anione-pali-da-slalom-16538/p",
+        "price": {
+          "current": 37.49,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 1874.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "12 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "anione-pali-da-slalom-16538p",
+        "name": "Anione Pali da Slalom",
+        "path": "/anione-pali-da-slalom-16538/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18661",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "17942",
+    "sku": "17942",
+    "gtin": "10149411",
+    "title": "Anione Tunnel per Cani",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tunnel-per-cani-17942/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286435/06e3dd5456ed55b22fbb7820ae89251fb92dcdbe_5f3494ca83e2cdd940cec94f50ce5c710cbd953b--1-.jpg?v=638207052366730000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17942",
+        "sku": "17942",
+        "gtin": "10149411",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-tunnel-per-cani-17942/p",
+        "price": {
+          "current": 29.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "anione-tunnel-per-cani-17942p",
+        "name": "Anione Tunnel per Cani",
+        "path": "/anione-tunnel-per-cani-17942/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20060",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "17965",
+    "sku": "17965",
+    "gtin": "10149403",
+    "title": "AniOne Ostacolo Cerchio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ostacolo-cerchio-17965/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286431/fa8092c7b5f72036b4d18518593b0643a8eaf7b3_71d83a6c22732bf72ba3f4048d1c3bcd7551ad78--1-.jpg?v=638207045804270000"
+    ],
+    "price": {
+      "current": 19.49,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 974.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17965",
+        "sku": "17965",
+        "gtin": "10149403",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-ostacolo-cerchio-17965/p",
+        "price": {
+          "current": 19.49,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 974.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoagility",
+        "name": "Agility",
+        "path": "/cane/accessori/addestramento/agility/",
+        "level": 5
+      },
+      {
+        "id": "anione-ostacolo-cerchio-17965p",
+        "name": "AniOne Ostacolo Cerchio",
+        "path": "/anione-ostacolo-cerchio-17965/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20083",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18406",
+    "sku": "18406",
+    "gtin": "10149895",
+    "title": "Dogs Creek Riportello Nero in Silicone",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-riportello-nero-in-silicone-18406/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286422/745a26a4811b1a6e419fbc5e1ca7a2ca5ac36c77_fc2243f03151d052ed39f3086bfea96532a41a34.jpg?v=638207023517330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318488/dogs-creek-riportello-nero-in-silicone-10149895.jpg.jpg?v=638771975499700000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 374.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18406",
+        "sku": "18406",
+        "gtin": "10149895",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/dogs-creek-riportello-nero-in-silicone-18406/p",
+        "price": {
+          "current": 7.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 374.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-riportello-nero-in-silicone-18406p",
+        "name": "Dogs Creek Riportello Nero in Silicone",
+        "path": "/dogs-creek-riportello-nero-in-silicone-18406/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20524",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18441",
+    "sku": "18441",
+    "gtin": "10148252",
+    "title": "Dogs Creek Riportello Arancione",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-riportello-arancione-18441/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286420/c96a72e4d6d09e87aa1dd3d0670ae4ad2216fbc2_a4ee3914476f59559441fd547bb2faea82738ce3--1-.jpg?v=638207017915700000"
+    ],
+    "price": {
+      "current": 9.74,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 487,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18441",
+        "sku": "18441",
+        "gtin": "10148252",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/dogs-creek-riportello-arancione-18441/p",
+        "price": {
+          "current": 9.74,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 487,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-riportello-arancione-18441p",
+        "name": "Dogs Creek Riportello Arancione",
+        "path": "/dogs-creek-riportello-arancione-18441/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20559",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18443",
+    "sku": "18443",
+    "gtin": "10148253",
+    "title": "Dogs Creek Riportello Grigio",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-riportello-grigio-18443/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286418/fc0ba4ef5e03d38eed7e46d8d5ee04b2e76646fd_d0a590906ce7a715fc624d8ef6cb092987c2ffe5--1-.jpg?v=638207015387500000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 374.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18443",
+        "sku": "18443",
+        "gtin": "10148253",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/dogs-creek-riportello-grigio-18443/p",
+        "price": {
+          "current": 7.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 374.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-riportello-grigio-18443p",
+        "name": "Dogs Creek Riportello Grigio",
+        "path": "/dogs-creek-riportello-grigio-18443/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20572",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18631",
+    "sku": "18631",
+    "gtin": "10149471",
+    "title": "Dogs Creek Riportello",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-riportello-18631/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283860/dd0862ed74d75201f539b2e5564b3e55575b8bfe_2b0fdc5709c4c9ae1eb3c628afbf17b74f87107b--1-.jpg?v=638170595648000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318466/dogs-creek-riportello-10149471.jpg.jpg?v=638771950838530000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18631",
+        "sku": "18631",
+        "gtin": "10149471",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/dogs-creek-riportello-18631/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-riportello-18631p",
+        "name": "Dogs Creek Riportello",
+        "path": "/dogs-creek-riportello-18631/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20749",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18699",
+    "sku": "18699",
+    "gtin": "10149469",
+    "title": "Anione Fischietto Doppio Suono",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-fischietto-doppio-suono-18699/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286185/b4a829b02d0cae94d29bcc108852ea7436e01ace_092284f7e545a6a9f2662f1cf1e1fbff2f51cd88--1-.jpg?v=638204435777300000"
+    ],
+    "price": {
+      "current": 3.74,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 187,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18699",
+        "sku": "18699",
+        "gtin": "10149469",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-fischietto-doppio-suono-18699/p",
+        "price": {
+          "current": 3.74,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 187,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-fischietto-doppio-suono-18699p",
+        "name": "Anione Fischietto Doppio Suono",
+        "path": "/anione-fischietto-doppio-suono-18699/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20755",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18698",
+    "sku": "18698",
+    "gtin": "10147092",
+    "title": "Anione TargetStick con Clicker",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-targetstick-con-clicker-18698/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285707/d97dd92030e87fa749170570dfe8024e4964b686_845d0dba1a0cca6270356e99386da1f30c1d0f6c--1-.jpg?v=638197556780870000"
+    ],
+    "price": {
+      "current": 5.24,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 262,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18698",
+        "sku": "18698",
+        "gtin": "10147092",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-targetstick-con-clicker-18698/p",
+        "price": {
+          "current": 5.24,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 262,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-targetstick-con-clicker-18698p",
+        "name": "Anione TargetStick con Clicker",
+        "path": "/anione-targetstick-con-clicker-18698/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18456",
+    "sku": "18456",
+    "gtin": "10148682",
+    "title": "Anione Collare Activity Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-collare-activity-nero-18456/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286132/d153cea485cd1ed26acd8813213f0f531a7c2493_5c15495fa8d5d077757b43831e716857c2f15fef--1-.jpg?v=638203479454800000"
+    ],
+    "price": {
+      "current": 11.24,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 562,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18456",
+        "sku": "18456",
+        "gtin": "10148682",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-collare-activity-nero-18456/p",
+        "price": {
+          "current": 11.24,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 562,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentocollari",
+        "name": "Collari",
+        "path": "/cane/accessori/addestramento/collari/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "anione-collare-activity-nero-18456p",
+        "name": "Anione Collare Activity Nero",
+        "path": "/anione-collare-activity-nero-18456/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21307",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "19191",
+    "sku": "19191",
+    "gtin": "10149410",
+    "title": "Anione Clicker Basic Blu",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-clicker-basic-blu-19191/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286434/98081ece4484995ff6fd47913fecda9277553eba_843548bf65ea22227128ed6c4696f7808fc1453b--1-.jpg?v=638207050460630000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19191",
+        "sku": "19191",
+        "gtin": "10149410",
+        "title": "6.5CM",
+        "url": "https://www.arcaplanet.it/anione-clicker-basic-blu-19191/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-clicker-basic-blu-19191p",
+        "name": "Anione Clicker Basic Blu",
+        "path": "/anione-clicker-basic-blu-19191/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21309",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "19205",
+    "sku": "19205",
+    "gtin": "10153839",
+    "title": "Dogs Creek Riportello Wave",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-riportello-wave-19205/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285263/2df7bbbc42be3e4e3e78a9a34475c62b19523a99_182dfebd62ed07284cc55cfd18d4cfb4e2fc7245--1-.jpg?v=638194077760130000"
+    ],
+    "price": {
+      "current": 10.04,
+      "original": 13.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 501.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19205",
+        "sku": "19205",
+        "gtin": "10153839",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/dogs-creek-riportello-wave-19205/p",
+        "price": {
+          "current": 10.04,
+          "original": 13.39,
+          "pricePerUnit": {
+            "value": 501.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.30"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-riportello-wave-19205p",
+        "name": "Dogs Creek Riportello Wave",
+        "path": "/dogs-creek-riportello-wave-19205/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21323",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "19651",
+    "sku": "19651",
+    "gtin": "10149424",
+    "title": "Anione Dischi Didattici per Cani",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-dischi-didattici-per-cani-19651/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286183/742a0fb4cde361ef3632acc40e87fa7a0f037803_f5757dacf81c48428bf3220f390ecd4075ddbab2--1-.jpg?v=638204431021400000"
+    ],
+    "price": {
+      "current": 3.26,
+      "original": 4.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 163,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19651",
+        "sku": "19651",
+        "gtin": "10149424",
+        "title": "5CM",
+        "url": "https://www.arcaplanet.it/anione-dischi-didattici-per-cani-19651/p",
+        "price": {
+          "current": 3.26,
+          "original": 4.35,
+          "pricePerUnit": {
+            "value": 163,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.5"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "anione-dischi-didattici-per-cani-19651p",
+        "name": "Anione Dischi Didattici per Cani",
+        "path": "/anione-dischi-didattici-per-cani-19651/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21769",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "19657",
+    "sku": "19657",
+    "gtin": "10149416",
+    "title": "Anione Multiclicker Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-multiclicker-nero-19657/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286182/6474d0e73cc2b04ce5318e46c693a68ee8da667d_533fd50afed230b98373d3dd995222498988a70d--1-.jpg?v=638204428703200000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19657",
+        "sku": "19657",
+        "gtin": "10149416",
+        "title": "6CM",
+        "url": "https://www.arcaplanet.it/anione-multiclicker-nero-19657/p",
+        "price": {
+          "current": 4.49,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.6",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-multiclicker-nero-19657p",
+        "name": "Anione Multiclicker Nero",
+        "path": "/anione-multiclicker-nero-19657/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21775",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "18876",
+    "sku": "18876",
+    "gtin": "10149414",
+    "title": "Anione Riporto Canvas",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-riporto-canvas-18876/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286180/bd314a1f068fe6d247976507a9a7565583f056d4_bc4e0fa207e0bc7b1f001749bac96d994c48ef8b--1-.jpg?v=638204426169770000"
+    ],
+    "price": {
+      "current": 5.24,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 262,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18876",
+        "sku": "18876",
+        "gtin": "10149414",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-riporto-canvas-18876/p",
+        "price": {
+          "current": 5.24,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 262,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoriporto",
+        "name": "Riporto",
+        "path": "/cane/accessori/addestramento/riporto/",
+        "level": 5
+      },
+      {
+        "id": "anione-riporto-canvas-18876p",
+        "name": "Anione Riporto Canvas",
+        "path": "/anione-riporto-canvas-18876/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21790",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "19188",
+    "sku": "19188",
+    "gtin": "10149409",
+    "title": "Anione Fischietto ad Alta Frequenza",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-fischietto-ad-alta-frequenza-19188/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286433/e882e651d51da35fa7c6035c808e393e164c06a7_63c01eecfe86ce4a4127a31215c4057b6c714475--1-.jpg?v=638207048541770000"
+    ],
+    "price": {
+      "current": 4.27,
+      "original": 5.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 213.49999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19188",
+        "sku": "19188",
+        "gtin": "10149409",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-fischietto-ad-alta-frequenza-19188/p",
+        "price": {
+          "current": 4.27,
+          "original": 5.69,
+          "pricePerUnit": {
+            "value": 213.49999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-fischietto-ad-alta-frequenza-19188p",
+        "name": "Anione Fischietto ad Alta Frequenza",
+        "path": "/anione-fischietto-ad-alta-frequenza-19188/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21826",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "24349",
+    "sku": "24349",
+    "gtin": "10175679",
+    "title": "AniOne Fischietto Bitonale",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-fischietto-bitonale-24349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305090/anione-fischietto-bitonale-10175679.jpg?v=638580345863930000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24349",
+        "sku": "24349",
+        "gtin": "10175679",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-fischietto-bitonale-24349/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-fischietto-bitonale-24349p",
+        "name": "AniOne Fischietto Bitonale",
+        "path": "/anione-fischietto-bitonale-24349/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26360",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  },
+  {
+    "id": "24353",
+    "sku": "24353",
+    "gtin": "10175681",
+    "title": "AniOne Clicker e Fischietto 2 in 1",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-clicker-fischietto-2-in-1-24353/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305092/anione-clicker-fischietto-2-in-1-10175681.jpg?v=638580354275600000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24353",
+        "sku": "24353",
+        "gtin": "10175681",
+        "title": "7CM",
+        "url": "https://www.arcaplanet.it/anione-clicker-fischietto-2-in-1-24353/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriaddestramento",
+        "name": "Addestramento",
+        "path": "/cane/accessori/addestramento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriaddestramentoclicker-e-fischietti",
+        "name": "Clicker e Fischietti",
+        "path": "/cane/accessori/addestramento/clicker-e-fischietti/",
+        "level": 5
+      },
+      {
+        "id": "anione-clicker-fischietto-2-in-1-24353p",
+        "name": "AniOne Clicker e Fischietto 2 in 1",
+        "path": "/anione-clicker-fischietto-2-in-1-24353/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26364",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:32:27.833Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/addestramento/"
+  }
+]

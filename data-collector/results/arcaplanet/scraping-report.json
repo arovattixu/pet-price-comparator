@@ -1,0 +1,336 @@
+{
+  "totalProducts": 2104,
+  "categories": {
+    "cane": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/cibo-secco": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/cibo-umido": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/snack": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/diete-cibo-secco": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/diete-cibo-umido": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/accessori/abbigliamento": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/accessori/addestramento": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/accessori/contenitori-cibo": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "cane/accessori/toelettatura": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/giochi": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/guinzaglieria": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/trasportini-e-viaggio": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/cucce-e-lettini": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/igiene": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/igiene/igiene-manto-e-cute": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "cane/igiene/igiene-orale": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "cane/igiene/pannolini": {
+      "status": "success",
+      "productsCount": 12
+    },
+    "cane/igiene/sacchetti-igienici": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/igiene/porta-sacchettini": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "cane/igiene/traversine-igieniche": {
+      "status": "success",
+      "productsCount": 15
+    },
+    "cane/igiene/salviette": {
+      "status": "success",
+      "productsCount": 20
+    },
+    "cane/antiparassitari-e-curativi/antiparassitari": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/antiparassitari-e-curativi/insettorepellenti": {
+      "status": "success",
+      "productsCount": 9
+    },
+    "cane/antiparassitari-e-curativi/alimenti-complementari": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "cane/antiparassitari-e-curativi/parafarmacia": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/cibo-secco": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/cibo-umido": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/snack": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/diete-cibo-secco": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/diete-cibo-umido": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/sabbie": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/lettiere/agglomerante": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/lettiere/assorbente": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/lettiere/vegetale": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/lettiere/silicio": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/accessori/contenitori-cibo": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/accessori/cucce-e-tappetini": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/accessori/giochi": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/accessori/guinzaglieria": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/accessori/toelettatura": {
+      "status": "success",
+      "productsCount": 21
+    },
+    "gatto/tiragraffi": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/trasportini": {
+      "status": "success",
+      "productsCount": 33
+    },
+    "gatto/igiene": {
+      "status": "success",
+      "productsCount": 20
+    },
+    "gatto/toilette-e-accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/toilette-e-accessori/toilette": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/toilette-e-accessori/sacchetti-toilette": {
+      "status": "success",
+      "productsCount": 12
+    },
+    "gatto/toilette-e-accessori/tappetini-toilette": {
+      "status": "success",
+      "productsCount": 10
+    },
+    "gatto/toilette-e-accessori/palette-toilette": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/antiparassitari-e-curativi/antiparassitari": {
+      "status": "success",
+      "productsCount": 15
+    },
+    "gatto/antiparassitari-e-curativi/insettorepellenti": {
+      "status": "success",
+      "productsCount": 3
+    },
+    "gatto/antiparassitari-e-curativi/alimenti-complementari": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "gatto/antiparassitari-e-curativi/parafarmacia": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/roditori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/roditori/fieno": {
+      "status": "success",
+      "productsCount": 37
+    },
+    "piccoli-animali/roditori/mangime": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/roditori/snack": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/roditori/lettiere": {
+      "status": "success",
+      "productsCount": 36
+    },
+    "piccoli-animali/roditori/igiene": {
+      "status": "success",
+      "productsCount": 7
+    },
+    "piccoli-animali/roditori/accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/roditori/antiparassitari-e-curativi/antiparassitari": {
+      "status": "success",
+      "productsCount": 1
+    },
+    "piccoli-animali/uccelli": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/uccelli/accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/uccelli/mangime": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/uccelli/sabbie": {
+      "status": "success",
+      "productsCount": 4
+    },
+    "piccoli-animali/uccelli/snack": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/uccelli/antiparassitari-e-curativi/antiparassitari": {
+      "status": "success",
+      "productsCount": 1
+    },
+    "piccoli-animali/uccelli/antiparassitari-e-curativi/integratori": {
+      "status": "success",
+      "productsCount": 2
+    },
+    "piccoli-animali/pesci": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/pesci/mangime": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/pesci/accessori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/tartarughe": {
+      "status": "success",
+      "productsCount": 34
+    },
+    "piccoli-animali/tartarughe/mangime": {
+      "status": "success",
+      "productsCount": 21
+    },
+    "piccoli-animali/tartarughe/accessori": {
+      "status": "success",
+      "productsCount": 7
+    },
+    "piccoli-animali/tartarughe/antiparassitari-e-curativi": {
+      "status": "success",
+      "productsCount": 6
+    },
+    "piccoli-animali/rettili": {
+      "status": "success",
+      "productsCount": 9
+    },
+    "piccoli-animali/rettili/mangime": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    },
+    "piccoli-animali/rettili/accessori": {
+      "status": "success",
+      "productsCount": 9
+    }
+  },
+  "startTime": "2025-03-23T19:24:31.904Z",
+  "endTime": "2025-03-23T21:24:17.890Z",
+  "elapsedSeconds": 7186
+}

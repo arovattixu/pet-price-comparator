@@ -1,0 +1,3896 @@
+[
+  {
+    "id": "4952",
+    "sku": "4952",
+    "gtin": "10111573",
+    "title": "Lovedì Cane Coperta Matisse Marrone",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-coperta-matisse-marrone-4952/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227487/lovedi-cane-coperta-matisse-marrone.jpg?v=638748612774300000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4952",
+        "sku": "4952",
+        "gtin": "10111573",
+        "title": "CM.100",
+        "url": "https://www.arcaplanet.it/lovedi-cane-coperta-matisse-marrone-4952/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.100"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicoperte",
+        "name": "Coperte",
+        "path": "/cane/cucce-e-lettini/coperte/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-coperta-matisse-marrone-4952p",
+        "name": "Lovedì Cane Coperta Matisse Marrone",
+        "path": "/lovedi-cane-coperta-matisse-marrone-4952/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2546",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "4318",
+    "sku": "4318",
+    "gtin": "10111580",
+    "title": "Coperta Miro Grigio Tortora",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-coperta-miro-grigio-cm-100x70-4318/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251495/lovedi-cane-coperta-miro-grigio.jpg?v=637455076507930000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4318",
+        "sku": "4318",
+        "gtin": "10111580",
+        "title": "100X70CM",
+        "url": "https://www.arcaplanet.it/lovedi-cane-coperta-miro-grigio-cm-100x70-4318/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicoperte",
+        "name": "Coperte",
+        "path": "/cane/cucce-e-lettini/coperte/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-coperta-miro-grigio-cm-100x70-4318p",
+        "name": "Coperta Miro Grigio Tortora",
+        "path": "/lovedi-cane-coperta-miro-grigio-cm-100x70-4318/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4207",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "6386",
+    "sku": "6386",
+    "gtin": "10118014",
+    "title": "Siesta Deluxe Dark Grey",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-cane-siesta-deluxe-grigio-6386/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226704/ferplast-cane-siesta-deluxe-grigio.jpg?v=637454785532070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262265/siesta-cucce-dimensioni.jpg?v=637666897198030000"
+    ],
+    "price": {
+      "current": 14.49,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 724.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6386",
+        "sku": "6386",
+        "gtin": "10118014",
+        "title": "TG.2",
+        "url": "https://www.arcaplanet.it/ferplast-cane-siesta-deluxe-grigio-6386/p",
+        "price": {
+          "current": 14.49,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 724.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.2"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniceste",
+        "name": "Ceste",
+        "path": "/cane/cucce-e-lettini/ceste/",
+        "level": 4
+      },
+      {
+        "id": "ferplast-cane-siesta-deluxe-grigio-6386p",
+        "name": "Siesta Deluxe Dark Grey",
+        "path": "/ferplast-cane-siesta-deluxe-grigio-6386/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6230",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "6461",
+    "sku": "6461",
+    "gtin": "10069087",
+    "title": "Cuscino Nautica",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-nautica-cane-cuscino-6461/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264194/croci-cuscino-nautica.jpg?v=637707643955000000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6461",
+        "sku": "6461",
+        "gtin": "10069087",
+        "title": "CM.70",
+        "url": "https://www.arcaplanet.it/croci-nautica-cane-cuscino-6461/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.70"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "croci-nautica-cane-cuscino-6461p",
+        "name": "Cuscino Nautica",
+        "path": "/croci-nautica-cane-cuscino-6461/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6305",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11635",
+    "sku": "11635",
+    "gtin": "10110872",
+    "title": "Telo Ricambio per Brandina Blu",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-telo-ricambio-blu-11635/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225721/mast-telo-ricambio-60-blu.jpg?v=637454754981900000"
+    ],
+    "price": {
+      "current": 8.1,
+      "original": 8.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 405,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11635",
+        "sku": "11635",
+        "gtin": "10110872",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-telo-ricambio-blu-11635/p",
+        "price": {
+          "current": 8.1,
+          "original": 8.1,
+          "pricePerUnit": {
+            "value": 405,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniricambi",
+        "name": "Ricambi",
+        "path": "/cane/cucce-e-lettini/ricambi/",
+        "level": 4
+      },
+      {
+        "id": "mast-telo-ricambio-blu-11635p",
+        "name": "Telo Ricambio per Brandina Blu",
+        "path": "/mast-telo-ricambio-blu-11635/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11661",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11661",
+    "sku": "11661",
+    "gtin": "10110880",
+    "title": "Telo Ricambio per Brandina Sabbia",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-telo-ricambio-sabbia-11661/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280151/mast-telo-ricambio.jpg?v=638114517215800000"
+    ],
+    "price": {
+      "current": 10.6,
+      "original": 10.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 530,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11661",
+        "sku": "11661",
+        "gtin": "10110880",
+        "title": "TG.80",
+        "url": "https://www.arcaplanet.it/mast-telo-ricambio-sabbia-11661/p",
+        "price": {
+          "current": 10.6,
+          "original": 10.6,
+          "pricePerUnit": {
+            "value": 530,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.80"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniricambi",
+        "name": "Ricambi",
+        "path": "/cane/cucce-e-lettini/ricambi/",
+        "level": 4
+      },
+      {
+        "id": "mast-telo-ricambio-sabbia-11661p",
+        "name": "Telo Ricambio per Brandina Sabbia",
+        "path": "/mast-telo-ricambio-sabbia-11661/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11687",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11671",
+    "sku": "11671",
+    "gtin": "10110866",
+    "title": "Brandina in Alluminio Vinaccia",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-brandina-alluminio-vinaccia-11671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280147/brandina-per-cane.jpg?v=638114515465930000"
+    ],
+    "price": {
+      "current": 31.8,
+      "original": 31.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1590,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11671",
+        "sku": "11671",
+        "gtin": "10110866",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-brandina-alluminio-vinaccia-11671/p",
+        "price": {
+          "current": 31.8,
+          "original": 31.8,
+          "pricePerUnit": {
+            "value": 1590,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinibrandine",
+        "name": "Brandine",
+        "path": "/cane/cucce-e-lettini/brandine/",
+        "level": 4
+      },
+      {
+        "id": "mast-brandina-alluminio-vinaccia-11671p",
+        "name": "Brandina in Alluminio Vinaccia",
+        "path": "/mast-brandina-alluminio-vinaccia-11671/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11697",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11685",
+    "sku": "11685",
+    "gtin": "10110854",
+    "title": "Brandina in Alluminio Blu",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-brandina-alluminio-blu-11685/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225719/mast-brandina-alluminio-60-blu.jpg?v=637454754963900000"
+    ],
+    "price": {
+      "current": 31.8,
+      "original": 31.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1590,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11685",
+        "sku": "11685",
+        "gtin": "10110854",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-brandina-alluminio-blu-11685/p",
+        "price": {
+          "current": 31.8,
+          "original": 31.8,
+          "pricePerUnit": {
+            "value": 1590,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinibrandine",
+        "name": "Brandine",
+        "path": "/cane/cucce-e-lettini/brandine/",
+        "level": 4
+      },
+      {
+        "id": "mast-brandina-alluminio-blu-11685p",
+        "name": "Brandina in Alluminio Blu",
+        "path": "/mast-brandina-alluminio-blu-11685/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11714",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "12605",
+    "sku": "12605",
+    "gtin": "10110884",
+    "title": "Telo Ricambio per Brandina Vinaccia",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-telo-ricambio-vinaccia-12605/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253150/VINACCIA.jpg?v=637505355773000000"
+    ],
+    "price": {
+      "current": 8.1,
+      "original": 8.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 405,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "12605",
+        "sku": "12605",
+        "gtin": "10110884",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-telo-ricambio-vinaccia-12605/p",
+        "price": {
+          "current": 8.1,
+          "original": 8.1,
+          "pricePerUnit": {
+            "value": 405,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniricambi",
+        "name": "Ricambi",
+        "path": "/cane/cucce-e-lettini/ricambi/",
+        "level": 4
+      },
+      {
+        "id": "mast-telo-ricambio-vinaccia-12605p",
+        "name": "Telo Ricambio per Brandina Vinaccia",
+        "path": "/mast-telo-ricambio-vinaccia-12605/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11760",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11760",
+    "sku": "11760",
+    "gtin": "10110860",
+    "title": "Brandina in Alluminio Sabbia",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-brandina-alluminio-sabbia-11760/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307093/Brandina-in-Alluminio-Sabbia.jpg?v=638630434990200000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11760",
+        "sku": "11760",
+        "gtin": "10110860",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-brandina-alluminio-sabbia-11760/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinibrandine",
+        "name": "Brandine",
+        "path": "/cane/cucce-e-lettini/brandine/",
+        "level": 4
+      },
+      {
+        "id": "mast-brandina-alluminio-sabbia-11760p",
+        "name": "Brandina in Alluminio Sabbia",
+        "path": "/mast-brandina-alluminio-sabbia-11760/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      }
+    ],
+    "metadata": {
+      "groupId": "11788",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11585",
+    "sku": "11585",
+    "gtin": "10111325",
+    "title": "Set Ferri per Brandina",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-set-ferri-brandina-11585/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280152/mast-set-ferri-brandina-cm-75x115-removebg-preview.jpg?v=638114518940070000"
+    ],
+    "price": {
+      "current": 3.2,
+      "original": 3.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 160,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11585",
+        "sku": "11585",
+        "gtin": "10111325",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-set-ferri-brandina-11585/p",
+        "price": {
+          "current": 3.2,
+          "original": 3.2,
+          "pricePerUnit": {
+            "value": 160,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniricambi",
+        "name": "Ricambi",
+        "path": "/cane/cucce-e-lettini/ricambi/",
+        "level": 4
+      },
+      {
+        "id": "mast-set-ferri-brandina-11585p",
+        "name": "Set Ferri per Brandina",
+        "path": "/mast-set-ferri-brandina-11585/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11642",
+    "sku": "11642",
+    "gtin": "10110273",
+    "title": "Cuccia esterna per Cani Eco Lodge",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/p-a-y-canile-eco-lodge-11642/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225622/p-a-y--canile-eco-lodge-medium.jpg?v=637454754161230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251865/p-a-y--canile-eco-lodge-medium.jpg?v=637455080740300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251868/p-a-y--canile-eco-lodge-medium.jpg?v=637455080760330000"
+    ],
+    "price": {
+      "current": 89.99,
+      "original": 89.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11642",
+        "sku": "11642",
+        "gtin": "10110273",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/p-a-y-canile-eco-lodge-11642/p",
+        "price": {
+          "current": 89.99,
+          "original": 89.99,
+          "pricePerUnit": {
+            "value": 4499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-da-esterno",
+        "name": "Cucce da Esterno",
+        "path": "/cane/cucce-e-lettini/cucce-da-esterno/",
+        "level": 4
+      },
+      {
+        "id": "p-a-y-canile-eco-lodge-11642p",
+        "name": "Cuccia esterna per Cani Eco Lodge",
+        "path": "/p-a-y-canile-eco-lodge-11642/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11913",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "11584",
+    "sku": "11584",
+    "gtin": "10069553",
+    "title": "Elastici per Brandina",
+    "brand": "MAST",
+    "url": "https://www.arcaplanet.it/mast-elastico-brandina-11584/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280442/mast-elastico-brandina-50--1-.jpg?v=638115381351830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280443/mast-elastico-brandina-50.jpg?v=638115381417330000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 4.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 209.50000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11584",
+        "sku": "11584",
+        "gtin": "10069553",
+        "title": "TG.60",
+        "url": "https://www.arcaplanet.it/mast-elastico-brandina-11584/p",
+        "price": {
+          "current": 4.19,
+          "original": 4.19,
+          "pricePerUnit": {
+            "value": 209.50000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinibrandine",
+        "name": "Brandine",
+        "path": "/cane/cucce-e-lettini/brandine/",
+        "level": 4
+      },
+      {
+        "id": "mast-elastico-brandina-11584p",
+        "name": "Elastici per Brandina",
+        "path": "/mast-elastico-brandina-11584/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13391",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "12459",
+    "sku": "12459",
+    "gtin": "10129425",
+    "title": "Pet around you recinto cuccioli playground",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-recinto-per-cuccioli-playground-12459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254701/pet-around-you-recinto-cuccioli-playground.jpg?v=637553726555200000"
+    ],
+    "price": {
+      "current": 74.99,
+      "original": 74.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3749.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12459",
+        "sku": "12459",
+        "gtin": "10129425",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-recinto-per-cuccioli-playground-12459/p",
+        "price": {
+          "current": 74.99,
+          "original": 74.99,
+          "pricePerUnit": {
+            "value": 3749.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinirecinti",
+        "name": "Recinti",
+        "path": "/cane/cucce-e-lettini/recinti/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-recinto-per-cuccioli-playground-12459p",
+        "name": "Pet around you recinto cuccioli playground",
+        "path": "/pet-around-you-recinto-per-cuccioli-playground-12459/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14367",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "14742",
+    "sku": "14742",
+    "gtin": "10140457",
+    "title": "Cuccia Rettangolare Calliope Arancio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cuccia-rettangolare-calliope-arancio-14742/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269644/lovedi-cuccia-rettangolare-calliope-arancio.jpg?v=637831039523330000"
+    ],
+    "price": {
+      "current": 39.9,
+      "original": 39.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "14742",
+        "sku": "14742",
+        "gtin": "10140457",
+        "title": "CM.80",
+        "url": "https://www.arcaplanet.it/lovedi-cuccia-rettangolare-calliope-arancio-14742/p",
+        "price": {
+          "current": 39.9,
+          "original": 39.9,
+          "pricePerUnit": {
+            "value": 1995,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.80"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cuccia-rettangolare-calliope-arancio-14742p",
+        "name": "Cuccia Rettangolare Calliope Arancio",
+        "path": "/lovedi-cuccia-rettangolare-calliope-arancio-14742/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16870",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "14764",
+    "sku": "14764",
+    "gtin": "10140482",
+    "title": "Cuscino Rettangolare Calliope Arancio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cuscino-rettangolare-calliope-arancio-14764/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269736/lovedi-cuscino-rettangolare-calliope-arancio.jpg?v=637834744561300000"
+    ],
+    "price": {
+      "current": 14.95,
+      "original": 29.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 747.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14764",
+        "sku": "14764",
+        "gtin": "10140482",
+        "title": "CM.100",
+        "url": "https://www.arcaplanet.it/lovedi-cuscino-rettangolare-calliope-arancio-14764/p",
+        "price": {
+          "current": 14.95,
+          "original": 29.9,
+          "pricePerUnit": {
+            "value": 747.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.100"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cuscino-rettangolare-calliope-arancio-14764p",
+        "name": "Cuscino Rettangolare Calliope Arancio",
+        "path": "/lovedi-cuscino-rettangolare-calliope-arancio-14764/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16901",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.868Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "15146",
+    "sku": "15146",
+    "gtin": "10140933",
+    "title": "Lovedi Coperta Winter Grigio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-coperta-winter-grigio-15146/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275816/Lovedi-Grey-Cosy-Blanket.jpg?v=638007326586830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275817/Lovedi-Grey-Cosy-Blanket-LS2.jpg?v=638007326689770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275818/Lovedi-Grey-Cosy-Blanket-LS1.jpg?v=638007326767470000"
+    ],
+    "price": {
+      "current": 9.95,
+      "original": 19.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 497.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15146",
+        "sku": "15146",
+        "gtin": "10140933",
+        "title": "CM.110",
+        "url": "https://www.arcaplanet.it/lovedi-coperta-winter-grigio-15146/p",
+        "price": {
+          "current": 9.95,
+          "original": 19.9,
+          "pricePerUnit": {
+            "value": 497.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicoperte",
+        "name": "Coperte",
+        "path": "/cane/cucce-e-lettini/coperte/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-coperta-winter-grigio-15146p",
+        "name": "Lovedi Coperta Winter Grigio",
+        "path": "/lovedi-coperta-winter-grigio-15146/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17283",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "15259",
+    "sku": "15259",
+    "gtin": "10141043",
+    "title": "Ciambella Pelosa Antracite",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciambella-pelosa-antracite-15259/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272667/luna-teo-cuccia-antracite.jpg?v=637907883351070000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15259",
+        "sku": "15259",
+        "gtin": "10141043",
+        "title": "90CM",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciambella-pelosa-antracite-15259/p",
+        "price": {
+          "current": 39.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.90"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "luna-e-teo-ciambella-pelosa-antracite-15259p",
+        "name": "Ciambella Pelosa Antracite",
+        "path": "/luna-e-teo-ciambella-pelosa-antracite-15259/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17396",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "15996",
+    "sku": "15996",
+    "gtin": "10152526",
+    "title": "AniOne Tappetino Bruce Plush Grigio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetino-bruce-plush-grigio-15996/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275131/10152526_10152527_10152528_10152529.jpg?v=637967695914730000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "15996",
+        "sku": "15996",
+        "gtin": "10152526",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-tappetino-bruce-plush-grigio-15996/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinitappeti",
+        "name": "Tappeti",
+        "path": "/cane/cucce-e-lettini/tappeti/",
+        "level": 4
+      },
+      {
+        "id": "anione-tappetino-bruce-plush-grigio-15996p",
+        "name": "AniOne Tappetino Bruce Plush Grigio",
+        "path": "/anione-tappetino-bruce-plush-grigio-15996/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18133",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "16266",
+    "sku": "16266",
+    "gtin": "10155769",
+    "title": "Cuccia con Orecchie 50CM",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-cuccia-orecchie-50cm-16266/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277286/luna-e-teo-cuccia-orecchie-azzurra-50cm.jpg?v=638046207258570000"
+    ],
+    "price": {
+      "current": 12,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 600,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16266",
+        "sku": "16266",
+        "gtin": "10155769",
+        "title": "AZZURRO",
+        "url": "https://www.arcaplanet.it/luna-e-teo-cuccia-orecchie-50cm-16266/p",
+        "price": {
+          "current": 12,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 600,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "AZZURRO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "luna-e-teo-cuccia-orecchie-50cm-16266p",
+        "name": "Cuccia con Orecchie 50CM",
+        "path": "/luna-e-teo-cuccia-orecchie-50cm-16266/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18404",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "16271",
+    "sku": "16271",
+    "gtin": "10155776",
+    "title": "Cuscino per Cani British Mattress",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cuscino-materasso-british-per-cane-80x58-cm-16271/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276765/lovedi-cuscino-materasso-british-per-cane-bordeaux.jpg?v=638037586082800000"
+    ],
+    "price": {
+      "current": 26.99,
+      "original": 26.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16271",
+        "sku": "16271",
+        "gtin": "10155776",
+        "title": "BORDEAUX",
+        "url": "https://www.arcaplanet.it/lovedi-cuscino-materasso-british-per-cane-80x58-cm-16271/p",
+        "price": {
+          "current": 26.99,
+          "original": 26.99,
+          "pricePerUnit": {
+            "value": 1349.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BORDEAUX",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cuscino-materasso-british-per-cane-80x58-cm-16271p",
+        "name": "Cuscino per Cani British Mattress",
+        "path": "/lovedi-cuscino-materasso-british-per-cane-80x58-cm-16271/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18411",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "16282",
+    "sku": "16282",
+    "gtin": "10155791",
+    "title": "Cuccia Rettangolare Velvet Grigio",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/cuccia-rettangolare-velvet-grigio-16282/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275569/55-rett.jpg?v=638005578873500000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16282",
+        "sku": "16282",
+        "gtin": "10155791",
+        "title": "CM.55",
+        "url": "https://www.arcaplanet.it/cuccia-rettangolare-velvet-grigio-16282/p",
+        "price": {
+          "current": 39.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "cuccia-rettangolare-velvet-grigio-16282p",
+        "name": "Cuccia Rettangolare Velvet Grigio",
+        "path": "/cuccia-rettangolare-velvet-grigio-16282/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18419",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "16285",
+    "sku": "16285",
+    "gtin": "10155794",
+    "title": "Cuscino Busta Rettangolare Velvet Grigio",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/cuscino-busta-rettangolare-velvet-grigio-16285/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275572/cuscino-100.jpg?v=638005600291070000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16285",
+        "sku": "16285",
+        "gtin": "10155794",
+        "title": "100CM",
+        "url": "https://www.arcaplanet.it/cuscino-busta-rettangolare-velvet-grigio-16285/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "cuscino-busta-rettangolare-velvet-grigio-16285p",
+        "name": "Cuscino Busta Rettangolare Velvet Grigio",
+        "path": "/cuscino-busta-rettangolare-velvet-grigio-16285/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18422",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20037",
+    "sku": "20037",
+    "gtin": "10160861",
+    "title": "Luna&Teo Cuccia Rettangolare Schottish Nera",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-cuccia-rettangolare-scottish-nera-20037/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281216/scottish-nera-60-80.jpg?v=638126689382230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281217/scottish-nera-60-80-cuscino.jpg?v=638748692398070000"
+    ],
+    "price": {
+      "current": 54.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "20037",
+        "sku": "20037",
+        "gtin": "10160861",
+        "title": "CM.80",
+        "url": "https://www.arcaplanet.it/luna-e-teo-cuccia-rettangolare-scottish-nera-20037/p",
+        "price": {
+          "current": 54.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 2749.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.80"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "luna-e-teo-cuccia-rettangolare-scottish-nera-20037p",
+        "name": "Luna&Teo Cuccia Rettangolare Schottish Nera",
+        "path": "/luna-e-teo-cuccia-rettangolare-scottish-nera-20037/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22161",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20164",
+    "sku": "20164",
+    "gtin": "10161249",
+    "title": "Luna&Teo Cuccia Ovale Girl Rosa",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-teo-cuccia-ovale-girl-rosa-con-topo-20164/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280839/LT_CUCCIA-OVALE-CM.60-GIRL-ROSA-CON-TOPO--1---1-.jpg?v=638120643303670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280840/LT_CUCCIA-OVALE-CM.60-GIRL-ROSA-CON-TOPO--2---1-.jpg?v=638120643616900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280841/LT_CUCCIA-OVALE-CM.60-GIRL-ROSA-CON-TOPO--3---1---1-.jpg?v=638120644440570000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20164",
+        "sku": "20164",
+        "gtin": "10161249",
+        "title": "60CM",
+        "url": "https://www.arcaplanet.it/luna-teo-cuccia-ovale-girl-rosa-con-topo-20164/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.60",
+            "Color": "ROSA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "luna-teo-cuccia-ovale-girl-rosa-con-topo-20164p",
+        "name": "Luna&Teo Cuccia Ovale Girl Rosa",
+        "path": "/luna-teo-cuccia-ovale-girl-rosa-con-topo-20164/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22282",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20544",
+    "sku": "20544",
+    "gtin": "10166193",
+    "title": "Materasso per Cane Ronfi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-materasso-ronfi-20544/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279105/lovedi-materasso-ronfi.jpg?v=638100666647800000"
+    ],
+    "price": {
+      "current": 4,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 200,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20544",
+        "sku": "20544",
+        "gtin": "10166193",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/lovedi-materasso-ronfi-20544/p",
+        "price": {
+          "current": 4,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 200,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-materasso-ronfi-20544p",
+        "name": "Materasso per Cane Ronfi",
+        "path": "/lovedi-materasso-ronfi-20544/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22662",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20596",
+    "sku": "20596",
+    "gtin": "10166150",
+    "title": "Cuscino Sofficione Sfere",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cuscino-sofficione-sfere-20596/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279075/lovedi-cuscino-sofficione-sfere.jpg?v=638098265998500000"
+    ],
+    "price": {
+      "current": 16.5,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 825,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20596",
+        "sku": "20596",
+        "gtin": "10166150",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-cuscino-sofficione-sfere-20596/p",
+        "price": {
+          "current": 16.5,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 825,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cuscino-sofficione-sfere-20596p",
+        "name": "Cuscino Sofficione Sfere",
+        "path": "/lovedi-cuscino-sofficione-sfere-20596/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22716",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20605",
+    "sku": "20605",
+    "gtin": "10166141",
+    "title": "Cuscino Sofficione Conchiglie",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cuscino-sofficione-conchiglie-20605/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279065/lovedi-cuscino-sofficione-conchiglie.jpg?v=638098256697000000"
+    ],
+    "price": {
+      "current": 7.5,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 375,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20605",
+        "sku": "20605",
+        "gtin": "10166141",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-cuscino-sofficione-conchiglie-20605/p",
+        "price": {
+          "current": 7.5,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 375,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cuscino-sofficione-conchiglie-20605p",
+        "name": "Cuscino Sofficione Conchiglie",
+        "path": "/lovedi-cuscino-sofficione-conchiglie-20605/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22723",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20608",
+    "sku": "20608",
+    "gtin": "10166136",
+    "title": "Copricesta Rombi Lovedì",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-copricesta-rombi-20608/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279057/lovedi-copricesta-rombi.jpg?v=638098233082730000"
+    ],
+    "price": {
+      "current": 10.5,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 525,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20608",
+        "sku": "20608",
+        "gtin": "10166136",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-copricesta-rombi-20608/p",
+        "price": {
+          "current": 10.5,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 525,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniceste",
+        "name": "Ceste",
+        "path": "/cane/cucce-e-lettini/ceste/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-copricesta-rombi-20608p",
+        "name": "Copricesta Rombi Lovedì",
+        "path": "/lovedi-copricesta-rombi-20608/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22726",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20645",
+    "sku": "20645",
+    "gtin": "10166270",
+    "title": "Pet Around You Cuccia Outdoor",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-cuccia-outdoor-20645/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286745/20230428111803_IMG_9162.jpg?v=638215525803770000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20645",
+        "sku": "20645",
+        "gtin": "10166270",
+        "title": "ROSSA",
+        "url": "https://www.arcaplanet.it/pet-around-you-cuccia-outdoor-20645/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-cuccia-outdoor-20645p",
+        "name": "Pet Around You Cuccia Outdoor",
+        "path": "/pet-around-you-cuccia-outdoor-20645/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22765",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20650",
+    "sku": "20650",
+    "gtin": "10166267",
+    "title": "Pet Around You Cuscino Outdoor 120CM",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-cuscino-outdoor-120cm-20650/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286743/20230428104431_IMG_9122.jpg?v=638215522058830000"
+    ],
+    "price": {
+      "current": 84.99,
+      "original": 84.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20650",
+        "sku": "20650",
+        "gtin": "10166267",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/pet-around-you-cuscino-outdoor-120cm-20650/p",
+        "price": {
+          "current": 84.99,
+          "original": 84.99,
+          "pricePerUnit": {
+            "value": 4249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-cuscino-outdoor-120cm-20650p",
+        "name": "Pet Around You Cuscino Outdoor 120CM",
+        "path": "/pet-around-you-cuscino-outdoor-120cm-20650/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22769",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20649",
+    "sku": "20649",
+    "gtin": "10166264",
+    "title": "Pet Around You Cuscino Outdoor 100CM",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-cuscino-outdoor-100cm-20649/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291834/20230428104431_IMG_9122.jpg?v=638355727172730000"
+    ],
+    "price": {
+      "current": 69.99,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3499.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "20649",
+        "sku": "20649",
+        "gtin": "10166264",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/pet-around-you-cuscino-outdoor-100cm-20649/p",
+        "price": {
+          "current": 69.99,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 3499.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-cuscino-outdoor-100cm-20649p",
+        "name": "Pet Around You Cuscino Outdoor 100CM",
+        "path": "/pet-around-you-cuscino-outdoor-100cm-20649/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22772",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20699",
+    "sku": "20699",
+    "gtin": "10166286",
+    "title": "Materasso Waterproof Sfoderabile Missioni",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/materasso-waterproof-sfoderabile-missioni-20699/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286002/10166286.jpg?v=638200786359300000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20699",
+        "sku": "20699",
+        "gtin": "10166286",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/materasso-waterproof-sfoderabile-missioni-20699/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "materasso-waterproof-sfoderabile-missioni-20699p",
+        "name": "Materasso Waterproof Sfoderabile Missioni",
+        "path": "/materasso-waterproof-sfoderabile-missioni-20699/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "20700",
+    "sku": "20700",
+    "gtin": "10166287",
+    "title": "Materasso Waterproof Sfoderabile Gocce",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/materasso-waterproof-sfoderabile-gocce-20700/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286003/10166287.jpg?v=638200790873130000"
+    ],
+    "price": {
+      "current": 54.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20700",
+        "sku": "20700",
+        "gtin": "10166287",
+        "title": "XXL",
+        "url": "https://www.arcaplanet.it/materasso-waterproof-sfoderabile-gocce-20700/p",
+        "price": {
+          "current": 54.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 2749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "materasso-waterproof-sfoderabile-gocce-20700p",
+        "name": "Materasso Waterproof Sfoderabile Gocce",
+        "path": "/materasso-waterproof-sfoderabile-gocce-20700/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22817",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "21024",
+    "sku": "21024",
+    "gtin": "10168630",
+    "title": "Luna&Teo Cuccia Ciambella Pelosa Nocciola",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-teo-cuccia-ciambella-pelosa-nocciola-21024/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287528/NIRVANA-120-NOCCIOLA--1-.jpg?v=638230286730200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287530/NIRVANA-123-NOCCIOLA--1-.jpg?v=638230287189700000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21024",
+        "sku": "21024",
+        "gtin": "10168630",
+        "title": "90CM",
+        "url": "https://www.arcaplanet.it/luna-teo-cuccia-ciambella-pelosa-nocciola-21024/p",
+        "price": {
+          "current": 39.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.90"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicucce-morbide",
+        "name": "Cucce Morbide",
+        "path": "/cane/cucce-e-lettini/cucce-morbide/",
+        "level": 4
+      },
+      {
+        "id": "luna-teo-cuccia-ciambella-pelosa-nocciola-21024p",
+        "name": "Luna&Teo Cuccia Ciambella Pelosa Nocciola",
+        "path": "/luna-teo-cuccia-ciambella-pelosa-nocciola-21024/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23115",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "22518",
+    "sku": "22518",
+    "gtin": "10170092",
+    "title": "Luna&Teo Coperta Cane Polar",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-teo-coperta-cane-polar-22518/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293220/Luna-Teo-Coperta-Cane-Polar-10170092-1.jpg?v=638386650155230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293221/Luna-Teo-Copertar-Cane-Polar-10170092.jpg?v=638386650333000000"
+    ],
+    "price": {
+      "current": 12.5,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 625,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22518",
+        "sku": "22518",
+        "gtin": "10170092",
+        "title": "GRIGIO",
+        "url": "https://www.arcaplanet.it/luna-teo-coperta-cane-polar-22518/p",
+        "price": {
+          "current": 12.5,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 625,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicoperte",
+        "name": "Coperte",
+        "path": "/cane/cucce-e-lettini/coperte/",
+        "level": 4
+      },
+      {
+        "id": "luna-teo-coperta-cane-polar-22518p",
+        "name": "Luna&Teo Coperta Cane Polar",
+        "path": "/luna-teo-coperta-cane-polar-22518/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24572",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "22524",
+    "sku": "22524",
+    "gtin": "10170098",
+    "title": "Luna&Teo Cuscino Cane Polar Trapuntato",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-teo-cuscino-cane-polar-trapuntato-22524/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293232/Luna-Teo-Cuscino-Cane-Polar-Trapuntato10170098.jpg?v=638386654162300000"
+    ],
+    "price": {
+      "current": 17.5,
+      "original": 34.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 875,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22524",
+        "sku": "22524",
+        "gtin": "10170098",
+        "title": "AZZURRO",
+        "url": "https://www.arcaplanet.it/luna-teo-cuscino-cane-polar-trapuntato-22524/p",
+        "price": {
+          "current": 17.5,
+          "original": 34.99,
+          "pricePerUnit": {
+            "value": 875,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/cane/cucce-e-lettini/cuscini/",
+        "level": 4
+      },
+      {
+        "id": "luna-teo-cuscino-cane-polar-trapuntato-22524p",
+        "name": "Luna&Teo Cuscino Cane Polar Trapuntato",
+        "path": "/luna-teo-cuscino-cane-polar-trapuntato-22524/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24573",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "23295",
+    "sku": "23295",
+    "gtin": "10173208",
+    "title": "Yes! Lettino per Cane Bunk Eco Nero",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-lettino-bunk-eco-nero-23295/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297190/Yes--Lettino-Bunk-Eco-Nero-10173208.jpg?v=638464334392470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297191/Yes--Lettino-Bunk-Eco-Nero-10173208.jpg?v=638464334518970000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23295",
+        "sku": "23295",
+        "gtin": "10173208",
+        "title": "50CM",
+        "url": "https://www.arcaplanet.it/yes-lettino-bunk-eco-nero-23295/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniceste",
+        "name": "Ceste",
+        "path": "/cane/cucce-e-lettini/ceste/",
+        "level": 4
+      },
+      {
+        "id": "yes-lettino-bunk-eco-nero-23295p",
+        "name": "Yes! Lettino per Cane Bunk Eco Nero",
+        "path": "/yes-lettino-bunk-eco-nero-23295/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25304",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "23296",
+    "sku": "23296",
+    "gtin": "10173209",
+    "title": "Yes! Lettino per Cane Bunk Eco Ghiaccio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-lettino-bunk-eco-ghiaccio-23296/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297200/Yes--Lettino-Bunk-Eco-Ghiaccio-10173209.jpg?v=638464343956330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297201/Yes--Lettino-Bunk-Eco-Ghiaccio-10173209..jpg?v=638464344068800000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23296",
+        "sku": "23296",
+        "gtin": "10173209",
+        "title": "50CM",
+        "url": "https://www.arcaplanet.it/yes-lettino-bunk-eco-ghiaccio-23296/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettiniceste",
+        "name": "Ceste",
+        "path": "/cane/cucce-e-lettini/ceste/",
+        "level": 4
+      },
+      {
+        "id": "yes-lettino-bunk-eco-ghiaccio-23296p",
+        "name": "Yes! Lettino per Cane Bunk Eco Ghiaccio",
+        "path": "/yes-lettino-bunk-eco-ghiaccio-23296/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25305",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  },
+  {
+    "id": "23943",
+    "sku": "23943",
+    "gtin": "10173986",
+    "title": "Tappeto Olfattivo Rotondo",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/tappeto-sensoriale-rotondo-23943/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309235/Tappeto-Sensoriale-Rotondo-10173986.jpg?v=638658081834530000"
+    ],
+    "price": {
+      "current": 26.99,
+      "original": 26.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23943",
+        "sku": "23943",
+        "gtin": "10173986",
+        "title": "55CM",
+        "url": "https://www.arcaplanet.it/tappeto-sensoriale-rotondo-23943/p",
+        "price": {
+          "current": 26.99,
+          "original": 26.99,
+          "pricePerUnit": {
+            "value": 1349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/cane/cucce-e-lettini/",
+        "level": 3
+      },
+      {
+        "id": "canecucce-e-lettinitappeti",
+        "name": "Tappeti",
+        "path": "/cane/cucce-e-lettini/tappeti/",
+        "level": 4
+      },
+      {
+        "id": "tappeto-sensoriale-rotondo-23943p",
+        "name": "Tappeto Olfattivo Rotondo",
+        "path": "/tappeto-sensoriale-rotondo-23943/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25954",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:37:44.869Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cucce/e/lettini/"
+  }
+]

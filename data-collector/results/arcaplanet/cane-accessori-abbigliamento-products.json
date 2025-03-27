@@ -1,0 +1,4136 @@
+[
+  {
+    "id": "626",
+    "sku": "626",
+    "gtin": "00013422",
+    "title": "Mutandina Igenica per cani",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/mutandina-igienica-per-cani-in-calore-626/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289743/Mutandina_Igienica_Pack--1-.jpg?v=638303641408070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/217058/https---www.arcaplanet.it-media-catalog-product--m-u-mutandina-igienica-doggy-pants-croc183_2.jpg?v=637454584547170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/228778/sanicat-gatto-lettiera-clumping-marsiglia.jpg?v=637454809456500000"
+    ],
+    "price": {
+      "current": 9.2,
+      "original": 9.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 459.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "626",
+        "sku": "626",
+        "gtin": "00013422",
+        "title": "TG.30",
+        "url": "https://www.arcaplanet.it/mutandina-igienica-per-cani-in-calore-626/p",
+        "price": {
+          "current": 9.2,
+          "original": 9.2,
+          "pricePerUnit": {
+            "value": 459.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.30"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentointimo",
+        "name": "Intimo",
+        "path": "/cane/accessori/abbigliamento/intimo/",
+        "level": 5
+      },
+      {
+        "id": "mutandina-igienica-per-cani-in-calore-626p",
+        "name": "Mutandina Igenica per cani",
+        "path": "/mutandina-igienica-per-cani-in-calore-626/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "2277",
+    "sku": "2277",
+    "gtin": "10111472",
+    "title": "Scarponcini per Cani Outdoor",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-scarponcini-cane-outdoor-4tg-2277/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281148/camon-scarponcini-cane-outdoor.jpg?v=638126597096030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281153/camon-scarponcini-cane-outdoor-dettaglio.jpg?v=638126597897900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281155/camon-scarponcini-cane-outdoor-guida-alle-taglie.jpg?v=638126598216270000"
+    ],
+    "price": {
+      "current": 21.24,
+      "original": 23.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1062,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2277",
+        "sku": "2277",
+        "gtin": "10111472",
+        "title": "TG.2",
+        "url": "https://www.arcaplanet.it/camon-scarponcini-cane-outdoor-4tg-2277/p",
+        "price": {
+          "current": 21.24,
+          "original": 23.6,
+          "pricePerUnit": {
+            "value": 1062,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.2"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "camon-scarponcini-cane-outdoor-4tg-2277p",
+        "name": "Scarponcini per Cani Outdoor",
+        "path": "/camon-scarponcini-cane-outdoor-4tg-2277/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2924",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "298",
+    "sku": "298",
+    "gtin": "10110001",
+    "title": "Impermeabile con Imbottitura per Bassotto Rosso",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-bassotto-cane-impermeabile-con-imbottitura-staccabile-rosso-298/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295403/Impermeabile-con-Imbottitura-per-Bassotto-Rosso-10110001.jpg?v=638439435180600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295404/Impermeabile-con-Imbottitura-per-Bassotto-Rosso10110001-1.jpg?v=638439435409570000"
+    ],
+    "price": {
+      "current": 46.99,
+      "original": 46.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "298",
+        "sku": "298",
+        "gtin": "10110001",
+        "title": "TG.43",
+        "url": "https://www.arcaplanet.it/lovedi-bassotto-cane-impermeabile-con-imbottitura-staccabile-rosso-298/p",
+        "price": {
+          "current": 46.99,
+          "original": 46.99,
+          "pricePerUnit": {
+            "value": 2349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-bassotto-cane-impermeabile-con-imbottitura-staccabile-rosso-298p",
+        "name": "Impermeabile con Imbottitura per Bassotto Rosso",
+        "path": "/lovedi-bassotto-cane-impermeabile-con-imbottitura-staccabile-rosso-298/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4342",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "1421",
+    "sku": "1421",
+    "gtin": "10062667",
+    "title": "Mutandina Pois con Fiocco Viola per Cane in Calore",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-mutandina-cane-pois-con-fiocco-viola-1421/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221137/camon-mutandina-cane-pois-con-fiocco-viola.jpg?v=637454708066800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231026/camon-mutandina-cane-pois-con-fiocco-viola.jpg?v=637454834436270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263455/guida-alle-taglie--2-.jpg?v=637684965857570000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1421",
+        "sku": "1421",
+        "gtin": "10062667",
+        "title": "TG.2",
+        "url": "https://www.arcaplanet.it/camon-mutandina-cane-pois-con-fiocco-viola-1421/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.2"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentointimo",
+        "name": "Intimo",
+        "path": "/cane/accessori/abbigliamento/intimo/",
+        "level": 5
+      },
+      {
+        "id": "camon-mutandina-cane-pois-con-fiocco-viola-1421p",
+        "name": "Mutandina Pois con Fiocco Viola per Cane in Calore",
+        "path": "/camon-mutandina-cane-pois-con-fiocco-viola-1421/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6306",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11440",
+    "sku": "11440",
+    "gtin": "10130533",
+    "title": "Cappotto Impermeabile Montreal Grigio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262475/yes-cappotto-impermeabile-montreal-grigio.jpg?v=637672258747400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263808/guida-taglia-cappottini.jpg?v=637691332244070000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11440",
+        "sku": "11440",
+        "gtin": "10130533",
+        "title": "CM.35",
+        "url": "https://www.arcaplanet.it/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-cappottino-impermeabile-montreal-grigio-11440p",
+        "name": "Cappotto Impermeabile Montreal Grigio",
+        "path": "/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11034",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11469",
+    "sku": "11469",
+    "gtin": "10130562",
+    "title": "Giubbino Cervinia Reboot Rosso",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-giubbino-cervinia-reboot-rosso-11469/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261840/giubbino-cervinia-rosso.jpg?v=637654203122530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263833/guida-taglia-cappottini.jpg?v=637691350182470000"
+    ],
+    "price": {
+      "current": 15.7,
+      "original": 15.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 785,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11469",
+        "sku": "11469",
+        "gtin": "10130562",
+        "title": "20CM",
+        "url": "https://www.arcaplanet.it/yes-giubbino-cervinia-reboot-rosso-11469/p",
+        "price": {
+          "current": 15.7,
+          "original": 15.7,
+          "pricePerUnit": {
+            "value": 785,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.20"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "yes-giubbino-cervinia-reboot-rosso-11469p",
+        "name": "Giubbino Cervinia Reboot Rosso",
+        "path": "/yes-giubbino-cervinia-reboot-rosso-11469/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11063",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11474",
+    "sku": "11474",
+    "gtin": "10130567",
+    "title": "Giubbotto Impermeabile Sestriere Nero",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-giubbotto-impermeabile-sestriere-nero-11474/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262323/261859-1200-auto.jpg?v=637667798345000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263828/guida-taglia-cappottini.jpg?v=637691344793200000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11474",
+        "sku": "11474",
+        "gtin": "10130567",
+        "title": "CM.25",
+        "url": "https://www.arcaplanet.it/yes-giubbotto-impermeabile-sestriere-nero-11474/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.25"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-giubbotto-impermeabile-sestriere-nero-11474p",
+        "name": "Giubbotto Impermeabile Sestriere Nero",
+        "path": "/yes-giubbotto-impermeabile-sestriere-nero-11474/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11069",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11498",
+    "sku": "11498",
+    "gtin": "10130591",
+    "title": "Impermeabile Raindrop Giallo",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-impermeabile-raindrop-giallo-11498/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263586/yes-impermeabile-raindrop-giallo.jpg?v=637689514859200000"
+    ],
+    "price": {
+      "current": 22.7,
+      "original": 22.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1135,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11498",
+        "sku": "11498",
+        "gtin": "10130591",
+        "title": "CM.35",
+        "url": "https://www.arcaplanet.it/yes-impermeabile-raindrop-giallo-11498/p",
+        "price": {
+          "current": 22.7,
+          "original": 22.7,
+          "pricePerUnit": {
+            "value": 1135,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.35"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-impermeabile-raindrop-giallo-11498p",
+        "name": "Impermeabile Raindrop Giallo",
+        "path": "/yes-impermeabile-raindrop-giallo-11498/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11090",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11521",
+    "sku": "11521",
+    "gtin": "10130614",
+    "title": "Maglioncino Dolcevita Siviglia Rosso",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-siviglia-rosso-11521/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262094/yes-maglioncino-dolcevita-siviglia-rosso-indossato.jpg?v=637665126557100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262093/yes-maglioncino-dolcevita-siviglia-rosso.jpg?v=637665126488270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263814/guida-taglia-cappottini.jpg?v=637691335794570000"
+    ],
+    "price": {
+      "current": 8.7,
+      "original": 8.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 434.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11521",
+        "sku": "11521",
+        "gtin": "10130614",
+        "title": "CM.20",
+        "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-siviglia-rosso-11521/p",
+        "price": {
+          "current": 8.7,
+          "original": 8.7,
+          "pricePerUnit": {
+            "value": 434.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.20"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "yes-maglioncino-dolcevita-siviglia-rosso-11521p",
+        "name": "Maglioncino Dolcevita Siviglia Rosso",
+        "path": "/yes-maglioncino-dolcevita-siviglia-rosso-11521/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11115",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11529",
+    "sku": "11529",
+    "gtin": "10130622",
+    "title": "Maglioncino Dolcevita Stoccolma Nero",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261710/yes-maglioncino-dolcevita-stoccolma-nero-cane.jpg?v=637654116839530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261866/yes-maglioncino-dolcevita-stoccolma-nero.jpg?v=637654745847730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263815/guida-taglia-cappottini.jpg?v=637691336285400000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11529",
+        "sku": "11529",
+        "gtin": "10130622",
+        "title": "CM.25",
+        "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.25"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "yes-maglioncino-dolcevita-stoccolma-nero-11529p",
+        "name": "Maglioncino Dolcevita Stoccolma Nero",
+        "path": "/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11123",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11839",
+    "sku": "11839",
+    "gtin": "10078233",
+    "title": "Calze Pet Nere Cuori",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-calze-pet-nere-cuori-11839/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/224453/camon-calze-pet-nere-cuori-tg-xxl.jpg?v=637454742885000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/242263/camon-calze-pet-nere-cuori-tg-xxl.jpg?v=637454997278300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253527/Cattura.png?v=637523568507130000"
+    ],
+    "price": {
+      "current": 10.6,
+      "original": 10.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 530,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11839",
+        "sku": "11839",
+        "gtin": "10078233",
+        "title": "XXL",
+        "url": "https://www.arcaplanet.it/camon-calze-pet-nere-cuori-11839/p",
+        "price": {
+          "current": 10.6,
+          "original": 10.6,
+          "pricePerUnit": {
+            "value": 530,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "camon-calze-pet-nere-cuori-11839p",
+        "name": "Calze Pet Nere Cuori",
+        "path": "/camon-calze-pet-nere-cuori-11839/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11864",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "11782",
+    "sku": "11782",
+    "gtin": "10058787",
+    "title": "Calzini per Cani Fantasia Cuori",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-calze-pet-rosse-3-cuori-11782/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221114/camon-calze-pet-rosse-3-cuori-tg-s.jpg?v=638756488516470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231005/camon-calze-pet-rosse-3-cuori-tg-s.jpg?v=638756488516470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253529/Cattura.png?v=638756488516630000"
+    ],
+    "price": {
+      "current": 3.28,
+      "original": 6.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 164,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11782",
+        "sku": "11782",
+        "gtin": "10058787",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/camon-calze-pet-rosse-3-cuori-11782/p",
+        "price": {
+          "current": 3.28,
+          "original": 6.55,
+          "pricePerUnit": {
+            "value": 164,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "camon-calze-pet-rosse-3-cuori-11782p",
+        "name": "Calzini per Cani Fantasia Cuori",
+        "path": "/camon-calze-pet-rosse-3-cuori-11782/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "13398",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "13767",
+    "sku": "13767",
+    "gtin": "10139580",
+    "title": "Felpa Disney Marvel",
+    "brand": "DISNEY",
+    "url": "https://www.arcaplanet.it/felpa-disney-marvel-cane-13767/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272092/xxs.jpg?v=637898419710630000"
+    ],
+    "price": {
+      "current": 9.98,
+      "original": 19.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13767",
+        "sku": "13767",
+        "gtin": "10139580",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/felpa-disney-marvel-cane-13767/p",
+        "price": {
+          "current": 9.98,
+          "original": 19.95,
+          "pricePerUnit": {
+            "value": 499,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "felpa-disney-marvel-cane-13767p",
+        "name": "Felpa Disney Marvel",
+        "path": "/felpa-disney-marvel-cane-13767/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15901",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "13766",
+    "sku": "13766",
+    "gtin": "10139579",
+    "title": "Felpa Dc Comics Batman",
+    "brand": "DC COMICS",
+    "url": "https://www.arcaplanet.it/felpa-dc-comics-batman-per-cane-13766/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262448/2800000131.jpg?v=637672129857300000"
+    ],
+    "price": {
+      "current": 9.98,
+      "original": 19.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13766",
+        "sku": "13766",
+        "gtin": "10139579",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/felpa-dc-comics-batman-per-cane-13766/p",
+        "price": {
+          "current": 9.98,
+          "original": 19.95,
+          "pricePerUnit": {
+            "value": 499,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "felpa-dc-comics-batman-per-cane-13766p",
+        "name": "Felpa Dc Comics Batman",
+        "path": "/felpa-dc-comics-batman-per-cane-13766/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15904",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "14623",
+    "sku": "14623",
+    "gtin": "10140361",
+    "title": "Maglione Passion San Valentino Rosso",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-maglione-passion-san-valentino-rosso-14623/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266659/lovedi-maglione-passion-rosso-indossato-cane.jpg?v=637783590988670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266662/lovedi-maglione-passion-rosso-bianco-front.jpg?v=637783592263470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266663/misura-dorso-cane.jpg?v=637783592546070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266664/lovedi-maglione-passion-rosso-indossato-cane-seduto.jpg?v=637783593017770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266665/lovedi-maglione-passion-rosso-dietro.jpg?v=637783593410130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266666/lovedi-maglione-passion-rosso-indossato-cane-seduto-girato.jpg?v=637783593705670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266667/lovedi-maglione-passion-rosso-front.jpg?v=637783593956300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266668/lovedi-maglione-passion-rosso-indossato-cane-girato.jpg?v=637783594152630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266669/lovedi-maglione-passion-rosso-back.jpg?v=637783594385430000"
+    ],
+    "price": {
+      "current": 14.45,
+      "original": 28.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 722.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14623",
+        "sku": "14623",
+        "gtin": "10140361",
+        "title": "TG.24",
+        "url": "https://www.arcaplanet.it/lovedi-maglione-passion-san-valentino-rosso-14623/p",
+        "price": {
+          "current": 14.45,
+          "original": 28.9,
+          "pricePerUnit": {
+            "value": 722.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.24"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-maglione-passion-san-valentino-rosso-14623p",
+        "name": "Maglione Passion San Valentino Rosso",
+        "path": "/lovedi-maglione-passion-san-valentino-rosso-14623/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16760",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "14840",
+    "sku": "14840",
+    "gtin": "10113144",
+    "title": "Scarpetta Protezione Zampe Cane Walker",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267378/scarpetta-protezione-zampe-cane-walker.jpg?v=637810516054200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267379/scarpetta-protezione-zampe-cane-walker1.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267380/scarpetta-protezione-zampe-cane-walker2.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267381/scarpetta-protezione-zampe-cane-walker3.jpg?v=638762474684370000"
+    ],
+    "price": {
+      "current": 11.3,
+      "original": 11.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 565,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14840",
+        "sku": "14840",
+        "gtin": "10113144",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "price": {
+          "current": 11.3,
+          "original": 11.3,
+          "pricePerUnit": {
+            "value": 565,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "trixe-scarpetta-protezione-zampe-cane-walker-14840p",
+        "name": "Scarpetta Protezione Zampe Cane Walker",
+        "path": "/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16979",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "15107",
+    "sku": "15107",
+    "gtin": "10140876",
+    "title": "Impermeabile Vancouver Police Blu",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-impermeabile-vancouver-police-blu-15107/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276025/yes-impermeabile-vancouver-police-blu.jpg?v=638013409686230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276026/yes-impermeabile-vancouver-police-blu-2.jpg?v=638748758955230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276027/yes-impermeabile-vancouver-police-blu-3.jpg?v=638748758955230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276028/yes-impermeabile-vancouver-police-blu-4.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276029/yes-impermeabile-vancouver-police-blu-5.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276030/yes-impermeabile-vancouver-police-blu-6.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276031/yes-impermeabile-vancouver-police-blu-7.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276032/yes-impermeabile-vancouver-police-blu-9.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276033/yes-impermeabile-vancouver-police-blu-10.jpg?v=638748758955570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276034/yes-impermeabile-vancouver-police-blu-11.jpg?v=638748758955570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276035/yes-impermeabile-vancouver-police-blu-12.jpg?v=638748758955570000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15107",
+        "sku": "15107",
+        "gtin": "10140876",
+        "title": "35CM",
+        "url": "https://www.arcaplanet.it/yes-impermeabile-vancouver-police-blu-15107/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-impermeabile-vancouver-police-blu-15107p",
+        "name": "Impermeabile Vancouver Police Blu",
+        "path": "/yes-impermeabile-vancouver-police-blu-15107/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "15583",
+    "sku": "15583",
+    "gtin": "10141118",
+    "title": "Piumino Reversibile Fumo",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-piumino-reversibile-fumo-15583/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275039/luna-e-teo-piumino-reversibile-fumo-cane.jpg?v=637965156802400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275040/luna-e-teo-piumino-reversibile-fumo-cane-alzato.jpg?v=638748778356530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275041/luna-e-teo-piumino-reversibile-fumo-cane-bianco-alzato.jpg?v=638748778356530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275042/luna-e-teo-piumino-reversibile-fumo-cane-bianco.jpg?v=638748778356530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275043/luna-e-teo-piumino-reversibile-fumo-chiuso.jpg?v=638748778356700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275044/luna-e-teo-piumino-reversibile-fumo-girato.jpg?v=638748778356700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275045/luna-e-teo-piumino-reversibile-fumo-bianco-girato.jpg?v=638748778356700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275046/luna-e-teo-piumino-reversibile-fumo-bianco-chiuso.jpg?v=638748778356700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275047/misura-dorso-cane.jpg?v=638748778356700000"
+    ],
+    "price": {
+      "current": 46.99,
+      "original": 46.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15583",
+        "sku": "15583",
+        "gtin": "10141118",
+        "title": "TG.33",
+        "url": "https://www.arcaplanet.it/luna-e-teo-piumino-reversibile-fumo-15583/p",
+        "price": {
+          "current": 46.99,
+          "original": 46.99,
+          "pricePerUnit": {
+            "value": 2349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.33"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-piumino-reversibile-fumo-15583p",
+        "name": "Piumino Reversibile Fumo",
+        "path": "/luna-e-teo-piumino-reversibile-fumo-15583/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17719",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "18811",
+    "sku": "18811",
+    "gtin": "10149442",
+    "title": "Take Care Dog Mutandine Protettive",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/mutanda-female-protect-assorbente-18811/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286779/1273248.jpg?v=638216364486500000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 474.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18811",
+        "sku": "18811",
+        "gtin": "10149442",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/mutanda-female-protect-assorbente-18811/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.49,
+          "pricePerUnit": {
+            "value": 474.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentointimo",
+        "name": "Intimo",
+        "path": "/cane/accessori/abbigliamento/intimo/",
+        "level": 5
+      },
+      {
+        "id": "mutanda-female-protect-assorbente-18811p",
+        "name": "Take Care Dog Mutandine Protettive",
+        "path": "/mutanda-female-protect-assorbente-18811/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21696",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "19226",
+    "sku": "19226",
+    "gtin": "10150072",
+    "title": "Dogs Creek Hiker Protezione per Zampe 2PZ",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/proteggizampe-hiker-2pz-19226/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318379/proteggizampe-hiker-2pz-10150072--1-.jpg.jpg?v=638769554921570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318380/proteggizampe-hiker-2pz-10150072--2-.jpg.jpg?v=638769554921570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318381/proteggizampe-hiker-2pz-10150072--3-.jpg.jpg?v=638769554921570000"
+    ],
+    "price": {
+      "current": 17.24,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 861.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19226",
+        "sku": "19226",
+        "gtin": "10150072",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/proteggizampe-hiker-2pz-19226/p",
+        "price": {
+          "current": 17.24,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 861.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "proteggizampe-hiker-2pz-19226p",
+        "name": "Dogs Creek Hiker Protezione per Zampe 2PZ",
+        "path": "/proteggizampe-hiker-2pz-19226/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21870",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21354",
+    "sku": "21354",
+    "gtin": "10153984",
+    "title": "Maglioncino Dolly Fucsia",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-dolly-fucsia-21354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286399/2270.20F_sc--1-.jpg?v=638206838756200000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21354",
+        "sku": "21354",
+        "gtin": "10153984",
+        "title": "XXXS",
+        "url": "https://www.arcaplanet.it/maglioncino-dolly-fucsia-21354/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXXS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-dolly-fucsia-21354p",
+        "name": "Maglioncino Dolly Fucsia",
+        "path": "/maglioncino-dolly-fucsia-21354/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23443",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21360",
+    "sku": "21360",
+    "gtin": "10169018",
+    "title": "Maglioncino I Love My Mom Lilla",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-i-love-my-mom-lilla-21360/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286671/2168.25P_sc--1-.jpg?v=638212127173930000"
+    ],
+    "price": {
+      "current": 21.6,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1080,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21360",
+        "sku": "21360",
+        "gtin": "10169018",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/maglioncino-i-love-my-mom-lilla-21360/p",
+        "price": {
+          "current": 21.6,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1080,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-i-love-my-mom-lilla-21360p",
+        "name": "Maglioncino I Love My Mom Lilla",
+        "path": "/maglioncino-i-love-my-mom-lilla-21360/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23469",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21362",
+    "sku": "21362",
+    "gtin": "10169017",
+    "title": "Maglioncino I Love My Dad Blu",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-i-love-my-dad-blu-21362/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286599/2168.20B_sc--1-.jpg?v=638211218414100000"
+    ],
+    "price": {
+      "current": 21.6,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1080,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21362",
+        "sku": "21362",
+        "gtin": "10169017",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/maglioncino-i-love-my-dad-blu-21362/p",
+        "price": {
+          "current": 21.6,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1080,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-i-love-my-dad-blu-21362p",
+        "name": "Maglioncino I Love My Dad Blu",
+        "path": "/maglioncino-i-love-my-dad-blu-21362/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23471",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21363",
+    "sku": "21363",
+    "gtin": "10169016",
+    "title": "Maglioncino I Love My Family Azzurro",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-i-love-my-family-azzurro-21363/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286663/10168998.jpg?v=638212116367970000"
+    ],
+    "price": {
+      "current": 21.6,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1080,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21363",
+        "sku": "21363",
+        "gtin": "10169016",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/maglioncino-i-love-my-family-azzurro-21363/p",
+        "price": {
+          "current": 21.6,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1080,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-i-love-my-family-azzurro-21363p",
+        "name": "Maglioncino I Love My Family Azzurro",
+        "path": "/maglioncino-i-love-my-family-azzurro-21363/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23473",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21387",
+    "sku": "21387",
+    "gtin": "10153992",
+    "title": "Maglioncino Dolly Azzurro",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-dolly-azzurro-21387/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286306/2270.20A_sc--1-.jpg?v=638206035279070000"
+    ],
+    "price": {
+      "current": 13.59,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 679.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21387",
+        "sku": "21387",
+        "gtin": "10153992",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/maglioncino-dolly-azzurro-21387/p",
+        "price": {
+          "current": 13.59,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 679.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-dolly-azzurro-21387p",
+        "name": "Maglioncino Dolly Azzurro",
+        "path": "/maglioncino-dolly-azzurro-21387/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23481",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21634",
+    "sku": "21634",
+    "gtin": "10169314",
+    "title": "Lovedì Impermeabile Scozzese Priamo Con Cappuccio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi--impermeabile-scozzese-priamo-con-cappucio-21634/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290881/Lovedi-Impermeabile-Scozzese-Priamo-Con-Capp-10169314.jpg?v=638340094977470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290882/Lovedi-Impermeabile-Scozzese-Priamo-Con-Capp-10169314..jpg?v=638755069342130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290883/Lovedi-Impermeabile-Scozzese-Priamo-Con-Capp-10169314.jpg?v=638755069342270000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21634",
+        "sku": "21634",
+        "gtin": "10169314",
+        "title": "TG.36",
+        "url": "https://www.arcaplanet.it/lovedi--impermeabile-scozzese-priamo-con-cappucio-21634/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "lovedi--impermeabile-scozzese-priamo-con-cappucio-21634p",
+        "name": "Lovedì Impermeabile Scozzese Priamo Con Cappuccio",
+        "path": "/lovedi--impermeabile-scozzese-priamo-con-cappucio-21634/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23723",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21635",
+    "sku": "21635",
+    "gtin": "10169298",
+    "title": "Lovedì Maglione Ulisse Macchie Rosa",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-maglione-ulisse-macchie-rosa-21635/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290846/lovedi-maglione-ulisse-con-macchie-rosa-10169298.jpg?v=638340045535130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290847/lovedi-maglione-ulisse-con-macchie-rosa-10169298--2-.jpg?v=638340045617300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290848/misura-dorso-cane-10169298.jpg?v=638340045705630000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21635",
+        "sku": "21635",
+        "gtin": "10169298",
+        "title": "TG.27",
+        "url": "https://www.arcaplanet.it/lovedi-maglione-ulisse-macchie-rosa-21635/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-maglione-ulisse-macchie-rosa-21635p",
+        "name": "Lovedì Maglione Ulisse Macchie Rosa",
+        "path": "/lovedi-maglione-ulisse-macchie-rosa-21635/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23725",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21643",
+    "sku": "21643",
+    "gtin": "10169308",
+    "title": "Lovedì Maglione Ulisse con Macchie Blu",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-maglione-ulisse-macchie-blu-21643/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290750/lovedi-maglione-ulisse-con-macchie-blu-10169308.jpg?v=638339925696930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290751/lovedi-maglione-ulisse-con-macchie-blu-10169308--2-.jpg?v=638748713949770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290752/misura-dorso-cane-10169308.jpg?v=638748713949770000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21643",
+        "sku": "21643",
+        "gtin": "10169308",
+        "title": "TG.36",
+        "url": "https://www.arcaplanet.it/lovedi-maglione-ulisse-macchie-blu-21643/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 1449.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-maglione-ulisse-macchie-blu-21643p",
+        "name": "Lovedì Maglione Ulisse con Macchie Blu",
+        "path": "/lovedi-maglione-ulisse-macchie-blu-21643/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23733",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21655",
+    "sku": "21655",
+    "gtin": "10169319",
+    "title": "Lovedì Cappotto Otis Imbottito Blu",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cappotto-otis-imbottito-blu-21655/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290784/Lovedi-Cappotto-Otis-Imbottito-Blu..jpg?v=638339976306070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290785/Lovedi-Cappotto-Otis-Imbottito-Blu.jpg?v=638748714741200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290786/misure-cane.jpg?v=638748714741370000"
+    ],
+    "price": {
+      "current": 45.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21655",
+        "sku": "21655",
+        "gtin": "10169319",
+        "title": "TG.43",
+        "url": "https://www.arcaplanet.it/lovedi-cappotto-otis-imbottito-blu-21655/p",
+        "price": {
+          "current": 45.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 2299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-cappotto-otis-imbottito-blu-21655p",
+        "name": "Lovedì Cappotto Otis Imbottito Blu",
+        "path": "/lovedi-cappotto-otis-imbottito-blu-21655/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23743",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21665",
+    "sku": "21665",
+    "gtin": "10169338",
+    "title": "Luna&Teo Trapuntato Otello Foderabile Rosa Ecopelle",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-teo-trapuntato-otello-foderabile-rosa-ecopelle-21665/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290960/Luna-Teo-Trapuntato-Otello-Foderabile-Rosa-Ecopelle-10169338.jpg?v=638342623539670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290962/Luna-Teo-Trapuntato-Otello-Foderabile-Rosa-Ecopelle-10169338.jpg?v=638342623769830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290965/Misure-del-cane.jpg?v=638342624287900000"
+    ],
+    "price": {
+      "current": 47.99,
+      "original": 47.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21665",
+        "sku": "21665",
+        "gtin": "10169338",
+        "title": "TG.30",
+        "url": "https://www.arcaplanet.it/luna-teo-trapuntato-otello-foderabile-rosa-ecopelle-21665/p",
+        "price": {
+          "current": 47.99,
+          "original": 47.99,
+          "pricePerUnit": {
+            "value": 2399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "luna-teo-trapuntato-otello-foderabile-rosa-ecopelle-21665p",
+        "name": "Luna&Teo Trapuntato Otello Foderabile Rosa Ecopelle",
+        "path": "/luna-teo-trapuntato-otello-foderabile-rosa-ecopelle-21665/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23754",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21684",
+    "sku": "21684",
+    "gtin": "10169348",
+    "title": "Luna&Teo Trapuntato Sirio Bordo Doubleface",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-trapuntato-sirio-bordo-doubleface-21684/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291006/Luna-Teo-Trapuntato-Sirio-Bordo-Doubleface.jpg?v=638342712523700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291007/Luna-Teo-Trapuntato-Sirio-Bordo-Doubleface..jpg?v=638748715890100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291008/Luna-Teo-Trapuntato-Sirio-Bordo-Doubleface.jpg?v=638748715890100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291047/misure-cane.jpg?v=638748715890100000"
+    ],
+    "price": {
+      "current": 45.5,
+      "original": 45.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2275,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21684",
+        "sku": "21684",
+        "gtin": "10169348",
+        "title": "TG.47",
+        "url": "https://www.arcaplanet.it/luna-e-teo-trapuntato-sirio-bordo-doubleface-21684/p",
+        "price": {
+          "current": 45.5,
+          "original": 45.5,
+          "pricePerUnit": {
+            "value": 2275,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-trapuntato-sirio-bordo-doubleface-21684p",
+        "name": "Luna&Teo Trapuntato Sirio Bordo Doubleface",
+        "path": "/luna-e-teo-trapuntato-sirio-bordo-doubleface-21684/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23768",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21696",
+    "sku": "21696",
+    "gtin": "10169360",
+    "title": "Lovedì Capottino Impermeabile Zefiro Fucsia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290896/Lovedi-Impermeabile-Zefiro-Fucsia-10169360.jpg?v=638342525665770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290897/Lovedi-Impermeabile-Zefiro-Fucsia-10169360.jpg?v=638342525922730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290944/Misure-del-cane.jpg?v=638342590787770000"
+    ],
+    "price": {
+      "current": 20,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1000,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21696",
+        "sku": "21696",
+        "gtin": "10169360",
+        "title": "TG.24",
+        "url": "https://www.arcaplanet.it/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+        "price": {
+          "current": 20,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1000,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-capottino-impermeabile-zefiro-fucsia-21696p",
+        "name": "Lovedì Capottino Impermeabile Zefiro Fucsia",
+        "path": "/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23785",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21703",
+    "sku": "21703",
+    "gtin": "10169368",
+    "title": "Lovedì Impermeabile Zefiro Trapuntato Pavone",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292786/lovedi-impermeabile-zefiro-trapuntato-pavone-10169368.jpg?v=638373911145230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292787/misura-dorso-cane-10169368.jpg?v=638373911710730000"
+    ],
+    "price": {
+      "current": 20,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1000,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21703",
+        "sku": "21703",
+        "gtin": "10169368",
+        "title": "TG.24",
+        "url": "https://www.arcaplanet.it/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+        "price": {
+          "current": 20,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1000,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-impermeabile-zefiro-trapuntato-pavone-21703p",
+        "name": "Lovedì Impermeabile Zefiro Trapuntato Pavone",
+        "path": "/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21831",
+    "sku": "21831",
+    "gtin": "10153747",
+    "title": "Dogs Creek Cappotto Arancione",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-cappotto-arancione-21831/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287862/c7b4363d4bbd24abaea0268693b8f57ece9b721f_9821f966a4a947166d0bf84b240f18a958be38d3.jpg?v=638235550745370000"
+    ],
+    "price": {
+      "current": 30.5,
+      "original": 60.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1525,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21831",
+        "sku": "21831",
+        "gtin": "10153747",
+        "title": "26CM",
+        "url": "https://www.arcaplanet.it/dogs-creek-cappotto-arancione-21831/p",
+        "price": {
+          "current": 30.5,
+          "original": 60.99,
+          "pricePerUnit": {
+            "value": 1525,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.26",
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "dogs-creek-cappotto-arancione-21831p",
+        "name": "Dogs Creek Cappotto Arancione",
+        "path": "/dogs-creek-cappotto-arancione-21831/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "23919",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21852",
+    "sku": "21852",
+    "gtin": "10153763",
+    "title": "Maglione Melange Rosa",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/maglione-melange-rosa-21852/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287894/cappotto-melange-rosa.jpg?v=638236228275230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287895/cappotto-melange-rosa-2.jpg?v=638748719731670000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21852",
+        "sku": "21852",
+        "gtin": "10153763",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/maglione-melange-rosa-21852/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "maglione-melange-rosa-21852p",
+        "name": "Maglione Melange Rosa",
+        "path": "/maglione-melange-rosa-21852/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "23940",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "21859",
+    "sku": "21859",
+    "gtin": "10153770",
+    "title": "Cappotto Winter Foglie",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/cappotto-winter-foglie-21859/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287889/cappotto-winter-foglie.jpg?v=638236216179470000"
+    ],
+    "price": {
+      "current": 15.5,
+      "original": 30.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 775,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21859",
+        "sku": "21859",
+        "gtin": "10153770",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/cappotto-winter-foglie-21859/p",
+        "price": {
+          "current": 15.5,
+          "original": 30.99,
+          "pricePerUnit": {
+            "value": 775,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XXS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "cappotto-winter-foglie-21859p",
+        "name": "Cappotto Winter Foglie",
+        "path": "/cappotto-winter-foglie-21859/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "23947",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "22778",
+    "sku": "22778",
+    "gtin": "10170361",
+    "title": "Giubbotto Impermeabile Eco Giallo",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/giubbotto-impermeabile-eco-giallo--22778/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293597/Giubbotto-Impermeabile-Eco-Giallo-10170361.jpg?v=638405651782270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293598/Giubbotto-Impermeabile-Eco-Giallo-10170361-1.jpg?v=638748756757500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293599/Giubbotto-Impermeabile-Eco-Giallo-10170361-2.jpg?v=638748756757670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293600/Giubbotto-Impermeabile-Eco-Giallo10170361-4.jpg?v=638748756757670000"
+    ],
+    "price": {
+      "current": 36.99,
+      "original": 36.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1849.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22778",
+        "sku": "22778",
+        "gtin": "10170361",
+        "title": "45CM",
+        "url": "https://www.arcaplanet.it/giubbotto-impermeabile-eco-giallo--22778/p",
+        "price": {
+          "current": 36.99,
+          "original": 36.99,
+          "pricePerUnit": {
+            "value": 1849.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "giubbotto-impermeabile-eco-giallo--22778p",
+        "name": "Giubbotto Impermeabile Eco Giallo",
+        "path": "/giubbotto-impermeabile-eco-giallo--22778/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24794",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "22780",
+    "sku": "22780",
+    "gtin": "10170363",
+    "title": "Giubbotto Impermeabile Eco Azzurro",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/giubbotto-impermeabile-eco-azzurro-22780/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293606/Giubbotto-Impermeabile-Eco-Azzurro-10170363.jpg?v=638405659944670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293607/Giubbotto-Impermeabile-Eco-Azzurro-10170363-1.jpg?v=638748757046300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293608/Giubbotto-Impermeabile-Eco-Azzurro-10170363-2.jpg?v=638748757046430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293609/Giubbotto-Impermeabile-Eco-Azzurro-10170363-4.jpg?v=638748757046430000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22780",
+        "sku": "22780",
+        "gtin": "10170363",
+        "title": "30CM",
+        "url": "https://www.arcaplanet.it/giubbotto-impermeabile-eco-azzurro-22780/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "giubbotto-impermeabile-eco-azzurro-22780p",
+        "name": "Giubbotto Impermeabile Eco Azzurro",
+        "path": "/giubbotto-impermeabile-eco-azzurro-22780/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24800",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "24681",
+    "sku": "24681",
+    "gtin": "10176548",
+    "title": "Lovedì Cappellino di Natale Elfo per Cani",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cappellino-di-natale-elfo-per-cani-24681/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308642/lovedi-cappellino-di-natale-elfo-per-cani-10176548--1-.jpg?v=638653454197570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308643/lovedi-cappellino-di-natale-elfo-per-cani-10176548--2-.jpg?v=638653454395270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308644/lovedi-cappellino-di-natale-elfo-per-cani-10176548--3-.jpg?v=638653454483200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308645/lovedi-cappellino-di-natale-elfo-per-cani-10176548--4-.jpg?v=638653454685870000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24681",
+        "sku": "24681",
+        "gtin": "10176548",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cappellino-di-natale-elfo-per-cani-24681/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoaltro",
+        "name": "Altro",
+        "path": "/cane/accessori/abbigliamento/altro/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-cappellino-di-natale-elfo-per-cani-24681p",
+        "name": "Lovedì Cappellino di Natale Elfo per Cani",
+        "path": "/lovedi-cappellino-di-natale-elfo-per-cani-24681/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26692",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  },
+  {
+    "id": "24722",
+    "sku": "24722",
+    "gtin": "10176601",
+    "title": "Lovedì Maglioncino Cane di Natale Winter",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308650/lovedi-maglioncino-cane-di-natale-winter-10176601--1-.jpg?v=638653483427800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308651/lovedi-maglioncino-cane-di-natale-winter-10176601--2-.jpg?v=638653483570970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308652/lovedi-maglioncino-cane-di-natale-winter-10176601--3-.jpg?v=638653483694100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308653/lovedi-maglioncino-cane-di-natale-winter-10176601--4-.jpg?v=638653483783830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308654/lovedi-maglioncino-cane-di-natale-winter-10176601--5-.jpg?v=638653483855130000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24722",
+        "sku": "24722",
+        "gtin": "10176601",
+        "title": "25CM",
+        "url": "https://www.arcaplanet.it/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-maglioncino-cane-di-natale-winter-24722p",
+        "name": "Lovedì Maglioncino Cane di Natale Winter",
+        "path": "/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26733",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:31:36.479Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/abbigliamento/"
+  }
+]

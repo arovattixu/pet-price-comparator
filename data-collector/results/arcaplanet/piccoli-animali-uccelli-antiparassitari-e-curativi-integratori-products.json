@@ -1,0 +1,195 @@
+[
+  {
+    "id": "12506",
+    "sku": "12506",
+    "gtin": "00004593",
+    "title": "Pietra Minerale Mini per Uccelli",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitafit-pietra-minerale-mini-uccelli-40g-12506/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266257/vitakraft-pietra-minerale-mini-per-uccelli-40g.jpg?v=637757574573930000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.75,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12506",
+        "sku": "12506",
+        "gtin": "00004593",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/vitafit-pietra-minerale-mini-uccelli-40g-12506/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 74.75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccelliantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/uccelli/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccelliantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/uccelli/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "vitafit-pietra-minerale-mini-uccelli-40g-12506p",
+        "name": "Pietra Minerale Mini per Uccelli",
+        "path": "/vitafit-pietra-minerale-mini-uccelli-40g-12506/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14637",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:15:05.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "12631",
+    "sku": "12631",
+    "gtin": "10080882",
+    "title": "Pietra Iodio per uccelli",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-pietra-iodio-gr-20-12631/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257906/212978_PHO_PRO_CLIP_5101-1.jpg?v=637588318773670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257907/182109_PHO_PRO_CLIP_5101-2.jpg?v=637588319013570000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12631",
+        "sku": "12631",
+        "gtin": "10080882",
+        "title": "20G",
+        "url": "https://www.arcaplanet.it/tx-pietra-iodio-gr-20-12631/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccelliantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/uccelli/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccelliantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/uccelli/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "tx-pietra-iodio-gr-20-12631p",
+        "name": "Pietra Iodio per uccelli",
+        "path": "/tx-pietra-iodio-gr-20-12631/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14767",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:15:05.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/antiparassitari/e/curativi/integratori/"
+  }
+]

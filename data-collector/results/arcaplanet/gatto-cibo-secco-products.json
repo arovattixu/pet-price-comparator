@@ -1,0 +1,3687 @@
+[
+  {
+    "id": "7209",
+    "sku": "7209",
+    "gtin": "10112323",
+    "title": "Natural Trainer Gatto Hairball Adult Pollo",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-hairball-pollo-7209/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299478/Natural-Trainer-Gatto-Hairball-Adult-Pollo-10112323-1.jpg?v=638482632768070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299479/Natural-Trainer-Gatto-Hairball-Adult-Pollo-10112323-2.jpg?v=638482632907130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299480/Natural-Trainer-Gatto-Hairball-Adult-Pollo-10112323-3.jpg?v=638482633158500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299552/Natural-Trainer-Gatto-Hairball-Adult-Pollo-10112323-5.jpg?v=638482676043870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299555/Natural-Trainer-Gatto-Hairball-Adult-Pollo-10112323-4.jpg?v=638482676669230000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.993333333333332,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7209",
+        "sku": "7209",
+        "gtin": "10112323",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-hairball-pollo-7209/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 10.993333333333332,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-hairball-pollo-7209p",
+        "name": "Natural Trainer Gatto Hairball Adult Pollo",
+        "path": "/trainer-natural-gatto-hairball-pollo-7209/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4967",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "23824",
+    "sku": "23824",
+    "gtin": "10173874",
+    "title": "Hi Fish Cat Adult Sterilised Pesce",
+    "brand": "HI FISH",
+    "url": "https://www.arcaplanet.it/hi-fish-cat-adult-sterilised-al-pesce-23824/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305605/hi-fish-cat-adult-sterilised-al-pesce-10173874--1-.jpg?v=638588057669400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305606/hi-fish-cat-adult-sterilised-al-pesce-10173874--6-.jpg?v=638588057842970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305607/hi-fish-cat-adult-sterilised-al-pesce-10173874--7-.jpg?v=638588057924200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305608/hi-fish-cat-adult-sterilised-al-pesce-10173874--8-.jpg?v=638588058028000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305609/hi-fish-cat-adult-sterilised-al-pesce-10173874--9-.jpg?v=638588058120370000"
+    ],
+    "price": {
+      "current": 35.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.9975,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23824",
+        "sku": "23824",
+        "gtin": "10173874",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/hi-fish-cat-adult-sterilised-al-pesce-23824/p",
+        "price": {
+          "current": 35.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 8.9975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-fish-cat-adult-sterilised-al-pesce-23824p",
+        "name": "Hi Fish Cat Adult Sterilised Pesce",
+        "path": "/hi-fish-cat-adult-sterilised-al-pesce-23824/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "1372",
+        "name": "+ COMPRI - SPENDI"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4988",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8582",
+    "sku": "8582",
+    "gtin": "10056160",
+    "title": "Natural Trainer Gatto Adult Tonno",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-adult-con-tonno-per-gatto-8582/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299514/natural-trainer-gatto-adult-tonno-10056160--1-.jpg?v=638482654807530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299515/natural-trainer-gatto-adult-tonno-10056160--2-.jpg?v=638482654951970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299516/natural-trainer-gatto-adult-tonno-10056160--3-.jpg?v=638482655034770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299517/natural-trainer-gatto-adult-tonno-10056160--4-.jpg?v=638482655136730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299518/natural-trainer-gatto-adult-tonno-10056160--5-.jpg?v=638482655271470000"
+    ],
+    "price": {
+      "current": 52.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.299,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8582",
+        "sku": "8582",
+        "gtin": "10056160",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/natural-trainer-adult-con-tonno-per-gatto-8582/p",
+        "price": {
+          "current": 52.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 5.299,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-adult-con-tonno-per-gatto-8582p",
+        "name": "Natural Trainer Gatto Adult Tonno",
+        "path": "/natural-trainer-adult-con-tonno-per-gatto-8582/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5151",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8622",
+    "sku": "8622",
+    "gtin": "10056159",
+    "title": "Natural Trainer Gatto Adult Pollo",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-pollo-8622/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299549/natural-trainer-gatto-adult-pollo-10056159--1-.jpg?v=638482675829500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299550/natural-trainer-gatto-adult-pollo-10056159--2-.jpg?v=638482675902130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299551/natural-trainer-gatto-adult-pollo-10056159--3-.jpg?v=638482675993770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299553/natural-trainer-gatto-adult-pollo-10056159--4-.jpg?v=638482676075170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299554/natural-trainer-gatto-adult-pollo-10056159--5-.jpg?v=638482676183400000"
+    ],
+    "price": {
+      "current": 52.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.299,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8622",
+        "sku": "8622",
+        "gtin": "10056159",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-pollo-8622/p",
+        "price": {
+          "current": 52.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 5.299,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-pollo-8622p",
+        "name": "Natural Trainer Gatto Adult Pollo",
+        "path": "/trainer-natural-gatto-pollo-8622/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8592",
+    "sku": "8592",
+    "gtin": "10112327",
+    "title": "Natural Trainer Gatto Sterilised Tacchino",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-8592/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299330/natural-trainer-gatto-sterilised-tacchino-10112327--1-.jpg?v=638482516553300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299331/natural-trainer-gatto-sterilised-tacchino-10112327--2-.jpg?v=638760956096500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299332/natural-trainer-gatto-sterilised-tacchino-10112327--3-.jpg?v=638760956096500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299333/natural-trainer-gatto-sterilised-tacchino-10112327--4-.jpg?v=638760956096500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299334/natural-trainer-gatto-sterilised-tacchino-10112327--5-.jpg?v=638760956096630000"
+    ],
+    "price": {
+      "current": 56.99,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.699,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8592",
+        "sku": "8592",
+        "gtin": "10112327",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-8592/p",
+        "price": {
+          "current": 56.99,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 5.699,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-sterilized-8592p",
+        "name": "Natural Trainer Gatto Sterilised Tacchino",
+        "path": "/trainer-natural-gatto-sterilized-8592/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5153",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7263",
+    "sku": "7263",
+    "gtin": "10101672",
+    "title": "Natural Trainer Gatto Exigent con Pesce Azzurro",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-exigent-adult-con-pesce-azzurro-7263/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299584/natural-trainer-gatto-exigent-con-pesce-azzurro-10101672--1-.jpg?v=638482697585470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299585/natural-trainer-gatto-exigent-con-pesce-azzurro-10101672--2-.jpg?v=638482697674470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299587/natural-trainer-gatto-exigent-con-pesce-azzurro-10101672--3-.jpg?v=638482697756900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299589/natural-trainer-gatto-exigent-con-pesce-azzurro-10101672--4-.jpg?v=638482697836600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299590/natural-trainer-gatto-exigent-con-pesce-azzurro-10101672--5-.jpg?v=638482697911670000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.993333333333332,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7263",
+        "sku": "7263",
+        "gtin": "10101672",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/natural-trainer-exigent-adult-con-pesce-azzurro-7263/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 10.993333333333332,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-exigent-adult-con-pesce-azzurro-7263p",
+        "name": "Natural Trainer Gatto Exigent con Pesce Azzurro",
+        "path": "/natural-trainer-exigent-adult-con-pesce-azzurro-7263/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5181",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7256",
+    "sku": "7256",
+    "gtin": "10112325",
+    "title": "Natural Trainer Gatto Urinary con Pollo",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-urinary-pollo-7256/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299639/Natural-Trainer-Gatto-Urinary-con-Pollo-10112325.jpg?v=638483397115030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299640/Natural-Trainer-Gatto-Urinary-con-Pollo-10112325..jpg?v=638483397354100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299641/Natural-Trainer-Gatto-Urinary-con-Pollo-10112325-composizione.jpg?v=638483397453100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299642/Natural-Trainer-Gatto-Urinary-con-Pollo-10112325-dosaggio.jpg?v=638483397571800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299643/Natural-Trainer-Gatto-Urinary-con-Pollo-10112325.jpg?v=638483397639630000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.993333333333332,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7256",
+        "sku": "7256",
+        "gtin": "10112325",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-urinary-pollo-7256/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 10.993333333333332,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-urinary-pollo-7256p",
+        "name": "Natural Trainer Gatto Urinary con Pollo",
+        "path": "/trainer-natural-gatto-urinary-pollo-7256/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2884",
+        "name": "3x2 (1kg)"
+      }
+    ],
+    "metadata": {
+      "groupId": "5329",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8618",
+    "sku": "8618",
+    "gtin": "10056998",
+    "title": "Royal Canin Cat Sterilised Alimento completo per gatti sterilizzati",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-sterilized-gatto-8618/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287374/_0000_Sterilised.jpg?v=638229355409000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287375/RC-FHN-Sterilised37-CV-Eretailkit-1_-it_IT--1-.jpg?v=638229355483170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287376/RC-FHN-Sterilised37-CV-Eretailkit-2_-it_IT--1-.jpg?v=638229355574770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287377/RC-FHN-Sterilised37-CV-Eretailkit-3_-it_IT--1-.jpg?v=638229355651500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287378/RC-FHN-Sterilised37-CV-Eretailkit-4_-it_IT--1-.jpg?v=638229355768630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287379/RC-FHN-Sterilised37-CV-Eretailkit-7_-it_IT--1-.jpg?v=638229355855500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287380/RC-FHN-Sterilised37-MV-Eretailkit_-it_IT--1-.jpg?v=638229355971870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292418/post-smaltimento-rc-10056998.jpg?v=638369294291100000"
+    ],
+    "price": {
+      "current": 79.99,
+      "original": 99.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.99100899100899,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8618",
+        "sku": "8618",
+        "gtin": "10056998",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/royal-canin-sterilized-gatto-8618/p",
+        "price": {
+          "current": 79.99,
+          "original": 99.99,
+          "pricePerUnit": {
+            "value": 7.99100899100899,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-sterilized-gatto-8618p",
+        "name": "Royal Canin Cat Sterilised Alimento completo per gatti sterilizzati",
+        "path": "/royal-canin-sterilized-gatto-8618/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2883",
+        "name": "3X2 (400g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "5512",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8268",
+    "sku": "8268",
+    "gtin": "10066462",
+    "title": "Royal Canin Urinary Care Alimento completo per gatti adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-urinary-care-gatto-8268/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289622/RC-FCN-UrinaryCareDry-MV-2-it_IT.jpg?v=638302124900900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289623/RC-FCN-UrinaryCareDry-CV-5-it_IT.jpg?v=638302125008030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289624/RC-FCN-UrinaryCareDry-CV-6-it_IT.jpg?v=638302125103270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289625/RC-FCN-UrinaryCareDry-CV-7-it_IT.jpg?v=638302125205000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289626/RC-FCN-UrinaryCareDry-MV-1-it_IT.jpg?v=638302125332600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289627/RC-FCN-UrinaryCareDry-CV-7-it_IT.jpg?v=638302125425900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289628/RC-FCN-UrinaryCareDry-CV-9-it_IT.jpg?v=638302125531030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289629/RC-FCN-UrinaryCareDry-CV-8-it_IT.jpg?v=638302125625900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289630/RC-FCN-UrinaryCareDry-CV-0-it_IT.jpg?v=638302125715470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289631/RC-FCN-UrinaryCareDry-CV-1-it_IT.jpg?v=638302125806000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289632/RC-FCN-UrinaryCareDry-CV-2-it_IT.jpg?v=638302125895600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289633/RC-FCN-UrinaryCareDry-CV-3-it_IT.jpg?v=638302125985930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292271/royal-canin-carbon-neutral-fcn-10066462.jpg?v=638368654547300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292272/royal-canin-post-smaltimento-10066462.jpg?v=638368654615870000"
+    ],
+    "price": {
+      "current": 52.99,
+      "original": 62.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.2475,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8268",
+        "sku": "8268",
+        "gtin": "10066462",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/royal-canin-urinary-care-gatto-8268/p",
+        "price": {
+          "current": 52.99,
+          "original": 62.99,
+          "pricePerUnit": {
+            "value": 13.2475,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-urinary-care-gatto-8268p",
+        "name": "Royal Canin Urinary Care Alimento completo per gatti adulti",
+        "path": "/royal-canin-urinary-care-gatto-8268/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5514",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8579",
+    "sku": "8579",
+    "gtin": "10074500",
+    "title": "Schesir Cat Sterilized & Light al Pollo",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-gatto-sterilized-8579/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305248/schesir-gatto-sterilized-10074500--1-.jpg?v=638585325083800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305249/schesir-gatto-sterilized-10074500--2-.jpg?v=638585325219670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305250/schesir-gatto-sterilized-10074500--3-.jpg?v=638585325349000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305251/dosaggio-schesir--1-.jpg?v=638585325447870000"
+    ],
+    "price": {
+      "current": 37.99,
+      "original": 51.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.7990000000000004,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8579",
+        "sku": "8579",
+        "gtin": "10074500",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/schesir-gatto-sterilized-8579/p",
+        "price": {
+          "current": 37.99,
+          "original": 51.99,
+          "pricePerUnit": {
+            "value": 3.7990000000000004,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "schesir-gatto-sterilized-8579p",
+        "name": "Schesir Cat Sterilized & Light al Pollo",
+        "path": "/schesir-gatto-sterilized-8579/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5525",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8515",
+    "sku": "8515",
+    "gtin": "10109501",
+    "title": "Ultima Cat Sterilized Salmone",
+    "brand": "ULTIMA",
+    "url": "https://www.arcaplanet.it/ultima-cat-sterilized-salmone-8515/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302913/ultima-cat-sterilized-salmone-10109501--1-.jpg?v=638538017288070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302914/ultima-cat-sterilized-salmone-10109501--2-.jpg?v=638538017365500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302915/ultima-cat-sterilized-salmone-10109501--3-.jpg?v=638538017459930000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.198666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8515",
+        "sku": "8515",
+        "gtin": "10109501",
+        "title": "7.5KG",
+        "url": "https://www.arcaplanet.it/ultima-cat-sterilized-salmone-8515/p",
+        "price": {
+          "current": 38.99,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 5.198666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "7.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "ultima-cat-sterilized-salmone-8515p",
+        "name": "Ultima Cat Sterilized Salmone",
+        "path": "/ultima-cat-sterilized-salmone-8515/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5533",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8490",
+    "sku": "8490",
+    "gtin": "10129763",
+    "title": "Next Gatto Sterilised",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-gatto-sterilised-8490/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282443/next-cat-sterilised-7-5-kg.jpg?v=638149298008300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257242/next-gatto-sterilised-componenti-analitici.jpg?v=637577939792800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257243/next-gatto-sterilised-dosaggio.jpg?v=637577939923370000"
+    ],
+    "price": {
+      "current": 32.99,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.398666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8490",
+        "sku": "8490",
+        "gtin": "10129763",
+        "title": "7.5KG",
+        "url": "https://www.arcaplanet.it/next-gatto-sterilised-8490/p",
+        "price": {
+          "current": 32.99,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 4.398666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "7.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "next-gatto-sterilised-8490p",
+        "name": "Next Gatto Sterilised",
+        "path": "/next-gatto-sterilised-8490/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5776",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "6638",
+    "sku": "6638",
+    "gtin": "10078259",
+    "title": "Purina One Gatto Sterilised Manzo e Frumento",
+    "brand": "PURINA ONE",
+    "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-manzo-e-frumento-800g-6638/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276531/MAIN.jpg?v=638034242465370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282025/purina-one-gatto-sterilized-manzo-e-frumento-benefici.jpg?v=638132627501200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282026/purina-one-gatto-sterilized-manzo-e-frumento-benefici2.jpg?v=638132627772330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282029/purina-one-gatto-sterilized-manzo-e-frumento-ingredienti.jpg?v=638132628253070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282030/purina-one-gatto-sterilized-manzo-e-frumento-razione-giornaliera.jpg?v=638132628340000000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.4875,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6638",
+        "sku": "6638",
+        "gtin": "10078259",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-manzo-e-frumento-800g-6638/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 7.4875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-one-gatto-sterilized-manzo-e-frumento-800g-6638p",
+        "name": "Purina One Gatto Sterilised Manzo e Frumento",
+        "path": "/purina-one-gatto-sterilized-manzo-e-frumento-800g-6638/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2879",
+        "name": "30% sul secondo (800g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "6481",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "6639",
+    "sku": "6639",
+    "gtin": "10078260",
+    "title": "Purina One Gatto Sterilised Salmone e Frumento",
+    "brand": "PURINA ONE",
+    "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-salmone-e-frumento-800g-6639/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276536/main.jpg?v=638034243673470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276537/pt02.jpg?v=638034243797470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276538/pt03.jpg?v=638034243886300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281994/purina-one-gatto-sterilized-salmone-e-frumento-pack.jpg?v=638132607434900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281995/purina-one-gatto-sterilized-salmone-e-frumento-benefici.jpg?v=638132607664930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281996/purina-one-gatto-sterilized-salmone-e-frumento-benefici2.jpg?v=638132612507770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281997/purina-one-gatto-sterilized-salmone-e-frumento-ingredienti.jpg?v=638132612615730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281998/purina-one-gatto-sterilized-salmone-e-frumento-razione-giornaliera.jpg?v=638132612748130000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.4875,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6639",
+        "sku": "6639",
+        "gtin": "10078260",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-salmone-e-frumento-800g-6639/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 7.4875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-one-gatto-sterilized-salmone-e-frumento-800g-6639p",
+        "name": "Purina One Gatto Sterilised Salmone e Frumento",
+        "path": "/purina-one-gatto-sterilized-salmone-e-frumento-800g-6639/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2879",
+        "name": "30% sul secondo (800g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "6482",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7278",
+    "sku": "7278",
+    "gtin": "10078264",
+    "title": "Purina One Gatto Urinary al Pollo",
+    "brand": "PURINA ONE",
+    "url": "https://www.arcaplanet.it/purina-one-gatto-urinary-pollo-e-frumento-7278/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276491/MAIN.jpg?v=638034186699170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276492/PT02.jpg?v=638034186786000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276493/PT03.jpg?v=638034186876370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281971/purina-one-gatto-urinary-pollo-pack.jpg?v=638132586840270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281972/purina-one-gatto-urinary-pollo-benefici.jpg?v=638132586972500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281973/purina-one-gatto-urinary-pollo-benefici2.jpg?v=638132587095970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281974/purina-one-gatto-urinary-pollo-ingredienti.jpg?v=638132587400570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281975/purina-one-gatto-urinary-pollo-razione-giornaliera.jpg?v=638132587508900000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 10.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.993333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7278",
+        "sku": "7278",
+        "gtin": "10078264",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/purina-one-gatto-urinary-pollo-e-frumento-7278/p",
+        "price": {
+          "current": 8.99,
+          "original": 10.29,
+          "pricePerUnit": {
+            "value": 5.993333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-one-gatto-urinary-pollo-e-frumento-7278p",
+        "name": "Purina One Gatto Urinary al Pollo",
+        "path": "/purina-one-gatto-urinary-pollo-e-frumento-7278/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2879",
+        "name": "30% sul secondo (800g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "6490",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "13794",
+    "sku": "13794",
+    "gtin": "10133008",
+    "title": "Monge Natural Superpremium Sterilised Cat Adult con Trota",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-natural-superpremium-sterilised-cat-adult-con-trota-13794/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264207/monge-cat-trota-10kg.jpg?v=637707659766400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301865/dosaggio.jpg?v=638525862909870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301866/come-si-introduce-un-nuovo-alimento.jpg?v=638525863017900000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 52.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.9990000000000006,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13794",
+        "sku": "13794",
+        "gtin": "10133008",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/monge-natural-superpremium-sterilised-cat-adult-con-trota-13794/p",
+        "price": {
+          "current": 49.99,
+          "original": 52.99,
+          "pricePerUnit": {
+            "value": 4.9990000000000006,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-natural-superpremium-sterilised-cat-adult-con-trota-13794p",
+        "name": "Monge Natural Superpremium Sterilised Cat Adult con Trota",
+        "path": "/monge-natural-superpremium-sterilised-cat-adult-con-trota-13794/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7026",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7199",
+    "sku": "7199",
+    "gtin": "10078262",
+    "title": "Purina One Bifensis Sterilcat Crocchette Gatti Tacchino e Frumento",
+    "brand": "PURINA ONE",
+    "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-tacchino-e-frumento-1-5kg-7199/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276443/MAIN.jpg?v=638033727398500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282008/purina-one-gatto-sterilized-tacchino-e-frumento-retro.jpg?v=638132620522100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282009/purina-one-gatto-sterilized-tacchino-e-frumento-grandezza-naturale.jpg?v=638132620636400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282010/purina-one-gatto-sterilized-tacchino-e-frumento-composizione.jpg?v=638132620731700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282011/purina-one-gatto-sterilized-tacchino-e-frumento-da-consumarsi-entro.jpg?v=638132620832000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 10.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.993333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7199",
+        "sku": "7199",
+        "gtin": "10078262",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-tacchino-e-frumento-1-5kg-7199/p",
+        "price": {
+          "current": 8.99,
+          "original": 10.29,
+          "pricePerUnit": {
+            "value": 5.993333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-one-gatto-sterilized-tacchino-e-frumento-1-5kg-7199p",
+        "name": "Purina One Bifensis Sterilcat Crocchette Gatti Tacchino e Frumento",
+        "path": "/purina-one-gatto-sterilized-tacchino-e-frumento-1-5kg-7199/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2879",
+        "name": "30% sul secondo (800g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "7038",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7248",
+    "sku": "7248",
+    "gtin": "10076792",
+    "title": "Oasy Cat Adult Sterilized Salmone",
+    "brand": "OASY",
+    "url": "https://www.arcaplanet.it/oasy-gatto-sterilized-salmone-7248/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258524/oasy-cat-adult-sterilised-salmone.jpg?v=637596057073600000"
+    ],
+    "price": {
+      "current": 13.59,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.06,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7248",
+        "sku": "7248",
+        "gtin": "10076792",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/oasy-gatto-sterilized-salmone-7248/p",
+        "price": {
+          "current": 13.59,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 9.06,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "oasy-gatto-sterilized-salmone-7248p",
+        "name": "Oasy Cat Adult Sterilized Salmone",
+        "path": "/oasy-gatto-sterilized-salmone-7248/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7087",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "13162",
+    "sku": "13162",
+    "gtin": "10120620",
+    "title": "Natural Trainer Gatto Sterilised Prosciutto",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-prosciutto-1-5kg-13162/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299453/natural-trainer-gatto-sterilised-prosciutto-10120620--1-.jpg?v=638482613799100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299454/natural-trainer-gatto-sterilised-prosciutto-10120620--2-.jpg?v=638760962060100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299455/natural-trainer-gatto-sterilised-prosciutto-10120620--3-.jpg?v=638760962060100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299456/natural-trainer-gatto-sterilised-prosciutto-10120620--4-.jpg?v=638760962060100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299457/natural-trainer-gatto-sterilised-prosciutto-10120620--5-.jpg?v=638760962060100000"
+    ],
+    "price": {
+      "current": 55.25,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.525,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13162",
+        "sku": "13162",
+        "gtin": "10120620",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-prosciutto-1-5kg-13162/p",
+        "price": {
+          "current": 55.25,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 5.525,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-sterilized-prosciutto-1-5kg-13162p",
+        "name": "Natural Trainer Gatto Sterilised Prosciutto",
+        "path": "/trainer-natural-gatto-sterilized-prosciutto-1-5kg-13162/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7098",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7277",
+    "sku": "7277",
+    "gtin": "10078263",
+    "title": "Purina One Bifensis Sterilcat Crocchette Gatti Trota e Frumento",
+    "brand": "PURINA ONE",
+    "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-trota-e-frumento-1-5kg-7277/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276448/08445290098948_C1N1_44158730.jpg?v=638033729480530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282013/purina-one-gatto-sterilized-trota-e-frumento-retro.jpg?v=638132622825200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282014/purina-one-gatto-sterilized-trota-e-frumento-grandezza-naturale.jpg?v=638132622934370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282015/purina-one-gatto-sterilized-trota-e-frumento-composizione.jpg?v=638132623034000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282016/purina-one-gatto-sterilized-trota-e-frumento-razione-giornaliera.jpg?v=638132623239900000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 10.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.993333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7277",
+        "sku": "7277",
+        "gtin": "10078263",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/purina-one-gatto-sterilized-trota-e-frumento-1-5kg-7277/p",
+        "price": {
+          "current": 8.99,
+          "original": 10.29,
+          "pricePerUnit": {
+            "value": 5.993333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-one-gatto-sterilized-trota-e-frumento-1-5kg-7277p",
+        "name": "Purina One Bifensis Sterilcat Crocchette Gatti Trota e Frumento",
+        "path": "/purina-one-gatto-sterilized-trota-e-frumento-1-5kg-7277/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2879",
+        "name": "30% sul secondo (800g)"
+      }
+    ],
+    "metadata": {
+      "groupId": "7116",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7284",
+    "sku": "7284",
+    "gtin": "10071446",
+    "title": "Monge Natural Superpremium Hairball Cat Adult con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-gatto-hairball-7284/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278681/monge-hairball-pollo-1-5-kg.jpg?v=638089588459100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301829/dosaggio.jpg?v=638525737122970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301832/come-si-introduce-un-nuovo-alimento.jpg?v=638525737508700000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.326666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7284",
+        "sku": "7284",
+        "gtin": "10071446",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/monge-gatto-hairball-7284/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 9.326666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-gatto-hairball-7284p",
+        "name": "Monge Natural Superpremium Hairball Cat Adult con Pollo",
+        "path": "/monge-gatto-hairball-7284/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7123",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7285",
+    "sku": "7285",
+    "gtin": "10076619",
+    "title": "Monge Natural Superpremium Urinary Cat Adult con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-gatto-urinary-7285/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270809/Monge-Urinary-con-Pollo-1.5Kg.jpg?v=637852845511170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301836/dosaggio.jpg?v=638525824500570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301838/come-si-introduce-un-nuovo-alimento.jpg?v=638525824648170000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.326666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7285",
+        "sku": "7285",
+        "gtin": "10076619",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/monge-gatto-urinary-7285/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 9.326666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-gatto-urinary-7285p",
+        "name": "Monge Natural Superpremium Urinary Cat Adult con Pollo",
+        "path": "/monge-gatto-urinary-7285/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7124",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8566",
+    "sku": "8566",
+    "gtin": "10112328",
+    "title": "Natural Trainer Gatto Sterilised Salmone",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-salmone-8566/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299364/natural-trainer-gatto-sterilised-salmone-10112328--1-.jpg?v=638482560030700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299365/natural-trainer-gatto-sterilised-salmone-10112328--2-.jpg?v=638760962965100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299366/natural-trainer-gatto-sterilised-salmone-10112328--3-.jpg?v=638760962965100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299367/natural-trainer-gatto-sterilised-salmone-10112328--4-.jpg?v=638760962965270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299368/natural-trainer-gatto-sterilised-salmone-10112328--5-.jpg?v=638760962965270000"
+    ],
+    "price": {
+      "current": 55.25,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.525,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8566",
+        "sku": "8566",
+        "gtin": "10112328",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-sterilized-salmone-8566/p",
+        "price": {
+          "current": 55.25,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 5.525,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-sterilized-salmone-8566p",
+        "name": "Natural Trainer Gatto Sterilised Salmone",
+        "path": "/trainer-natural-gatto-sterilized-salmone-8566/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2884",
+        "name": "3x2 (1kg)"
+      }
+    ],
+    "metadata": {
+      "groupId": "7126",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7292",
+    "sku": "7292",
+    "gtin": "10064435",
+    "title": "Natural Trainer Gatto Adult Manzo",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-gatto-manzo-1-5kg-7292/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299558/natural-trainer-gatto-adult-manzo-10064435--1-.jpg?v=638482683992530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299559/natural-trainer-gatto-adult-manzo-10064435--2-.jpg?v=638482684071470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299560/natural-trainer-gatto-adult-manzo-10064435--3-.jpg?v=638482684140730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299561/natural-trainer-gatto-adult-manzo-10064435--4-.jpg?v=638482684206730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299562/natural-trainer-gatto-adult-manzo-10064435--5-.jpg?v=638482684274730000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.326666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7292",
+        "sku": "7292",
+        "gtin": "10064435",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-gatto-manzo-1-5kg-7292/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 9.326666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-gatto-manzo-1-5kg-7292p",
+        "name": "Natural Trainer Gatto Adult Manzo",
+        "path": "/trainer-natural-gatto-manzo-1-5kg-7292/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7131",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8593",
+    "sku": "8593",
+    "gtin": "10069835",
+    "title": "Monge Natural Superpremium Cat Adult con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-adult-con-pollo-per-gatto-8593/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270812/Monge-Adult-con-Pollo-per-Gatto-10kg.jpg?v=637852850952000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301820/dosaggio.jpg?v=638525690012630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301823/come-si-introduce-un-nuovo-alimento.jpg?v=638525690307030000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.9990000000000006,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8593",
+        "sku": "8593",
+        "gtin": "10069835",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/monge-adult-con-pollo-per-gatto-8593/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 4.9990000000000006,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-adult-con-pollo-per-gatto-8593p",
+        "name": "Monge Natural Superpremium Cat Adult con Pollo",
+        "path": "/monge-adult-con-pollo-per-gatto-8593/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7169",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "14121",
+    "sku": "14121",
+    "gtin": "10139933",
+    "title": "Monge Natural Superpremium Sterilised Cat Adult con Anatra",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-gatto-sterilized-anatra-1-5kg-14121/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264203/monge-sterile.jpg?v=637707654202830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301857/dosaggio.jpg?v=638525854649870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301859/come-si-introduce-un-nuovo-alimento.jpg?v=638525854824470000"
+    ],
+    "price": {
+      "current": 59.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.9990000000000006,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14121",
+        "sku": "14121",
+        "gtin": "10139933",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/monge-gatto-sterilized-anatra-1-5kg-14121/p",
+        "price": {
+          "current": 59.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 5.9990000000000006,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-gatto-sterilized-anatra-1-5kg-14121p",
+        "name": "Monge Natural Superpremium Sterilised Cat Adult con Anatra",
+        "path": "/monge-gatto-sterilized-anatra-1-5kg-14121/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7171",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7374",
+    "sku": "7374",
+    "gtin": "10068000",
+    "title": "Schesir Cat Sterilized & Light al Prosciutto",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-gatto-sterilized-1-5kg-7374/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305256/schesir-gatto-sterilized-1-5kg-10068000--1-.jpg?v=638585328412130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305257/schesir-gatto-sterilized-1-5kg-10068000--2-.jpg?v=638585328545630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305258/schesir-gatto-sterilized-1-5kg-10068000--3-.jpg?v=638585328653470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305259/dosaggio-sterilized-and-light.jpg?v=638585328761930000"
+    ],
+    "price": {
+      "current": 9.69,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.46,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7374",
+        "sku": "7374",
+        "gtin": "10068000",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/schesir-gatto-sterilized-1-5kg-7374/p",
+        "price": {
+          "current": 9.69,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 6.46,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "schesir-gatto-sterilized-1-5kg-7374p",
+        "name": "Schesir Cat Sterilized & Light al Prosciutto",
+        "path": "/schesir-gatto-sterilized-1-5kg-7374/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7211",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "8595",
+    "sku": "8595",
+    "gtin": "10078822",
+    "title": "Monge Natural Superpremium Sterilised Cat Adult con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-sterilised-ricco-di-pollo-gatto-8595/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262207/monge-sterilizzato-pollo-10-kg-600x600.jpg?v=637666177426030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301851/dosaggio.jpg?v=638525846687100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301854/come-si-introduce-un-nuovo-alimento.jpg?v=638525847035900000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 52.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.9990000000000006,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8595",
+        "sku": "8595",
+        "gtin": "10078822",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/monge-sterilised-ricco-di-pollo-gatto-8595/p",
+        "price": {
+          "current": 49.99,
+          "original": 52.99,
+          "pricePerUnit": {
+            "value": 4.9990000000000006,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-sterilised-ricco-di-pollo-gatto-8595p",
+        "name": "Monge Natural Superpremium Sterilised Cat Adult con Pollo",
+        "path": "/monge-sterilised-ricco-di-pollo-gatto-8595/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8422",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7286",
+    "sku": "7286",
+    "gtin": "10071452",
+    "title": "Monge Natural Superpremium Kitten con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-natural-superpremium-kitten-con-pollo-7286/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270883/Nuovo-progetto--5-.jpg?v=637852917043470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301879/dosaggio.jpg?v=638525904978000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301880/come-si-introduce-un-nuovo-alimento.jpg?v=638525905104270000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.326666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7286",
+        "sku": "7286",
+        "gtin": "10071452",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/monge-natural-superpremium-kitten-con-pollo-7286/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 9.326666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-natural-superpremium-kitten-con-pollo-7286p",
+        "name": "Monge Natural Superpremium Kitten con Pollo",
+        "path": "/monge-natural-superpremium-kitten-con-pollo-7286/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8423",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "7744",
+    "sku": "7744",
+    "gtin": "00003493",
+    "title": "Royal Canin Cat Fit 32 Alimento completo per gatti adulti di oltre 1 anno di età",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-fit-32-gatto-7744/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287495/_0010_16-FIT-32-B1-IN-rc-eps-png-2000x1320-72-RGB.png_41538.jpg?v=638229559577600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286255/immagini_1200x120026.jpg?v=638205225404400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286256/immagini_1200x120025.jpg?v=638205225479370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286257/immagini_1200x120024.jpg?v=638205225560000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286258/immagini_1200x120023.jpg?v=638205225634770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286259/immagini_1200x120027.jpg?v=638205225704630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292376/post-smaltimento-rc-00003493.jpg?v=638368719247830000"
+    ],
+    "price": {
+      "current": 25.49,
+      "original": 26.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.745,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7744",
+        "sku": "7744",
+        "gtin": "00003493",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-fit-32-gatto-7744/p",
+        "price": {
+          "current": 25.49,
+          "original": 26.99,
+          "pricePerUnit": {
+            "value": 12.745,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-fit-32-gatto-7744p",
+        "name": "Royal Canin Cat Fit 32 Alimento completo per gatti adulti di oltre 1 anno di età",
+        "path": "/royal-canin-fit-32-gatto-7744/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8716",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "9446",
+    "sku": "9446",
+    "gtin": "00009054",
+    "title": "Brekkies Cat Bontà e Benessere Urinary Care",
+    "brand": "BREKKIES",
+    "url": "https://www.arcaplanet.it/brekkies-gatto-bonta-e-benessere-9446/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270580/brekkies-cat-bonta-benessere-urinary-care-20kg.jpg?v=637849996637270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301687/Brekkies-Cat-Bonta-e-Benessere-Urinary-Care-00009054-2.jpg?v=638520561251470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301688/Brekkies-Cat-Bonta-e-Benessere-Urinary-Care-00009054-3.jpg?v=638520561336770000"
+    ],
+    "price": {
+      "current": 65.99,
+      "original": 79.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.2994999999999997,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9446",
+        "sku": "9446",
+        "gtin": "00009054",
+        "title": "20KG",
+        "url": "https://www.arcaplanet.it/brekkies-gatto-bonta-e-benessere-9446/p",
+        "price": {
+          "current": 65.99,
+          "original": 79.99,
+          "pricePerUnit": {
+            "value": 3.2994999999999997,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "20KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "brekkies-gatto-bonta-e-benessere-9446p",
+        "name": "Brekkies Cat Bontà e Benessere Urinary Care",
+        "path": "/brekkies-gatto-bonta-e-benessere-9446/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9263",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "9461",
+    "sku": "9461",
+    "gtin": "00003360",
+    "title": "Friskies Cat Pollo Manzo e Verdure",
+    "brand": "FRISKIES",
+    "url": "https://www.arcaplanet.it/friskies-gatto-pollo--manzo-e-verdure-2kg-9461/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266538/friskies-cat-manzo-pollo-verdure.jpg?v=637780136174800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266539/friskies-cat-manzo-pollo-verdure-ingredienti.jpg?v=637780136348900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266540/friskies-cat-manzo-pollo-verdure-dosaggio.png?v=637780139742630000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 8.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.395,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9461",
+        "sku": "9461",
+        "gtin": "00003360",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/friskies-gatto-pollo--manzo-e-verdure-2kg-9461/p",
+        "price": {
+          "current": 6.79,
+          "original": 8.29,
+          "pricePerUnit": {
+            "value": 3.395,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "friskies-gatto-pollo--manzo-e-verdure-2kg-9461p",
+        "name": "Friskies Cat Pollo Manzo e Verdure",
+        "path": "/friskies-gatto-pollo--manzo-e-verdure-2kg-9461/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9279",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "11429",
+    "sku": "11429",
+    "gtin": "10115166",
+    "title": "N&D Prime Gatto Adult Agnello Mirtillo",
+    "brand": "N&D",
+    "url": "https://www.arcaplanet.it/n-d-gatto-prime-adult-medium-agnello-mirtillo-11429/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280310/n-d-gatto-prime-adult-medium-agnello-mirtillo.jpg?v=638115262218630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270259/n-d-adult-300gr-prime-agnello-mirtillo.jpg?v=637846581043500000"
+    ],
+    "price": {
+      "current": 25.07,
+      "original": 29.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.713333333333335,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11429",
+        "sku": "11429",
+        "gtin": "10115166",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/n-d-gatto-prime-adult-medium-agnello-mirtillo-11429/p",
+        "price": {
+          "current": 25.07,
+          "original": 29.49,
+          "pricePerUnit": {
+            "value": 16.713333333333335,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "n-d-gatto-prime-adult-medium-agnello-mirtillo-11429p",
+        "name": "N&D Prime Gatto Adult Agnello Mirtillo",
+        "path": "/n-d-gatto-prime-adult-medium-agnello-mirtillo-11429/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11023",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "9510",
+    "sku": "9510",
+    "gtin": "10110632",
+    "title": "N&D Prime Gatto Neutered Pollo Melograno",
+    "brand": "N&D",
+    "url": "https://www.arcaplanet.it/n-d-grain-free-cat-kg-1-5-neutered-pollo-melograno-9510/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280141/https---www.farmina.com-fotoprodotti-146_37_146_49_nd-prime-neutered-chicken-pomegranate--400x600pxl--img_farmina_site.jpg?v=638114511040900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254070/n-d-prime-gatto-neutered-pollo-melograno.jpg?v=637540804341570000"
+    ],
+    "price": {
+      "current": 50.3,
+      "original": 69.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.059999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9510",
+        "sku": "9510",
+        "gtin": "10110632",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/n-d-grain-free-cat-kg-1-5-neutered-pollo-melograno-9510/p",
+        "price": {
+          "current": 50.3,
+          "original": 69.49,
+          "pricePerUnit": {
+            "value": 10.059999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "n-d-grain-free-cat-kg-1-5-neutered-pollo-melograno-9510p",
+        "name": "N&D Prime Gatto Neutered Pollo Melograno",
+        "path": "/n-d-grain-free-cat-kg-1-5-neutered-pollo-melograno-9510/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11024",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "14670",
+    "sku": "14670",
+    "gtin": "10140412",
+    "title": "Virtus Cat Nutrition Selection Sterilised Salmone",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-cat-sterilised-salmone-14670/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309974/virtus-cat-nutrition-selection-sterilised-salmone-10140412--1-.jpg?v=638666536557730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309975/virtus-cat-nutrition-selection-sterilised-salmone-10140412--2-.jpg?v=638666536663830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309976/virtus-cat-nutrition-selection-sterilised-salmone-10140412--3-.jpg?v=638666536766630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309977/virtus-cat-nutrition-selection-sterilised-salmone-10140412--4-.jpg?v=638666536831430000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.883333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14670",
+        "sku": "14670",
+        "gtin": "10140412",
+        "title": "1.8KG",
+        "url": "https://www.arcaplanet.it/virtus-cat-sterilised-salmone-14670/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 13.883333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "virtus-cat-sterilised-salmone-14670p",
+        "name": "Virtus Cat Nutrition Selection Sterilised Salmone",
+        "path": "/virtus-cat-sterilised-salmone-14670/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16801",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "15140",
+    "sku": "15140",
+    "gtin": "10140913",
+    "title": "Natural Trainer Gatto Sensitive Trota",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-gatto-sensitive-trota-15140/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299310/natural-trainer-gatto-sensitive-trota-10140913--1-.jpg?v=638482495906400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299311/natural-trainer-gatto-sensitive-trota-10140913--2-.jpg?v=638482495973670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299312/natural-trainer-gatto-sensitive-trota-10140913--3-.jpg?v=638482496044800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299313/natural-trainer-gatto-sensitive-trota-10140913--4-.jpg?v=638482496112600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299314/natural-trainer-gatto-sensitive-trota-10140913--5-.jpg?v=638482496182270000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.993333333333332,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15140",
+        "sku": "15140",
+        "gtin": "10140913",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/natural-trainer-gatto-sensitive-trota-15140/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 10.993333333333332,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-gatto-sensitive-trota-15140p",
+        "name": "Natural Trainer Gatto Sensitive Trota",
+        "path": "/natural-trainer-gatto-sensitive-trota-15140/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17276",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "26567",
+    "sku": "26567",
+    "gtin": "1000000000744",
+    "title": "Real Nature Wilderness Cat Adult Fresh Water",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-cat-adult-fresh-water-26567/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314469/real-nature-wilderness-cat-adult-fresh-water-1000000000744--1-.jpg?v=638729643885870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314470/real-nature-wilderness-cat-adult-fresh-water-1000000000744--2-.jpg?v=638729643977100000"
+    ],
+    "price": {
+      "current": 70.78,
+      "original": 94.38,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.055714285714286,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26567",
+        "sku": "26567",
+        "gtin": "1000000000744",
+        "title": "KIT RISPARMIO 2x7KG",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-cat-adult-fresh-water-26567/p",
+        "price": {
+          "current": 70.78,
+          "original": 94.38,
+          "pricePerUnit": {
+            "value": 5.055714285714286,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-wilderness-cat-adult-fresh-water-26567p",
+        "name": "Real Nature Wilderness Cat Adult Fresh Water",
+        "path": "/real-nature-wilderness-cat-adult-fresh-water-26567/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19099",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "26568",
+    "sku": "26568",
+    "gtin": "1000000000745",
+    "title": "Real Nature Wilderness Cat Adult Pure Manzo",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-cat-adult-pure-manzo-26568/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314471/real-nature-wilderness-cat-adult-pure-manzo-1000000000745--1-.jpg?v=638729652544170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314472/real-nature-wilderness-cat-adult-pure-manzo-1000000000745--2-.jpg?v=638729652647500000"
+    ],
+    "price": {
+      "current": 80.62,
+      "original": 107.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.758571428571429,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26568",
+        "sku": "26568",
+        "gtin": "1000000000745",
+        "title": "KIT RISPARMIO 2x7KG",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-cat-adult-pure-manzo-26568/p",
+        "price": {
+          "current": 80.62,
+          "original": 107.5,
+          "pricePerUnit": {
+            "value": 5.758571428571429,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-wilderness-cat-adult-pure-manzo-26568p",
+        "name": "Real Nature Wilderness Cat Adult Pure Manzo",
+        "path": "/real-nature-wilderness-cat-adult-pure-manzo-26568/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20885",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "20509",
+    "sku": "20509",
+    "gtin": "00008308",
+    "title": "Friskies Cat Con Salmone Tonno e Verdure",
+    "brand": "FRISKIES",
+    "url": "https://www.arcaplanet.it/friskies-cat-con-salmone-tonno-e-verdure-20509/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281005/main--1-.jpg?v=638122307927300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281006/pt02--1-.jpg?v=638122308116570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301734/componenti-analitici-00008308.jpg?v=638521597627300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301735/dosaggio-00008308.jpg?v=638521597787570000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 8.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.395,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20509",
+        "sku": "20509",
+        "gtin": "00008308",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/friskies-cat-con-salmone-tonno-e-verdure-20509/p",
+        "price": {
+          "current": 6.79,
+          "original": 8.29,
+          "pricePerUnit": {
+            "value": 3.395,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "friskies-cat-con-salmone-tonno-e-verdure-20509p",
+        "name": "Friskies Cat Con Salmone Tonno e Verdure",
+        "path": "/friskies-cat-con-salmone-tonno-e-verdure-20509/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22627",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  },
+  {
+    "id": "25204",
+    "sku": "25204",
+    "gtin": "1000000000021",
+    "title": "Kit Risparmio 2x2.3KG Virtus Cat Original",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x2-3kg-virtus-cat-original-25204/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307789/kit-risparmio-2x2--1-.jpg?v=638641680179900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307790/kit-risparmio-2x2--2-.jpg?v=638641680369500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307791/kit-risparmio-2x2--3-.jpg?v=638641680461530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307792/kit-risparmio-2x2--4-.jpg?v=638641680556870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307793/kit-risparmio-2x2--5-.jpg?v=638641680705700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307794/kit-risparmio-2x2--6-.jpg?v=638641680897030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307795/kit-risparmio-2x2--7-.jpg?v=638641681012300000"
+    ],
+    "price": {
+      "current": 41.99,
+      "original": 55.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.784518828451883,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25204",
+        "sku": "25204",
+        "gtin": "1000000000021",
+        "title": "SEVEN SEAS FORMULA SALMONE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x2-3kg-virtus-cat-original-25204/p",
+        "price": {
+          "current": 41.99,
+          "original": 55.98,
+          "pricePerUnit": {
+            "value": 8.784518828451883,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-secco",
+        "name": "Cibo Secco",
+        "path": "/gatto/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x2-3kg-virtus-cat-original-25204p",
+        "name": "Kit Risparmio 2x2.3KG Virtus Cat Original",
+        "path": "/kit-risparmio-2x2-3kg-virtus-cat-original-25204/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27215",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:51:32.991Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/secco/"
+  }
+]

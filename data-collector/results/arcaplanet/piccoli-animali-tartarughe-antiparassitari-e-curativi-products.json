@@ -1,0 +1,578 @@
+[
+  {
+    "id": "843",
+    "sku": "843",
+    "gtin": "00037466",
+    "title": "Croci Tartarughe Tugaeyes",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-tartarughe-tugaeyes-25-g-843/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222237/croci-tartarughe-tugaeyes.jpg?v=637454719914430000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "843",
+        "sku": "843",
+        "gtin": "00037466",
+        "title": "25G",
+        "url": "https://www.arcaplanet.it/croci-tartarughe-tugaeyes-25-g-843/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "croci-tartarughe-tugaeyes-25-g-843p",
+        "name": "Croci Tartarughe Tugaeyes",
+        "path": "/croci-tartarughe-tugaeyes-25-g-843/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "801",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  },
+  {
+    "id": "844",
+    "sku": "844",
+    "gtin": "00037461",
+    "title": "Croci Tartarughe Tugamin",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-tartarughe-tugamin-25-g-844/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222236/croci-tartarughe-tugamin.jpg?v=637454719906770000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "844",
+        "sku": "844",
+        "gtin": "00037461",
+        "title": "25G",
+        "url": "https://www.arcaplanet.it/croci-tartarughe-tugamin-25-g-844/p",
+        "price": {
+          "current": 5.59,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "croci-tartarughe-tugamin-25-g-844p",
+        "name": "Croci Tartarughe Tugamin",
+        "path": "/croci-tartarughe-tugamin-25-g-844/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "802",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  },
+  {
+    "id": "845",
+    "sku": "845",
+    "gtin": "00036969",
+    "title": "Croci Tartarughe Tugavit",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-tartarughe-tugavit-25-g-845/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222235/croci-tartarughe-tugavit.jpg?v=637454719897400000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "845",
+        "sku": "845",
+        "gtin": "00036969",
+        "title": "25G",
+        "url": "https://www.arcaplanet.it/croci-tartarughe-tugavit-25-g-845/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "croci-tartarughe-tugavit-25-g-845p",
+        "name": "Croci Tartarughe Tugavit",
+        "path": "/croci-tartarughe-tugavit-25-g-845/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "803",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  },
+  {
+    "id": "25065",
+    "sku": "25065",
+    "gtin": "10176819",
+    "title": "Amtra Terraristik Tugavit",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-terraristik-tugavit-25065/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309306/amtra-terraristik-tugavit-10176819.jpg?v=638658916864100000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25065",
+        "sku": "25065",
+        "gtin": "10176819",
+        "title": "40ML",
+        "url": "https://www.arcaplanet.it/amtra-terraristik-tugavit-25065/p",
+        "price": {
+          "current": 5.59,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "amtra-terraristik-tugavit-25065p",
+        "name": "Amtra Terraristik Tugavit",
+        "path": "/amtra-terraristik-tugavit-25065/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27076",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  },
+  {
+    "id": "25066",
+    "sku": "25066",
+    "gtin": "10176820",
+    "title": "Amtra Terraristik Tugamin",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-terraristik-tugamin-25066/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309307/amtra-terraristik-tugamin-10176820.jpg?v=638658920867730000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25066",
+        "sku": "25066",
+        "gtin": "10176820",
+        "title": "40ML",
+        "url": "https://www.arcaplanet.it/amtra-terraristik-tugamin-25066/p",
+        "price": {
+          "current": 5.59,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "amtra-terraristik-tugamin-25066p",
+        "name": "Amtra Terraristik Tugamin",
+        "path": "/amtra-terraristik-tugamin-25066/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27077",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  },
+  {
+    "id": "25067",
+    "sku": "25067",
+    "gtin": "10176821",
+    "title": "Amtra Terraristik Tugaeyes",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-terraristik-tugaeyes-25067/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309312/amtra-terraristik-tugaeyes-10176821.jpg?v=638658928849830000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25067",
+        "sku": "25067",
+        "gtin": "10176821",
+        "title": "40ML",
+        "url": "https://www.arcaplanet.it/amtra-terraristik-tugaeyes-25067/p",
+        "price": {
+          "current": 5.59,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalitartarugheantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/piccoli-animali/tartarughe/antiparassitari-e-curativi/integratori/",
+        "level": 5
+      },
+      {
+        "id": "amtra-terraristik-tugaeyes-25067p",
+        "name": "Amtra Terraristik Tugaeyes",
+        "path": "/amtra-terraristik-tugaeyes-25067/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27078",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:21:12.855Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/antiparassitari/e/curativi/"
+  }
+]

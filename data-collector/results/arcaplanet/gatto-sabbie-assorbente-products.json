@@ -1,0 +1,2541 @@
+[
+  {
+    "id": "10140",
+    "sku": "10140",
+    "gtin": "10130162",
+    "title": "Sanicat Lettiera Classic Lavanda",
+    "brand": "SANICAT",
+    "url": "https://www.arcaplanet.it/sanicat-gatto-lettiera-classic-lavanda-10140/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253061/Cattura.jpg?v=637499320225830000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1398002853067049,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10140",
+        "sku": "10140",
+        "gtin": "10130162",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/sanicat-gatto-lettiera-classic-lavanda-10140/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 1.1398002853067049,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "sanicat-gatto-lettiera-classic-lavanda-10140p",
+        "name": "Sanicat Lettiera Classic Lavanda",
+        "path": "/sanicat-gatto-lettiera-classic-lavanda-10140/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "582",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "8241",
+    "sku": "8241",
+    "gtin": "10061789",
+    "title": "Next Cat Lettiera Super Leggera",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-lettiera-super-leggera-8241/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240589/next-gatto-leetiera-super-leggera.jpg?v=637454982912030000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6996996996996997,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8241",
+        "sku": "8241",
+        "gtin": "10061789",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/next-cat-lettiera-super-leggera-8241/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 0.6996996996996997,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "next-cat-lettiera-super-leggera-8241p",
+        "name": "Next Cat Lettiera Super Leggera",
+        "path": "/next-cat-lettiera-super-leggera-8241/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8068",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "8461",
+    "sku": "8461",
+    "gtin": "10061788",
+    "title": "Expecial Cat Lettiera Profumata",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-gatto-lettiera-profumata-10l-8461/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240588/expecial-gatto-lettiera-profumata.jpg?v=637454982902200000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.5,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "8461",
+        "sku": "8461",
+        "gtin": "10061788",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/expecial-gatto-lettiera-profumata-10l-8461/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 0.5,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "expecial-gatto-lettiera-profumata-10l-8461p",
+        "name": "Expecial Cat Lettiera Profumata",
+        "path": "/expecial-gatto-lettiera-profumata-10l-8461/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8288",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "8462",
+    "sku": "8462",
+    "gtin": "10061787",
+    "title": "Expecial Cat Lettiera Originale",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-gatto-lettiera-originale-10l-8462/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240587/expecial-gatto-lettiera-originale.jpg?v=637454982892730000"
+    ],
+    "price": {
+      "current": 4.4,
+      "original": 4.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.44000000000000006,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "8462",
+        "sku": "8462",
+        "gtin": "10061787",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/expecial-gatto-lettiera-originale-10l-8462/p",
+        "price": {
+          "current": 4.4,
+          "original": 4.4,
+          "pricePerUnit": {
+            "value": 0.44000000000000006,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "expecial-gatto-lettiera-originale-10l-8462p",
+        "name": "Expecial Cat Lettiera Originale",
+        "path": "/expecial-gatto-lettiera-originale-10l-8462/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8289",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "9532",
+    "sku": "9532",
+    "gtin": "10121105",
+    "title": "Lovedì Lettiera Assorbente Pino Silvestre",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-lettiera-assorbente-pino-silvestre-19-5l-9532/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207519/LETTIERA-ASSORBENTE-LOVEDI-PINO-SILVESTRE-195L.jpg?v=637413956704800000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6700201207243461,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9532",
+        "sku": "9532",
+        "gtin": "10121105",
+        "title": "19.5L",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-lettiera-assorbente-pino-silvestre-19-5l-9532/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 0.6700201207243461,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "19.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-lettiera-assorbente-pino-silvestre-19-5l-9532p",
+        "name": "Lovedì Lettiera Assorbente Pino Silvestre",
+        "path": "/lovedi-gatto-lettiera-assorbente-pino-silvestre-19-5l-9532/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9350",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "25791",
+    "sku": "25791",
+    "gtin": "1000000000369",
+    "title": "Catsan Hygiene Plus Lettiera per Gatto",
+    "brand": "CATSAN",
+    "url": "https://www.arcaplanet.it/catsan-hygiene-plus-lettiera-25791/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311705/catsan-20ltx2.jpg?v=638681506997730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311706/catsan-20lt.png?v=638681507067700000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 25.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2894736842105263,
+        "unit": "litro"
+      },
+      "discountPercentage": 4
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25791",
+        "sku": "25791",
+        "gtin": "1000000000369",
+        "title": "KIT 2X20L",
+        "url": "https://www.arcaplanet.it/catsan-hygiene-plus-lettiera-25791/p",
+        "price": {
+          "current": 24.99,
+          "original": 25.98,
+          "pricePerUnit": {
+            "value": 1.2894736842105263,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "catsan-hygiene-plus-lettiera-25791p",
+        "name": "Catsan Hygiene Plus Lettiera per Gatto",
+        "path": "/catsan-hygiene-plus-lettiera-25791/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11474",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "26908",
+    "sku": "26908",
+    "gtin": "1000000000857",
+    "title": "Sanicat Lettiera 7 Days Freshness",
+    "brand": "SANICAT",
+    "url": "https://www.arcaplanet.it/lettiera-sanicat-7-days-freshness-26908/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317419/lettiera-sanicat-7-days-freshness-1000000000857.jpg.jpg?v=638761667792500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317420/lettiera-sanicat-7-days-freshness-1000000000857.jpg.jpg?v=638761667792630000"
+    ],
+    "price": {
+      "current": 42.99,
+      "original": 55.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1023076923076924,
+        "unit": "litro"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26908",
+        "sku": "26908",
+        "gtin": "1000000000857",
+        "title": "Kit Risparmio 15x4L",
+        "url": "https://www.arcaplanet.it/lettiera-sanicat-7-days-freshness-26908/p",
+        "price": {
+          "current": 42.99,
+          "original": 55.35,
+          "pricePerUnit": {
+            "value": 1.1023076923076924,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-sanicat-7-days-freshness-26908p",
+        "name": "Sanicat Lettiera 7 Days Freshness",
+        "path": "/lettiera-sanicat-7-days-freshness-26908/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14470",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "24568",
+    "sku": "24568",
+    "gtin": "10143772",
+    "title": "Cat's Best Lettiera Agglomerante Original",
+    "brand": "CATS BEST",
+    "url": "https://www.arcaplanet.it/cats-best-lettiera-agglomerante-original-24568/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311120/Cat-s-Best-Lettiera-Agglomerante-Original-10143772.jpg?v=638677742758670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311121/Cat-s-Best-Lettiera-Agglomerante-Original-10143772-1.jpg?v=638677742842670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311122/Cat-s-Best-Lettiera-Agglomerante-Original-10143772-2.jpg?v=638677742918130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311123/Cat-s-Best-Lettiera-Agglomerante-Original-10143772-3.jpg?v=638677742999630000"
+    ],
+    "price": {
+      "current": 34.49,
+      "original": 34.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1724.5,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "24568",
+        "sku": "24568",
+        "gtin": "10143772",
+        "title": "40L",
+        "url": "https://www.arcaplanet.it/cats-best-lettiera-agglomerante-original-24568/p",
+        "price": {
+          "current": 34.49,
+          "original": 34.49,
+          "pricePerUnit": {
+            "value": 1724.5,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "cats-best-lettiera-agglomerante-original-24568p",
+        "name": "Cat's Best Lettiera Agglomerante Original",
+        "path": "/cats-best-lettiera-agglomerante-original-24568/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15438",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "14011",
+    "sku": "14011",
+    "gtin": "10139819",
+    "title": "Lovedì Lettiera Assorbente",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-14011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266849/Lovedi-lettiera-assorbente-10l.jpg?v=637793002063230000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.499,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14011",
+        "sku": "14011",
+        "gtin": "10139819",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-14011/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 0.499,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-lettiera-assorbente-14011p",
+        "name": "Lovedì Lettiera Assorbente",
+        "path": "/lovedi-lettiera-assorbente-14011/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16149",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "14012",
+    "sku": "14012",
+    "gtin": "10139820",
+    "title": "Lovedì Lettiera Assorbente con Lavanda",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-con-lavanda-14012/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266283/lovedi-lettiera-assorbente-con-lavanda-10-litri.jpg?v=637758473611200000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6002004008016032,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14012",
+        "sku": "14012",
+        "gtin": "10139820",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-con-lavanda-14012/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 0.6002004008016032,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-lettiera-assorbente-con-lavanda-14012p",
+        "name": "Lovedì Lettiera Assorbente con Lavanda",
+        "path": "/lovedi-lettiera-assorbente-con-lavanda-14012/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16150",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "16433",
+    "sku": "16433",
+    "gtin": "10141994",
+    "title": "MultiFit Lettiera Hygiene White Assorbente",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-hygiene-white-lettiera-assorbente-16433/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278033/MultiFit-Lettiera-Hygiene-Whiter-20L.jpg?v=638059534894500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278034/MultiFit-Lettiera-Hygiene-Whiter-20L-1.jpg?v=638059535144300000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6495,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16433",
+        "sku": "16433",
+        "gtin": "10141994",
+        "title": "20L",
+        "url": "https://www.arcaplanet.it/multifit-hygiene-white-lettiera-assorbente-16433/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 0.6495,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "multifit-hygiene-white-lettiera-assorbente-16433p",
+        "name": "MultiFit Lettiera Hygiene White Assorbente",
+        "path": "/multifit-hygiene-white-lettiera-assorbente-16433/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18562",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "16434",
+    "sku": "16434",
+    "gtin": "10142095",
+    "title": "Multifit Diamonds Lettiera Assorbente",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-diamonds-lettiera-assorbente-16434/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278411/1005064_lwp_1--1-.jpg?v=638073862069070000"
+    ],
+    "price": {
+      "current": 16.14,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.0149812734082397,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16434",
+        "sku": "16434",
+        "gtin": "10142095",
+        "title": "8L",
+        "url": "https://www.arcaplanet.it/multifit-diamonds-lettiera-assorbente-16434/p",
+        "price": {
+          "current": 16.14,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 2.0149812734082397,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "8L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "multifit-diamonds-lettiera-assorbente-16434p",
+        "name": "Multifit Diamonds Lettiera Assorbente",
+        "path": "/multifit-diamonds-lettiera-assorbente-16434/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18563",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "16563",
+    "sku": "16563",
+    "gtin": "10155938",
+    "title": "Sanicat Lettiera Advanced Hygiene",
+    "brand": "SANICAT",
+    "url": "https://www.arcaplanet.it/sanicat-lettiera-advanced-hygiene-16563/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276912/sanicat-lettiera-advanced-hygiene-5l.jpg?v=638040980469930000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6012024048096192,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16563",
+        "sku": "16563",
+        "gtin": "10155938",
+        "title": "5L",
+        "url": "https://www.arcaplanet.it/sanicat-lettiera-advanced-hygiene-16563/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 1.6012024048096192,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "sanicat-lettiera-advanced-hygiene-16563p",
+        "name": "Sanicat Lettiera Advanced Hygiene",
+        "path": "/sanicat-lettiera-advanced-hygiene-16563/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18686",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "17559",
+    "sku": "17559",
+    "gtin": "10152723",
+    "title": "Premiere Lettiera Hygienic per Gattini",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-lettiera-hygienic-per-gattini-17559/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278112/PREM-LETTIERA-CAT-HYGIENIC-KITTEN-LT.12.jpg?v=638064507085430000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2491666666666668,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17559",
+        "sku": "17559",
+        "gtin": "10152723",
+        "title": "12L",
+        "url": "https://www.arcaplanet.it/premiere-lettiera-hygienic-per-gattini-17559/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 1.2491666666666668,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "12L",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "premiere-lettiera-hygienic-per-gattini-17559p",
+        "name": "Premiere Lettiera Hygienic per Gattini",
+        "path": "/premiere-lettiera-hygienic-per-gattini-17559/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19677",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "17560",
+    "sku": "17560",
+    "gtin": "10152724",
+    "title": "Premiere Lettiera Hygienic Zeolite",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-lettiera-hygienic-zeolite-17560/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278116/PREM-LETTIERA-CAT-HYGIENIC-ZEOLITE-LT.15.jpg?v=638064534639430000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1326666666666665,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17560",
+        "sku": "17560",
+        "gtin": "10152724",
+        "title": "15L",
+        "url": "https://www.arcaplanet.it/premiere-lettiera-hygienic-zeolite-17560/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 1.1326666666666665,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "15L",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "premiere-lettiera-hygienic-zeolite-17560p",
+        "name": "Premiere Lettiera Hygienic Zeolite",
+        "path": "/premiere-lettiera-hygienic-zeolite-17560/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19678",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "20702",
+    "sku": "20702",
+    "gtin": "10155198",
+    "title": "Lettiera Cat Assorbente Hygiene",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-cat-assorbente-hygiene-20702/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280190/d53644925d9b945c27c64f4174ddeec136487bcc_245b26d819c03411d1314702e7068ad9b55bfe17--1-.jpg?v=638114583420530000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.21994715984147953,
+        "unit": "litro"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20702",
+        "sku": "20702",
+        "gtin": "10155198",
+        "title": "30L",
+        "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-cat-assorbente-hygiene-20702/p",
+        "price": {
+          "current": 9.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 0.21994715984147953,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "30L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-lettiera-cat-assorbente-hygiene-20702p",
+        "name": "Lettiera Cat Assorbente Hygiene",
+        "path": "/fit-and-fun-lettiera-cat-assorbente-hygiene-20702/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22819",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "20996",
+    "sku": "20996",
+    "gtin": "10152269",
+    "title": "Cat&Rina Lettiera per Gatti al Tofu",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/cat-rina-lettiera-per-gatti-al-tofu-20996/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312685/cat-rina-lettiera-per-gatti-al-tofu-pesca-10152269_result.jpg?v=638690812090200000"
+    ],
+    "price": {
+      "current": 9.17,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6703096539162112,
+        "unit": "litro"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20996",
+        "sku": "20996",
+        "gtin": "10152269",
+        "title": "5.5L",
+        "url": "https://www.arcaplanet.it/cat-rina-lettiera-per-gatti-al-tofu-20996/p",
+        "price": {
+          "current": 9.17,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 1.6703096539162112,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "cat-rina-lettiera-per-gatti-al-tofu-20996p",
+        "name": "Cat&Rina Lettiera per Gatti al Tofu",
+        "path": "/cat-rina-lettiera-per-gatti-al-tofu-20996/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23087",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "20998",
+    "sku": "20998",
+    "gtin": "10061864",
+    "title": "Cat&Rina Lettiera in Carta Assorbente",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/cat-rina-lettiera-in-carta-assorbente-20998/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307092/Cat-Rina-Lettiera-in-Carta-Assorbente-10061864.jpg?v=638630425384700000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.0227848101265824,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20998",
+        "sku": "20998",
+        "gtin": "10061864",
+        "title": "12L",
+        "url": "https://www.arcaplanet.it/cat-rina-lettiera-in-carta-assorbente-20998/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 2.0227848101265824,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "12L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "cat-rina-lettiera-in-carta-assorbente-20998p",
+        "name": "Cat&Rina Lettiera in Carta Assorbente",
+        "path": "/cat-rina-lettiera-in-carta-assorbente-20998/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23089",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "22904",
+    "sku": "22904",
+    "gtin": "10170502",
+    "title": "Kittyfriend Lettiera per Gatto Classic",
+    "brand": "KITTY FRIEND",
+    "url": "https://www.arcaplanet.it/kittyfriend-lettiera-per-gatto-classic-22904/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292162/Kittyfriend-Lettiera-per-Gatto-Classic-10170502.jpg?v=638368445793470000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.7998932764140876,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22904",
+        "sku": "22904",
+        "gtin": "10170502",
+        "title": "30L",
+        "url": "https://www.arcaplanet.it/kittyfriend-lettiera-per-gatto-classic-22904/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 0.7998932764140876,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kittyfriend-lettiera-per-gatto-classic-22904p",
+        "name": "Kittyfriend Lettiera per Gatto Classic",
+        "path": "/kittyfriend-lettiera-per-gatto-classic-22904/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24913",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "23255",
+    "sku": "23255",
+    "gtin": "10173198",
+    "title": "Lovedi Lettiera Assorbente Legno Abete",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-legno-abete-23255/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297087/Lovedi-Lettiera-Assorbente-Legno-Abete-10173198.jpg?v=638460907207200000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.329450915141431,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23255",
+        "sku": "23255",
+        "gtin": "10173198",
+        "title": "6L",
+        "url": "https://www.arcaplanet.it/lovedi-lettiera-assorbente-legno-abete-23255/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 1.329450915141431,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-lettiera-assorbente-legno-abete-23255p",
+        "name": "Lovedi Lettiera Assorbente Legno Abete",
+        "path": "/lovedi-lettiera-assorbente-legno-abete-23255/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25264",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "25396",
+    "sku": "25396",
+    "gtin": "1000000000102",
+    "title": "Kit Risparmio 2x20L Multifit Lettiera Assorbente per Gatti",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x20l-multifit-lettiera-assorbente-per-gatti-25396/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308488/Kit-Risparmio-2x20L-Perfect-Lettiera-Assorbente-per-Gatti.jpg?v=638652669700100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308489/Kit-Risparmio-2x20L-Perfect-Lettiera-Assorbente-per-Gatti-1.jpg?v=638652669789930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308490/Kit-Risparmio-2x20L-Perfect-Lettiera-Assorbente-per-Gatti-2.jpg?v=638652669883000000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6497499999999999,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25396",
+        "sku": "25396",
+        "gtin": "1000000000102",
+        "title": "HYGIENE WHITE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x20l-multifit-lettiera-assorbente-per-gatti-25396/p",
+        "price": {
+          "current": 25.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 0.6497499999999999,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x20l-multifit-lettiera-assorbente-per-gatti-25396p",
+        "name": "Kit Risparmio 2x20L Multifit Lettiera Assorbente per Gatti",
+        "path": "/kit-risparmio-2x20l-multifit-lettiera-assorbente-per-gatti-25396/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27407",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "25536",
+    "sku": "25536",
+    "gtin": "1000000000157",
+    "title": "Kit Risparmio 3x10L Lovedi Gatto Lettiera Assorbente",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x10l-lovedi-gatto-lettiera-assorbente-25536/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310330/Kit-Risparmio-3x10L-Lovedi-Gatto-Lettiera-Assorbente-1000000000157.jpg?v=638671135268270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310331/Kit-Risparmio-3x10L-Lovedi-Gatto-Lettiera-Assorbente-1000000000157-2.jpg?v=638671135385130000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 14.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.39966666666666667,
+        "unit": "litro"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25536",
+        "sku": "25536",
+        "gtin": "1000000000157",
+        "title": "SEPIOLITE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x10l-lovedi-gatto-lettiera-assorbente-25536/p",
+        "price": {
+          "current": 11.99,
+          "original": 14.97,
+          "pricePerUnit": {
+            "value": 0.39966666666666667,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-3x10l-lovedi-gatto-lettiera-assorbente-25536p",
+        "name": "Kit Risparmio 3x10L Lovedi Gatto Lettiera Assorbente",
+        "path": "/kit-risparmio-3x10l-lovedi-gatto-lettiera-assorbente-25536/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27547",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "25537",
+    "sku": "25537",
+    "gtin": "1000000000158",
+    "title": "Kit Risparmio 5x19.5L Lovedi Gatto Lettiera Assorbente",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-5x19-5l-lovedi-gatto-lettiera-assorbente-25537/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310332/Kit-Risparmio-5x19.5L-Lovedi-Gatto-Lettiera-Assorbente-1000000000158.jpg?v=638671144674330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310333/Kit-Risparmio-5x19.5L-Lovedi-Gatto-Lettiera-Assorbente-1000000000158-2.jpg?v=638671145301600000"
+    ],
+    "price": {
+      "current": 32.99,
+      "original": 49.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.442521797451375,
+        "unit": "litro"
+      },
+      "discountPercentage": 34
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25537",
+        "sku": "25537",
+        "gtin": "1000000000158",
+        "title": "PINO SILVESTRE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-5x19-5l-lovedi-gatto-lettiera-assorbente-25537/p",
+        "price": {
+          "current": 32.99,
+          "original": 49.95,
+          "pricePerUnit": {
+            "value": 0.442521797451375,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-5x19-5l-lovedi-gatto-lettiera-assorbente-25537p",
+        "name": "Kit Risparmio 5x19.5L Lovedi Gatto Lettiera Assorbente",
+        "path": "/kit-risparmio-5x19-5l-lovedi-gatto-lettiera-assorbente-25537/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27548",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "26220",
+    "sku": "26220",
+    "gtin": "1000000000661",
+    "title": "Kit Risparmio 6x8L Multifit Lettiera Cat Assorbente",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x8l-multifit-lettiera-cat-assorbente-26220/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312579/Kit-Risparmio-6x8L-Multifit-Lettiera-Cat-Assorbente-1000000000661x6.jpg?v=638690014474130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312578/Kit-Risparmio-6x8L-Multifit-Lettiera-Cat-Assorbente-1000000000661.png?v=638690007174200000"
+    ],
+    "price": {
+      "current": 87.16,
+      "original": 113.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.813566375364128,
+        "unit": "litro"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26220",
+        "sku": "26220",
+        "gtin": "1000000000661",
+        "title": "DIAMONDS",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x8l-multifit-lettiera-cat-assorbente-26220/p",
+        "price": {
+          "current": 87.16,
+          "original": 113.94,
+          "pricePerUnit": {
+            "value": 1.813566375364128,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-6x8l-multifit-lettiera-cat-assorbente-26220p",
+        "name": "Kit Risparmio 6x8L Multifit Lettiera Cat Assorbente",
+        "path": "/kit-risparmio-6x8l-multifit-lettiera-cat-assorbente-26220/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28211",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "26221",
+    "sku": "26221",
+    "gtin": "1000000000662",
+    "title": "Kit Risparmio 4x15L Multifit Lettiera Cat Assorbente",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-4x15l-multifit-lettiera-cat-assorbente-26221/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312586/Kit-Risparmio-4x15L-Multifit-Lettiera-Cat-Assorbente-1000000000662x4.jpg?v=638690019626100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312587/Kit-Risparmio-4x15L-Multifit-Lettiera-Cat-Assorbente-1000000000662.png?v=638690019750270000"
+    ],
+    "price": {
+      "current": 91.76,
+      "original": 119.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.5303535690460308,
+        "unit": "litro"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26221",
+        "sku": "26221",
+        "gtin": "1000000000662",
+        "title": "DIAMONDS",
+        "url": "https://www.arcaplanet.it/kit-risparmio-4x15l-multifit-lettiera-cat-assorbente-26221/p",
+        "price": {
+          "current": 91.76,
+          "original": 119.96,
+          "pricePerUnit": {
+            "value": 1.5303535690460308,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-4x15l-multifit-lettiera-cat-assorbente-26221p",
+        "name": "Kit Risparmio 4x15L Multifit Lettiera Cat Assorbente",
+        "path": "/kit-risparmio-4x15l-multifit-lettiera-cat-assorbente-26221/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28212",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "26648",
+    "sku": "26648",
+    "gtin": "1000000000788",
+    "title": "Kit Risparmio 2x10L Next Lettiera Gatto Super Leggera",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/kit-kisparmio-2x10l-next-lettiera-gatto-super-leggera-26648/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315033/Kit-Risparmio-2x10L-Next-Lettiera-Gatto-Super-Leggera-1000000000788x2.jpg?v=638732466831930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315034/Kit-Risparmio-2x10L-Next-Lettiera-Gatto-Super-Leggera-1000000000788.png?v=638732466921100000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 13.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6001001001001001,
+        "unit": "litro"
+      },
+      "discountPercentage": 14
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26648",
+        "sku": "26648",
+        "gtin": "1000000000788",
+        "title": "ULTRA LEGGERA",
+        "url": "https://www.arcaplanet.it/kit-kisparmio-2x10l-next-lettiera-gatto-super-leggera-26648/p",
+        "price": {
+          "current": 11.99,
+          "original": 13.98,
+          "pricePerUnit": {
+            "value": 0.6001001001001001,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-kisparmio-2x10l-next-lettiera-gatto-super-leggera-26648p",
+        "name": "Kit Risparmio 2x10L Next Lettiera Gatto Super Leggera",
+        "path": "/kit-kisparmio-2x10l-next-lettiera-gatto-super-leggera-26648/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28639",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  },
+  {
+    "id": "26652",
+    "sku": "26652",
+    "gtin": "1000000000792",
+    "title": "Kit Risparmio 3x10L Lovedi Lettiera Gatto Assorbente",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-kisparmio-3x10l-lovedi-lettiera-gatto-assorbente-26652/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315042/Kit-Risparmio-3x10L-Lovedi-Lettiera-Gatto-Assorbente-1000000000792x3.jpg?v=638733048959630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315043/Kit-Risparmio-3x10L-Lovedi-Lettiera-Gatto-Assorbente-1000000000792.png?v=638733049048270000"
+    ],
+    "price": {
+      "current": 15,
+      "original": 20.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.5,
+        "unit": "litro"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26652",
+        "sku": "26652",
+        "gtin": "1000000000792",
+        "title": "LAVANDA",
+        "url": "https://www.arcaplanet.it/kit-kisparmio-3x10l-lovedi-lettiera-gatto-assorbente-26652/p",
+        "price": {
+          "current": 15,
+          "original": 20.97,
+          "pricePerUnit": {
+            "value": 0.5,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbieassorbente",
+        "name": "Assorbente",
+        "path": "/gatto/sabbie/assorbente/",
+        "level": 4
+      },
+      {
+        "id": "kit-kisparmio-3x10l-lovedi-lettiera-gatto-assorbente-26652p",
+        "name": "Kit Risparmio 3x10L Lovedi Lettiera Gatto Assorbente",
+        "path": "/kit-kisparmio-3x10l-lovedi-lettiera-gatto-assorbente-26652/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28643",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:37:29.083Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/assorbente/"
+  }
+]

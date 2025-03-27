@@ -1,0 +1,1147 @@
+{
+  "timestamp": "2025-03-23T21:56:22.597Z",
+  "summary": {
+    "totalFiles": 80,
+    "filesWithErrors": 0,
+    "filesWithWarnings": 0,
+    "totalProducts": 2482,
+    "productsWithErrors": 0,
+    "productsWithWarnings": 0,
+    "errorRate": "0.00%",
+    "warningRate": "0.00%"
+  },
+  "missingFields": {
+    "name": 0,
+    "source": 0,
+    "sourceId": 0,
+    "description": 0,
+    "brand": 0,
+    "category": 0,
+    "imageUrl": 0,
+    "prices": 0
+  },
+  "categoryStats": {
+    "cane-accessori-abbigliamento": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-accessori-addestramento": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-accessori-ciotole-e-dispenser": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-accessori-toelettatura": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-antiparassitari-e-curativi-antiparassitari": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-antiparassitari-e-curativi-insettorepellenti": {
+      "totalProducts": 9,
+      "productsWithErrors": 0
+    },
+    "cane-antiparassitari-e-curativi-integratori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-antiparassitari-e-curativi-parafarmacia": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-cibo-secco": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-cibo-umido": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-cucce-e-lettini": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-diete-cibo-secco": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-diete-cibo-umido": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-giochi": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-guinzaglieria": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-manto-e-cute": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-orale": {
+      "totalProducts": 34,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-pannolini": {
+      "totalProducts": 12,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-portasacchetti": {
+      "totalProducts": 23,
+      "productsWithErrors": 0
+    },
+    "cane-igiene": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-sacchetti-igienici": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-salviette": {
+      "totalProducts": 20,
+      "productsWithErrors": 0
+    },
+    "cane-igiene-traversine-igieniche": {
+      "totalProducts": 15,
+      "productsWithErrors": 0
+    },
+    "cane-snack": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "cane-trasportini-e-viaggio": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori-ciotole-e-dispenser": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori-cucce-e-lettini": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori-giochi": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori-guinzaglieria": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-accessori-toelettatura": {
+      "totalProducts": 21,
+      "productsWithErrors": 0
+    },
+    "gatto-antiparassitari-e-curativi-antiparassitari": {
+      "totalProducts": 15,
+      "productsWithErrors": 0
+    },
+    "gatto-antiparassitari-e-curativi-insettorepellenti": {
+      "totalProducts": 3,
+      "productsWithErrors": 0
+    },
+    "gatto-antiparassitari-e-curativi-integratori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-antiparassitari-e-curativi-parafarmacia": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-cibo-secco": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-cibo-umido": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-diete-cibo-secco": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-diete-cibo-umido": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-igiene": {
+      "totalProducts": 20,
+      "productsWithErrors": 0
+    },
+    "gatto": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-sabbie-agglomerante": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-sabbie-assorbente": {
+      "totalProducts": 27,
+      "productsWithErrors": 0
+    },
+    "gatto-sabbie": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-sabbie-silicio": {
+      "totalProducts": 11,
+      "productsWithErrors": 0
+    },
+    "gatto-sabbie-vegetale": {
+      "totalProducts": 29,
+      "productsWithErrors": 0
+    },
+    "gatto-snack": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-tiragraffi": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-toilette-e-accessori-palette": {
+      "totalProducts": 14,
+      "productsWithErrors": 0
+    },
+    "gatto-toilette-e-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-toilette-e-accessori-sacchetti-toilette": {
+      "totalProducts": 12,
+      "productsWithErrors": 0
+    },
+    "gatto-toilette-e-accessori-tappetini-toilette": {
+      "totalProducts": 10,
+      "productsWithErrors": 0
+    },
+    "gatto-toilette-e-accessori-toilette": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "gatto-trasportini": {
+      "totalProducts": 33,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-pesci-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-pesci-mangime": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-pesci": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-rettili-accessori": {
+      "totalProducts": 9,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-rettili": {
+      "totalProducts": 9,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-antiparassitari-e-curativi-antiparassitari": {
+      "totalProducts": 1,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-fieno": {
+      "totalProducts": 37,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-igiene": {
+      "totalProducts": 7,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-lettiere": {
+      "totalProducts": 36,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-mangime": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-roditori-snack": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-tartarughe-accessori": {
+      "totalProducts": 7,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-tartarughe-antiparassitari-e-curativi": {
+      "totalProducts": 6,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-tartarughe-mangime": {
+      "totalProducts": 21,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-tartarughe": {
+      "totalProducts": 34,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-accessori": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-antiparassitari-e-curativi-antiparassitari": {
+      "totalProducts": 1,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-antiparassitari-e-curativi-integratori": {
+      "totalProducts": 2,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-mangime": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-sabbie": {
+      "totalProducts": 4,
+      "productsWithErrors": 0
+    },
+    "piccoli-animali-uccelli-snack": {
+      "totalProducts": 40,
+      "productsWithErrors": 0
+    }
+  },
+  "fileReports": [
+    {
+      "file": "cane-accessori-abbigliamento-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-accessori-abbigliamento",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-accessori-addestramento-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-accessori-addestramento",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-accessori-ciotole-e-dispenser-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-accessori-ciotole-e-dispenser",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-accessori-toelettatura-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-accessori-toelettatura",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-antiparassitari-e-curativi-antiparassitari-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-antiparassitari-e-curativi-antiparassitari",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-antiparassitari-e-curativi-insettorepellenti-products.json",
+      "totalProducts": 9,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-antiparassitari-e-curativi-insettorepellenti",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-antiparassitari-e-curativi-integratori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-antiparassitari-e-curativi-integratori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-antiparassitari-e-curativi-parafarmacia-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-antiparassitari-e-curativi-parafarmacia",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-cibo-secco-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-cibo-secco",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-cibo-umido-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-cibo-umido",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-cucce-e-lettini-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-cucce-e-lettini",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-diete-cibo-secco-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-diete-cibo-secco",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-diete-cibo-umido-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-diete-cibo-umido",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-giochi-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-giochi",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-guinzaglieria-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-guinzaglieria",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-manto-e-cute-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-manto-e-cute",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-orale-products.json",
+      "totalProducts": 34,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-orale",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-pannolini-products.json",
+      "totalProducts": 12,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-pannolini",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-portasacchetti-products.json",
+      "totalProducts": 23,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-portasacchetti",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-sacchetti-igienici-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-sacchetti-igienici",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-salviette-products.json",
+      "totalProducts": 20,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-salviette",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-igiene-traversine-igieniche-products.json",
+      "totalProducts": 15,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-igiene-traversine-igieniche",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-snack-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-snack",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "cane-trasportini-e-viaggio-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "cane-trasportini-e-viaggio",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-ciotole-e-dispenser-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori-ciotole-e-dispenser",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-cucce-e-lettini-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori-cucce-e-lettini",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-giochi-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori-giochi",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-guinzaglieria-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori-guinzaglieria",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-accessori-toelettatura-products.json",
+      "totalProducts": 21,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-accessori-toelettatura",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-antiparassitari-e-curativi-antiparassitari-products.json",
+      "totalProducts": 15,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-antiparassitari-e-curativi-antiparassitari",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-antiparassitari-e-curativi-insettorepellenti-products.json",
+      "totalProducts": 3,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-antiparassitari-e-curativi-insettorepellenti",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-antiparassitari-e-curativi-integratori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-antiparassitari-e-curativi-integratori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-antiparassitari-e-curativi-parafarmacia-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-antiparassitari-e-curativi-parafarmacia",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-cibo-secco-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-cibo-secco",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-cibo-umido-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-cibo-umido",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-diete-cibo-secco-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-diete-cibo-secco",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-diete-cibo-umido-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-diete-cibo-umido",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-igiene-products.json",
+      "totalProducts": 20,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-igiene",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-sabbie-agglomerante-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-sabbie-agglomerante",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-sabbie-assorbente-products.json",
+      "totalProducts": 27,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-sabbie-assorbente",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-sabbie-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-sabbie",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-sabbie-silicio-products.json",
+      "totalProducts": 11,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-sabbie-silicio",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-sabbie-vegetale-products.json",
+      "totalProducts": 29,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-sabbie-vegetale",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-snack-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-snack",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-tiragraffi-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-tiragraffi",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-toilette-e-accessori-palette-products.json",
+      "totalProducts": 14,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-toilette-e-accessori-palette",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-toilette-e-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-toilette-e-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-toilette-e-accessori-sacchetti-toilette-products.json",
+      "totalProducts": 12,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-toilette-e-accessori-sacchetti-toilette",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-toilette-e-accessori-tappetini-toilette-products.json",
+      "totalProducts": 10,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-toilette-e-accessori-tappetini-toilette",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-toilette-e-accessori-toilette-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-toilette-e-accessori-toilette",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "gatto-trasportini-products.json",
+      "totalProducts": 33,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "gatto-trasportini",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-pesci-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-pesci-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-pesci-mangime-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-pesci-mangime",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-pesci-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-pesci",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-rettili-accessori-products.json",
+      "totalProducts": 9,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-rettili-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-rettili-products.json",
+      "totalProducts": 9,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-rettili",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-antiparassitari-e-curativi-antiparassitari-products.json",
+      "totalProducts": 1,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-antiparassitari-e-curativi-antiparassitari",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-fieno-products.json",
+      "totalProducts": 37,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-fieno",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-igiene-products.json",
+      "totalProducts": 7,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-igiene",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-lettiere-products.json",
+      "totalProducts": 36,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-lettiere",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-mangime-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-mangime",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-roditori-snack-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-roditori-snack",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-tartarughe-accessori-products.json",
+      "totalProducts": 7,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-tartarughe-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-tartarughe-antiparassitari-e-curativi-products.json",
+      "totalProducts": 6,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-tartarughe-antiparassitari-e-curativi",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-tartarughe-mangime-products.json",
+      "totalProducts": 21,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-tartarughe-mangime",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-tartarughe-products.json",
+      "totalProducts": 34,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-tartarughe",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-accessori-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-accessori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-antiparassitari-e-curativi-antiparassitari-products.json",
+      "totalProducts": 1,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-antiparassitari-e-curativi-antiparassitari",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-antiparassitari-e-curativi-integratori-products.json",
+      "totalProducts": 2,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-antiparassitari-e-curativi-integratori",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-mangime-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-mangime",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-sabbie-products.json",
+      "totalProducts": 4,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-sabbie",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    },
+    {
+      "file": "piccoli-animali-uccelli-snack-products.json",
+      "totalProducts": 40,
+      "productsWithErrors": 0,
+      "productsWithWarnings": 0,
+      "category": "piccoli-animali-uccelli-snack",
+      "hasErrors": false,
+      "hasWarnings": false,
+      "exampleIssues": []
+    }
+  ]
+}

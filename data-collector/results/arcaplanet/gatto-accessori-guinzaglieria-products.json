@@ -1,0 +1,4039 @@
+[
+  {
+    "id": "1937",
+    "sku": "1937",
+    "gtin": "10063356",
+    "title": "Collare Papillon per Gatto",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-papillon-gatto-collare-1937/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262494/croci-collare-papillon.jpg?v=637672336004800000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "1937",
+        "sku": "1937",
+        "gtin": "10063356",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-papillon-gatto-collare-1937/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "croci-papillon-gatto-collare-1937p",
+        "name": "Collare Papillon per Gatto",
+        "path": "/croci-papillon-gatto-collare-1937/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1866",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "2626",
+    "sku": "2626",
+    "gtin": "10118565",
+    "title": "Camon Parure Gatti Grandi",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gatto-parure-gatti-grandi-2626/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276991/camon-parure-gatti-grandi.jpg?v=638041269996500000"
+    ],
+    "price": {
+      "current": 5.5,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 275,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2626",
+        "sku": "2626",
+        "gtin": "10118565",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gatto-parure-gatti-grandi-2626/p",
+        "price": {
+          "current": 5.5,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 275,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "camon-gatto-parure-gatti-grandi-2626p",
+        "name": "Camon Parure Gatti Grandi",
+        "path": "/camon-gatto-parure-gatti-grandi-2626/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "2544",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "4946",
+    "sku": "4946",
+    "gtin": "10108452",
+    "title": "Parure Gatto Glow in the Dark",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-parure-gatto-glow-in-the-dark-10x1200-mm-4946/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276776/camon-parure-gatto-glow-in-the-dark-rosso.jpg?v=638037621753730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276777/camon-parure-gatto-glow-in-the-dark-blu.jpg?v=638037621846600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276778/camon-parure-gatto-glow-in-the-dark-nero.jpg?v=638037621971830000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 524.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4946",
+        "sku": "4946",
+        "gtin": "10108452",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-parure-gatto-glow-in-the-dark-10x1200-mm-4946/p",
+        "price": {
+          "current": 10.49,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 524.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "camon-parure-gatto-glow-in-the-dark-10x1200-mm-4946p",
+        "name": "Parure Gatto Glow in the Dark",
+        "path": "/camon-parure-gatto-glow-in-the-dark-10x1200-mm-4946/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4827",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "148",
+    "sku": "148",
+    "gtin": "10129177",
+    "title": "Collare Gatto Majesty Lovedì Arancione",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-arancione-148/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259282/10129177-LOVEDI-COLLARE-GATTO-MAJESTY-ARANCIO.jpg?v=637604654139330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259283/LOVEDI-CAT-COLLARI-MAJESTY.jpg?v=637604654226600000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "148",
+        "sku": "148",
+        "gtin": "10129177",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-arancione-148/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-gatto-majesty-lovedi-arancione-148p",
+        "name": "Collare Gatto Majesty Lovedì Arancione",
+        "path": "/collare-gatto-majesty-lovedi-arancione-148/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13770",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "149",
+    "sku": "149",
+    "gtin": "10129178",
+    "title": "Collare Gatto Majesty Lovedì Nero",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-nero-149/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259284/10129178-LOVEDI-COLLARE-GATTO-MAJESTY-NERO.jpg?v=637604654418630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259285/LOVEDI-CAT-COLLARI-MAJESTY.jpg?v=637604654489030000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "149",
+        "sku": "149",
+        "gtin": "10129178",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-nero-149/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-gatto-majesty-lovedi-nero-149p",
+        "name": "Collare Gatto Majesty Lovedì Nero",
+        "path": "/collare-gatto-majesty-lovedi-nero-149/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13771",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "150",
+    "sku": "150",
+    "gtin": "10129179",
+    "title": "Collare Gatto Majesty Lovedì Rosso",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-rosso-150/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259198/collare-gatto-majesty-rosso.jpg?v=637602007670230000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "150",
+        "sku": "150",
+        "gtin": "10129179",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/collare-gatto-majesty-lovedi-rosso-150/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-gatto-majesty-lovedi-rosso-150p",
+        "name": "Collare Gatto Majesty Lovedì Rosso",
+        "path": "/collare-gatto-majesty-lovedi-rosso-150/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13772",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13170",
+    "sku": "13170",
+    "gtin": "10139071",
+    "title": "Pettorina con Guinzaglio Arancione",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-arancione-13170/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256772/zolux-pettorina-guinzaglio-gatto-arancione.jpg?v=637571121874530000"
+    ],
+    "price": {
+      "current": 7,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 350,
+        "unit": "none"
+      },
+      "discountPercentage": 51
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13170",
+        "sku": "13170",
+        "gtin": "10139071",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-arancione-13170/p",
+        "price": {
+          "current": 7,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 350,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-arancione-13170p",
+        "name": "Pettorina con Guinzaglio Arancione",
+        "path": "/pettorina-con-guinzaglio-gatto-arancione-13170/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15307",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13171",
+    "sku": "13171",
+    "gtin": "10139070",
+    "title": "Pettorina con Guinzaglio Nera",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-nera-13171/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256773/zolux-pettorina-guinzaglio-gatto-nero.jpg?v=637571122327870000"
+    ],
+    "price": {
+      "current": 14.19,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 709.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13171",
+        "sku": "13171",
+        "gtin": "10139070",
+        "title": "NERA",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-nera-13171/p",
+        "price": {
+          "current": 14.19,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 709.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-nera-13171p",
+        "name": "Pettorina con Guinzaglio Nera",
+        "path": "/pettorina-con-guinzaglio-gatto-nera-13171/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15308",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13172",
+    "sku": "13172",
+    "gtin": "10139069",
+    "title": "Pettorina con Guinzaglio Blu",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-blu-13172/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256782/zolux-pettorina-guinzaglio-gatto-blu.jpg?v=637571154435630000"
+    ],
+    "price": {
+      "current": 14.19,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 709.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13172",
+        "sku": "13172",
+        "gtin": "10139069",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-blu-13172/p",
+        "price": {
+          "current": 14.19,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 709.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BLU"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-blu-13172p",
+        "name": "Pettorina con Guinzaglio Blu",
+        "path": "/pettorina-con-guinzaglio-gatto-blu-13172/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15309",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13173",
+    "sku": "13173",
+    "gtin": "10139072",
+    "title": "Pettorina con Guinzaglio Rossa",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-rossa-13173/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256788/zolux-pettorina-guinzaglio-gatto-rossa.jpg?v=637571177525070000"
+    ],
+    "price": {
+      "current": 14.19,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 709.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13173",
+        "sku": "13173",
+        "gtin": "10139072",
+        "title": "ROSSA",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-rossa-13173/p",
+        "price": {
+          "current": 14.19,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 709.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-rossa-13173p",
+        "name": "Pettorina con Guinzaglio Rossa",
+        "path": "/pettorina-con-guinzaglio-gatto-rossa-13173/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15310",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13174",
+    "sku": "13174",
+    "gtin": "10139074",
+    "title": "Pettorina con Guinzaglio Verde",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-verde-13174/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256790/zolux-pettorina-guinzaglio-gatto-verde.jpg?v=637571194157730000"
+    ],
+    "price": {
+      "current": 14.19,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 709.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13174",
+        "sku": "13174",
+        "gtin": "10139074",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-verde-13174/p",
+        "price": {
+          "current": 14.19,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 709.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "VERDE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-verde-13174p",
+        "name": "Pettorina con Guinzaglio Verde",
+        "path": "/pettorina-con-guinzaglio-gatto-verde-13174/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15311",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "13175",
+    "sku": "13175",
+    "gtin": "10139073",
+    "title": "Pettorina con Guinzaglio Rosa",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-rosa-13175/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256789/zolux-pettorina-guinzaglio-gatto-rosa.jpg?v=637571181689530000"
+    ],
+    "price": {
+      "current": 14.19,
+      "original": 14.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 709.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13175",
+        "sku": "13175",
+        "gtin": "10139073",
+        "title": "ROSA",
+        "url": "https://www.arcaplanet.it/pettorina-con-guinzaglio-gatto-rosa-13175/p",
+        "price": {
+          "current": 14.19,
+          "original": 14.19,
+          "pricePerUnit": {
+            "value": 709.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pettorina-con-guinzaglio-gatto-rosa-13175p",
+        "name": "Pettorina con Guinzaglio Rosa",
+        "path": "/pettorina-con-guinzaglio-gatto-rosa-13175/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15312",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "16246",
+    "sku": "16246",
+    "gtin": "10155694",
+    "title": "Parure Gatti Grandi",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/parure-gatti-grandi-16246/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277184/DG005-D.jfif.jpg?v=638042949862370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277185/DG005-D_pack.jfif.jpg?v=638042949949330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277186/DG005-D_pack1.jfif.jpg?v=638042950033000000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16246",
+        "sku": "16246",
+        "gtin": "10155694",
+        "title": "1.5x120CM",
+        "url": "https://www.arcaplanet.it/parure-gatti-grandi-16246/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "parure-gatti-grandi-16246p",
+        "name": "Parure Gatti Grandi",
+        "path": "/parure-gatti-grandi-16246/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18383",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "16247",
+    "sku": "16247",
+    "gtin": "10155695",
+    "title": "Parure Gatti Strass",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/parure-gatti-strass-16247/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277187/DG019--1-.jpg?v=638042954455800000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16247",
+        "sku": "16247",
+        "gtin": "10155695",
+        "title": "1x140CM",
+        "url": "https://www.arcaplanet.it/parure-gatti-strass-16247/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "parure-gatti-strass-16247p",
+        "name": "Parure Gatti Strass",
+        "path": "/parure-gatti-strass-16247/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "18384",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "16248",
+    "sku": "16248",
+    "gtin": "10071230",
+    "title": "Collare Gatto Nylon Riflettente",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/collare-gatto-nylon-riflettente-16248/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277172/DG007--1-.jpg?v=638042891197800000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16248",
+        "sku": "16248",
+        "gtin": "10071230",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/collare-gatto-nylon-riflettente-16248/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-gatto-nylon-riflettente-16248p",
+        "name": "Collare Gatto Nylon Riflettente",
+        "path": "/collare-gatto-nylon-riflettente-16248/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18385",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "16249",
+    "sku": "16249",
+    "gtin": "10155696",
+    "title": "Collare Gatto Nylon",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/collare-gatto-nylon-16249/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277169/DG051.jfif.jpg?v=638042885642900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277170/DG051_part.jpg?v=638042885718700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277171/DG051_part1.jfif.jpg?v=638042885781270000"
+    ],
+    "price": {
+      "current": 2.85,
+      "original": 2.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 142.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16249",
+        "sku": "16249",
+        "gtin": "10155696",
+        "title": "30CM",
+        "url": "https://www.arcaplanet.it/collare-gatto-nylon-16249/p",
+        "price": {
+          "current": 2.85,
+          "original": 2.85,
+          "pricePerUnit": {
+            "value": 142.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-gatto-nylon-16249p",
+        "name": "Collare Gatto Nylon",
+        "path": "/collare-gatto-nylon-16249/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18386",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18816",
+    "sku": "18816",
+    "gtin": "10150615",
+    "title": "Guinzaglio Rosso Gatto",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/guinzaglio-rosso-gatto-18816/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285865/1292350_1293161.jpg?v=638199926793630000"
+    ],
+    "price": {
+      "current": 6.71,
+      "original": 8.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 335.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18816",
+        "sku": "18816",
+        "gtin": "10150615",
+        "title": "S-M",
+        "url": "https://www.arcaplanet.it/guinzaglio-rosso-gatto-18816/p",
+        "price": {
+          "current": 6.71,
+          "original": 8.95,
+          "pricePerUnit": {
+            "value": 335.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S-M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "guinzaglio-rosso-gatto-18816p",
+        "name": "Guinzaglio Rosso Gatto",
+        "path": "/guinzaglio-rosso-gatto-18816/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20926",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18418",
+    "sku": "18418",
+    "gtin": "10150648",
+    "title": "Anione Collare per Gattini",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-collare-per-gattini-18418/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284735/cc08f558936344ba73cbfb21085abee170ef7803_2174329667ef36d9cbca5f71b267eb4a229c8808--1-.jpg?v=638186277192500000"
+    ],
+    "price": {
+      "current": 2.09,
+      "original": 2.09,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 104.49999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18418",
+        "sku": "18418",
+        "gtin": "10150648",
+        "title": "LILLA",
+        "url": "https://www.arcaplanet.it/anione-collare-per-gattini-18418/p",
+        "price": {
+          "current": 2.09,
+          "original": 2.09,
+          "pricePerUnit": {
+            "value": 104.49999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "anione-collare-per-gattini-18418p",
+        "name": "Anione Collare per Gattini",
+        "path": "/anione-collare-per-gattini-18418/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20946",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18830",
+    "sku": "18830",
+    "gtin": "10150653",
+    "title": "More Collare con Strass per Gatto 19-30CM",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-collare-con-strass-per-gatto-19-30cm-18830/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317935/more-collare-con-strass-per-gatto-19-30cm-10150653.jpg.jpg?v=638766069234300000"
+    ],
+    "price": {
+      "current": 5.65,
+      "original": 5.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 282.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18830",
+        "sku": "18830",
+        "gtin": "10150653",
+        "title": "BEIGE",
+        "url": "https://www.arcaplanet.it/more-collare-con-strass-per-gatto-19-30cm-18830/p",
+        "price": {
+          "current": 5.65,
+          "original": 5.65,
+          "pricePerUnit": {
+            "value": 282.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "more-collare-con-strass-per-gatto-19-30cm-18830p",
+        "name": "More Collare con Strass per Gatto 19-30CM",
+        "path": "/more-collare-con-strass-per-gatto-19-30cm-18830/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20948",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18839",
+    "sku": "18839",
+    "gtin": "10150650",
+    "title": "Anione Collare Riflettente con Cuori per Gatto",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-collare-per-gatti-riflettente-con-cuori-18839/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284721/e81ec32c54f1e113503462c0b7d13e1d1678333f_55c361374db6188f372ffe562b95c85f112b275c--1-.jpg?v=638186191932430000"
+    ],
+    "price": {
+      "current": 1.55,
+      "original": 3.09,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 77.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18839",
+        "sku": "18839",
+        "gtin": "10150650",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-collare-per-gatti-riflettente-con-cuori-18839/p",
+        "price": {
+          "current": 1.55,
+          "original": 3.09,
+          "pricePerUnit": {
+            "value": 77.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "anione-collare-per-gatti-riflettente-con-cuori-18839p",
+        "name": "Anione Collare Riflettente con Cuori per Gatto",
+        "path": "/anione-collare-per-gatti-riflettente-con-cuori-18839/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20957",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18840",
+    "sku": "18840",
+    "gtin": "10150642",
+    "title": "More Guinzaglio per Gatto Marrone",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-guinzaglio-per-gatto-marrone-18840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284596/bb98a9715fbaebff652de04cf47728e58cd46495_b6c467ee5cc05d3216563cb0ba84e97194d2da29--1-.jpg?v=638182720518570000"
+    ],
+    "price": {
+      "current": 14.79,
+      "original": 14.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 739.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18840",
+        "sku": "18840",
+        "gtin": "10150642",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/more-guinzaglio-per-gatto-marrone-18840/p",
+        "price": {
+          "current": 14.79,
+          "original": 14.79,
+          "pricePerUnit": {
+            "value": 739.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "Color": "MARRONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "more-guinzaglio-per-gatto-marrone-18840p",
+        "name": "More Guinzaglio per Gatto Marrone",
+        "path": "/more-guinzaglio-per-gatto-marrone-18840/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20958",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18741",
+    "sku": "18741",
+    "gtin": "10150656",
+    "title": "More Collare in Feltro per Gatto 19-30CM",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-collare-in-feltro-per-gatto-19-30cm-18741/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285158/e94f9c8fda70b35c67519a0e3e2fc80eae2b8e2c_c7ce6c7492134001f893a9bb83a3d480605d0b41--1-.jpg?v=638193145609430000"
+    ],
+    "price": {
+      "current": 2.75,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 137.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18741",
+        "sku": "18741",
+        "gtin": "10150656",
+        "title": "BEIGE",
+        "url": "https://www.arcaplanet.it/more-collare-in-feltro-per-gatto-19-30cm-18741/p",
+        "price": {
+          "current": 2.75,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 137.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "more-collare-in-feltro-per-gatto-19-30cm-18741p",
+        "name": "More Collare in Feltro per Gatto 19-30CM",
+        "path": "/more-collare-in-feltro-per-gatto-19-30cm-18741/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20962",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18826",
+    "sku": "18826",
+    "gtin": "10150644",
+    "title": "Anione Collare per Gatto",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-collare-per-gatto-18826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284725/6e58f329f07c2c35d9227b1b52e214da9f5afe6c_c57656b19cf93d18985b7212c48b1074a3d05560--1-.jpg?v=638186195292230000"
+    ],
+    "price": {
+      "current": 2.59,
+      "original": 2.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 129.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18826",
+        "sku": "18826",
+        "gtin": "10150644",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/anione-collare-per-gatto-18826/p",
+        "price": {
+          "current": 2.59,
+          "original": 2.59,
+          "pricePerUnit": {
+            "value": 129.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "anione-collare-per-gatto-18826p",
+        "name": "Anione Collare per Gatto",
+        "path": "/anione-collare-per-gatto-18826/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20963",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "18846",
+    "sku": "18846",
+    "gtin": "10150640",
+    "title": "More Guinzaglio in Ecopelle per Gatto",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-guinzaglio-in-ecopelle-per-gatto-18846/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286487/d5750dd7800ac450c124c770af33747fa7c1b9a3_8439f8c6fd7980fad1d82d8f2c5a0a6dbf797db7--1-.jpg?v=638209621286400000"
+    ],
+    "price": {
+      "current": 11.09,
+      "original": 14.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 554.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18846",
+        "sku": "18846",
+        "gtin": "10150640",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/more-guinzaglio-in-ecopelle-per-gatto-18846/p",
+        "price": {
+          "current": 11.09,
+          "original": 14.79,
+          "pricePerUnit": {
+            "value": 554.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "more-guinzaglio-in-ecopelle-per-gatto-18846p",
+        "name": "More Guinzaglio in Ecopelle per Gatto",
+        "path": "/more-guinzaglio-in-ecopelle-per-gatto-18846/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20964",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "19103",
+    "sku": "19103",
+    "gtin": "10150658",
+    "title": "Anione Pendente in Argento Cromato",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pendente-in-argento-cromato-19103/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284728/1293199-416x358--1-.jpg?v=638186199793570000"
+    ],
+    "price": {
+      "current": 2.3,
+      "original": 2.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 114.99999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19103",
+        "sku": "19103",
+        "gtin": "10150658",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-pendente-in-argento-cromato-19103/p",
+        "price": {
+          "current": 2.3,
+          "original": 2.55,
+          "pricePerUnit": {
+            "value": 114.99999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "anione-pendente-in-argento-cromato-19103p",
+        "name": "Anione Pendente in Argento Cromato",
+        "path": "/anione-pendente-in-argento-cromato-19103/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21221",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "19118",
+    "sku": "19118",
+    "gtin": "10150657",
+    "title": "Anione Campanellino Argentato",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-campanellino-argentato-19118/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284727/d35c8d96240f4562a850b4845f4a06cdb197ce1d_45beceb3160affc1821549524324a4a62d318199--1-.jpg?v=638186197548130000"
+    ],
+    "price": {
+      "current": 1.57,
+      "original": 2.09,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 78.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19118",
+        "sku": "19118",
+        "gtin": "10150657",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-campanellino-argentato-19118/p",
+        "price": {
+          "current": 1.57,
+          "original": 2.09,
+          "pricePerUnit": {
+            "value": 78.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "anione-campanellino-argentato-19118p",
+        "name": "Anione Campanellino Argentato",
+        "path": "/anione-campanellino-argentato-19118/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21236",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "23218",
+    "sku": "23218",
+    "gtin": "10173144",
+    "title": "Kippy GPS per Gatto",
+    "brand": "KIPPY",
+    "url": "https://www.arcaplanet.it/kippy-cat-collare-gps-23218/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297476/kippy-cat-collare-gps-10173144--1-.jpg?v=638471278866500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297477/kippy-cat-collare-gps-10173144--2-.jpg?v=638471279675800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297478/kippy-cat-collare-gps-10173144--3-.jpg?v=638471279940670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297479/kippy-cat-collare-gps-10173144--4-.jpg?v=638471280211000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297480/kippy-cat-collare-gps-10173144--5-.jpg?v=638471280390900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297481/kippy-cat-collare-gps-10173144--6-.jpg?v=638471280501630000"
+    ],
+    "price": {
+      "current": 69.99,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3499.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "23218",
+        "sku": "23218",
+        "gtin": "10173144",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/kippy-cat-collare-gps-23218/p",
+        "price": {
+          "current": 69.99,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 3499.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriagps",
+        "name": "GPS",
+        "path": "/gatto/accessori/guinzaglieria/gps/",
+        "level": 5
+      },
+      {
+        "id": "kippy-cat-collare-gps-23218p",
+        "name": "Kippy GPS per Gatto",
+        "path": "/kippy-cat-collare-gps-23218/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25227",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25465",
+    "sku": "25465",
+    "gtin": "10177217",
+    "title": "Lovedì Parure per Gatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-25465/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314198/lovedi-parure-per-gatti-10177217--1-.jpg?v=638723619624600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314199/lovedi-parure-per-gatti-10177217--2-.jpg?v=638723619697330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314200/lovedi-parure-per-gatti-10177217--3-.jpg?v=638723619786070000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25465",
+        "sku": "25465",
+        "gtin": "10177217",
+        "title": "15x1200MM",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-25465/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-gatto-25465p",
+        "name": "Lovedì Parure per Gatto",
+        "path": "/lovedi-parure-per-gatto-25465/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27476",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25466",
+    "sku": "25466",
+    "gtin": "10177218",
+    "title": "Lovedì Parure per Gatto Adulto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-25466/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314216/lovedi-parure-per-gatto-adulto-10177218--1-.jpg?v=638723628810170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314217/lovedi-parure-per-gatto-adulto-10177218--2-.jpg?v=638723628884500000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25466",
+        "sku": "25466",
+        "gtin": "10177218",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-25466/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-gatto-adulto-25466p",
+        "name": "Lovedì Parure per Gatto Adulto",
+        "path": "/lovedi-parure-per-gatto-adulto-25466/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27477",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25469",
+    "sku": "25469",
+    "gtin": "10177221",
+    "title": "Lovedì Parure per Gatto Adulto Reflective",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-reflective-25469/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314269/lovedi-parure-per-gatto-adulto-reflective-10177221--1-.jpg?v=638723733234470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314270/lovedi-parure-per-gatto-adulto-reflective-10177221--2-.jpg?v=638723733349970000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25469",
+        "sku": "25469",
+        "gtin": "10177221",
+        "title": "10x1200MM",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-reflective-25469/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-gatto-adulto-reflective-25469p",
+        "name": "Lovedì Parure per Gatto Adulto Reflective",
+        "path": "/lovedi-parure-per-gatto-adulto-reflective-25469/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27480",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25470",
+    "sku": "25470",
+    "gtin": "10177222",
+    "title": "Lovedì Parure per Gatto Adulto Nylon",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-nylon-25470/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314296/lovedi-parure-per-gatto-adulto-nylon-10177222--1-.jpg?v=638723770716830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314297/lovedi-parure-per-gatto-adulto-nylon-10177222--2-.jpg?v=638723770800630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314298/lovedi-parure-per-gatto-adulto-nylon-10177222--3-.jpg?v=638723770892830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314299/lovedi-parure-per-gatto-adulto-nylon-10177222--4-.jpg?v=638723770999530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314300/lovedi-parure-per-gatto-adulto-nylon-10177222--5-.jpg?v=638723771209000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314301/lovedi-parure-per-gatto-adulto-nylon-10177222--6-.jpg?v=638723771304230000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25470",
+        "sku": "25470",
+        "gtin": "10177222",
+        "title": "10x1200MM",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-gatto-adulto-nylon-25470/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-gatto-adulto-nylon-25470p",
+        "name": "Lovedì Parure per Gatto Adulto Nylon",
+        "path": "/lovedi-parure-per-gatto-adulto-nylon-25470/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27481",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25471",
+    "sku": "25471",
+    "gtin": "10177223",
+    "title": "Lovedì Parure per Kitten Nylon",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-kitten-nylon-25471/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314280/lovedi-parure-per-kitten-nylon-10177223--1-.jpg?v=638723764157000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314281/lovedi-parure-per-kitten-nylon-10177223--2-.jpg?v=638723764232030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314282/lovedi-parure-per-kitten-nylon-10177223--3-.jpg?v=638723764307600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314283/lovedi-parure-per-kitten-nylon-10177223--4-.jpg?v=638723764389170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314284/lovedi-parure-per-kitten-nylon-10177223--5-.jpg?v=638723764488600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314285/lovedi-parure-per-kitten-nylon-10177223--6-.jpg?v=638723764649670000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25471",
+        "sku": "25471",
+        "gtin": "10177223",
+        "title": "MIX COLOR 1",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-kitten-nylon-25471/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-kitten-nylon-25471p",
+        "name": "Lovedì Parure per Kitten Nylon",
+        "path": "/lovedi-parure-per-kitten-nylon-25471/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27482",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25473",
+    "sku": "25473",
+    "gtin": "10177225",
+    "title": "Lovedì Parure per Kitten Reflective",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-parure-per-kitten-reflective-25473/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314271/lovedi-parure-per-kitten-reflective-10177225--1-.jpg?v=638723738234130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314272/lovedi-parure-per-kitten-reflective-10177225--2-.jpg?v=638723738429800000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25473",
+        "sku": "25473",
+        "gtin": "10177225",
+        "title": "8x1200MM",
+        "url": "https://www.arcaplanet.it/lovedi-parure-per-kitten-reflective-25473/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/gatto/accessori/guinzaglieria/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-parure-per-kitten-reflective-25473p",
+        "name": "Lovedì Parure per Kitten Reflective",
+        "path": "/lovedi-parure-per-kitten-reflective-25473/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27484",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25475",
+    "sku": "25475",
+    "gtin": "10177227",
+    "title": "Lovedì Collare per Gatto in Semipelle",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-in-semipelle-25475/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314313/lovedi-collare-per-gatto-in-semipelle-10177227--1-.jpg?v=638725286670230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314314/lovedi-collare-per-gatto-in-semipelle-10177227--2-.jpg?v=638725286946300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314315/lovedi-collare-per-gatto-in-semipelle-10177227--3-.jpg?v=638725287024870000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25475",
+        "sku": "25475",
+        "gtin": "10177227",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-in-semipelle-25475/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-collare-per-gatto-in-semipelle-25475p",
+        "name": "Lovedì Collare per Gatto in Semipelle",
+        "path": "/lovedi-collare-per-gatto-in-semipelle-25475/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25476",
+    "sku": "25476",
+    "gtin": "10177228",
+    "title": "Lovedì Collare per Gatto Reflective",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-reflective-25476/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314316/lovedi-collare-per-gatto-reflective-10177228--1-.jpg?v=638725299676330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314317/lovedi-collare-per-gatto-reflective-10177228--2-.jpg?v=638725299746770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314318/lovedi-collare-per-gatto-reflective-10177228--3-.jpg?v=638725299874700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314319/lovedi-collare-per-gatto-reflective-10177228--4-.jpg?v=638725300111830000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25476",
+        "sku": "25476",
+        "gtin": "10177228",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-reflective-25476/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-collare-per-gatto-reflective-25476p",
+        "name": "Lovedì Collare per Gatto Reflective",
+        "path": "/lovedi-collare-per-gatto-reflective-25476/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27487",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25477",
+    "sku": "25477",
+    "gtin": "10177229",
+    "title": "Lovedì Collare per Gatto Sgancio Rapido con Scritte",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-25477/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314320/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-10177229--1-.jpg?v=638725303005870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314321/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-10177229--2-.jpg?v=638725303136900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314322/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-10177229--3-.jpg?v=638725304301930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314323/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-10177229--4-.jpg?v=638725304482730000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25477",
+        "sku": "25477",
+        "gtin": "10177229",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-25477/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-collare-per-gatto-sgancio-rapido-con-scritte-25477p",
+        "name": "Lovedì Collare per Gatto Sgancio Rapido con Scritte",
+        "path": "/lovedi-collare-per-gatto-sgancio-rapido-con-scritte-25477/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27488",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25478",
+    "sku": "25478",
+    "gtin": "10177230",
+    "title": "Lovedì Collare per Gatto Sgancio Rapido Reflective",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-sgancio-rapido-reflective-25478/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314324/lovedi-collare-per-gatto-sgancio-rapido-reflective-10177230--1-.jpg?v=638725306822930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314325/lovedi-collare-per-gatto-sgancio-rapido-reflective-10177230--2-.jpg?v=638725307012100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314326/lovedi-collare-per-gatto-sgancio-rapido-reflective-10177230--3-.jpg?v=638725307081800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314327/lovedi-collare-per-gatto-sgancio-rapido-reflective-10177230--4-.jpg?v=638725307538400000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 374.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25478",
+        "sku": "25478",
+        "gtin": "10177230",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-sgancio-rapido-reflective-25478/p",
+        "price": {
+          "current": 7.49,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 374.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-collare-per-gatto-sgancio-rapido-reflective-25478p",
+        "name": "Lovedì Collare per Gatto Sgancio Rapido Reflective",
+        "path": "/lovedi-collare-per-gatto-sgancio-rapido-reflective-25478/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27489",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25479",
+    "sku": "25479",
+    "gtin": "10177231",
+    "title": "Lovedì Collare per Gatto con Fibbia a Scatto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-con-fibbia-a-scatto-25479/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314328/lovedi-collare-per-gatto-con-fibbia-a-scatto-10177231--1-.jpg?v=638725318911230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314329/lovedi-collare-per-gatto-con-fibbia-a-scatto-10177231--2-.jpg?v=638725319459470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314330/lovedi-collare-per-gatto-con-fibbia-a-scatto-10177231--3-.jpg?v=638725319930530000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 374.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25479",
+        "sku": "25479",
+        "gtin": "10177231",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-collare-per-gatto-con-fibbia-a-scatto-25479/p",
+        "price": {
+          "current": 7.49,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 374.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-collare-per-gatto-con-fibbia-a-scatto-25479p",
+        "name": "Lovedì Collare per Gatto con Fibbia a Scatto",
+        "path": "/lovedi-collare-per-gatto-con-fibbia-a-scatto-25479/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27490",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25830",
+    "sku": "25830",
+    "gtin": "10177359",
+    "title": "AniOne Pettorina con Guinzaglio per Gattino",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pettorina-con-guinzaglio-per-gattino-25830/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314381/anione-pettorina-con-guinzaglio-per-gattino-10177359--1-.jpg?v=638726137714670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314382/anione-pettorina-con-guinzaglio-per-gattino-10177359--2-.jpg?v=638726137792670000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25830",
+        "sku": "25830",
+        "gtin": "10177359",
+        "title": "ALBICOCCA",
+        "url": "https://www.arcaplanet.it/anione-pettorina-con-guinzaglio-per-gattino-25830/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "anione-pettorina-con-guinzaglio-per-gattino-25830p",
+        "name": "AniOne Pettorina con Guinzaglio per Gattino",
+        "path": "/anione-pettorina-con-guinzaglio-per-gattino-25830/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27821",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  },
+  {
+    "id": "25836",
+    "sku": "25836",
+    "gtin": "10177350",
+    "title": "AniOne Ciotola Ceramica Verde",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-ceramica-verde-25836/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314388/anione-ciotola-ceramica-verde-10177350--1-.jpg?v=638726175187230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314389/anione-ciotola-ceramica-verde-10177350--2-.jpg?v=638726175320330000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25836",
+        "sku": "25836",
+        "gtin": "10177350",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-ceramica-verde-25836/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/gatto/accessori/guinzaglieria/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/gatto/accessori/guinzaglieria/collari/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-ceramica-verde-25836p",
+        "name": "AniOne Ciotola Ceramica Verde",
+        "path": "/anione-ciotola-ceramica-verde-25836/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27827",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:48:38.352Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/guinzaglieria/"
+  }
+]

@@ -1,0 +1,3666 @@
+[
+  {
+    "id": "615",
+    "sku": "615",
+    "gtin": "10130157",
+    "title": "Royal Canin V-Diet Renal Multipack Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-multipack-1-2kg-615/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288293/_0008_C-REN-CIG-PACKSHOT-POUCH100-B1-VETVITW19.jpg?v=638242488433070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253044/v-diet-oyal-cane-renal-pate.jpg?v=637498434259870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292308/post-smaltimento-rc-10130157.jpg?v=638368681974370000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.241666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "615",
+        "sku": "615",
+        "gtin": "10130157",
+        "title": "12x100G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-multipack-1-2kg-615/p",
+        "price": {
+          "current": 13.49,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 11.241666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-renal-multipack-1-2kg-615p",
+        "name": "Royal Canin V-Diet Renal Multipack Cane",
+        "path": "/royal-canin-veterinary-diet-cane-renal-multipack-1-2kg-615/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "573",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.262Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "3812",
+    "sku": "3812",
+    "gtin": "10129460",
+    "title": "Monge Vetsolution Gatrointestinal Vaschetta",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-vetsolution-cane-gatrointestinal-vaschetta-150g-3812/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207840/Monge-Vet-Cane-Gastrointestinal-150g.jpg?v=637413962686200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/211615/https---www.arcaplanet.it-vtex-images-10129460_1.jpg?v=637447287019330000"
+    ],
+    "price": {
+      "current": 1.8,
+      "original": 1.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3812",
+        "sku": "3812",
+        "gtin": "10129460",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/monge-vetsolution-cane-gatrointestinal-vaschetta-150g-3812/p",
+        "price": {
+          "current": 1.8,
+          "original": 1.8,
+          "pricePerUnit": {
+            "value": 12,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-vetsolution-cane-gatrointestinal-vaschetta-150g-3812p",
+        "name": "Monge Vetsolution Gatrointestinal Vaschetta",
+        "path": "/monge-vetsolution-cane-gatrointestinal-vaschetta-150g-3812/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3715",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.262Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "4499",
+    "sku": "4499",
+    "gtin": "10111919",
+    "title": "Royal Canin V-Diet Urinary S/O Multipack",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-multipack-1-2kg-4499/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288270/_0004_DOG_URI-SIG_POUCH.jpg?v=638242469968500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292337/post-smaltimento-rc-10111919.jpg?v=638368699943370000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.325000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4499",
+        "sku": "4499",
+        "gtin": "10111919",
+        "title": "12X100G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-multipack-1-2kg-4499/p",
+        "price": {
+          "current": 15.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 13.325000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-urinary-multipack-1-2kg-4499p",
+        "name": "Royal Canin V-Diet Urinary S/O Multipack",
+        "path": "/royal-canin-veterinary-diet-cane-urinary-multipack-1-2kg-4499/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4387",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.262Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5388",
+    "sku": "5388",
+    "gtin": "10112055",
+    "title": "Hill's Prescription Diet k/d Kidney Care Spezzatino per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-k-d-pollo-e-verdura-354g-5388/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300706/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--1-.jpg?v=638507541211830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300708/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--2-.jpg?v=638507541302770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300710/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--3-.jpg?v=638507541381230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300711/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--4-.jpg?v=638507541465700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300712/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--5-.jpg?v=638507541569030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300713/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--6-.jpg?v=638507541753600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300714/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--7-.jpg?v=638507541859370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300715/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--8-.jpg?v=638507541953030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300716/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--9-.jpg?v=638507542395700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300717/hill-s-prescription-diet-k-d-kidney-care-spezzatino-per-cani-10112055--10-.jpg?v=638507542483170000"
+    ],
+    "price": {
+      "current": 4.79,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.685714285714287,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5388",
+        "sku": "5388",
+        "gtin": "10112055",
+        "title": "354G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-k-d-pollo-e-verdura-354g-5388/p",
+        "price": {
+          "current": 4.79,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 13.685714285714287,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "354G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-k-d-pollo-e-verdura-354g-5388p",
+        "name": "Hill's Prescription Diet k/d Kidney Care Spezzatino per Cani",
+        "path": "/hills-prescription-diet-cane-k-d-pollo-e-verdura-354g-5388/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5252",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5402",
+    "sku": "5402",
+    "gtin": "10112057",
+    "title": "Hill's Prescription Diet  Metabolic Spezzatino per Cani Aromatizzato",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-pollo-e-verdura-354g-5402/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268787/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-pack.jpg?v=637819190053330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268788/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-transizione.jpg?v=637819190223400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268789/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-gestione-peso.jpg?v=637819190352100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268790/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-razione.jpg?v=637819190502630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268791/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-somministrazione.jpg?v=637819190630570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268792/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-ingredienti.jpg?v=637819190769570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268793/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-cibo.jpg?v=637819190895370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268794/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-come-aiuta.jpg?v=637819191015970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268795/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-come-funziona.jpg?v=637819191131300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268796/hills-prescription-diet-metabolic-spezzatino-cani-aromatizzato-pollo-verdure-benefici.jpg?v=637819191269600000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 4.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.400000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5402",
+        "sku": "5402",
+        "gtin": "10112057",
+        "title": "354G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-pollo-e-verdura-354g-5402/p",
+        "price": {
+          "current": 3.99,
+          "original": 4.69,
+          "pricePerUnit": {
+            "value": 11.400000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "354G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-metabolic-pollo-e-verdura-354g-5402p",
+        "name": "Hill's Prescription Diet  Metabolic Spezzatino per Cani Aromatizzato",
+        "path": "/hills-prescription-diet-cane-metabolic-pollo-e-verdura-354g-5402/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5266",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5436",
+    "sku": "5436",
+    "gtin": "10129584",
+    "title": "Forza10 Cane Intestinal Colon",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-cane-intestinal-colon-390g-5436/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303596/FORZA10-Cane-Intestinal-Colon-10129584-1.jpg?v=638550917893230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303597/FORZA10-Cane-Intestinal-Colon-10129584-2.jpg?v=638550917986200000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.230769230769232,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5436",
+        "sku": "5436",
+        "gtin": "10129584",
+        "title": "390G",
+        "url": "https://www.arcaplanet.it/forza10-cane-intestinal-colon-390g-5436/p",
+        "price": {
+          "current": 3.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 10.230769230769232,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "390G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "forza10-cane-intestinal-colon-390g-5436p",
+        "name": "Forza10 Cane Intestinal Colon",
+        "path": "/forza10-cane-intestinal-colon-390g-5436/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5300",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5855",
+    "sku": "5855",
+    "gtin": "10056308",
+    "title": "Royal Canin V-diet Gastrointestinal Alimento dietetico completo per cani adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gastrointestinal-cane-5855/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290012/VHN-GASTROINTESTINAL-DOG-LOAF-CAN-400GR-PACKSHOT-rc-psd-png-2000x1320-150-RGB.png_213426.jpg?v=638319195067400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290006/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-5-it_IT_1200x1200.jpg?v=638319191152300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290007/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-4-it_IT_1200x1200.jpg?v=638319191241200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290008/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-7-it_IT_1200x120.jpg?v=638319191325500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290009/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-2-it_IT_1200x1200.jpg?v=638319191430130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290010/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-1-it_IT_1200x1200.jpg?v=638319191531830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290011/RC-VHN-GastrointestinalWet-200g-CV-Eretailkit-6-it_IT_1200x1200.jpg?v=638319191615930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292348/post-smaltimento-rc-10056308.jpg?v=638368704120330000"
+    ],
+    "price": {
+      "current": 4.2,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5855",
+        "sku": "5855",
+        "gtin": "10056308",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gastrointestinal-cane-5855/p",
+        "price": {
+          "current": 4.2,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 10.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gastrointestinal-cane-5855p",
+        "name": "Royal Canin V-diet Gastrointestinal Alimento dietetico completo per cani adulti",
+        "path": "/royal-canin-veterinary-diet-gastrointestinal-cane-5855/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5708",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5856",
+    "sku": "5856",
+    "gtin": "10059288",
+    "title": "Royal Canin  V-Diet Hypoallergenic umido Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hypoallergenic-cane-5856/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288181/_0003_C-DERMA-HYPO-CAN400-B1.jpg?v=638241457279600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292355/post-smaltimento-rc-10059288.jpg?v=638368707057370000"
+    ],
+    "price": {
+      "current": 4.5,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5856",
+        "sku": "5856",
+        "gtin": "10059288",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hypoallergenic-cane-5856/p",
+        "price": {
+          "current": 4.5,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 11.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-hypoallergenic-cane-5856p",
+        "name": "Royal Canin  V-Diet Hypoallergenic umido Cane",
+        "path": "/royal-canin-veterinary-diet-hypoallergenic-cane-5856/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5709",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5906",
+    "sku": "5906",
+    "gtin": "10129505",
+    "title": "Purina Pro Plan Veterinary Diets Ha Hypoallergenic Mousse Cane",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-ha-hypoallergenic-400g-5906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281701/purina-veterinary-diet-cane-ha-hypoallergenic.jpg?v=638128472697430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281702/purina-veterinary-diet-cane-ha-hypoallergenic1.jpg?v=638128472785200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281703/purina-veterinary-diet-cane-ha-hypoallergenic2.jpg?v=638128472860570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281704/purina-veterinary-diet-cane-ha-hypoallergenic3.jpg?v=638128472939030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281705/purina-veterinary-diet-cane-ha-hypoallergenic4.jpg?v=638128473026600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281709/purina-veterinary-diet-cane-ha-hypoallergenic5.jpg?v=638128473501400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281710/purina-veterinary-diet-cane-ha-hypoallergenic6.jpg?v=638128473581970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281711/purina-veterinary-diet-cane-ha-hypoallergenic7.jpg?v=638128473649800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281715/purina-veterinary-diet-cane-ha-hypoallergenic8.jpg?v=638128474231930000"
+    ],
+    "price": {
+      "current": 3.75,
+      "original": 4.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.375,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5906",
+        "sku": "5906",
+        "gtin": "10129505",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-ha-hypoallergenic-400g-5906/p",
+        "price": {
+          "current": 3.75,
+          "original": 4.85,
+          "pricePerUnit": {
+            "value": 9.375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-cane-ha-hypoallergenic-400g-5906p",
+        "name": "Purina Pro Plan Veterinary Diets Ha Hypoallergenic Mousse Cane",
+        "path": "/purina-veterinary-diet-cane-ha-hypoallergenic-400g-5906/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5759",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5958",
+    "sku": "5958",
+    "gtin": "00002714",
+    "title": "Hill's Prescription Diet z/d Food Sensitivities Alimento Umido per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-z-d-370-g-5958/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271138/hills-prescription-diet-z-d-alimento-per-cani-370g-pack.jpg?v=637866403625230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271139/hills-prescription-diet-z-d-alimento-per-cani-370g-transizione.jpg?v=637866404380630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271140/hills-prescription-diet-z-d-alimento-per-cani-370g-salute.jpg?v=637866404518030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271141/hills-prescription-diet-z-d-alimento-per-cani-370g-razione.jpg?v=637866404661800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271142/hills-prescription-diet-z-d-alimento-per-cani-370g-ingredienti.jpg?v=637866404780170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271143/hills-prescription-diet-z-d-alimento-per-cani-370g-cibo.jpg?v=637866404934630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271144/hills-prescription-diet-z-d-alimento-per-cani-370g-come-aiuta.jpg?v=637866405066030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271145/hills-prescription-diet-z-d-alimento-per-cani-370g-come-funziona.jpg?v=637866405197470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271146/hills-prescription-diet-z-d-alimento-per-cani-370g-benefici.jpg?v=637866405334870000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.135135135135135,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5958",
+        "sku": "5958",
+        "gtin": "00002714",
+        "title": "370G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-z-d-370-g-5958/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 12.135135135135135,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "370G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-z-d-370-g-5958p",
+        "name": "Hill's Prescription Diet z/d Food Sensitivities Alimento Umido per Cani",
+        "path": "/hills-prescription-diet-cane-z-d-370-g-5958/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5811",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5988",
+    "sku": "5988",
+    "gtin": "00000020",
+    "title": "Royal Canin V-Diet Diabetic Umido Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-diabetic-410g-5988/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288240/_0003_C-DIABETIC_LC_CAN400G_VHN_BL1_PACKSHOT.jpg?v=638242313846900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292443/post-smaltimento-rc-00000020.jpg?v=638369305044000000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.951219512195124,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5988",
+        "sku": "5988",
+        "gtin": "00000020",
+        "title": "410G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-diabetic-410g-5988/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 10.951219512195124,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "410G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-diabetic-410g-5988p",
+        "name": "Royal Canin V-Diet Diabetic Umido Cane",
+        "path": "/royal-canin-veterinary-diet-cane-diabetic-410g-5988/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5841",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22469",
+    "sku": "22469",
+    "gtin": "10170042",
+    "title": "Royal Canin V-Diet Gastrointestinal Low Fat Alimento dietetico completo per cani adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gastrointestinal-low-fat-cane-22469/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290020/RC-VHN-GastrointestinalWet-400g-MV-Eretailkit-1-it_IT_1200x1200.jpg?v=638319204179500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290021/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-5-it_IT_1200x1200.jpg?v=638319204282400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290022/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-4-it_IT_1200x1200.jpg?v=638319204356530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290023/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-2-it_IT_1200x1200.jpg?v=638319204442300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290024/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-6-it_IT_1200x1200.jpg?v=638319204572500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290025/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-7-it_IT_1200x1200.jpg?v=638319204656930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290026/RC-VHN-GastrointestinalWet-400g-CV-Eretailkit-1-it_IT_1200x1200.jpg?v=638319204734230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292351/post-smaltimento-rc-10170042.jpg?v=638368705282270000"
+    ],
+    "price": {
+      "current": 4.69,
+      "original": 4.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22469",
+        "sku": "22469",
+        "gtin": "10170042",
+        "title": "420G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gastrointestinal-low-fat-cane-22469/p",
+        "price": {
+          "current": 4.69,
+          "original": 4.69,
+          "pricePerUnit": {
+            "value": 11.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gastrointestinal-low-fat-cane-22469p",
+        "name": "Royal Canin V-Diet Gastrointestinal Low Fat Alimento dietetico completo per cani adulti",
+        "path": "/royal-canin-veterinary-diet-gastrointestinal-low-fat-cane-22469/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5842",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5990",
+    "sku": "5990",
+    "gtin": "00000876",
+    "title": "Royal Canin V-Diet Renal Cane Umido",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-renal-cane-5990/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288282/_0000_C-REN-LOAF-PACKSHOT-CAN410-B1-VETVITW19.jpg?v=638242481209570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292357/post-smaltimento-rc-00000876.jpg?v=638368707918770000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 5.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.951219512195124,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5990",
+        "sku": "5990",
+        "gtin": "00000876",
+        "title": "410G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-renal-cane-5990/p",
+        "price": {
+          "current": 4.49,
+          "original": 5.29,
+          "pricePerUnit": {
+            "value": 10.951219512195124,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "410G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-renal-cane-5990p",
+        "name": "Royal Canin V-Diet Renal Cane Umido",
+        "path": "/royal-canin-veterinary-diet-renal-cane-5990/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5843",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5991",
+    "sku": "5991",
+    "gtin": "10063097",
+    "title": "Royal Canin V-Diet Satiety Weight Management",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-satiety-5991/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288239/_0002_C-SATIETY_WM_CAN400G_VHN_BL1_PACKSHOT.jpg?v=638242312357970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292343/post-smaltimento-rc-10063097.jpg?v=638368702099430000"
+    ],
+    "price": {
+      "current": 4.2,
+      "original": 5.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.24390243902439,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5991",
+        "sku": "5991",
+        "gtin": "10063097",
+        "title": "410G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-satiety-5991/p",
+        "price": {
+          "current": 4.2,
+          "original": 5.1,
+          "pricePerUnit": {
+            "value": 10.24390243902439,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "410G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-satiety-5991p",
+        "name": "Royal Canin V-Diet Satiety Weight Management",
+        "path": "/royal-canin-veterinary-diet-cane-satiety-5991/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5844",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5992",
+    "sku": "5992",
+    "gtin": "00000021",
+    "title": "Royal Canin V-Diet Urinary S/O umido Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-urinary-cane-5992/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288269/_0003_O-DOG-LOAF-CAN-400GR-CAN-PACKSHOT-master.psd_284978.jpg?v=638242469093830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292359/post-smaltimento-rc-00000021.jpg?v=638368709690030000"
+    ],
+    "price": {
+      "current": 4.2,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.24390243902439,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5992",
+        "sku": "5992",
+        "gtin": "00000021",
+        "title": "410G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-urinary-cane-5992/p",
+        "price": {
+          "current": 4.2,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 10.24390243902439,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "410G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-urinary-cane-5992p",
+        "name": "Royal Canin V-Diet Urinary S/O umido Cane",
+        "path": "/royal-canin-veterinary-diet-urinary-cane-5992/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5845",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "6002",
+    "sku": "6002",
+    "gtin": "10056310",
+    "title": "Royal Canin V-Diet Hepatic Alimento dietetico completo per cani adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hepatic-cane-6002/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286849/royal-canin-hepatic-umido-cane-420g.jpg?v=638217296347600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292353/post-smaltimento-rc-10056310.jpg?v=638368706230900000"
+    ],
+    "price": {
+      "current": 4.2,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6002",
+        "sku": "6002",
+        "gtin": "10056310",
+        "title": "420G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hepatic-cane-6002/p",
+        "price": {
+          "current": 4.2,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 10,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "420G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-hepatic-cane-6002p",
+        "name": "Royal Canin V-Diet Hepatic Alimento dietetico completo per cani adulti",
+        "path": "/royal-canin-veterinary-diet-hepatic-cane-6002/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5854",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "7068",
+    "sku": "7068",
+    "gtin": "10111983",
+    "title": "Royal Canin V-Diet Urinary S/O Moderate Calorie Multipack Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-moderate-calorie-multipack-1-2kg-7068/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288271/_0005_DOG_URI-MC-SIG_POUCH.jpg?v=638242470851730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208700/Royal-Canin-V-Diet-Uurinary-Moderate-calorie-mpack-12x100g.jpg?v=637413976156830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292483/post-smaltimento-rc-10111983.jpg?v=638369340849000000"
+    ],
+    "price": {
+      "current": 15.49,
+      "original": 18.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.908333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7068",
+        "sku": "7068",
+        "gtin": "10111983",
+        "title": "12X100G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-moderate-calorie-multipack-1-2kg-7068/p",
+        "price": {
+          "current": 15.49,
+          "original": 18.49,
+          "pricePerUnit": {
+            "value": 12.908333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-urinary-moderate-calorie-multipack-1-2kg-7068p",
+        "name": "Royal Canin V-Diet Urinary S/O Moderate Calorie Multipack Cane",
+        "path": "/royal-canin-veterinary-diet-cane-urinary-moderate-calorie-multipack-1-2kg-7068/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6908",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "10332",
+    "sku": "10332",
+    "gtin": "10062972",
+    "title": "Epato Wd",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/epato-wd-10332/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306343/10062972-1.jpg?v=638615579113530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306342/10062972.jpg?v=638615578110330000"
+    ],
+    "price": {
+      "current": 3.6,
+      "original": 4.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10332",
+        "sku": "10332",
+        "gtin": "10062972",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/epato-wd-10332/p",
+        "price": {
+          "current": 3.6,
+          "original": 4.1,
+          "pricePerUnit": {
+            "value": 9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "epato-wd-10332p",
+        "name": "Epato Wd",
+        "path": "/epato-wd-10332/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9921",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "11142",
+    "sku": "11142",
+    "gtin": "10094792",
+    "title": "Exclusion Intestinal Maiale e Riso",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/exclusion-dog-diet-400-gr-intestinal-maiale-riso-11142/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304135/exclusion-intestinal-maiale-e-riso-10094792--1-.jpg?v=638567374878970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304136/exclusion-intestinal-maiale-e-riso-10094792--2-.jpg?v=638567374954270000"
+    ],
+    "price": {
+      "current": 4.39,
+      "original": 4.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.974999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11142",
+        "sku": "11142",
+        "gtin": "10094792",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/exclusion-dog-diet-400-gr-intestinal-maiale-riso-11142/p",
+        "price": {
+          "current": 4.39,
+          "original": 4.39,
+          "pricePerUnit": {
+            "value": 10.974999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "exclusion-dog-diet-400-gr-intestinal-maiale-riso-11142p",
+        "name": "Exclusion Intestinal Maiale e Riso",
+        "path": "/exclusion-dog-diet-400-gr-intestinal-maiale-riso-11142/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10736",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "4713",
+    "sku": "4713",
+    "gtin": "00032479",
+    "title": "Royal Canin V-Diet Recovery Cane e Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-v-diet-cat-dog-gr-195-recovery-4713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250371/royal-canin-veterinary-diet-cane-recovery.jpg?v=637455065581370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292344/post-smaltimento-rc-00032479.jpg?v=638368702575370000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.73684210526316,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4713",
+        "sku": "4713",
+        "gtin": "00032479",
+        "title": "195G",
+        "url": "https://www.arcaplanet.it/royal-v-diet-cat-dog-gr-195-recovery-4713/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 15.73684210526316,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "195G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-v-diet-cat-dog-gr-195-recovery-4713p",
+        "name": "Royal Canin V-Diet Recovery Cane e Gatto",
+        "path": "/royal-v-diet-cat-dog-gr-195-recovery-4713/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13759",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "10070",
+    "sku": "10070",
+    "gtin": "10061794",
+    "title": "Hill's Prescription Diet Metabolic Alimento Umido per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-weight-management-370-g-10070/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270695/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-pack.jpg?v=637852663439970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270696/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-transizione.jpg?v=637852664258630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270697/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-salute.jpg?v=637852664457100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270698/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-ingredienti.jpg?v=637852664645370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270699/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-razione.jpg?v=637852664886100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270700/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-dosi.jpg?v=637852665032470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270701/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-cibo.jpg?v=637852665172200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270702/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-come-aiuta.jpg?v=637852665304530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270703/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-come-funziona.jpg?v=637852665419130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270704/hills-prescription-diet-metabolic-alimento-per-cani-pollo-370g-benefici.jpg?v=637852665532470000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.324324324324325,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10070",
+        "sku": "10070",
+        "gtin": "10061794",
+        "title": "370G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-weight-management-370-g-10070/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 10.324324324324325,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "370G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-metabolic-weight-management-370-g-10070p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Umido per Cani",
+        "path": "/hills-prescription-diet-cane-metabolic-weight-management-370-g-10070/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14014",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "12627",
+    "sku": "12627",
+    "gtin": "10138644",
+    "title": "Hill's Prescription Diet Gastrointestinal Biome Alimento Umido per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-gastrointestinal-biome-354-g-12627/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271281/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-pack.jpg?v=637867562679270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271282/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-transizione.jpg?v=637867562979930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271283/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-salute.jpg?v=637867563142070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271284/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-razione.jpg?v=637867563308430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271285/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-ingredienti.jpg?v=637867563432970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271286/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-cibo.jpg?v=637867563560170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271287/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-come-aiuta.jpg?v=637867563709500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271288/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-come-funziona.jpg?v=637867563849530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271289/hills-prescription-diet-gastrointestinal-biome-per-cane-354g-benefici.jpg?v=637867563977230000"
+    ],
+    "price": {
+      "current": 4.79,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.685714285714287,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12627",
+        "sku": "12627",
+        "gtin": "10138644",
+        "title": "354G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-gastrointestinal-biome-354-g-12627/p",
+        "price": {
+          "current": 4.79,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 13.685714285714287,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "354G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-gastrointestinal-biome-354-g-12627p",
+        "name": "Hill's Prescription Diet Gastrointestinal Biome Alimento Umido per Cani",
+        "path": "/hills-prescription-diet-cane-gastrointestinal-biome-354-g-12627/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14763",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "15553",
+    "sku": "15553",
+    "gtin": "10141088",
+    "title": "Hi Diet Dog Hypoallergenic Paté con Maiale",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-maiale-15553/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294204/Hi-Diet-Dog-Hypoallergenic-Pate-con-Maiale-10141088.jpg?v=638422004923270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294205/Hi-Diet-Dog-Hypoallergenic-Pate-con-Maiale-10141088..jpg?v=638422005048870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294290/componenti-analitici-10141088.jpg?v=638422923535100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294291/dosaggio-10141088.jpg?v=638422923755170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294511/PATOLOGIA-_-HYPOALLERGENIC-10141088.jpg?v=638428924978000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294512/Hypoallergenic_umido-cane_maiale-10141088.jpg?v=638428925103800000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15553",
+        "sku": "15553",
+        "gtin": "10141088",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-maiale-15553/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 9.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-hypoallergenic-pate-con-maiale-15553p",
+        "name": "Hi Diet Dog Hypoallergenic Paté con Maiale",
+        "path": "/hi-diet-dog-hypoallergenic-pate-con-maiale-15553/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17690",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "15554",
+    "sku": "15554",
+    "gtin": "10141087",
+    "title": "Hi Diet Dog Hypoallergenic Paté con Coniglio",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-coniglio-15554/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294200/Hi-Diet-Dog-Hypoallergenic-Pate-con-Coniglio-10141087..jpg?v=638421999543300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294201/Hi-Diet-Dog-Hypoallergenic-Pate-con-Coniglio-10141087.jpg?v=638421999683370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294288/componenti-analitici-10141087.jpg?v=638422918000830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294289/dosaggio-10141087.jpg?v=638422918266700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294513/PATOLOGIA-_-HYPOALLERGENIC-10141087.jpg?v=638428925556670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294514/Hypoallergenic_umido-cane_coniglio-10141087.jpg?v=638428925667400000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15554",
+        "sku": "15554",
+        "gtin": "10141087",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-coniglio-15554/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 9.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-hypoallergenic-pate-con-coniglio-15554p",
+        "name": "Hi Diet Dog Hypoallergenic Paté con Coniglio",
+        "path": "/hi-diet-dog-hypoallergenic-pate-con-coniglio-15554/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17691",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "15556",
+    "sku": "15556",
+    "gtin": "10141091",
+    "title": "Hi Diet Dog Gastrointestinal Paté con Pollo",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-intestinal-pate-con-pollo-15556/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294229/Hi-Diet-Dog-Intestinal-Pate-con-Pollo-10141091.jpg?v=638422021955600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294230/Hi-Diet-Dog-Intestinal-Pate-con-Pollo-10141091..jpg?v=638422022081100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294298/componenti-analitici-10141091.jpg?v=638422960746330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294299/dosaggio-10141091.jpg?v=638422960982500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294519/PATOLOGIA-_-GASTROINTESTINAL-10141091.jpg?v=638428928604670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294520/Gastrointestinal_umido-cane_pollo-10141091.jpg?v=638428928829670000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15556",
+        "sku": "15556",
+        "gtin": "10141091",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-intestinal-pate-con-pollo-15556/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 9.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-intestinal-pate-con-pollo-15556p",
+        "name": "Hi Diet Dog Gastrointestinal Paté con Pollo",
+        "path": "/hi-diet-dog-intestinal-pate-con-pollo-15556/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17693",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "15557",
+    "sku": "15557",
+    "gtin": "10141090",
+    "title": "Hi Diet Dog Hypoallergenic Paté con Salmone",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-salmone-15557/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294209/Hi-Diet-Dog-Hypoallergenic-Pate-con-Salmone-10141090.jpg?v=638422007874030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294210/Hi-Diet-Dog-Hypoallergenic-Pate-con-Salmone-10141090..jpg?v=638422007969830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294294/componenti-analitici-10141090.jpg?v=638422932446970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294295/dosaggio-10141090.jpg?v=638422932677670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294517/PATOLOGIA-_-HYPOALLERGENIC-10141090.jpg?v=638428926872030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294518/Hypoallergenic_umido-cane_salmone-10141090.jpg?v=638428927431930000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15557",
+        "sku": "15557",
+        "gtin": "10141090",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-pate-con-salmone-15557/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 9.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-hypoallergenic-pate-con-salmone-15557p",
+        "name": "Hi Diet Dog Hypoallergenic Paté con Salmone",
+        "path": "/hi-diet-dog-hypoallergenic-pate-con-salmone-15557/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17694",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "15563",
+    "sku": "15563",
+    "gtin": "10141095",
+    "title": "Hi Diet Dog Renal Paté con Maiale",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-renal-pate-con-maiale-15563/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294255/Hi-Diet-Dog-Renal-Pate-con-Maiale-10141095.jpg?v=638422047666770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294256/Hi-Diet-Dog-Renal-Pate-con-Maiale-10141095..jpg?v=638422047790530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294337/componenti-analitici-10141095.jpg?v=638423103743200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294338/dosaggio-10141095.jpg?v=638423103834900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294534/PATOLOGIA-_-Renal-10141095.jpg?v=638428935124030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294535/Renal_umido-cane_maiale-10141095.jpg?v=638428935392130000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15563",
+        "sku": "15563",
+        "gtin": "10141095",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-renal-pate-con-maiale-15563/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 9.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-renal-pate-con-maiale-15563p",
+        "name": "Hi Diet Dog Renal Paté con Maiale",
+        "path": "/hi-diet-dog-renal-pate-con-maiale-15563/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17700",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "19848",
+    "sku": "19848",
+    "gtin": "10161083",
+    "title": "Forza10 Dog Intestinal Active",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-dog-intestinal-active-19848/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278378/forza10-cane-diet-adult-intestinal-active-con-pesce-da-100-gr-in-busta--1-.jpg?v=638072267097830000"
+    ],
+    "price": {
+      "current": 1.44,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.399999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19848",
+        "sku": "19848",
+        "gtin": "10161083",
+        "title": "PESCE",
+        "url": "https://www.arcaplanet.it/forza10-dog-intestinal-active-19848/p",
+        "price": {
+          "current": 1.44,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 14.399999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "PESCE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "forza10-dog-intestinal-active-19848p",
+        "name": "Forza10 Dog Intestinal Active",
+        "path": "/forza10-dog-intestinal-active-19848/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21966",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "19851",
+    "sku": "19851",
+    "gtin": "10161081",
+    "title": "Forza10 Dog Hypoallergenic Active",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-dog-hypoallergenic-active-19851/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280067/MM21067-HYPOALLERGENIC-CANE-bustina-Pesce.jpg?v=638113819407130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303925/forza10-dog-hypoallergenic-active-dosaggio.jpg?v=638562176172100000"
+    ],
+    "price": {
+      "current": 1.44,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.399999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19851",
+        "sku": "19851",
+        "gtin": "10161081",
+        "title": "PESCE",
+        "url": "https://www.arcaplanet.it/forza10-dog-hypoallergenic-active-19851/p",
+        "price": {
+          "current": 1.44,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 14.399999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "Flavour": "PESCE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "forza10-dog-hypoallergenic-active-19851p",
+        "name": "Forza10 Dog Hypoallergenic Active",
+        "path": "/forza10-dog-hypoallergenic-active-19851/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21968",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "21308",
+    "sku": "21308",
+    "gtin": "10168887",
+    "title": "Monge Vet Solution Hypo Monoproteico Dog 400G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-vet-solution-hypo-monoproteico-dog-400g-21308/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284722/Maiale-10168887.jpg?v=638186192976600000"
+    ],
+    "price": {
+      "current": 3.06,
+      "original": 3.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.6499999999999995,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21308",
+        "sku": "21308",
+        "gtin": "10168887",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/monge-vet-solution-hypo-monoproteico-dog-400g-21308/p",
+        "price": {
+          "current": 3.06,
+          "original": 3.6,
+          "pricePerUnit": {
+            "value": 7.6499999999999995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MAIALE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-vet-solution-hypo-monoproteico-dog-400g-21308p",
+        "name": "Monge Vet Solution Hypo Monoproteico Dog 400G",
+        "path": "/monge-vet-solution-hypo-monoproteico-dog-400g-21308/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23399",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "5819",
+    "sku": "5819",
+    "gtin": "00031790",
+    "title": "Exclusion Dog Diet Hypoallergenic All Breeds Lattina 400G",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-5819/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304122/exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-00031790--1-.jpg?v=638567290890870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304123/exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-00031790--2-.jpg?v=638567291009670000"
+    ],
+    "price": {
+      "current": 4.39,
+      "original": 4.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.974999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5819",
+        "sku": "5819",
+        "gtin": "00031790",
+        "title": "ANATRA E PATATE",
+        "url": "https://www.arcaplanet.it/exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-5819/p",
+        "price": {
+          "current": 4.39,
+          "original": 4.39,
+          "pricePerUnit": {
+            "value": 10.974999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-5819p",
+        "name": "Exclusion Dog Diet Hypoallergenic All Breeds Lattina 400G",
+        "path": "/exclusion-dog-diet-hypoallergenic-all-breeds-lattina-400g-5819/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24303",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22636",
+    "sku": "22636",
+    "gtin": "10170210",
+    "title": "Select Gold Medica Dog Diabetic Lattina 400G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-diabetic-lattina-400g-22636/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293538/Select-Gold-Medica-Dog-Diabetic-Lattina-400G10170210.jpg?v=638404810023670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293539/Select-Gold-Medica-Dog-Diabetic-Lattina-400G10170210-1.jpg?v=638404810194430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293540/Select-Gold-Medica-Dog-Diabetic-Lattina-400G10170210-2.jpg?v=638404813040800000"
+    ],
+    "price": {
+      "current": 3.05,
+      "original": 3.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.624999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22636",
+        "sku": "22636",
+        "gtin": "10170210",
+        "title": "POLLO E MANZO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-diabetic-lattina-400g-22636/p",
+        "price": {
+          "current": 3.05,
+          "original": 3.59,
+          "pricePerUnit": {
+            "value": 7.624999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-diabetic-lattina-400g-22636p",
+        "name": "Select Gold Medica Dog Diabetic Lattina 400G",
+        "path": "/select-gold-medica-dog-diabetic-lattina-400g-22636/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24657",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22645",
+    "sku": "22645",
+    "gtin": "10170219",
+    "title": "Select Gold Medica Dog Renal Lattina 400G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-renal-lattina-400g-22645/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293549/Select-Gold-Medica-Dog-Renal-Lattina-400G-10170219.jpg?v=638404871447570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293550/Select-Gold-Medica-Dog-Renal-Lattina-400G-10170219..jpg?v=638404871560230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293552/Select-Gold-Medica-Dog-Renal-Lattina-400G-10170219.jpg?v=638404871824100000"
+    ],
+    "price": {
+      "current": 3.05,
+      "original": 3.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.624999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22645",
+        "sku": "22645",
+        "gtin": "10170219",
+        "title": "POLLO E MANZO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-renal-lattina-400g-22645/p",
+        "price": {
+          "current": 3.05,
+          "original": 3.59,
+          "pricePerUnit": {
+            "value": 7.624999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-renal-lattina-400g-22645p",
+        "name": "Select Gold Medica Dog Renal Lattina 400G",
+        "path": "/select-gold-medica-dog-renal-lattina-400g-22645/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24666",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22679",
+    "sku": "22679",
+    "gtin": "10170253",
+    "title": "Select Gold Medica Dog Diabetic Vaschetta 150G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-diabetic-vaschetta-150g-22679/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293490/Select-Gold-Medica-Dog-Diabetic-Vaschetta-150G-10170253.jpg?v=638403940752700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293491/Select-Gold-Medica-Dog-Diabetic-Vaschetta-150G-10170253-1.jpg?v=638403941125170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293533/Select-Gold-Medica-Dog-Diabetic-Vaschetta-150G10170253-3.jpg?v=638404763419570000"
+    ],
+    "price": {
+      "current": 1.15,
+      "original": 1.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.666666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22679",
+        "sku": "22679",
+        "gtin": "10170253",
+        "title": "POLLO E MANZO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-diabetic-vaschetta-150g-22679/p",
+        "price": {
+          "current": 1.15,
+          "original": 1.35,
+          "pricePerUnit": {
+            "value": 7.666666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-diabetic-vaschetta-150g-22679p",
+        "name": "Select Gold Medica Dog Diabetic Vaschetta 150G",
+        "path": "/select-gold-medica-dog-diabetic-vaschetta-150g-22679/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24700",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22681",
+    "sku": "22681",
+    "gtin": "10170255",
+    "title": "Select Gold Medica Dog Gastrointestinal Vaschetta 150G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-gastrointestinal-vaschetta-150g-22681/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293484/Select-Gold-Medica-Dog-Gastrointestinal-Vaschetta-150G-10170255.jpg?v=638403916597100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293485/Select-Gold-Medica-Dog-Gastrointestinal-Vaschetta-150G-10170255-1.jpg?v=638403916859170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293535/Select-Gold-Medica-Dog-Gastrointestinal-Vaschetta-150G10170255.jpg?v=638404768533070000"
+    ],
+    "price": {
+      "current": 1.15,
+      "original": 1.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.666666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22681",
+        "sku": "22681",
+        "gtin": "10170255",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-gastrointestinal-vaschetta-150g-22681/p",
+        "price": {
+          "current": 1.15,
+          "original": 1.35,
+          "pricePerUnit": {
+            "value": 7.666666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-gastrointestinal-vaschetta-150g-22681p",
+        "name": "Select Gold Medica Dog Gastrointestinal Vaschetta 150G",
+        "path": "/select-gold-medica-dog-gastrointestinal-vaschetta-150g-22681/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24701",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22682",
+    "sku": "22682",
+    "gtin": "10170256",
+    "title": "Select Gold Medica Dog Hepatic Vaschetta 150G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-hepatic-vaschetta-150g-22682/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293504/Select-Gold-Medica-Dog-Hepatic-Vaschetta-150G-10170256.jpg?v=638404046534630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293505/Select-Gold-Medica-Dog-Hepatic-Vaschetta-150G-10170256-1.jpg?v=638404046641400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293510/Select-Gold-Medica-Dog-Hepatic-Vaschetta-150G10170256-2.jpg?v=638404065567600000"
+    ],
+    "price": {
+      "current": 1.15,
+      "original": 1.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.666666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22682",
+        "sku": "22682",
+        "gtin": "10170256",
+        "title": "POLLO E CAROTE",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-hepatic-vaschetta-150g-22682/p",
+        "price": {
+          "current": 1.15,
+          "original": 1.35,
+          "pricePerUnit": {
+            "value": 7.666666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-hepatic-vaschetta-150g-22682p",
+        "name": "Select Gold Medica Dog Hepatic Vaschetta 150G",
+        "path": "/select-gold-medica-dog-hepatic-vaschetta-150g-22682/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24703",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "22683",
+    "sku": "22683",
+    "gtin": "10170257",
+    "title": "Select Gold Medica Dog Hypoallergenic Vaschetta 150G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-dog-hypoallergenic-vaschetta-150g-22683/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293455/Select-Gold-Medica-Dog-Hypoallergenic-Vaschetta-150G-10170257.jpg?v=638403863660800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293456/Select-Gold-Medica-Dog-Hypoallergenic-Vaschetta-150G-10170257.jpg?v=638403863764100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293494/Select-Gold-Medica-Dog-Hypoallergenic-Vaschetta-150G-10170257..jpg?v=638403970068370000"
+    ],
+    "price": {
+      "current": 1.15,
+      "original": 1.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.666666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22683",
+        "sku": "22683",
+        "gtin": "10170257",
+        "title": "TACCHINO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-dog-hypoallergenic-vaschetta-150g-22683/p",
+        "price": {
+          "current": 1.15,
+          "original": 1.35,
+          "pricePerUnit": {
+            "value": 7.666666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-dog-hypoallergenic-vaschetta-150g-22683p",
+        "name": "Select Gold Medica Dog Hypoallergenic Vaschetta 150G",
+        "path": "/select-gold-medica-dog-hypoallergenic-vaschetta-150g-22683/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24704",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "25810",
+    "sku": "25810",
+    "gtin": "1000000000390",
+    "title": "Kit Risparmio 12x400G Purina Pro Plan Veterinary Diets Dog Ha Hypoallergenic Mousse",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-purina-pro-plan-veterinary-diets-dog-ha-hypoallergenic-mousse-25810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311771/purina-veterinary-diet-cane-ha-hypoallergenicx12.jpg?v=638682168438470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311772/purina-veterinary-diet-cane-ha-hypoallergenic.png?v=638682168521270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311774/purina-veterinary-diet-cane-ha-hypoallergenic1.jpg?v=638682168884730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311775/purina-veterinary-diet-cane-ha-hypoallergenic2.jpg?v=638682169002770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311776/purina-veterinary-diet-cane-ha-hypoallergenic3.jpg?v=638682169216670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311777/purina-veterinary-diet-cane-ha-hypoallergenic4.jpg?v=638682169319430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311778/purina-veterinary-diet-cane-ha-hypoallergenic5.jpg?v=638682169421530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311779/purina-veterinary-diet-cane-ha-hypoallergenic6.jpg?v=638682169519070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311780/purina-veterinary-diet-cane-ha-hypoallergenic7.jpg?v=638682169630230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311781/purina-veterinary-diet-cane-ha-hypoallergenic8.jpg?v=638682169830300000"
+    ],
+    "price": {
+      "current": 41.99,
+      "original": 64.68,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.747916666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 35
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25810",
+        "sku": "25810",
+        "gtin": "1000000000390",
+        "title": "12x400G",
+        "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-purina-pro-plan-veterinary-diets-dog-ha-hypoallergenic-mousse-25810/p",
+        "price": {
+          "current": 41.99,
+          "original": 64.68,
+          "pricePerUnit": {
+            "value": 8.747916666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-12x400g-purina-pro-plan-veterinary-diets-dog-ha-hypoallergenic-mousse-25810p",
+        "name": "Kit Risparmio 12x400G Purina Pro Plan Veterinary Diets Dog Ha Hypoallergenic Mousse",
+        "path": "/kit-risparmio-12x400g-purina-pro-plan-veterinary-diets-dog-ha-hypoallergenic-mousse-25810/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27801",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "26227",
+    "sku": "26227",
+    "gtin": "1000000000668",
+    "title": "Kit Risparmio 12x400G Royal V-Diet Dog Gastrointestinal",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-royal-v-diet-dog-gastrointestinal-26227/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312663/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668x12_.jpg?v=638690755128900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312641/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-2.png?v=638690725664500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312642/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-3.jpg?v=638690725869930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312643/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-4.jpg?v=638690726001570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312644/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-5.jpg?v=638690726168230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312645/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-6.jpg?v=638690726297370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312646/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-7.jpg?v=638690726835900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312647/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-8.jpg?v=638690726953570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312648/Kit-Risparmio-12x400G-Royal-V-Diet-Dog-Gastrointestinal-1000000000668-9.jpg?v=638690727096800000"
+    ],
+    "price": {
+      "current": 45.36,
+      "original": 59.88,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.450000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26227",
+        "sku": "26227",
+        "gtin": "1000000000668",
+        "title": "CARNI E DERIVATI",
+        "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-royal-v-diet-dog-gastrointestinal-26227/p",
+        "price": {
+          "current": 45.36,
+          "original": 59.88,
+          "pricePerUnit": {
+            "value": 9.450000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-12x400g-royal-v-diet-dog-gastrointestinal-26227p",
+        "name": "Kit Risparmio 12x400G Royal V-Diet Dog Gastrointestinal",
+        "path": "/kit-risparmio-12x400g-royal-v-diet-dog-gastrointestinal-26227/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "28218",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  },
+  {
+    "id": "26229",
+    "sku": "26229",
+    "gtin": "1000000000670",
+    "title": "Kit Risparmio 12x400G Exclusion Dog Diet Intestinal",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-exclusion-dog-diet-intestinal-26229/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312664/Kit-Risparmio-12x400G-Exclusion-Dog-Diet-Intestinal-1000000000670x12.jpg?v=638690769843670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312665/Kit-Risparmio-12x400G-Exclusion-Dog-Diet-Intestinal-1000000000670-.png?v=638690769941830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312666/Kit-Risparmio-12x400G-Exclusion-Dog-Diet-Intestinal-1000000000670-1.jpg?v=638690770050600000"
+    ],
+    "price": {
+      "current": 46.33,
+      "original": 51.48,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.652083333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26229",
+        "sku": "26229",
+        "gtin": "1000000000670",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-12x400g-exclusion-dog-diet-intestinal-26229/p",
+        "price": {
+          "current": 46.33,
+          "original": 51.48,
+          "pricePerUnit": {
+            "value": 9.652083333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/cane/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-12x400g-exclusion-dog-diet-intestinal-26229p",
+        "name": "Kit Risparmio 12x400G Exclusion Dog Diet Intestinal",
+        "path": "/kit-risparmio-12x400g-exclusion-dog-diet-intestinal-26229/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28220",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:29:53.263Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/umido/"
+  }
+]

@@ -1,0 +1,3683 @@
+[
+  {
+    "id": "227",
+    "sku": "227",
+    "gtin": "10108475",
+    "title": "Forza10 Cat Renal Active Busta",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-cat-renal-active-busta-100g-227/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280515/forza10-renal-active-agnello-per-gatto.jpg?v=638115453316670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280516/forza10-renal-active-agnello-gatto-dosi.jpg?v=638115453394730000"
+    ],
+    "price": {
+      "current": 1.69,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "227",
+        "sku": "227",
+        "gtin": "10108475",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/forza10-cat-renal-active-busta-100g-227/p",
+        "price": {
+          "current": 1.69,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 16.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "Flavour": "AGNELLO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "forza10-cat-renal-active-busta-100g-227p",
+        "name": "Forza10 Cat Renal Active Busta",
+        "path": "/forza10-cat-renal-active-busta-100g-227/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "221",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "954",
+    "sku": "954",
+    "gtin": "10130158",
+    "title": "Royal Canin V-Diet Renal Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-pate-multipack-1-02kg-954/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288227/_0004_F-REN-LOAF-PACKSHOT-POUCH85-B1-VETVITW19.jpg?v=638242291384230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259397/royal-canin-v-diet-renal-gatto-multipack-dosaggio.jpg?v=637604872944400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292323/post-smaltimento-rc-10130158.jpg?v=638368694841570000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.166666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "954",
+        "sku": "954",
+        "gtin": "10130158",
+        "title": "12x85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-pate-multipack-1-02kg-954/p",
+        "price": {
+          "current": 16.49,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 16.166666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-pate-multipack-1-02kg-954p",
+        "name": "Royal Canin V-Diet Renal Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-pate-multipack-1-02kg-954/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "912",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10133",
+    "sku": "10133",
+    "gtin": "10110760",
+    "title": "Hill's Prescription Diet k/d Kidney Care Alimento Umido per Gatti con Salmone",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-kidney-care-salmone-85-g-10133/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300745/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-1.jpg?v=638507605501130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300746/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-2.jpg?v=638507605595900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300747/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-3.jpg?v=638507605729600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300748/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-4.jpg?v=638507605845670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301196/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-5.jpg?v=638512612436970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301197/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-6.jpg?v=638512615543000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301198/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-7.jpg?v=638512616242470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301199/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-8.jpg?v=638512616937630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301200/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-9.jpg?v=638512617335700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301201/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Umido-per-Gatti-con-Salmone-10110760-10.jpg?v=638512618191430000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10133",
+        "sku": "10133",
+        "gtin": "10110760",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-kidney-care-salmone-85-g-10133/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-k-d-kidney-care-salmone-85-g-10133p",
+        "name": "Hill's Prescription Diet k/d Kidney Care Alimento Umido per Gatti con Salmone",
+        "path": "/hills-prescription-diet-gatto-k-d-kidney-care-salmone-85-g-10133/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1867",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10032",
+    "sku": "10032",
+    "gtin": "10110757",
+    "title": "Hill's Prescription Diet c/d Urinary Care Multicare Alimento Umido per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-care-pollo-85-g-10032/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271359/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo.jpg?v=637868378244830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271360/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo.jpg?v=637868378248100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271361/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-transition.jpg?v=637868378371530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271362/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-salute.jpg?v=637868378471900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271363/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-composizione.jpg?v=637868379395830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271364/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-interno.jpg?v=637868379855600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271365/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-come-aiuta.jpg?v=637868380015770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271366/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-come-funziona.jpg?v=637868380130170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271367/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-benefici.jpg?v=637868380238930000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10032",
+        "sku": "10032",
+        "gtin": "10110757",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-care-pollo-85-g-10032/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-urinary-care-pollo-85-g-10032p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Multicare Alimento Umido per Gatti",
+        "path": "/hills-prescription-diet-gatto-c-d-urinary-care-pollo-85-g-10032/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1875",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10078",
+    "sku": "10078",
+    "gtin": "10110759",
+    "title": "Hill's Prescription Diet i/d Digestive Care Alimento Umido per Gatti con Salmone",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-digestive-care-salmone-85-g-10078/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271243/hills-prescription-digestive-care-i-d-per-gatti-al-salmone.jpg?v=637867375690930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271244/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-transition.jpg?v=637867375783170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271245/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-salute.jpg?v=637867375878270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271246/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-dosaggio.jpg?v=637867376145370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271247/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-composizione.jpg?v=637867376279830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271248/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-interno.jpg?v=637867376700600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271249/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-come-aiuta.jpg?v=637867376813030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271250/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-come-funziona.jpg?v=637867377131030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271251/hills-prescription-digestive-care-i-d-per-gatti-al-salmone-benefici.jpg?v=637867377224270000"
+    ],
+    "price": {
+      "current": 1.23,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10078",
+        "sku": "10078",
+        "gtin": "10110759",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-digestive-care-salmone-85-g-10078/p",
+        "price": {
+          "current": 1.23,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 13.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-i-d-digestive-care-salmone-85-g-10078p",
+        "name": "Hill's Prescription Diet i/d Digestive Care Alimento Umido per Gatti con Salmone",
+        "path": "/hills-prescription-diet-gatto-i-d-digestive-care-salmone-85-g-10078/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1884",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10134",
+    "sku": "10134",
+    "gtin": "10128962",
+    "title": "Hill's Prescription Diet Metabolic Alimento Umido per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hill-s-prescription-diet-metabolic-al-pollo-per-gatto-10134/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271196/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo.jpg?v=637866670752630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271197/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-transition.jpg?v=637866670863530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271198/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-salute.jpg?v=637866670997630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271199/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-dosaggio.jpg?v=637866671183670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271200/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-dosaggio-2.jpg?v=637866671329600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271201/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-composizione.jpg?v=637866671488500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271202/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-come-aiuta.jpg?v=637866671621470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271204/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-come-funziona.jpg?v=637866672158600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271205/hills-prescription-diet-metabolic-weight-per-gatto-al-pollo-benefici.jpg?v=637866672273830000"
+    ],
+    "price": {
+      "current": 1.27,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.111111111111112,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10134",
+        "sku": "10134",
+        "gtin": "10128962",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hill-s-prescription-diet-metabolic-al-pollo-per-gatto-10134/p",
+        "price": {
+          "current": 1.27,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.111111111111112,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hill-s-prescription-diet-metabolic-al-pollo-per-gatto-10134p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Umido per Gatti",
+        "path": "/hill-s-prescription-diet-metabolic-al-pollo-per-gatto-10134/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2134",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10099",
+    "sku": "10099",
+    "gtin": "10110758",
+    "title": "Hill's Prescription Diet c/d Urinary Care Alimento Umido per Gatti con Salmone",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-multicare-busta-salmone-10099/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271187/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone.jpg?v=637866650820300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271188/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-transition.jpg?v=637866650988530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271189/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-salute.jpg?v=637866651125430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271190/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-dosaggio.jpg?v=637866651325000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271191/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-composizione.jpg?v=637866651583730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271192/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-interno.jpg?v=637866652299370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271193/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-come-aiuta.jpg?v=637866652404600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271194/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-come-funziona.jpg?v=637866652515830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271195/hills-prescription-diet-c-d-urinary-care-per-gatti-con-salmone-benefici.jpg?v=637866652631500000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10099",
+        "sku": "10099",
+        "gtin": "10110758",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-multicare-busta-salmone-10099/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-multicare-busta-salmone-10099p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Alimento Umido per Gatti con Salmone",
+        "path": "/hills-prescription-diet-gatto-c-d-multicare-busta-salmone-10099/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2232",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10102",
+    "sku": "10102",
+    "gtin": "10079433",
+    "title": "Hill's Prescription Diet i/d Digestive Care Alimento Umido per Gatti con Pollo",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-busta-pollo-85g-10102/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271103/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-pack.jpg?v=637862412853200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271104/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-transizione.jpg?v=637862413123970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271105/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-salute.jpg?v=637862413285300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271106/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-razione.jpg?v=637862413501370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271107/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-ingredienti.jpg?v=637862413655900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271108/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-cibo.jpg?v=637862413890130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271109/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-come-aiuta.jpg?v=637862414071800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271110/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-come-funziona.jpg?v=637862414208230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271111/hills-prescription-diet-i-d-digestive-care-pollo-gatto-85g-benefici.jpg?v=637862414502130000"
+    ],
+    "price": {
+      "current": 1.23,
+      "original": 1.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 21
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10102",
+        "sku": "10102",
+        "gtin": "10079433",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-busta-pollo-85g-10102/p",
+        "price": {
+          "current": 1.23,
+          "original": 1.55,
+          "pricePerUnit": {
+            "value": 13.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-i-d-busta-pollo-85g-10102p",
+        "name": "Hill's Prescription Diet i/d Digestive Care Alimento Umido per Gatti con Pollo",
+        "path": "/hills-prescription-diet-gatto-i-d-busta-pollo-85g-10102/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2311",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "4500",
+    "sku": "4500",
+    "gtin": "10111981",
+    "title": "Royal Canin V-Diet Urinary S/O Multipack sfilaccetti Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-bocconcini-multipack-1-02kg-4500/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288279/_0000_CAT_URI-MIG_POUCH.jpg?v=638242477513070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292338/post-smaltimento-rc-10111981.jpg?v=638368700257300000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.65686274509804,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4500",
+        "sku": "4500",
+        "gtin": "10111981",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-bocconcini-multipack-1-02kg-4500/p",
+        "price": {
+          "current": 16.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 16.65686274509804,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-urinary-bocconcini-multipack-1-02kg-4500p",
+        "name": "Royal Canin V-Diet Urinary S/O Multipack sfilaccetti Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-urinary-bocconcini-multipack-1-02kg-4500/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4388",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "4501",
+    "sku": "4501",
+    "gtin": "10111982",
+    "title": "Royal Canin V-Diet Urinary S/O Moderate Calorie Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-modearte-calorie-multipack-1-02kg-4501/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288281/_0001_CAT_URI-MC-MIG_POUCH_1.jpg?v=638242479207230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/248512/royal-canin-veterinary-diet-gatto-urinary-modearte-calorie-multipack.jpg?v=637455047918670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259401/royal-canin-v-diet-urinary-moderate-calorie-gatto-dosaggio.jpg?v=637604879425970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292339/post-smaltimento-rc-10111982.jpg?v=638368700562070000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.65686274509804,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4501",
+        "sku": "4501",
+        "gtin": "10111982",
+        "title": "12x85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-modearte-calorie-multipack-1-02kg-4501/p",
+        "price": {
+          "current": 16.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 16.65686274509804,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-urinary-modearte-calorie-multipack-1-02kg-4501p",
+        "name": "Royal Canin V-Diet Urinary S/O Moderate Calorie Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-urinary-modearte-calorie-multipack-1-02kg-4501/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4389",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "4502",
+    "sku": "4502",
+    "gtin": "10111980",
+    "title": "Royal Canin V-Diet Urinary S/O Multipack  Mousse",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-mousse-multipack-1-02kg-4502/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288280/_0002_CAT_URI-LOAF_POUCH.jpg?v=638242478406230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292340/post-smaltimento-rc-10111980.jpg?v=638368700846700000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.65686274509804,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4502",
+        "sku": "4502",
+        "gtin": "10111980",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-mousse-multipack-1-02kg-4502/p",
+        "price": {
+          "current": 16.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 16.65686274509804,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-urinary-mousse-multipack-1-02kg-4502p",
+        "name": "Royal Canin V-Diet Urinary S/O Multipack  Mousse",
+        "path": "/royal-canin-veterinary-diet-gatto-urinary-mousse-multipack-1-02kg-4502/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4390",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "4729",
+    "sku": "4729",
+    "gtin": "10129827",
+    "title": "Royal Canin V-Diet Gastrointestinal Kitten umido",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-kitten-gastrointestinal-195g-4729/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253050/royal-canin-gastrointestinal-kitten-umido.jpg?v=637498658243730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253878/royal-canin-gastrointestinal-diet-kitten-umido-dosaggio.jpg?v=637539188825300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292360/post-smaltimento-rc-10129827.jpg?v=638368710119730000"
+    ],
+    "price": {
+      "current": 3.29,
+      "original": 3.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.31578947368421,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4729",
+        "sku": "4729",
+        "gtin": "10129827",
+        "title": "195G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-kitten-gastrointestinal-195g-4729/p",
+        "price": {
+          "current": 3.29,
+          "original": 3.69,
+          "pricePerUnit": {
+            "value": 17.31578947368421,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "195G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-kitten-gastrointestinal-195g-4729p",
+        "name": "Royal Canin V-Diet Gastrointestinal Kitten umido",
+        "path": "/royal-canin-veterinary-diet-kitten-gastrointestinal-195g-4729/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4610",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "6722",
+    "sku": "6722",
+    "gtin": "10069053",
+    "title": "Purina Pro Plan Veterinary Diets Ur Urinary Gatto Multipack al Pollo",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo-10x85g-6722/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281563/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo.jpg?v=638128419718000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281565/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo1.jpg?v=638128419812070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281567/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo2.jpg?v=638128420003730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281568/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo3.jpg?v=638128420419600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281569/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo4.jpg?v=638128420501000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281570/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo5.jpg?v=638128420579900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281571/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo6.jpg?v=638128420656470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281572/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo7.jpg?v=638128420740870000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.105882352941178,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6722",
+        "sku": "6722",
+        "gtin": "10069053",
+        "title": "10X85G",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo-10x85g-6722/p",
+        "price": {
+          "current": 11.99,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 14.105882352941178,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-gatto-ur-urinary-multipack-pollo-10x85g-6722p",
+        "name": "Purina Pro Plan Veterinary Diets Ur Urinary Gatto Multipack al Pollo",
+        "path": "/purina-veterinary-diet-gatto-ur-urinary-multipack-pollo-10x85g-6722/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6563",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "6723",
+    "sku": "6723",
+    "gtin": "10069075",
+    "title": "Purina Pro Plan Veterinary Diets Ur Urinary Gatto Multipack al Salmone",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone-10x85g-6723/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281574/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone.jpg?v=638128423402600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276253/PT02.jpg?v=638031750449670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276255/PT04.jpg?v=638031750625930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281575/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone1.jpg?v=638128423484000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281576/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone2.jpg?v=638128423571530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281577/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone3.jpg?v=638128423802530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281578/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone4.jpg?v=638128423915300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281579/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone5.jpg?v=638128424001430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281580/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone6.jpg?v=638128424138570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281582/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone7.jpg?v=638128424439070000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.105882352941178,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6723",
+        "sku": "6723",
+        "gtin": "10069075",
+        "title": "10X85G",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone-10x85g-6723/p",
+        "price": {
+          "current": 11.99,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 14.105882352941178,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-gatto-ur-urinary-multipack-salmone-10x85g-6723p",
+        "name": "Purina Pro Plan Veterinary Diets Ur Urinary Gatto Multipack al Salmone",
+        "path": "/purina-veterinary-diet-gatto-ur-urinary-multipack-salmone-10x85g-6723/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6564",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "6782",
+    "sku": "6782",
+    "gtin": "10120926",
+    "title": "Royal Canin V-Diet Diabetic Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-diabetic-multipack-1-02kg-6782/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288247/_0001_F-DIABETIC_POUCH85G_VHN_BL1_PACKSHOT.jpg?v=638242319340630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208704/Royal-Canin-Veterinary-cat-Diabetic-12x85g.jpg?v=637413976194230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292468/post-smaltimento-rc-10120926.jpg?v=638369332907770000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.676470588235293,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6782",
+        "sku": "6782",
+        "gtin": "10120926",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-diabetic-multipack-1-02kg-6782/p",
+        "price": {
+          "current": 15.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 15.676470588235293,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-diabetic-multipack-1-02kg-6782p",
+        "name": "Royal Canin V-Diet Diabetic Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-diabetic-multipack-1-02kg-6782/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6623",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "6786",
+    "sku": "6786",
+    "gtin": "10120220",
+    "title": "Royal Canin V-Diet Satiety Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-satiety-multipack-1-02kg-6786/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288246/_0000_F-SATIETY_WM_POUCH85G_VHN_BL1_PACKSHOT.jpg?v=638242318309870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208733/Royal-Canin-Veterinary-Satiety-gatto-12x85g.jpg?v=637413976478530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292469/post-smaltimento-rc-10120220.jpg?v=638369333219430000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.676470588235293,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6786",
+        "sku": "6786",
+        "gtin": "10120220",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-satiety-multipack-1-02kg-6786/p",
+        "price": {
+          "current": 15.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 15.676470588235293,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-satiety-multipack-1-02kg-6786p",
+        "name": "Royal Canin V-Diet Satiety Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-satiety-multipack-1-02kg-6786/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6627",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "7071",
+    "sku": "7071",
+    "gtin": "10129742",
+    "title": "Royal Canin V-Diet Gastrointestinal Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-multipack-1-02kg-7071/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208630/Royal-Canin-Cat-V-Diet-Gastrointestinal-mpack-12x85g.jpg?v=637413975283430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/213108/https---www.arcaplanet.it-vtex-images-10129742_1.jpg?v=637447296766270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263631/royal-canin-v-diet-gastrointestinal-multipack-gatto-dosaggio.jpg?v=637689611554200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292484/post-smaltimento-rc-10129742.jpg?v=638369341191800000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.676470588235293,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7071",
+        "sku": "7071",
+        "gtin": "10129742",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-multipack-1-02kg-7071/p",
+        "price": {
+          "current": 15.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 15.676470588235293,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-gastrointestinal-multipack-1-02kg-7071p",
+        "name": "Royal Canin V-Diet Gastrointestinal Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-gastrointestinal-multipack-1-02kg-7071/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6911",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "7079",
+    "sku": "7079",
+    "gtin": "10118250",
+    "title": "Royal Canin V-Diet Sensitivity Multipack Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-sensitivity-multipack-1-02kg-7079/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288186/_0000_F-DERMA-SENSCONT-CWR-POUCH85-B1-OMB--1-.jpg?v=638241461044670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292485/post-smaltimento-rc-10118250.jpg?v=638369342115830000"
+    ],
+    "price": {
+      "current": 18.5,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 18.137254901960784,
+        "unit": "KG"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7079",
+        "sku": "7079",
+        "gtin": "10118250",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-sensitivity-multipack-1-02kg-7079/p",
+        "price": {
+          "current": 18.5,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 18.137254901960784,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-sensitivity-multipack-1-02kg-7079p",
+        "name": "Royal Canin V-Diet Sensitivity Multipack Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-sensitivity-multipack-1-02kg-7079/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6919",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "7127",
+    "sku": "7127",
+    "gtin": "10065176",
+    "title": "Royal Canin V-Diet Renal Multipack Manzo Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-manzo-1-02kg-7127/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288230/_0007_F-REN_BEEF-CIG-PACKSHOT-POUCH85-B1-VETVITW19.jpg?v=638242297696970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292486/post-smaltimento-rc-10065176.jpg?v=638369342553070000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.65686274509804,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7127",
+        "sku": "7127",
+        "gtin": "10065176",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-manzo-1-02kg-7127/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 16.65686274509804,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-multipack-manzo-1-02kg-7127p",
+        "name": "Royal Canin V-Diet Renal Multipack Manzo Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-multipack-manzo-1-02kg-7127/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6966",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "7128",
+    "sku": "7128",
+    "gtin": "10065178",
+    "title": "Royal Canin V-Diet Renal Multipack Pesce per Gatti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-pesce-1-02kg-7128/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288228/_0005_F-REN_FISH-CIG-PACKSHOT-POUCH85-B1-VETVITW19.jpg?v=638242295906100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292488/post-smaltimento-rc-10065178.jpg?v=638369343255800000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.166666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 21
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7128",
+        "sku": "7128",
+        "gtin": "10065178",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-pesce-1-02kg-7128/p",
+        "price": {
+          "current": 16.49,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 16.166666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-multipack-pesce-1-02kg-7128p",
+        "name": "Royal Canin V-Diet Renal Multipack Pesce per Gatti",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-multipack-pesce-1-02kg-7128/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6967",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "7129",
+    "sku": "7129",
+    "gtin": "10065177",
+    "title": "Royal Canin V-Diet Renal Multipack Pollo Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-pollo-1-02kg-7129/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288229/_0006_F-REN_CHICK-CIG-PACKSHOT-POUCH85-B1-VETVITW19.jpg?v=638242296843800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292489/post-smaltimento-rc-10065177.jpg?v=638369343756130000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.166666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7129",
+        "sku": "7129",
+        "gtin": "10065177",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-multipack-pollo-1-02kg-7129/p",
+        "price": {
+          "current": 16.49,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 16.166666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-multipack-pollo-1-02kg-7129p",
+        "name": "Royal Canin V-Diet Renal Multipack Pollo Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-multipack-pollo-1-02kg-7129/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6968",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "9630",
+    "sku": "9630",
+    "gtin": "10128961",
+    "title": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Umido per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-stress-busta-pollo-9630/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271350/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo.jpg?v=637868363026570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271351/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-transition.jpg?v=637868363407970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271352/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-salute.jpg?v=637868363573330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271353/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-dosaggio.jpg?v=637868363722100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271354/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-composizione.jpg?v=637868363876670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271355/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-interno.jpg?v=637868364102700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271356/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-come-aiuta.jpg?v=637868364228500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271357/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-come-funziona.jpg?v=637868364323400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271358/hills-prescription-diet-urinary-care-c-d-per-gatti-con-pollo-benefici.jpg?v=637868364428030000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9630",
+        "sku": "9630",
+        "gtin": "10128961",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-stress-busta-pollo-9630/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-urinary-stress-busta-pollo-9630p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Umido per Gatti",
+        "path": "/hills-prescription-diet-gatto-c-d-urinary-stress-busta-pollo-9630/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9468",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "9631",
+    "sku": "9631",
+    "gtin": "10128960",
+    "title": "Hill's Prescription Diet c/d Urinary Stress + Metabolic Alimento Umido per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-metabolic-urinary-stress-busta-9631/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271206/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo.jpg?v=637866700074430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271207/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-transition.jpg?v=637866702197170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271208/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-salute.jpg?v=637866702617130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271209/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-dosaggio.jpg?v=637866702860670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271210/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-dosaggio-2.jpg?v=637866702974930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271211/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-composizione.png?v=637866703152330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271212/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-come-aiuta.jpg?v=637866703390230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271213/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-come-funziona.jpg?v=637866703509500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271214/hills-prescription-diet-urinary-stress-metabolic-per-gatto-con-pollo-benifici.jpg?v=637866704947670000"
+    ],
+    "price": {
+      "current": 1.27,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.111111111111112,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9631",
+        "sku": "9631",
+        "gtin": "10128960",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-metabolic-urinary-stress-busta-9631/p",
+        "price": {
+          "current": 1.27,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.111111111111112,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-metabolic-urinary-stress-busta-9631p",
+        "name": "Hill's Prescription Diet c/d Urinary Stress + Metabolic Alimento Umido per Gatti",
+        "path": "/hills-prescription-diet-gatto-metabolic-urinary-stress-busta-9631/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9469",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "9639",
+    "sku": "9639",
+    "gtin": "10120735",
+    "title": "Hill's Prescription Diet Gastrointestinal Biome Spezzatino per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-gastrointestinal-biome-9639/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268868/hills-prescription-diet-gastointestinal-biome-spezzatino-gatti-pack.jpg?v=637819866848030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268869/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-transizione.jpg?v=637819869361100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268870/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-salute.jpg?v=637819869553230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268871/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-razione.jpg?v=637819869710700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268872/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-ingredienti.jpg?v=637819869888130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268873/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-cibo.jpg?v=637819870018430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268874/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-come-aiuta.jpg?v=637819870168030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268875/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-come-funziona.jpg?v=637819870295870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268876/hills-prescription-diet-gastrointestinal-biome-spezzatino-gatto-pollo-verdure-benefici.jpg?v=637819870462800000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9639",
+        "sku": "9639",
+        "gtin": "10120735",
+        "title": "82G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-gastrointestinal-biome-9639/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 22.375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "82G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-gastrointestinal-biome-9639p",
+        "name": "Hill's Prescription Diet Gastrointestinal Biome Spezzatino per Gatti",
+        "path": "/hills-prescription-diet-gatto-gastrointestinal-biome-9639/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9476",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "9662",
+    "sku": "9662",
+    "gtin": "10063567",
+    "title": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Umido per Gatti con Salmone",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-stress-multipack-salmone-9662/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271121/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-pack.jpg?v=637865602762030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271122/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-transition.jpg?v=637865602872730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271123/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-salute.jpg?v=637865602975700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271124/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-dosaggio.jpg?v=637865603068770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271125/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-composizione.jpg?v=637865603156570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271126/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-come-aiuta.jpg?v=637865603259330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271127/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-come-funziona.jpg?v=637865603351300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271128/hills-prescription-diet-c-d-multicare-stress-alimento-per-gatti-con-salmone-benefici.jpg?v=637865603428930000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.65686274509804,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9662",
+        "sku": "9662",
+        "gtin": "10063567",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-stress-multipack-salmone-9662/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 16.65686274509804,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-stress-multipack-salmone-9662p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Umido per Gatti con Salmone",
+        "path": "/hills-prescription-diet-gatto-c-d-stress-multipack-salmone-9662/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9491",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "10375",
+    "sku": "10375",
+    "gtin": "10130744",
+    "title": "Royal Canin V-Diet Gastointestinal Multipack Moderate Calorie Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-v-diet-cat-mpack-buste-kg-1-02-gastro-mod-ca-10375/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/212657/https---www.arcaplanet.it-vtex-images-10130744_1.jpg?v=637447295538630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292591/post-smaltimento-rc-10130744.jpg?v=638369394888170000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.676470588235293,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10375",
+        "sku": "10375",
+        "gtin": "10130744",
+        "title": "12X85G",
+        "url": "https://www.arcaplanet.it/royal-v-diet-cat-mpack-buste-kg-1-02-gastro-mod-ca-10375/p",
+        "price": {
+          "current": 15.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 15.676470588235293,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "royal-v-diet-cat-mpack-buste-kg-1-02-gastro-mod-ca-10375p",
+        "name": "Royal Canin V-Diet Gastointestinal Multipack Moderate Calorie Gatto",
+        "path": "/royal-v-diet-cat-mpack-buste-kg-1-02-gastro-mod-ca-10375/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9969",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "15044",
+    "sku": "15044",
+    "gtin": "10140769",
+    "title": "Purina Pro Plan Veterinary Diets Nf Renal Function Advanced Care Gatto Multipack al Pollo",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo-15044/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281334/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo.jpg?v=638127588360070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281335/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo1.jpg?v=638127588446700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281337/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo2.jpg?v=638127588980270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281338/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo3.jpg?v=638127589101870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281340/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo4.jpg?v=638127589438900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281348/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo5.jpg?v=638127590513000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281349/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo6.jpg?v=638127590665900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281351/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo7.jpg?v=638127591051900000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.105882352941178,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15044",
+        "sku": "15044",
+        "gtin": "10140769",
+        "title": "10X85G",
+        "url": "https://www.arcaplanet.it/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo-15044/p",
+        "price": {
+          "current": 11.99,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 14.105882352941178,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo-15044p",
+        "name": "Purina Pro Plan Veterinary Diets Nf Renal Function Advanced Care Gatto Multipack al Pollo",
+        "path": "/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-pollo-15044/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17181",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "15045",
+    "sku": "15045",
+    "gtin": "10140770",
+    "title": "Purina Pro Plan Veterinary Diets Nf Renal Function Advanced Care Gatto Multipack al Salmone",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone-15045/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281360/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone.jpg?v=638127603689900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273375/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-al-salmone-ingredienti.jpg?v=637933822155830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273376/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-al-salmone-dosaggio.jpg?v=637933822304170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273377/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-al-salmone-dimensione.jpg?v=637933822413900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281361/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone1.jpg?v=638127603872470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281362/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone2.jpg?v=638127603995700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281364/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone4.jpg?v=638127604241170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281365/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone5.jpg?v=638127604348870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281368/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone6.jpg?v=638127604715030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281374/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone7.jpg?v=638127605010000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281375/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone8.jpg?v=638127605119100000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.105882352941178,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15045",
+        "sku": "15045",
+        "gtin": "10140770",
+        "title": "10X85G",
+        "url": "https://www.arcaplanet.it/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone-15045/p",
+        "price": {
+          "current": 11.99,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 14.105882352941178,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone-15045p",
+        "name": "Purina Pro Plan Veterinary Diets Nf Renal Function Advanced Care Gatto Multipack al Salmone",
+        "path": "/purina-pro-plan-veterinary-diets-nf-renal-function-advanced-care-gatto-multipack-al-salmone-15045/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17182",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "16394",
+    "sku": "16394",
+    "gtin": "10155890",
+    "title": "Advance Diets Cat Busta Urinary",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-diets-cat-busta-urinary-16394/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277091/3d-Pack_ID-925974_ADVANCE-CAT_URINARY_WET_85g.jpg?v=638042708879170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277092/3d-Pack_ID-925974_ADVANCE-CAT_URINARY_WET_85g-CAJA.jpg?v=638042708949900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277093/Kibble_kibble-URINARY-CAT-WET.jpg?v=638042709022600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277094/Feeding-Guidelines_fg-urinary-wet-cat.jpg?v=638042709090900000"
+    ],
+    "price": {
+      "current": 1.34,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.888888888888891,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16394",
+        "sku": "16394",
+        "gtin": "10155890",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/advance-diets-cat-busta-urinary-16394/p",
+        "price": {
+          "current": 1.34,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.888888888888891,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "advance-diets-cat-busta-urinary-16394p",
+        "name": "Advance Diets Cat Busta Urinary",
+        "path": "/advance-diets-cat-busta-urinary-16394/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18531",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "16396",
+    "sku": "16396",
+    "gtin": "10155892",
+    "title": "Advance Diets Cat Busta  Renal",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-diets-cats-busta-renal-16396/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277095/3d-Pack_ID-925976_ADVANCE-CAT_RENAL_WET_85g.jpg?v=638042713964930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277096/3d-Pack_ID-925976_ADVANCE-CAT_RENAL_WET_85g-CAJA.jpg?v=638042714031200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277097/Kibble_kibble-RENAL-CAT-WET.jpg?v=638042714092330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277098/Feeding-Guidelines_fg-renal-cat-wet.jpg?v=638042714162170000"
+    ],
+    "price": {
+      "current": 1.34,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.888888888888891,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16396",
+        "sku": "16396",
+        "gtin": "10155892",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/advance-diets-cats-busta-renal-16396/p",
+        "price": {
+          "current": 1.34,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 14.888888888888891,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "advance-diets-cats-busta-renal-16396p",
+        "name": "Advance Diets Cat Busta  Renal",
+        "path": "/advance-diets-cats-busta-renal-16396/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18533",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "19849",
+    "sku": "19849",
+    "gtin": "10161080",
+    "title": "Forza10 Cat Hypoallergenic Active Pesce",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-cat-hypoallergenic-active-19849/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280064/MM21071-HYPOALLERGENIC-GATTO-bustina-Agnello.jpg?v=638113814011730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278377/forza10-cat-hyopoallergenic-active-dosaggio.jpg?v=638072192969430000"
+    ],
+    "price": {
+      "current": 1.44,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.399999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19849",
+        "sku": "19849",
+        "gtin": "10161080",
+        "title": "AGNELLO",
+        "url": "https://www.arcaplanet.it/forza10-cat-hypoallergenic-active-19849/p",
+        "price": {
+          "current": 1.44,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 14.399999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "Flavour": "AGNELLO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "forza10-cat-hypoallergenic-active-19849p",
+        "name": "Forza10 Cat Hypoallergenic Active Pesce",
+        "path": "/forza10-cat-hypoallergenic-active-19849/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21967",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "22622",
+    "sku": "22622",
+    "gtin": "10170196",
+    "title": "Select Gold Medica Cat Gastrointestinal Vaschetta 100G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica--cat-gastrointestinal-vaschetta-100g-22622/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293412/select-gold-medica-cat-gastrointestinal-vaschetta-100g-10170196.jpg?v=638403141847530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293413/select-gold-medica-cat-gastrointestinal-vaschetta-100g-new-10170196.jpg?v=638403141917570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293414/dosaggio-10170196.jpg?v=638403142006700000"
+    ],
+    "price": {
+      "current": 1.06,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22622",
+        "sku": "22622",
+        "gtin": "10170196",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica--cat-gastrointestinal-vaschetta-100g-22622/p",
+        "price": {
+          "current": 1.06,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 10.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica--cat-gastrointestinal-vaschetta-100g-22622p",
+        "name": "Select Gold Medica Cat Gastrointestinal Vaschetta 100G",
+        "path": "/select-gold-medica--cat-gastrointestinal-vaschetta-100g-22622/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24643",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "22623",
+    "sku": "22623",
+    "gtin": "10170197",
+    "title": "Select Gold Medica Cat Hypoallergenic Vaschetta 100G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-hypoallergenic-vaschetta-100g-22623/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293432/select-gold-medica-cat-hypoallergenic-vaschetta-100g-10170197.jpg?v=638403254797830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293433/select-gold-medica-cat-hypoallergenic-vaschetta-100g-new-10170197.jpg?v=638403254988700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293434/dosaggio-10170197.jpg?v=638403255365100000"
+    ],
+    "price": {
+      "current": 1.06,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22623",
+        "sku": "22623",
+        "gtin": "10170197",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-hypoallergenic-vaschetta-100g-22623/p",
+        "price": {
+          "current": 1.06,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 10.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-hypoallergenic-vaschetta-100g-22623p",
+        "name": "Select Gold Medica Cat Hypoallergenic Vaschetta 100G",
+        "path": "/select-gold-medica-cat-hypoallergenic-vaschetta-100g-22623/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24644",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "22699",
+    "sku": "22699",
+    "gtin": "10170273",
+    "title": "Select Gold Medica Cat Renal Vaschetta 100G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-renal-vaschetta-100g-22699/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293418/select-gold-medica-cat-renal-vaschetta-100g-10170205.jpg?v=638403203784030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293420/select-gold-medica-cat-renal-vaschetta-100g-new-10170205.jpg?v=638403204265930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293421/dosaggio-10170205.jpg?v=638403204387170000"
+    ],
+    "price": {
+      "current": 1.06,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22699",
+        "sku": "22699",
+        "gtin": "10170273",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-renal-vaschetta-100g-22699/p",
+        "price": {
+          "current": 1.06,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 10.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-renal-vaschetta-100g-22699p",
+        "name": "Select Gold Medica Cat Renal Vaschetta 100G",
+        "path": "/select-gold-medica-cat-renal-vaschetta-100g-22699/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24645",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "26563",
+    "sku": "26563",
+    "gtin": "1000000000740",
+    "title": "Select Gold Medica Cat Gastrointestinal Busta 85G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-gastrointestinal-busta-85g-26563/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314453/select-gold-medica-cat-urinary-busta-85g-1000000000740--1-.jpg?v=638729615269470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314454/select-gold-medica-cat-urinary-busta-85g-1000000000740--2-.jpg?v=638729615380800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314455/select-gold-medica-cat-urinary-busta-85g-1000000000740--3-.jpg?v=638729615522530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314456/select-gold-medica-cat-urinary-busta-85g-1000000000740--4-.jpg?v=638729615620500000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 13.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.712962962962962,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26563",
+        "sku": "26563",
+        "gtin": "1000000000740",
+        "title": "KIT RISPARMIO 12x85G TACCHINO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-gastrointestinal-busta-85g-26563/p",
+        "price": {
+          "current": 10.49,
+          "original": 13.8,
+          "pricePerUnit": {
+            "value": 9.712962962962962,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-gastrointestinal-busta-85g-26563p",
+        "name": "Select Gold Medica Cat Gastrointestinal Busta 85G",
+        "path": "/select-gold-medica-cat-gastrointestinal-busta-85g-26563/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24647",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "22628",
+    "sku": "22628",
+    "gtin": "10170202",
+    "title": "Select Gold Medica Cat Hypoallergenic Busta 85G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-hypoallergenic-busta-85g-22628/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293445/select-gold-medica-cat-hypoallergenic-busta-85g-10170202.jpg?v=638403274846670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293446/select-gold-medica-cat-hypoallergenic-busta-85g-new-10170202.jpg?v=638403274965070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293447/dosaggio-10170202.jpg?v=638403275122470000"
+    ],
+    "price": {
+      "current": 0.98,
+      "original": 1.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.88888888888889,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "22628",
+        "sku": "22628",
+        "gtin": "10170202",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-hypoallergenic-busta-85g-22628/p",
+        "price": {
+          "current": 0.98,
+          "original": 1.15,
+          "pricePerUnit": {
+            "value": 10.88888888888889,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-hypoallergenic-busta-85g-22628p",
+        "name": "Select Gold Medica Cat Hypoallergenic Busta 85G",
+        "path": "/select-gold-medica-cat-hypoallergenic-busta-85g-22628/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24649",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "26565",
+    "sku": "26565",
+    "gtin": "1000000000742",
+    "title": "Select Gold Medica Cat Renal Busta 85G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-renal-busta-85g-26565/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314461/select-gold-medica-cat-renal-busta-85g-1000000000742--1-.jpg?v=638729632669400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314462/select-gold-medica-cat-renal-busta-85g-1000000000742--2-.jpg?v=638729632835030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314463/select-gold-medica-cat-renal-busta-85g-1000000000742--3-.jpg?v=638729632972270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314464/select-gold-medica-cat-renal-busta-85g-1000000000742--4-.jpg?v=638729633084270000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 13.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.712962962962962,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26565",
+        "sku": "26565",
+        "gtin": "1000000000742",
+        "title": "KIT RISPARMIO 12x85G POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-renal-busta-85g-26565/p",
+        "price": {
+          "current": 10.49,
+          "original": 13.8,
+          "pricePerUnit": {
+            "value": 9.712962962962962,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-renal-busta-85g-26565p",
+        "name": "Select Gold Medica Cat Renal Busta 85G",
+        "path": "/select-gold-medica-cat-renal-busta-85g-26565/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24652",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "26561",
+    "sku": "26561",
+    "gtin": "1000000000738",
+    "title": "Select Gold Medica Cat Urinary Busta 85G",
+    "brand": "SELECT GOLD MEDICA",
+    "url": "https://www.arcaplanet.it/select-gold-medica-cat-urinary-busta-85g-26561/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314445/select-gold-medica-cat-urinary-busta-85g-1000000000738--1-.jpg?v=638729597994700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314446/select-gold-medica-cat-urinary-busta-85g-1000000000738--2-.jpg?v=638750589969230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314447/select-gold-medica-cat-urinary-busta-85g-1000000000738--3-.jpg?v=638750589969230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314448/select-gold-medica-cat-urinary-busta-85g-1000000000738--4-.jpg?v=638750589969230000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 13.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.712962962962962,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26561",
+        "sku": "26561",
+        "gtin": "1000000000738",
+        "title": "KIT RISPARMIO 12x85G POLLO",
+        "url": "https://www.arcaplanet.it/select-gold-medica-cat-urinary-busta-85g-26561/p",
+        "price": {
+          "current": 10.49,
+          "original": 13.8,
+          "pricePerUnit": {
+            "value": 9.712962962962962,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-medica-cat-urinary-busta-85g-26561p",
+        "name": "Select Gold Medica Cat Urinary Busta 85G",
+        "path": "/select-gold-medica-cat-urinary-busta-85g-26561/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24654",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "25256",
+    "sku": "25256",
+    "gtin": "1000000000070",
+    "title": "Kit Risparmio 24x85G Royal V-Diet Cat Satiety",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/kit-risparmio-24x85g-royal-v-diet-cat-satiety-25256/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308048/Kit-Risparmio-24x85G-Royal-V-Diet-Cat-Satiety-1.jpg?v=638646854031000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308049/Kit-Risparmio-24x85G-Royal-V-Diet-Cat-Satiety-2.jpg?v=638646854142230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308050/Kit-Risparmio-24x85G-Royal-V-Diet-Cat-Satiety-3.jpg?v=638646854304030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308051/Kit-Risparmio-24x85G-Royal-V-Diet-Cat-Satiety-4.jpg?v=638646854407370000"
+    ],
+    "price": {
+      "current": 30.99,
+      "original": 39.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.191176470588234,
+        "unit": "KG"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25256",
+        "sku": "25256",
+        "gtin": "1000000000070",
+        "title": "CARNI",
+        "url": "https://www.arcaplanet.it/kit-risparmio-24x85g-royal-v-diet-cat-satiety-25256/p",
+        "price": {
+          "current": 30.99,
+          "original": 39.98,
+          "pricePerUnit": {
+            "value": 15.191176470588234,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-24x85g-royal-v-diet-cat-satiety-25256p",
+        "name": "Kit Risparmio 24x85G Royal V-Diet Cat Satiety",
+        "path": "/kit-risparmio-24x85g-royal-v-diet-cat-satiety-25256/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27267",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  },
+  {
+    "id": "25666",
+    "sku": "25666",
+    "gtin": "1000000000287",
+    "title": "Kit Risparmio 12x85G Hill's Prescription Diet Cat Gastrointestinal Biome",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-25666/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310924/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--1-.jpg?v=638676194940630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310925/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--2-.jpg?v=638676195093000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310926/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--3-.jpg?v=638676195197800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310927/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--4-.jpg?v=638676195948200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310928/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--5-.jpg?v=638676196061930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310929/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--6-.jpg?v=638676196152100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310930/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-1000000000287--7-.jpg?v=638676196233400000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 19.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25666",
+        "sku": "25666",
+        "gtin": "1000000000287",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-25666/p",
+        "price": {
+          "current": 13.99,
+          "original": 19.8,
+          "pricePerUnit": {
+            "value": 13.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-umido",
+        "name": "Diete Cibo Umido",
+        "path": "/gatto/diete-cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-25666p",
+        "name": "Kit Risparmio 12x85G Hill's Prescription Diet Cat Gastrointestinal Biome",
+        "path": "/kit-risparmio-12x85g-hills-prescription-diet-cat-gastrointestinal-biome-25666/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27677",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:24:57.158Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/umido/"
+  }
+]

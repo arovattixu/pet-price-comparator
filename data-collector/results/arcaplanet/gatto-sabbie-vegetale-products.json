@@ -1,0 +1,2734 @@
+[
+  {
+    "id": "7837",
+    "sku": "7837",
+    "gtin": "10066533",
+    "title": "Next Cat Lettiera Vegetale",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-lettiera-vegetale-7837/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240590/croci-gatto-lettiera-vegetale.jpg?v=637454982918430000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6601208459214503,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7837",
+        "sku": "7837",
+        "gtin": "10066533",
+        "title": "6L",
+        "url": "https://www.arcaplanet.it/next-cat-lettiera-vegetale-7837/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 1.6601208459214503,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "6L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "next-cat-lettiera-vegetale-7837p",
+        "name": "Next Cat Lettiera Vegetale",
+        "path": "/next-cat-lettiera-vegetale-7837/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2880",
+        "name": "3+1 (6L)"
+      }
+    ],
+    "metadata": {
+      "groupId": "7668",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "509",
+    "sku": "509",
+    "gtin": "10130146",
+    "title": "Perfect Lettiera Gatto Agglomerante Eco Vegetale",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-gatto-lettiera-agglomerante-eco-vetegale-509/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253403/Perfect-Lettiera-Agglomerante-eco-vegetale-10l.jpg?v=637520249598570000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6006006006006006,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "509",
+        "sku": "509",
+        "gtin": "10130146",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/perfect-gatto-lettiera-agglomerante-eco-vetegale-509/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 1.6006006006006006,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-gatto-lettiera-agglomerante-eco-vetegale-509p",
+        "name": "Perfect Lettiera Gatto Agglomerante Eco Vegetale",
+        "path": "/perfect-gatto-lettiera-agglomerante-eco-vetegale-509/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7887",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "24140",
+    "sku": "24140",
+    "gtin": "10174275",
+    "title": "Lovedì Lettiera Vegetale Natural Eco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gatto-lettiera-natural-eco-mais-3-5kg-24140/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306387/Lovedi-Lettiera-Vegetale-Natural-Eco-10174275-1.jpg?v=638616365160530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306389/LOVEDI-LETTIERA-CAT-KG.7-NATURAL-ECO-MAIS_10174275-fronte.jpg?v=638616366457370000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8610315186246418,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "24140",
+        "sku": "24140",
+        "gtin": "10174275",
+        "title": "7KG",
+        "url": "https://www.arcaplanet.it/lovedi-gatto-lettiera-natural-eco-mais-3-5kg-24140/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 1.8610315186246418,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-gatto-lettiera-natural-eco-mais-3-5kg-24140p",
+        "name": "Lovedì Lettiera Vegetale Natural Eco",
+        "path": "/lovedi-gatto-lettiera-natural-eco-mais-3-5kg-24140/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8029",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "8427",
+    "sku": "8427",
+    "gtin": "10110296",
+    "title": "Expecial Lettiera Universal",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-lettiera-universal-piccoli-animali-8427/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254341/expecial-lettiera-universal-5-5-kg.jpg?v=637547796600430000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.819672131147541,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8427",
+        "sku": "8427",
+        "gtin": "10110296",
+        "title": "5.5KG",
+        "url": "https://www.arcaplanet.it/expecial-lettiera-universal-piccoli-animali-8427/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 1.819672131147541,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G) (280)": "5.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "expecial-lettiera-universal-piccoli-animali-8427p",
+        "name": "Expecial Lettiera Universal",
+        "path": "/expecial-lettiera-universal-piccoli-animali-8427/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "8254",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "9792",
+    "sku": "9792",
+    "gtin": "10078120",
+    "title": "Almo Nature Lettiera per Gatto",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/almo-nature-gatto-lettiera-cat-litter-9792/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263980/EXE_CATLITTER_5LB_prospettiva.jpg?v=637696286165600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263981/EXE_CATLITTER_5LB_frontale.jpg?v=637696286201700000"
+    ],
+    "price": {
+      "current": 9.59,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.224669603524229,
+        "unit": "litro"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9792",
+        "sku": "9792",
+        "gtin": "10078120",
+        "title": "2.27KG",
+        "url": "https://www.arcaplanet.it/almo-nature-gatto-lettiera-cat-litter-9792/p",
+        "price": {
+          "current": 9.59,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 4.224669603524229,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G) (280)": "2.27KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "almo-nature-gatto-lettiera-cat-litter-9792p",
+        "name": "Almo Nature Lettiera per Gatto",
+        "path": "/almo-nature-gatto-lettiera-cat-litter-9792/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9580",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "10900",
+    "sku": "10900",
+    "gtin": "10130223",
+    "title": "Croci Lettiera per Gatto Tofu Clean",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/lettiera-tofu-clean-10900/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252906/sabbia-tofu-6L-croci.jpg?v=637487403759200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254301/lettiera-tofu-clean-dettaglio.jpg?v=637547620325270000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.001669449081803,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10900",
+        "sku": "10900",
+        "gtin": "10130223",
+        "title": "6L",
+        "url": "https://www.arcaplanet.it/lettiera-tofu-clean-10900/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 2.001669449081803,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "6L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-tofu-clean-10900p",
+        "name": "Croci Lettiera per Gatto Tofu Clean",
+        "path": "/lettiera-tofu-clean-10900/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10495",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "510",
+    "sku": "510",
+    "gtin": "10121106",
+    "title": "Perfect Lettiera Gatto Eco Cellulosa",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-lettiera-cat-lt-10-eco-cellulosa-510/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208261/Perfect-Lettiera-Eco-Cellulosa-per-gatti-10L.jpg?v=637413969474600000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.806179775280899,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "510",
+        "sku": "510",
+        "gtin": "10121106",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/perfect-lettiera-cat-lt-10-eco-cellulosa-510/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 2.806179775280899,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-lettiera-cat-lt-10-eco-cellulosa-510p",
+        "name": "Perfect Lettiera Gatto Eco Cellulosa",
+        "path": "/perfect-lettiera-cat-lt-10-eco-cellulosa-510/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11373",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "13800",
+    "sku": "13800",
+    "gtin": "10134346",
+    "title": "Monge Lettiera Vegetale Easy Green Mais",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-mais-10-lt-13800/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262395/monge-lettiera-vegetale-easy-green-mais-10-lt.jpg?v=637671151360600000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.05005005005005,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13800",
+        "sku": "13800",
+        "gtin": "10134346",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-mais-10-lt-13800/p",
+        "price": {
+          "current": 10.49,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 1.05005005005005,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "monge-lettiera-vegetale-easy-green-mais-10-lt-13800p",
+        "name": "Monge Lettiera Vegetale Easy Green Mais",
+        "path": "/monge-lettiera-vegetale-easy-green-mais-10-lt-13800/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15938",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "16504",
+    "sku": "16504",
+    "gtin": "10134345",
+    "title": "Monge Lettiera Vegetale Easy Green",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-16504/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277313/monge-lettiera-vegetale-easy-green.jpg?v=638046227227900000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.05005005005005,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16504",
+        "sku": "16504",
+        "gtin": "10134345",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-16504/p",
+        "price": {
+          "current": 10.49,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 1.05005005005005,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "monge-lettiera-vegetale-easy-green-16504p",
+        "name": "Monge Lettiera Vegetale Easy Green",
+        "path": "/monge-lettiera-vegetale-easy-green-16504/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18627",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "16505",
+    "sku": "16505",
+    "gtin": "10154786",
+    "title": "Monge Lettiera Vegetale Mais Carboni Attivi",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-mais-carboni-attivi-16505/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277347/monge-lettiera-vegetale-mais-carboni-attivi.jpg?v=638046245851300000"
+    ],
+    "price": {
+      "current": 12.49,
+      "original": 12.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2502502502502502,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16505",
+        "sku": "16505",
+        "gtin": "10154786",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-mais-carboni-attivi-16505/p",
+        "price": {
+          "current": 12.49,
+          "original": 12.49,
+          "pricePerUnit": {
+            "value": 1.2502502502502502,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "monge-lettiera-vegetale-mais-carboni-attivi-16505p",
+        "name": "Monge Lettiera Vegetale Mais Carboni Attivi",
+        "path": "/monge-lettiera-vegetale-mais-carboni-attivi-16505/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18628",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "16567",
+    "sku": "16567",
+    "gtin": "10151692",
+    "title": "MultiFit Lettiera Natural Hygiene Pellets",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-natural-hygiene-pellets-11kg-16567/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278024/MultiFit-Lettiera-Natural-Hygiene-Pellets.jpg?v=638059453170530000"
+    ],
+    "price": {
+      "current": 11.89,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.080909090909091,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16567",
+        "sku": "16567",
+        "gtin": "10151692",
+        "title": "11KG",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-natural-hygiene-pellets-11kg-16567/p",
+        "price": {
+          "current": 11.89,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 1.080909090909091,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-natural-hygiene-pellets-11kg-16567p",
+        "name": "MultiFit Lettiera Natural Hygiene Pellets",
+        "path": "/multifit-lettiera-natural-hygiene-pellets-11kg-16567/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18688",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21044",
+    "sku": "21044",
+    "gtin": "10168682",
+    "title": "Perfect Lettiera Cat Soia Carboni Attivi",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-lettiera-cat-soia-carboni-attivi-21044/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290412/Perfect-Lettiera-Ultra-Leggera-per-gatto-10168682.jpg?v=638336659831830000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9009009009009008,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21044",
+        "sku": "21044",
+        "gtin": "10168682",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/perfect-lettiera-cat-soia-carboni-attivi-21044/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 1.9009009009009008,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-lettiera-cat-soia-carboni-attivi-21044p",
+        "name": "Perfect Lettiera Cat Soia Carboni Attivi",
+        "path": "/perfect-lettiera-cat-soia-carboni-attivi-21044/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23135",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21045",
+    "sku": "21045",
+    "gtin": "10168683",
+    "title": "Perfect Lettiera Gatto Soia Lavanda",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-lettiera-gatto-soia-lavanda-21045/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295896/Lettiera-Cat-Soia-Lavanda-10168683.jpg?v=638448938249100000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9009009009009008,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21045",
+        "sku": "21045",
+        "gtin": "10168683",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/perfect-lettiera-gatto-soia-lavanda-21045/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 1.9009009009009008,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-lettiera-gatto-soia-lavanda-21045p",
+        "name": "Perfect Lettiera Gatto Soia Lavanda",
+        "path": "/perfect-lettiera-gatto-soia-lavanda-21045/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23136",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21202",
+    "sku": "21202",
+    "gtin": "10168807",
+    "title": "Monge Lettiera Vegetale Easy Green Orzo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-orzo-21202/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284418/EASY-GREEN-ORZO-8009470015035--1-.jpg?v=638179380479530000"
+    ],
+    "price": {
+      "current": 12.23,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2242242242242243,
+        "unit": "litro"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21202",
+        "sku": "21202",
+        "gtin": "10168807",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/monge-lettiera-vegetale-easy-green-orzo-21202/p",
+        "price": {
+          "current": 12.23,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 1.2242242242242243,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "monge-lettiera-vegetale-easy-green-orzo-21202p",
+        "name": "Monge Lettiera Vegetale Easy Green Orzo",
+        "path": "/monge-lettiera-vegetale-easy-green-orzo-21202/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23293",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21212",
+    "sku": "21212",
+    "gtin": "10150459",
+    "title": "Cat&Rina Wevegetal Lettiera per Gatti al Mais",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/cat-rina-wevegetal-lettiera-per-gatti-al-mais-21212/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284701/10150459.jpg?v=638186155563030000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.730708661417323,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21212",
+        "sku": "21212",
+        "gtin": "10150459",
+        "title": "5.5L",
+        "url": "https://www.arcaplanet.it/cat-rina-wevegetal-lettiera-per-gatti-al-mais-21212/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 1.730708661417323,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "cat-rina-wevegetal-lettiera-per-gatti-al-mais-21212p",
+        "name": "Cat&Rina Wevegetal Lettiera per Gatti al Mais",
+        "path": "/cat-rina-wevegetal-lettiera-per-gatti-al-mais-21212/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23303",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21214",
+    "sku": "21214",
+    "gtin": "10155127",
+    "title": "Cat&Rina Benatural Lettiera per Gatti al Tofu Carboni Attivi",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/cat-rina-benatural-lettiera-per-gatti-al-tofu-carboni-attivi-21214/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312686/cat-rina-lettiera-per-gatti-carbone-attivo-10155127_result.jpg?v=638690812471230000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.18,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21214",
+        "sku": "21214",
+        "gtin": "10155127",
+        "title": "5.5.L",
+        "url": "https://www.arcaplanet.it/cat-rina-benatural-lettiera-per-gatti-al-tofu-carboni-attivi-21214/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 2.18,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "cat-rina-benatural-lettiera-per-gatti-al-tofu-carboni-attivi-21214p",
+        "name": "Cat&Rina Benatural Lettiera per Gatti al Tofu Carboni Attivi",
+        "path": "/cat-rina-benatural-lettiera-per-gatti-al-tofu-carboni-attivi-21214/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23305",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "21216",
+    "sku": "21216",
+    "gtin": "10160458",
+    "title": "Cat&Rina Benatural Lettiera per Gatti al Tofu Tè  Verde",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/cat-rina-benatural-lettiera-per-gatti-al-tofu-te-verde-21216/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312687/cat-rina-benatural-lettiera-per-gatti-al-tofu-te-verde-10160458_result.jpg?v=638690812961670000"
+    ],
+    "price": {
+      "current": 10.19,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8527272727272726,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21216",
+        "sku": "21216",
+        "gtin": "10160458",
+        "title": "5.5L",
+        "url": "https://www.arcaplanet.it/cat-rina-benatural-lettiera-per-gatti-al-tofu-te-verde-21216/p",
+        "price": {
+          "current": 10.19,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 1.8527272727272726,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "cat-rina-benatural-lettiera-per-gatti-al-tofu-te-verde-21216p",
+        "name": "Cat&Rina Benatural Lettiera per Gatti al Tofu Tè  Verde",
+        "path": "/cat-rina-benatural-lettiera-per-gatti-al-tofu-te-verde-21216/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23307",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "22276",
+    "sku": "22276",
+    "gtin": "10169787",
+    "title": "Almo Nature Plant-based Lettiera per Gatto",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/almo-nature-lettiera-natural-cat-litter-22276/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290222/LETTIERA_4kg_TREQUARTI-10169787.jpg?v=638332344639570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315820/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-1.jpg?v=638742784445500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315821/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-2.jpg?v=638742784546700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315822/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-3.jpg?v=638742784622970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315823/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-4.jpg?v=638742784694870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315824/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-5.jpg?v=638742784758900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315825/Almo-Nature-Plant-based-Lettiera-per-Gatto-10169787-6.jpg?v=638742784838270000"
+    ],
+    "price": {
+      "current": 12.95,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.2375,
+        "unit": "litro"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22276",
+        "sku": "22276",
+        "gtin": "10169787",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/almo-nature-lettiera-natural-cat-litter-22276/p",
+        "price": {
+          "current": 12.95,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 3.2375,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "almo-nature-lettiera-natural-cat-litter-22276p",
+        "name": "Almo Nature Plant-based Lettiera per Gatto",
+        "path": "/almo-nature-lettiera-natural-cat-litter-22276/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24358",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "22464",
+    "sku": "22464",
+    "gtin": "10170033",
+    "title": "Piripù Lettiera Naturale",
+    "brand": "PIRIPU",
+    "url": "https://www.arcaplanet.it/piripu-lettiera-naturale-6l-22464/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290791/Piripu-lettiera-naturale-6L-10170033--1-.jpg?v=638339981621070000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.5008347245409015,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22464",
+        "sku": "22464",
+        "gtin": "10170033",
+        "title": "6L",
+        "url": "https://www.arcaplanet.it/piripu-lettiera-naturale-6l-22464/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 1.5008347245409015,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "piripu-lettiera-naturale-6l-22464p",
+        "name": "Piripù Lettiera Naturale",
+        "path": "/piripu-lettiera-naturale-6l-22464/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24521",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "25495",
+    "sku": "25495",
+    "gtin": "1000000000116",
+    "title": "Kit Risparmio 4x5.5L Cat&Rina Lettiera Tofu",
+    "brand": "CATRINA",
+    "url": "https://www.arcaplanet.it/kit-risparmio-4x5-5l-caterina-lettiera-tofu-25495/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310056/Kit-Risparmio-4x5.5L-Cat-Rina-Lettiera-Tofu1000000000116-1.jpg?v=638666814089300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310057/Kit-Risparmio-4x5.5L-Cat-Rina-Lettiera-Tofu1000000000116-2.png?v=638666814360230000"
+    ],
+    "price": {
+      "current": 40.99,
+      "original": 47.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8631818181818183,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25495",
+        "sku": "25495",
+        "gtin": "1000000000116",
+        "title": "CARBONI ATTIVI",
+        "url": "https://www.arcaplanet.it/kit-risparmio-4x5-5l-caterina-lettiera-tofu-25495/p",
+        "price": {
+          "current": 40.99,
+          "original": 47.96,
+          "pricePerUnit": {
+            "value": 1.8631818181818183,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-4x5-5l-caterina-lettiera-tofu-25495p",
+        "name": "Kit Risparmio 4x5.5L Cat&Rina Lettiera Tofu",
+        "path": "/kit-risparmio-4x5-5l-caterina-lettiera-tofu-25495/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27506",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "25531",
+    "sku": "25531",
+    "gtin": "1000000000152",
+    "title": "Kit Risparmio 5x2.27KG Almo Nature Lettiera Gatto",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-5x2-27kg-almo-nature-lettiera-gatto-25531/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310246/Kit-Risparmio-5x2.27KG-Almo-Nature-Lettiera-Gatto-1000000000152.jpg?v=638670886347100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310243/Kit-Risparmio-5x2.27KG-Almo-Nature-Lettiera-Gatto-1000000000152-2.png?v=638670873779530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310245/Kit-Risparmio-5x2.27KG-Almo-Nature-Lettiera-Gatto-1000000000152-3.jpg?v=638670873990730000"
+    ],
+    "price": {
+      "current": 40.99,
+      "original": 64.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.6114537444933923,
+        "unit": "litro"
+      },
+      "discountPercentage": 37
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25531",
+        "sku": "25531",
+        "gtin": "1000000000152",
+        "title": "PLANT BASED",
+        "url": "https://www.arcaplanet.it/kit-risparmio-5x2-27kg-almo-nature-lettiera-gatto-25531/p",
+        "price": {
+          "current": 40.99,
+          "original": 64.95,
+          "pricePerUnit": {
+            "value": 3.6114537444933923,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-5x2-27kg-almo-nature-lettiera-gatto-25531p",
+        "name": "Kit Risparmio 5x2.27KG Almo Nature Lettiera Gatto",
+        "path": "/kit-risparmio-5x2-27kg-almo-nature-lettiera-gatto-25531/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27542",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "25532",
+    "sku": "25532",
+    "gtin": "1000000000153",
+    "title": "Kit Risparmio 3x3.5KG  Lovedi Gatto Lettiera Natural Eco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x3-5kg-lovedi-gatto-lettiera-natural-eco-25532/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310322/Kit-Risparmio-3x3.5KG-Lovedi-Gatto-Lettiera-Natural-Eco-1000000000153.jpg?v=638671059848670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310323/Kit-Risparmio-3x3.5KG-Lovedi-Gatto-Lettiera-Natural-Eco-1000000000153-2.jpg?v=638671059988600000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 26.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.189523809523809,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25532",
+        "sku": "25532",
+        "gtin": "1000000000153",
+        "title": "MAIS",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x3-5kg-lovedi-gatto-lettiera-natural-eco-25532/p",
+        "price": {
+          "current": 22.99,
+          "original": 26.97,
+          "pricePerUnit": {
+            "value": 2.189523809523809,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-3x3-5kg-lovedi-gatto-lettiera-natural-eco-25532p",
+        "name": "Kit Risparmio 3x3.5KG  Lovedi Gatto Lettiera Natural Eco",
+        "path": "/kit-risparmio-3x3-5kg-lovedi-gatto-lettiera-natural-eco-25532/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27543",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "25554",
+    "sku": "25554",
+    "gtin": "1000000000175",
+    "title": "Kit Risparmio 2x10L Perfect Lettiera Gatto Eco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x10l-perfect-lettiera-gatto-eco-25554/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310248/Kit-Risparmio-2x10L-Perfect-Lettiera-Gatto-Eco-1000000000175.jpg?v=638670897268030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310249/Kit-Risparmio-2x10L-Perfect-Lettiera-Gatto-Eco-1000000000175-2.jpg?v=638670897407200000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.3862359550561796,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25554",
+        "sku": "25554",
+        "gtin": "1000000000175",
+        "title": "CELLULOSA",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x10l-perfect-lettiera-gatto-eco-25554/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.98,
+          "pricePerUnit": {
+            "value": 2.3862359550561796,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x10l-perfect-lettiera-gatto-eco-25554p",
+        "name": "Kit Risparmio 2x10L Perfect Lettiera Gatto Eco",
+        "path": "/kit-risparmio-2x10l-perfect-lettiera-gatto-eco-25554/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27565",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "25558",
+    "sku": "25558",
+    "gtin": "1000000000179",
+    "title": "Kit Risparmio 3x6L Perfect Lettiera Gatto Agglomerante",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x6l-perfect-lettiera-gatto-agglomerante-25558/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310268/Kit-Risparmio-3x6L-Perfect-Lettiera-Gatto-Agglomerante-1000000000179.jpg?v=638670932548330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310269/Kit-Risparmio-3x6L-Perfect-Lettiera-Gatto-Agglomerante-1000000000179-2.jpg?v=638670932640500000"
+    ],
+    "price": {
+      "current": 38.97,
+      "original": 38.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.1686143572621037,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "25558",
+        "sku": "25558",
+        "gtin": "1000000000179",
+        "title": "VEGETALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x6l-perfect-lettiera-gatto-agglomerante-25558/p",
+        "price": {
+          "current": 38.97,
+          "original": 38.97,
+          "pricePerUnit": {
+            "value": 2.1686143572621037,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-3x6l-perfect-lettiera-gatto-agglomerante-25558p",
+        "name": "Kit Risparmio 3x6L Perfect Lettiera Gatto Agglomerante",
+        "path": "/kit-risparmio-3x6l-perfect-lettiera-gatto-agglomerante-25558/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27569",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "26641",
+    "sku": "26641",
+    "gtin": "1000000000781",
+    "title": "Kit Risparmio 2x20L Perfect Lettiera Gatto Eco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x20l-perfect-lettiera-gatto-eco-26641/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314943/Kit-Risparmio-2x20L-Perfect-Lettiera-Gatto-Eco-1000000000781x2.jpg?v=638732235465400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314944/Kit-Risparmio-2x20L-Perfect-Lettiera-Gatto-Eco-1000000000781.png?v=638732235547330000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 53.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2253626813406704,
+        "unit": "litro"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26641",
+        "sku": "26641",
+        "gtin": "1000000000781",
+        "title": "AGGLOMERANTE VEGETALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x20l-perfect-lettiera-gatto-eco-26641/p",
+        "price": {
+          "current": 48.99,
+          "original": 53.98,
+          "pricePerUnit": {
+            "value": 1.2253626813406704,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x20l-perfect-lettiera-gatto-eco-26641p",
+        "name": "Kit Risparmio 2x20L Perfect Lettiera Gatto Eco",
+        "path": "/kit-risparmio-2x20l-perfect-lettiera-gatto-eco-26641/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "26645",
+    "sku": "26645",
+    "gtin": "1000000000785",
+    "title": "Kit Risparmio 2x10L Perfect Lettiera Gatto Agglomerante Eco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x10l-perfect-lettiera-gatto-agglomerante-eco-26645/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314983/Kit-Risparmio-2x10L-Perfect-Lettiera-Gatto-Agglomerante-Eco-x2.jpg?v=638732354103770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314984/Kit-Risparmio-2x10L-Perfect-Lettiera-Gatto-Agglomerante-Eco-1000000000785.png?v=638732354189330000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 35.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.4920398009950246,
+        "unit": "litro"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26645",
+        "sku": "26645",
+        "gtin": "1000000000785",
+        "title": "AGGLOMERANTE VEGETALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x10l-perfect-lettiera-gatto-agglomerante-eco-26645/p",
+        "price": {
+          "current": 29.99,
+          "original": 35.98,
+          "pricePerUnit": {
+            "value": 1.4920398009950246,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x10l-perfect-lettiera-gatto-agglomerante-eco-26645p",
+        "name": "Kit Risparmio 2x10L Perfect Lettiera Gatto Agglomerante Eco",
+        "path": "/kit-risparmio-2x10l-perfect-lettiera-gatto-agglomerante-eco-26645/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28636",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "26646",
+    "sku": "26646",
+    "gtin": "1000000000786",
+    "title": "Kit Risparmio 6x6L Next Lettiera Gatto Vegetale",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x6l-next-lettiera-gatto-vegetale-26646/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315013/Kit-Risparmio-6x6L-Next-Lettiera-Gatto-Vegetale-1000000000786x6.jpg?v=638732396701330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315014/Kit-Risparmio-6x6L-Next-Lettiera-Gatto-Vegetale-1000000000786.png?v=638732396772470000"
+    ],
+    "price": {
+      "current": 43.99,
+      "original": 65.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1075025176233637,
+        "unit": "litro"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26646",
+        "sku": "26646",
+        "gtin": "1000000000786",
+        "title": "AGGLOMERANTE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x6l-next-lettiera-gatto-vegetale-26646/p",
+        "price": {
+          "current": 43.99,
+          "original": 65.94,
+          "pricePerUnit": {
+            "value": 1.1075025176233637,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-6x6l-next-lettiera-gatto-vegetale-26646p",
+        "name": "Kit Risparmio 6x6L Next Lettiera Gatto Vegetale",
+        "path": "/kit-risparmio-6x6l-next-lettiera-gatto-vegetale-26646/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28637",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "26647",
+    "sku": "26647",
+    "gtin": "1000000000787",
+    "title": "Kit Risparmio 5x10L Next Lettiera Gatto Vegetale",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-5x10l-next-lettiera-gatto-vegetale-26647/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315031/Kit-Risparmio-5x10L-Next-Lettiera-Gatto-Vegetale-1000000000787x5.jpg?v=638732442156270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315032/Kit-Risparmio-5x10L-Next-Lettiera-Gatto-Vegetale-1000000000787.png?v=638732442242970000"
+    ],
+    "price": {
+      "current": 64.99,
+      "original": 84.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.3011011011011009,
+        "unit": "litro"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26647",
+        "sku": "26647",
+        "gtin": "1000000000787",
+        "title": "ECO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-5x10l-next-lettiera-gatto-vegetale-26647/p",
+        "price": {
+          "current": 64.99,
+          "original": 84.95,
+          "pricePerUnit": {
+            "value": 1.3011011011011009,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-5x10l-next-lettiera-gatto-vegetale-26647p",
+        "name": "Kit Risparmio 5x10L Next Lettiera Gatto Vegetale",
+        "path": "/kit-risparmio-5x10l-next-lettiera-gatto-vegetale-26647/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28638",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  },
+  {
+    "id": "26654",
+    "sku": "26654",
+    "gtin": "1000000000794",
+    "title": "Kit Risparmio 2x5.5KG Expecial Lettiera Gatto Universale",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x5-5kg-expecial-lettiera-gatto-universale-26654/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315046/Kit-Risparmio-2x5.5KG-Expecial-Lettiera-Gatto-Universale-1000000000794x2.jpg?v=638733083406570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315047/expecial-lettiera-universal-5-5-kg_risultato.png?v=638733083491200000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 19.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.4562841530054644,
+        "unit": "litro"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26654",
+        "sku": "26654",
+        "gtin": "1000000000794",
+        "title": "PELLET",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x5-5kg-expecial-lettiera-gatto-universale-26654/p",
+        "price": {
+          "current": 15.99,
+          "original": 19.98,
+          "pricePerUnit": {
+            "value": 1.4562841530054644,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbievegetale",
+        "name": "Vegetale",
+        "path": "/gatto/sabbie/vegetale/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x5-5kg-expecial-lettiera-gatto-universale-26654p",
+        "name": "Kit Risparmio 2x5.5KG Expecial Lettiera Gatto Universale",
+        "path": "/kit-risparmio-2x5-5kg-expecial-lettiera-gatto-universale-26654/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28645",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:38:24.265Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/vegetale/"
+  }
+]

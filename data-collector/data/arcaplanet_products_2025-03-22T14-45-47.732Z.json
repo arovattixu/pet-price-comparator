@@ -1,0 +1,2843 @@
+[
+  {
+    "node": {
+      "id": "6783",
+      "slug": "next-cat-sterilised-vaschetta-multipack-12x85g-6783",
+      "sku": "6783",
+      "name": "POLLO E PESCE AZZURO",
+      "brand": {
+        "brandName": "NEXT",
+        "name": "NEXT"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "ee5cc97a904be4f37e53eb3b62dd5f35",
+          "name": "Weight (G)",
+          "value": "12X85G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10130148",
+      "productSpecifications": {
+        "itemId": "6783",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Next Cat Sterilised Vaschetta Multipack 12x85G",
+        "productGroupID": "6624",
+        "hasVariant": [
+          {
+            "sku": "6783",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "14468",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/294021/https---www.arcaplanet.it-vtex-images-10130148_1.jpg?v=638412750165530000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/294023/next-cat-sterilised-pollo-pesceazzuro-12x85g-razione.jpg?v=638412752401930000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 12.99,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 12.99,
+            "listPrice": 12.99,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.02,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/next-cat-sterilised-vaschetta-multipack-12x85g-6783/p",
+            "name": "Next Cat Sterilised Vaschetta Multipack 12x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "2011",
+      "slug": "natural-trainer-kitten-busta-multipack-12x85g-2011",
+      "sku": "2011",
+      "name": "TACCHINO",
+      "brand": {
+        "brandName": "NATURAL TRAINER",
+        "name": "NATURAL TRAINER"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "7b006f8c13e5f05b564804e50aa0e2a4",
+          "name": "Flavour",
+          "value": "TACCHINO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10118680",
+      "productSpecifications": {
+        "itemId": "2011",
+        "measurementUnit": "un",
+        "unitMultiplier": 12
+      },
+      "isVariantOf": {
+        "name": "Natural Trainer Kitten Busta Multipack 12x85G",
+        "productGroupID": "12393",
+        "hasVariant": [
+          {
+            "sku": "2011",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "21096",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "21098",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2206",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302773/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--1-.jpg?v=638537853970070000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302774/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--2-.jpg?v=638537854051470000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302775/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--3-.jpg?v=638537854149270000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302776/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--4-.jpg?v=638537854246700000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302777/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--5-.jpg?v=638537854318770000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302779/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--6-.jpg?v=638537854415570000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302781/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--7-.jpg?v=638537854514430000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 0.83,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 0.83,
+            "listPrice": 1.29,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.02,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/natural-trainer-kitten-busta-multipack-12x85g-2011/p",
+            "name": "Natural Trainer Kitten Busta Multipack 12x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "20703",
+      "slug": "virtus-cat-natural-busta-multipack-6x70g-20703",
+      "sku": "20703",
+      "name": "TONNO",
+      "brand": {
+        "brandName": "VIRTUS",
+        "name": "VIRTUS"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "af98aeb481bd696f34ead7c1e8d51c81",
+          "name": "Weight (G)",
+          "value": "6X70G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10166289",
+      "productSpecifications": {
+        "itemId": "20703",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Virtus Cat Natural Busta Multipack 6X70G",
+        "productGroupID": "22820",
+        "hasVariant": [
+          {
+            "sku": "20703",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20710",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20706",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20704",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20712",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20705",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20709",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20707",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20708",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/280930/Virtus-Cat_pouch-naturali-70g_multi_nature_atlantic--1-.jpg?v=638121421926400000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/280929/Virtus-Cat_pouch-naturali-70g_-nature-atlantic-formula-Vista-corrente--1-.jpg?v=638121421719100000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 7.5,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 7.5,
+            "listPrice": 7.5,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.42,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/virtus-cat-natural-busta-multipack-6x70g-20703/p",
+            "name": "Virtus Cat Natural Busta Multipack 6X70G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "8426",
+      "slug": "gourmet-perle-gatto-multipack-60x85g-8426",
+      "sku": "8426",
+      "name": "MIX CARNE E PESCE",
+      "brand": {
+        "brandName": "GOURMET",
+        "name": "GOURMET"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "6f55ea6756cbfb1948c37dcac7806a91",
+          "name": "Weight (G)",
+          "value": "60X85G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10110755",
+      "productSpecifications": {
+        "itemId": "8426",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Gourmet Perle Filettini in Salsa Cat Busta Multipack 60x85G",
+        "productGroupID": "8253",
+        "hasVariant": [
+          {
+            "sku": "8426",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274367/MAIN.PNG.jpg?v=637955633053070000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274368/PT02.PNG.jpg?v=637955633146630000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274369/PT03.JPG.jpg?v=637955633263630000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274370/PT04.PNG.jpg?v=637955633384800000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274371/PT05.JPG.jpg?v=637955633704500000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274372/PT06.JPG.jpg?v=637955633838270000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 34.99,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 34.99,
+            "listPrice": 46.9,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 5.1,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/gourmet-perle-gatto-multipack-60x85g-8426/p",
+            "name": "Gourmet Perle Filettini in Salsa Cat Busta Multipack 60x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "10360",
+      "slug": "schesir-cat-busta-multipack-6x85g-10360",
+      "sku": "10360",
+      "name": "TONNETTO CON SALMONE",
+      "brand": {
+        "brandName": "SCHESIR",
+        "name": "SCHESIR"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "dd69397afdbc6df0240ad03690de40fd",
+          "name": "Weight (G)",
+          "value": "6X85G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10130773",
+      "productSpecifications": {
+        "itemId": "10360",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Schesir Cat Busta Multipack 6x85G",
+        "productGroupID": "9950",
+        "hasVariant": [
+          {
+            "sku": "10360",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10356",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10347",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10354",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10343",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10357",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10363",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10359",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10362",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10350",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "11050",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10348",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/272479/schesir-tonno-salmone.jpg?v=637904444144470000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/254210/schesir-busta-multipack-tonnetto-salmone-per-gatti-cibo.jpg?v=637545891120170000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/272480/6x85g.png?v=637904444231270000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 7.19,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 7.19,
+            "listPrice": 8.34,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.51,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/schesir-cat-busta-multipack-6x85g-10360/p",
+            "name": "Schesir Cat Busta Multipack 6x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "6463",
+      "slug": "petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463",
+      "sku": "6463",
+      "name": "POLLO",
+      "brand": {
+        "brandName": "PETREET",
+        "name": "PETREET"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "af98aeb481bd696f34ead7c1e8d51c81",
+          "name": "Weight (G)",
+          "value": "6X70G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10118452",
+      "productSpecifications": {
+        "itemId": "6463",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Petreet Natura Cat Le Vellutate Lattina Multipack 6x70G",
+        "productGroupID": "6308",
+        "hasVariant": [
+          {
+            "sku": "6463",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6464",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/208325/Petreet-Multipack-5-1-70g-Vellutate-Pollo.jpg?v=637413970280970000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/212480/https---www.arcaplanet.it-vtex-images-10118452_1.jpg?v=637447295105570000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/270946/petreet-gatto-vellutata-pollo-interno.jpg?v=637853696862470000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 7.19,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 7.19,
+            "listPrice": 7.19,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.42,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463/p",
+            "name": "Petreet Natura Cat Le Vellutate Lattina Multipack 6x70G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "9828",
+      "slug": "stuzzy-cat-pate-vaschetta-100g-9828",
+      "sku": "9828",
+      "name": "PROSCIUTTO",
+      "brand": {
+        "brandName": "STUZZY",
+        "name": "STUZZY"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "0174d1d869e3d1edc339c6b00748a7ff",
+          "name": "Flavour",
+          "value": "PROSCIUTTO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10045309",
+      "productSpecifications": {
+        "itemId": "9828",
+        "measurementUnit": "un",
+        "unitMultiplier": 32
+      },
+      "isVariantOf": {
+        "name": "Stuzzy Cat Vaschetta Multipack 32x100G",
+        "productGroupID": "12485",
+        "hasVariant": [
+          {
+            "sku": "9828",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "1211",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "3341",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "9829",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2211",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "1897",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10081",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "3340",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/315463/Stuzzy-Cat-Vaschetta-Multipack-32x100G-10045309.jpg?v=638741712329070000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 0.62,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 0.62,
+            "listPrice": 0.62,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 3.2,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/stuzzy-cat-pate-vaschetta-100g-9828/p",
+            "name": "Stuzzy Cat Vaschetta Multipack 32x100G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "5804",
+      "slug": "almo-nature-cat-daily-lattina-400g-5804",
+      "sku": "5804",
+      "name": "MANZO",
+      "brand": {
+        "brandName": "ALMO NATURE",
+        "name": "ALMO NATURE"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "fae539c0968c675be1e556912b3f5ca9",
+          "name": "Flavour",
+          "value": "MANZO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10074472",
+      "productSpecifications": {
+        "itemId": "5804",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Almo Nature Daily Cat Lattina 400G",
+        "productGroupID": "12089",
+        "hasVariant": [
+          {
+            "sku": "5804",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "24372",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "24373",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5805",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5806",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5751",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/315785/Almo-Nature-Daily-Cat-Lattina-400G-10074472.jpg?v=638742731045400000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 2.15,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 2.15,
+            "listPrice": 2.15,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.4,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/almo-nature-cat-daily-lattina-400g-5804/p",
+            "name": "Almo Nature Daily Cat Lattina 400G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "23548",
+      "slug": "next-cat-busta-multipack-24x70g-23548",
+      "sku": "23548",
+      "name": "TONNO GAMBERETTI SALMONE ALICI",
+      "brand": {
+        "brandName": "NEXT",
+        "name": "NEXT"
+      },
+      "additionalProperty": [],
+      "gtin": "10173543",
+      "productSpecifications": {
+        "itemId": "23548",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Next Cat Busta Multipack 24x70G",
+        "productGroupID": "25559",
+        "hasVariant": [
+          {
+            "sku": "23548",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "23549",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/305652/Next-Cat-Busta-Multipack-24x70G-10173543-1.jpg?v=638596643293400000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/305653/Next-Cat-Busta-Multipack-24x70G-10173543-2.jpg?v=638596643465700000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/305654/Next-Cat-Busta-Multipack-24x70G-10173543-3.jpg?v=638596643845900000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 23.75,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 23.75,
+            "listPrice": 23.75,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.68,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/next-cat-busta-multipack-24x70g-23548/p",
+            "name": "Next Cat Busta Multipack 24x70G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "5827",
+      "slug": "expecial-cat-pate-lattina-400g-5827",
+      "sku": "5827",
+      "name": "POLLO",
+      "brand": {
+        "brandName": "EXPECIAL",
+        "name": "EXPECIAL"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "ec1296db52d5712f70b48a30faf8a1d4",
+          "name": "Flavour",
+          "value": "POLLO E VERDURE",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10062275",
+      "productSpecifications": {
+        "itemId": "5827",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Expecial Cat Lattina 400G",
+        "productGroupID": "5678",
+        "hasVariant": [
+          {
+            "sku": "5827",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5825",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5826",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "5828",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/249023/expecial-gatto-pate-pollo-e-verdure.jpg?v=637455052212970000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 1.1,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 1.1,
+            "listPrice": 1.1,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.4,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/expecial-cat-pate-lattina-400g-5827/p",
+            "name": "Expecial Cat Lattina 400G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "1389",
+      "slug": "petreet-natura-cat-lattina-multipack-6x70g-1389",
+      "sku": "1389",
+      "name": "TONNO ROSA CON FAGIOLINI",
+      "brand": {
+        "brandName": "PETREET",
+        "name": "PETREET"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "af98aeb481bd696f34ead7c1e8d51c81",
+          "name": "Weight (G)",
+          "value": "6X70G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10065259",
+      "productSpecifications": {
+        "itemId": "1389",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Petreet Natura Cat Lattina Multipack 6x70G",
+        "productGroupID": "6273",
+        "hasVariant": [
+          {
+            "sku": "1389",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6430",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6429",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6437",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6435",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "6436",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/293126/Petreet-Natura-Cat-Lattina-Multipack-6x70G-10065259.jpg?v=638385068088300000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/293127/Petreet-Natura-Cat-Lattina-Multipack-6x70G-10065259..jpg?v=638385068190400000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 7.95,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 7.95,
+            "listPrice": 7.95,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.42,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/petreet-natura-cat-lattina-multipack-6x70g-1389/p",
+            "name": "Petreet Natura Cat Lattina Multipack 6x70G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "2455",
+      "slug": "gourmet-gold-mousse-lattina-85g-2455",
+      "sku": "2455",
+      "name": "POLLO DELICATO",
+      "brand": {
+        "brandName": "GOURMET",
+        "name": "GOURMET"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "4eac5fdf3196b221a8ead7cfde988e46",
+          "name": "Flavour",
+          "value": "POLLO DELICATO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "00000812",
+      "productSpecifications": {
+        "itemId": "2455",
+        "measurementUnit": "un",
+        "unitMultiplier": 24
+      },
+      "isVariantOf": {
+        "name": "Gourmet Gold Mousse Lattina Multipack 24x85G",
+        "productGroupID": "12444",
+        "hasVariant": [
+          {
+            "sku": "2455",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2454",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2456",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2452",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2449",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2468",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2450",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2457",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2453",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "14022",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2451",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "20511",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274071/PT.01.jpg?v=637955408913800000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274072/PT.02.jpg?v=637955409090500000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274073/PT.03.jpg?v=637955409184530000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274074/PT.04.jpg?v=637955409500670000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274075/PT.05.jpg?v=637955409628530000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 0.69,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 0.69,
+            "listPrice": 0.69,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 2.04,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/gourmet-gold-mousse-lattina-85g-2455/p",
+            "name": "Gourmet Gold Mousse Lattina Multipack 24x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "4136",
+      "slug": "next-natural-cat-lattina-multipack-24x150g-4136",
+      "sku": "4136",
+      "name": "TONNO CON PESCE BIANCO",
+      "brand": {
+        "brandName": "NEXT",
+        "name": "NEXT"
+      },
+      "additionalProperty": [],
+      "gtin": "10067641",
+      "productSpecifications": {
+        "itemId": "4136",
+        "measurementUnit": "un",
+        "unitMultiplier": 24
+      },
+      "isVariantOf": {
+        "name": "Next Natural Cat Lattina Multipack 24x150G",
+        "productGroupID": "12228",
+        "hasVariant": [
+          {
+            "sku": "4136",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10000",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "4105",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/293926/NEXT-CAT_Lattina_CAT_TONNO-CON-PESCE-BIANCO-150gr_E1707.jpg?v=638411693909770000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 2.15,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 2.15,
+            "listPrice": 2.15,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 3.6,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/next-natural-cat-lattina-multipack-24x150g-4136/p",
+            "name": "Next Natural Cat Lattina Multipack 24x150G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "15885",
+      "slug": "premiere-meat-menu-per-gatti-adulti-400g-15885",
+      "sku": "15885",
+      "name": "MIX DI CARNE",
+      "brand": {
+        "brandName": "PREMIERE",
+        "name": "PREMIERE"
+      },
+      "additionalProperty": [],
+      "gtin": "10143695",
+      "productSpecifications": {
+        "itemId": "15885",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Premiere Meat Menu Cat Lattina 400G",
+        "productGroupID": "19250",
+        "hasVariant": [
+          {
+            "sku": "15885",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "16941",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "15890",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "19764",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "19816",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "17008",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "17116",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "17134",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "17132",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "17135",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274906/premiere-meat-menu-con-mix-di-carne-400g.jpg?v=637964218276700000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 1.58,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 1.58,
+            "listPrice": 2.1,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 0.4,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/premiere-meat-menu-per-gatti-adulti-400g-15885/p",
+            "name": "Premiere Meat Menu Cat Lattina 400G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "22441",
+      "slug": "expecial-cat-bocconcini-jelly-multipack-96x100g-22441",
+      "sku": "22441",
+      "name": "MIX CARNE E PESCE",
+      "brand": {
+        "brandName": "EXPECIAL",
+        "name": "EXPECIAL"
+      },
+      "additionalProperty": [],
+      "gtin": "10170002",
+      "productSpecifications": {
+        "itemId": "22441",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Expecial Cat Busta Multipack 96X100G",
+        "productGroupID": "24502",
+        "hasVariant": [
+          {
+            "sku": "22441",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/291903/Expecial-Cat-Bocconcini-Jelly-Multipack-96X100G-10170002.jpg?v=638357310249300000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/291904/Expecial-Cat-Bocconcini-Jelly-Multipack-96X100G-10170002.jpg?v=638756482406930000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 48.99,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 48.99,
+            "listPrice": 48.99,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 9.61,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/expecial-cat-bocconcini-jelly-multipack-96x100g-22441/p",
+            "name": "Expecial Cat Busta Multipack 96X100G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "13796",
+      "slug": "monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796",
+      "sku": "13796",
+      "name": "MIX CARNE E PESCE",
+      "brand": {
+        "brandName": "MONGE",
+        "name": "MONGE"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "ee5cc97a904be4f37e53eb3b62dd5f35",
+          "name": "Weight (G)",
+          "value": "12X85G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10139614",
+      "productSpecifications": {
+        "itemId": "13796",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Monge Grill Cat Sterilised Busta Multipack 12x85G",
+        "productGroupID": "15934",
+        "hasVariant": [
+          {
+            "sku": "13796",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/261945/monge-grill-sterilised-vitello-galletto-trota-per-gatto-12x85-g.jpg?v=637660002334200000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 8.99,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 8.99,
+            "listPrice": 8.99,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.02,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796/p",
+            "name": "Monge Grill Cat Sterilised Busta Multipack 12x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "2086",
+      "slug": "schesir-cat-busta-85g-2086",
+      "sku": "2086",
+      "name": "TONNETTO CON AFFETTATO DI POLLO",
+      "brand": {
+        "brandName": "SCHESIR",
+        "name": "SCHESIR"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "6cc2261fc0541d755bcff45f05e3676d",
+          "name": "Flavour",
+          "value": "TONNETTO CON POLLO",
+          "valueReference": "SPECIFICATION"
+        },
+        {
+          "propertyID": "f12b850a7e806a7723aa02b0980aae44",
+          "name": "ERP_Commercial_State",
+          "value": "onSale",
+          "valueReference": "SPECIFICATION"
+        },
+        {
+          "propertyID": "e5342258fbfc2ca7eeb735cf4e16ef42",
+          "name": "ERP_SaleChannel",
+          "value": "ECommerceOnly",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10129853",
+      "productSpecifications": {
+        "itemId": "2086",
+        "measurementUnit": "un",
+        "unitMultiplier": 20
+      },
+      "isVariantOf": {
+        "name": "Schesir Cat Busta Multipack 20x85G",
+        "productGroupID": "2011",
+        "hasVariant": [
+          {
+            "sku": "2086",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "11051",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2087",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10338",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2089",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10339",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2092",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10355",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10361",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10341",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10358",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10349",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10344",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10351",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10346",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10340",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "10353",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/OutOfStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/259901/tonno-pollo2.jpg?v=637607338127630000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/259902/tonno-pollo3.jpg?v=637607338219200000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/259903/tonno-pollo1.jpg?v=637607338460170000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 0,
+        "offers": [
+          {
+            "availability": "https://schema.org/OutOfStock",
+            "price": 1.39,
+            "listPrice": 1.39,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.7,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/schesir-cat-busta-85g-2086/p",
+            "name": "Schesir Cat Busta Multipack 20x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "8326",
+      "slug": "gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326",
+      "sku": "8326",
+      "name": "MIX CARNE",
+      "brand": {
+        "brandName": "GOURMET",
+        "name": "GOURMET"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "a8a584d0983476d10fa29c3921735d37",
+          "name": "Weight (G)",
+          "value": "48X85G",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10129786",
+      "productSpecifications": {
+        "itemId": "8326",
+        "measurementUnit": "un",
+        "unitMultiplier": 1
+      },
+      "isVariantOf": {
+        "name": "Gourmet Gold Tortini con Verdure Cat Lattina Multipack 48x85G",
+        "productGroupID": "8153",
+        "hasVariant": [
+          {
+            "sku": "8326",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274174/MAIN.jpg?v=637955466389400000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274175/PT01.jpg?v=637955466478270000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274176/PT02.jpg?v=637955466989800000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274177/PT03.jpg?v=637955467142400000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274178/PT04.jpg?v=637955467290170000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/274179/PT05.jpg?v=637955467392500000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 27.99,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 27.99,
+            "listPrice": 27.99,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 4.08,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326/p",
+            "name": "Gourmet Gold Tortini con Verdure Cat Lattina Multipack 48x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "2199",
+      "slug": "stuzzy-cat-monoprotein-busta-85g-2199",
+      "sku": "2199",
+      "name": "PROSCIUTTO",
+      "brand": {
+        "brandName": "STUZZY",
+        "name": "STUZZY"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "0174d1d869e3d1edc339c6b00748a7ff",
+          "name": "Flavour",
+          "value": "PROSCIUTTO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10079307",
+      "productSpecifications": {
+        "itemId": "2199",
+        "measurementUnit": "un",
+        "unitMultiplier": 20
+      },
+      "isVariantOf": {
+        "name": "Stuzzy Monoprotein Cat Busta Multipack 20x85G",
+        "productGroupID": "12890",
+        "hasVariant": [
+          {
+            "sku": "2199",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2197",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2198",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2201",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2200",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/315472/Stuzzy-Monoprotein-Cat-Busta-Multipack-20x85G-10079307.jpg?v=638741719536270000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 1.05,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 1.05,
+            "listPrice": 1.39,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.7,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/stuzzy-cat-monoprotein-busta-85g-2199/p",
+            "name": "Stuzzy Monoprotein Cat Busta Multipack 20x85G"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "node": {
+      "id": "2009",
+      "slug": "natural-trainer-gatto-sterilised-busta-85g-2009",
+      "sku": "2009",
+      "name": "MANZO",
+      "brand": {
+        "brandName": "NATURAL TRAINER",
+        "name": "NATURAL TRAINER"
+      },
+      "additionalProperty": [
+        {
+          "propertyID": "fae539c0968c675be1e556912b3f5ca9",
+          "name": "Flavour",
+          "value": "MANZO",
+          "valueReference": "SPECIFICATION"
+        }
+      ],
+      "gtin": "10118683",
+      "productSpecifications": {
+        "itemId": "2009",
+        "measurementUnit": "un",
+        "unitMultiplier": 12
+      },
+      "isVariantOf": {
+        "name": "Natural Trainer Cat Sterilised Busta Multipack 12x85G",
+        "productGroupID": "12346",
+        "hasVariant": [
+          {
+            "sku": "2009",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2148",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2205",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "2010",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "23478",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          },
+          {
+            "sku": "23479",
+            "offers": {
+              "offers": [
+                {
+                  "availability": "https://schema.org/InStock"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "image": [
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302721/natural-trainer-gatto-sterilised-busta-85g-10118683--1-.jpg?v=638537806292300000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302722/natural-trainer-gatto-sterilised-busta-85g-10118683--2-.jpg?v=638537806378130000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302723/natural-trainer-gatto-sterilised-busta-85g-10118683--3-.jpg?v=638537806472500000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302724/natural-trainer-gatto-sterilised-busta-85g-10118683--4-.jpg?v=638537806551300000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302725/natural-trainer-gatto-sterilised-busta-85g-10118683--5-.jpg?v=638537806652130000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302726/natural-trainer-gatto-sterilised-busta-85g-10118683--6-.jpg?v=638537806743970000",
+          "alternateName": ""
+        },
+        {
+          "url": "https://arcaplanet.vtexassets.com/arquivos/ids/302727/natural-trainer-gatto-sterilised-busta-85g-10118683--7-.jpg?v=638537806836330000",
+          "alternateName": ""
+        }
+      ],
+      "offers": {
+        "lowPrice": 0.83,
+        "offers": [
+          {
+            "availability": "https://schema.org/InStock",
+            "price": 0.83,
+            "listPrice": 1.29,
+            "seller": {
+              "identifier": "1"
+            }
+          }
+        ]
+      },
+      "productBadges": [
+        {
+          "id": "2867",
+          "name": "Occasione"
+        }
+      ],
+      "stockKeepingUnit": {
+        "pricePerUnit": {
+          "multiplier": 1.02,
+          "unit": "KG"
+        },
+        "isKit": false,
+        "kitComponents": []
+      },
+      "breadcrumbList": {
+        "itemListElement": [
+          {
+            "item": "/gatto/",
+            "name": "Gatto"
+          },
+          {
+            "item": "/gatto/cibo-umido/",
+            "name": "Cibo Umido"
+          },
+          {
+            "item": "/natural-trainer-gatto-sterilised-busta-85g-2009/p",
+            "name": "Natural Trainer Cat Sterilised Busta Multipack 12x85G"
+          }
+        ]
+      }
+    }
+  }
+]

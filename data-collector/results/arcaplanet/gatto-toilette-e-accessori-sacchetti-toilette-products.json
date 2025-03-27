@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "6238",
+    "sku": "6238",
+    "gtin": "00005543",
+    "title": "Trixie Sacchetti Nylon per Vaschetta 10Pz",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-sacchetti-nylon-x-vaschetta-10pz-59x46cm-6238/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253447/trixie-sacchetto.jpg?v=637522624626700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218390/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-sacchetti-l-cassetta-igienica-46-x-59-cm-trig69_1.jpg?v=637454597214230000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6238",
+        "sku": "6238",
+        "gtin": "00005543",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-sacchetti-nylon-x-vaschetta-10pz-59x46cm-6238/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-sacchetti-nylon-x-vaschetta-10pz-59x46cm-6238p",
+        "name": "Trixie Sacchetti Nylon per Vaschetta 10Pz",
+        "path": "/trixie-cane-sacchetti-nylon-x-vaschetta-10pz-59x46cm-6238/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6084",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "10549",
+    "sku": "10549",
+    "gtin": "10045809",
+    "title": "Sacchetti Lettiera Universale",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/sacchetti-lettiera-universale-10549/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221270/sacchetti-lettiera-universale.jpg?v=637454709549530000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10549",
+        "sku": "10549",
+        "gtin": "10045809",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/sacchetti-lettiera-universale-10549/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "sacchetti-lettiera-universale-10549p",
+        "name": "Sacchetti Lettiera Universale",
+        "path": "/sacchetti-lettiera-universale-10549/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10143",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "11624",
+    "sku": "11624",
+    "gtin": "00021942",
+    "title": "Ferplast Sacchetti Igienici Maxi Bella",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-sacchetti-igienici-maxi-bella-10-pezzi-11624/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254417/ferplast-sacchetti-igienici-maxi-bella.jpg?v=637550442423530000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 524.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11624",
+        "sku": "11624",
+        "gtin": "00021942",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/ferplast-sacchetti-igienici-maxi-bella-10-pezzi-11624/p",
+        "price": {
+          "current": 10.49,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 524.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "ferplast-sacchetti-igienici-maxi-bella-10-pezzi-11624p",
+        "name": "Ferplast Sacchetti Igienici Maxi Bella",
+        "path": "/ferplast-sacchetti-igienici-maxi-bella-10-pezzi-11624/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11650",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "11588",
+    "sku": "11588",
+    "gtin": "10110796",
+    "title": "Sacchetti Ricambio Litterlocker refills",
+    "brand": "LITTERLOCKER",
+    "url": "https://www.arcaplanet.it/refills-per-litterlocker-11588/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254499/litterlocker-refills-sacchetti-ricambio.jpg?v=637552029773730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265328/refill_litterlocker_steps01_0.jpg?v=637726594097000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265331/refill_litterlocker_steps02_0.jpg?v=637726594306470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265333/refill_litterlocker_steps03_0.jpg?v=637726594513700000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11588",
+        "sku": "11588",
+        "gtin": "10110796",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/refills-per-litterlocker-11588/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "refills-per-litterlocker-11588p",
+        "name": "Sacchetti Ricambio Litterlocker refills",
+        "path": "/refills-per-litterlocker-11588/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13400",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "15493",
+    "sku": "15493",
+    "gtin": "10077202",
+    "title": "Sacchetti per Lettiera XL",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-sacchetti-per-lettiera-xl-15493/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273229/croci-sacchetti-igienici-per-lettiera-xl.jpg?v=637922683966030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273230/croci-sacchetti-lettiera-pack.jpg?v=637922684056470000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15493",
+        "sku": "15493",
+        "gtin": "10077202",
+        "title": "10 PZ",
+        "url": "https://www.arcaplanet.it/croci-sacchetti-per-lettiera-xl-15493/p",
+        "price": {
+          "current": 8.49,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 8.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "croci-sacchetti-per-lettiera-xl-15493p",
+        "name": "Sacchetti per Lettiera XL",
+        "path": "/croci-sacchetti-per-lettiera-xl-15493/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17630",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "15695",
+    "sku": "15695",
+    "gtin": "10141216",
+    "title": "Sacchetti Lettiera con Maniglia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-sacchetti-lettiera-con-maniglia-15695/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277070/lovedi-sacchetti-igienici-maniglia-xl.jpg?v=638042095258900000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "15695",
+        "sku": "15695",
+        "gtin": "10141216",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/lovedi-sacchetti-lettiera-con-maniglia-15695/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-sacchetti-lettiera-con-maniglia-15695p",
+        "name": "Sacchetti Lettiera con Maniglia",
+        "path": "/lovedi-sacchetti-lettiera-con-maniglia-15695/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17833",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "18461",
+    "sku": "18461",
+    "gtin": "10148257",
+    "title": "Anione Sacchetti per Lettiere",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-sacchetti-per-lettiere-18461/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283445/043b1925269c6d1eb956f8285ed9575876d204c5_10fa383b412aa2b4b096bbef961e9133be8aaa51--1-.jpg?v=638163834543400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283446/9dc0a976174ca447d9a413cd8d1eadee34bf6e4f_7b31b874a4afdb0c380f00e51eaa1e357c979e4d--1-.jpg?v=638163834603730000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 324.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18461",
+        "sku": "18461",
+        "gtin": "10148257",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-sacchetti-per-lettiere-18461/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 324.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-sacchetti-per-lettiere-18461p",
+        "name": "Anione Sacchetti per Lettiere",
+        "path": "/anione-sacchetti-per-lettiere-18461/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20573",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "18893",
+    "sku": "18893",
+    "gtin": "10151311",
+    "title": "Anione Sacchetti per Lettiera Coulisse",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-sacchetti-per-lettiera-coulisse-18893/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283452/c94ac97d229c40e7732c844b62b25a0db46894d9_93ecd6cf75b124015b8a42b8205fec19dfe34e1e.jpg?v=638163843561870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283453/61b38352a65d77a0fd2423b9cd4127fe813d0c06_c675bfa1675b89a13715eb387d1581f1025c5cb7.jpg?v=638163843634170000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18893",
+        "sku": "18893",
+        "gtin": "10151311",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-sacchetti-per-lettiera-coulisse-18893/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-sacchetti-per-lettiera-coulisse-18893p",
+        "name": "Anione Sacchetti per Lettiera Coulisse",
+        "path": "/anione-sacchetti-per-lettiera-coulisse-18893/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21053",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "19101",
+    "sku": "19101",
+    "gtin": "10149841",
+    "title": "Anione Ricarica Sacchetti per Lettiera",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ricarica-sacchetti-per-lettiera-19101/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286493/1275838.jpg?v=638209663297970000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19101",
+        "sku": "19101",
+        "gtin": "10149841",
+        "title": "3PZ",
+        "url": "https://www.arcaplanet.it/anione-ricarica-sacchetti-per-lettiera-19101/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "3 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "anione-ricarica-sacchetti-per-lettiera-19101p",
+        "name": "Anione Ricarica Sacchetti per Lettiera",
+        "path": "/anione-ricarica-sacchetti-per-lettiera-19101/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      }
+    ],
+    "metadata": {
+      "groupId": "21219",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "22125",
+    "sku": "22125",
+    "gtin": "10169663",
+    "title": "Ricariche Per Litter Loker Genie Ottagonale MT.6",
+    "brand": "LITTERLOCKER",
+    "url": "https://www.arcaplanet.it/ricariche-litter-loker-genie-ottagonale-6mt-22125/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289920/LG_I000489_FR_01.jpg?v=638315758921570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289921/LG_I000489_FR_02.jpg?v=638315759052400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289922/LG_I000489_FR_03.jpg?v=638315759125500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289923/LG_I000489_FR_04.jpg?v=638315759211470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289924/LG_I000489_FR_05.jpg?v=638315759300370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289925/LG_I000489_FR_06.jpg?v=638315759376030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289926/LG_I000489_FR_07.jpg?v=638315759455070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289927/LG_I000489_FR_08.jpg?v=638315759537400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289928/LG_I000489_FR_09.jpg?v=638315759655230000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22125",
+        "sku": "22125",
+        "gtin": "10169663",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/ricariche-litter-loker-genie-ottagonale-6mt-22125/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "ricariche-litter-loker-genie-ottagonale-6mt-22125p",
+        "name": "Ricariche Per Litter Loker Genie Ottagonale MT.6",
+        "path": "/ricariche-litter-loker-genie-ottagonale-6mt-22125/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24207",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "22163",
+    "sku": "22163",
+    "gtin": "10169664",
+    "title": "Ricarica per Litter Genie Ottagonale 3PZ MT.6",
+    "brand": "LITTERLOCKER",
+    "url": "https://www.arcaplanet.it/ricarica-litter-genie-ottagonale-3pz-6mt-22163/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289929/LG_I000536_FR_01.jpg?v=638315760905500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289930/LG_I000536_FR_02.jpg?v=638315760989000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289931/LG_I000536_FR_03.jpg?v=638315761060400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289932/LG_I000536_FR_04.jpg?v=638315761133070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289933/LG_I000536_FR_05.jpg?v=638315761205970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289934/LG_I000536_FR_06.jpg?v=638315761273930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289935/LG_I000536_FR_07.jpg?v=638315761352400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289936/LG_I000536_FR_08.jpg?v=638315761435670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289937/LG_I000536_FR_09.jpg?v=638315761527500000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22163",
+        "sku": "22163",
+        "gtin": "10169664",
+        "title": "3PZ",
+        "url": "https://www.arcaplanet.it/ricarica-litter-genie-ottagonale-3pz-6mt-22163/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "ricarica-litter-genie-ottagonale-3pz-6mt-22163p",
+        "name": "Ricarica per Litter Genie Ottagonale 3PZ MT.6",
+        "path": "/ricarica-litter-genie-ottagonale-3pz-6mt-22163/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24245",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  },
+  {
+    "id": "24053",
+    "sku": "24053",
+    "gtin": "10174188",
+    "title": "Yes! Sacchetti Lettiera",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-sacchetti-lettiera-24053/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307083/Yes--Sacchetti-Lettiera-10174188.jpg?v=638630274500270000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.14,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 157,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24053",
+        "sku": "24053",
+        "gtin": "10174188",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/yes-sacchetti-lettiera-24053/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.14,
+          "pricePerUnit": {
+            "value": 157,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessorisacchetti-toilette",
+        "name": "Sacchetti Toilette",
+        "path": "/gatto/toilette-e-accessori/sacchetti-toilette/",
+        "level": 4
+      },
+      {
+        "id": "yes-sacchetti-lettiera-24053p",
+        "name": "Yes! Sacchetti Lettiera",
+        "path": "/yes-sacchetti-lettiera-24053/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26064",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:54:58.178Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/sacchetti/toilette/"
+  }
+]

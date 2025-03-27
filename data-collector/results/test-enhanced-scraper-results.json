@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "8772",
+    "sku": "8772",
+    "gtin": "10068501",
+    "title": "Monge Natural Superpremium Adult All Breeds con Agnello",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-all-breeds-adult-agnello-riso-patate-8772/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301069/monge-natural-superpremium-adult-all-breeds-con-agnello-10068501--1-.jpg?v=638511838081700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301070/monge-natural-superpremium-adult-all-breeds-con-agnello-10068501--2-.jpg?v=638511838245100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301071/monge-natural-superpremium-adult-all-breeds-con-agnello-10068501--3-.jpg?v=638511838911900000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.162364696086595,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8772",
+        "sku": "8772",
+        "gtin": "10068501",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-all-breeds-adult-agnello-riso-patate-8772/p",
+        "price": {
+          "current": 49.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 4.162364696086595,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-all-breeds-adult-agnello-riso-patate-8772p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Agnello",
+        "path": "/monge-all-breeds-adult-agnello-riso-patate-8772/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7686",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8721",
+    "sku": "8721",
+    "gtin": "10076615",
+    "title": "Monge Natural Superpremium Adult All Breeds con Maiale",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-all-breeds-adult-maiale-riso-patate-8721/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301075/monge-natural-superpremium-adult-all-breeds-con-maiale-10076615--1-.jpg?v=638511846579800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301076/monge-natural-superpremium-adult-all-breeds-con-maiale-10076615--2-.jpg?v=638511846668400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301077/monge-natural-superpremium-adult-all-breeds-con-maiale-10076615--3-.jpg?v=638511846750670000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 53.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.1658333333333335,
+        "unit": "KG"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8721",
+        "sku": "8721",
+        "gtin": "10076615",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-all-breeds-adult-maiale-riso-patate-8721/p",
+        "price": {
+          "current": 49.99,
+          "original": 53.99,
+          "pricePerUnit": {
+            "value": 4.1658333333333335,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-all-breeds-adult-maiale-riso-patate-8721p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Maiale",
+        "path": "/monge-all-breeds-adult-maiale-riso-patate-8721/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7689",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8718",
+    "sku": "8718",
+    "gtin": "10077103",
+    "title": "Monge Natural Superpremium Puppy e Junior All Breeds con Agnello",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-all-breeds-puppy-agnello-e-riso-8718/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301163/monge-natural-superpremium-puppy-junior-all-breeds-con-agnello-10077103--1-.jpg?v=638512106527300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301164/monge-natural-superpremium-puppy-junior-all-breeds-con-agnello-10077103--2-.jpg?v=638512106660600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301165/monge-natural-superpremium-puppy-junior-all-breeds-con-agnello-10077103--3-.jpg?v=638512106739530000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 56.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.1658333333333335,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8718",
+        "sku": "8718",
+        "gtin": "10077103",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-all-breeds-puppy-agnello-e-riso-8718/p",
+        "price": {
+          "current": 49.99,
+          "original": 56.99,
+          "pricePerUnit": {
+            "value": 4.1658333333333335,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-all-breeds-puppy-agnello-e-riso-8718p",
+        "name": "Monge Natural Superpremium Puppy e Junior All Breeds con Agnello",
+        "path": "/monge-all-breeds-puppy-agnello-e-riso-8718/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7692",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8666",
+    "sku": "8666",
+    "gtin": "10077371",
+    "title": "Acana Classic Red",
+    "brand": "ACANA",
+    "url": "https://www.arcaplanet.it/acana-cane-classic-red-8666/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275553/acana-dog-classic-red.jpg?v=637995438970300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278845/Cattura.jpg?v=638094587349900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278846/ACANA-Classics-Feature-Red-Meat-Recipe-Canada-English-EMEA-APAC.jpg?v=638094587490730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278847/ACANA-Classics-Bowl-Image-Red-Meat-Recipe-Canada-English-EMEA-APAC.jpg?v=638094587565570000"
+    ],
+    "price": {
+      "current": 68.9,
+      "original": 74.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.103092783505156,
+        "unit": "KG"
+      },
+      "discountPercentage": 8
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8666",
+        "sku": "8666",
+        "gtin": "10077371",
+        "title": "9.7KG",
+        "url": "https://www.arcaplanet.it/acana-cane-classic-red-8666/p",
+        "price": {
+          "current": 68.9,
+          "original": 74.99,
+          "pricePerUnit": {
+            "value": 7.103092783505156,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "11.4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "acana-cane-classic-red-8666p",
+        "name": "Acana Classic Red",
+        "path": "/acana-cane-classic-red-8666/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8493",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8671",
+    "sku": "8671",
+    "gtin": "10077290",
+    "title": "Acana Pacifica",
+    "brand": "ACANA",
+    "url": "https://www.arcaplanet.it/acana-pacifica-per-cani-8671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270177/acana-pacifica-recipe.jpg?v=637844206974470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300477/acana-pacifica-recipe-razione.jpg?v=638500815504200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300482/acana-pacifica-recipe-ingredienti.jpg?v=638500815922600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300483/acana-pacifica-recipe-benefici.jpg?v=638500816069670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300486/acana-pacifica-recipe-componenti-analitici.jpg?v=638500816404130000"
+    ],
+    "price": {
+      "current": 79.99,
+      "original": 99.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.016666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8671",
+        "sku": "8671",
+        "gtin": "10077290",
+        "title": "11.4KG",
+        "url": "https://www.arcaplanet.it/acana-pacifica-per-cani-8671/p",
+        "price": {
+          "current": 79.99,
+          "original": 99.99,
+          "pricePerUnit": {
+            "value": 7.016666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "11.4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "acana-pacifica-per-cani-8671p",
+        "name": "Acana Pacifica",
+        "path": "/acana-pacifica-per-cani-8671/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8498",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8717",
+    "sku": "8717",
+    "gtin": "10109528",
+    "title": "Monge Natural Superpremium Adult All Breeds con Manzo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-all-breeds-cane-adult-manzo-riso-8717/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301081/monge-natural-superpremium-adult-all-breeds-con-manzo-10109528--1-.jpg?v=638511852149700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301082/monge-natural-superpremium-adult-all-breeds-con-manzo-10109528--2-.jpg?v=638511852238470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301083/monge-natural-superpremium-adult-all-breeds-con-manzo-10109528--3-.jpg?v=638511852402470000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 53.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.0825000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8717",
+        "sku": "8717",
+        "gtin": "10109528",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-all-breeds-cane-adult-manzo-riso-8717/p",
+        "price": {
+          "current": 48.99,
+          "original": 53.99,
+          "pricePerUnit": {
+            "value": 4.0825000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-all-breeds-cane-adult-manzo-riso-8717p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Manzo",
+        "path": "/monge-all-breeds-cane-adult-manzo-riso-8717/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8543",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8775",
+    "sku": "8775",
+    "gtin": "10068869",
+    "title": "Monge Natural Superpremium Adult All Breeds con Anatra",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-cane-adult-anatra-riso-e-patate-12kg-8775/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301087/monge-natural-superpremium-adult-all-breeds-con-anatra-10068869--1-.jpg?v=638511857339800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301088/monge-natural-superpremium-adult-all-breeds-con-anatra-10068869--2-.jpg?v=638511857409270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301089/monge-natural-superpremium-adult-all-breeds-con-anatra-10068869--3-.jpg?v=638511857487530000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 58.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.085904920767306,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8775",
+        "sku": "8775",
+        "gtin": "10068869",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-cane-adult-anatra-riso-e-patate-12kg-8775/p",
+        "price": {
+          "current": 48.99,
+          "original": 58.99,
+          "pricePerUnit": {
+            "value": 4.085904920767306,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-cane-adult-anatra-riso-e-patate-12kg-8775p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Anatra",
+        "path": "/monge-cane-adult-anatra-riso-e-patate-12kg-8775/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8601",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8776",
+    "sku": "8776",
+    "gtin": "10068868",
+    "title": "Monge Natural Superpremium Adult All Breeds con Coniglio",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-all-breeds-adult-coniglio-riso-patate-8776/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301093/monge-natural-superpremium-adult-all-breeds-con-coniglio-10068868--1-.jpg?v=638511862315700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301094/monge-natural-superpremium-adult-all-breeds-con-coniglio-10068868--2-.jpg?v=638511862391230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301095/monge-natural-superpremium-adult-all-breeds-con-coniglio-10068868--3-.jpg?v=638511862465700000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 56.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.1658333333333335,
+        "unit": "KG"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8776",
+        "sku": "8776",
+        "gtin": "10068868",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-all-breeds-adult-coniglio-riso-patate-8776/p",
+        "price": {
+          "current": 49.99,
+          "original": 56.99,
+          "pricePerUnit": {
+            "value": 4.1658333333333335,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-all-breeds-adult-coniglio-riso-patate-8776p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Coniglio",
+        "path": "/monge-all-breeds-adult-coniglio-riso-patate-8776/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8602",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "25796",
+    "sku": "25796",
+    "gtin": "1000000000374",
+    "title": "Monge Natural Superpremium Adult Medium con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-medium-adult-ricco-di-pollo-25796/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311742/monge-natural-superpremium-adult-medium-con-pollo-10069077-1x2.jpg?v=638682129349600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311743/monge-natural-superpremium-adult-medium-con-pollo-10069077--1.png?v=638682129431270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311744/monge-natural-superpremium-adult-medium-con-pollo-10069077--2.jpg?v=638682129591000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311745/monge-natural-superpremium-adult-medium-con-pollo-10069077--3.jpg?v=638682129691830000"
+    ],
+    "price": {
+      "current": 71.98,
+      "original": 95.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.999166666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25796",
+        "sku": "25796",
+        "gtin": "1000000000374",
+        "title": "KIT 2x12KG",
+        "url": "https://www.arcaplanet.it/monge-medium-adult-ricco-di-pollo-25796/p",
+        "price": {
+          "current": 71.98,
+          "original": 95.98,
+          "pricePerUnit": {
+            "value": 2.999166666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-medium-adult-ricco-di-pollo-25796p",
+        "name": "Monge Natural Superpremium Adult Medium con Pollo",
+        "path": "/monge-medium-adult-ricco-di-pollo-25796/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8604",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8779",
+    "sku": "8779",
+    "gtin": "10068870",
+    "title": "Monge Natural Superpremium Hypo Adult All Breeds con Salmone e Tonno",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-cane-hypoallergenic-salmone-e-tonno-8779/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301136/monge-natural-superpremium-hypo-adult-all-breeds-con-salmone-e-tonno-10068870--1-.jpg?v=638512035828830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301137/monge-natural-superpremium-hypo-adult-all-breeds-con-salmone-e-tonno-10068870--2-.jpg?v=638512036020300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301138/monge-natural-superpremium-hypo-adult-all-breeds-con-salmone-e-tonno-10068870--3-.jpg?v=638512036128900000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 55.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.16930775646372,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8779",
+        "sku": "8779",
+        "gtin": "10068870",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-cane-hypoallergenic-salmone-e-tonno-8779/p",
+        "price": {
+          "current": 49.99,
+          "original": 55.99,
+          "pricePerUnit": {
+            "value": 4.16930775646372,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-cane-hypoallergenic-salmone-e-tonno-8779p",
+        "name": "Monge Natural Superpremium Hypo Adult All Breeds con Salmone e Tonno",
+        "path": "/monge-cane-hypoallergenic-salmone-e-tonno-8779/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8605",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8806",
+    "sku": "8806",
+    "gtin": "10077431",
+    "title": "Natural Trainer Adult Medium con Manzo",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/trainer-natural-cane-adult-medium-manzo-e-riso-12kg-8806/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299070/Natural-Trainer-Adult-Medium-con-Manzo-10077431.jpg?v=638477358643170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299072/Natural-Trainer-Adult-Medium-con-Manzo-10077431..jpg?v=638477358705070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299073/Natural-Trainer-Adult-Medium-con-Manzo-10077431-composizione.jpg?v=638477358768000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299075/Natural-Trainer-Adult-Medium-con-Manzo-10077431-caratteristiche.jpg?v=638477358907300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299076/Natural-Trainer-Adult-Medium-con-Manzo-10077431-dosaggio.jpg?v=638477358973200000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 46.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.335279399499583,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8806",
+        "sku": "8806",
+        "gtin": "10077431",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/trainer-natural-cane-adult-medium-manzo-e-riso-12kg-8806/p",
+        "price": {
+          "current": 39.99,
+          "original": 46.99,
+          "pricePerUnit": {
+            "value": 3.335279399499583,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "trainer-natural-cane-adult-medium-manzo-e-riso-12kg-8806p",
+        "name": "Natural Trainer Adult Medium con Manzo",
+        "path": "/trainer-natural-cane-adult-medium-manzo-e-riso-12kg-8806/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "9208",
+    "sku": "9208",
+    "gtin": "10108833",
+    "title": "N&D Pumpkin Adult Medium Maxi Agnello Zucca e Mirtillo",
+    "brand": "N&D",
+    "url": "https://www.arcaplanet.it/n-d-pumpkin-cane-adult-medium-maxi-agnello-zucca-e-mirtillo-9208/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300829/n-d-pumpkin-adult-medium-maxi-agnello-zucca-e-mirtillo-10108833--1-.jpg?v=638508310712900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300830/n-d-pumpkin-adult-medium-maxi-agnello-zucca-e-mirtillo-10108833--2-.jpg?v=638508310787970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300831/n-d-pumpkin-adult-medium-maxi-agnello-zucca-e-mirtillo-10108833--3-.jpg?v=638508310862670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300832/n-d-pumpkin-adult-medium-maxi-agnello-zucca-e-mirtillo-10108833--4-.jpg?v=638508310944400000"
+    ],
+    "price": {
+      "current": 62.99,
+      "original": 67.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.253544620517098,
+        "unit": "KG"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9208",
+        "sku": "9208",
+        "gtin": "10108833",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/n-d-pumpkin-cane-adult-medium-maxi-agnello-zucca-e-mirtillo-9208/p",
+        "price": {
+          "current": 62.99,
+          "original": 67.99,
+          "pricePerUnit": {
+            "value": 5.253544620517098,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "n-d-pumpkin-cane-adult-medium-maxi-agnello-zucca-e-mirtillo-9208p",
+        "name": "N&D Pumpkin Adult Medium Maxi Agnello Zucca e Mirtillo",
+        "path": "/n-d-pumpkin-cane-adult-medium-maxi-agnello-zucca-e-mirtillo-9208/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9028",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8519",
+    "sku": "8519",
+    "gtin": "00003637",
+    "title": "Royal Canin Mini Adult Alimento Completo per Cani Adulti di Piccola Taglia",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-size-mini-per-cani-adulti-8519/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296763/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-1.jpg?v=638455159937970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296764/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-2.jpg?v=638455160026300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296765/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-3.jpg?v=638455160170430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296766/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-4.jpg?v=638455160280500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296767/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-5.jpg?v=638455160633330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296768/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-6.jpg?v=638455160789770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296769/-Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-7.jpg?v=638455160961330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296770/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-8.jpg?v=638455161073730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296771/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-9.jpg?v=638455161225500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296772/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-10.jpg?v=638455161373030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296773/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-11.jpg?v=638455161488300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296774/-Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-12.jpg?v=638455161690870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296775/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-13.jpg?v=638455161828870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296776/Royal-Canin-Mini-Adult-Alimento-Completo-per-Cani-Adulti-di-Piccola-Taglia-00003637-14.jpg?v=638455161923900000"
+    ],
+    "price": {
+      "current": 49.29,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.16125,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8519",
+        "sku": "8519",
+        "gtin": "00003637",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/royal-canin-size-mini-per-cani-adulti-8519/p",
+        "price": {
+          "current": 49.29,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 6.16125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-size-mini-per-cani-adulti-8519p",
+        "name": "Royal Canin Mini Adult Alimento Completo per Cani Adulti di Piccola Taglia",
+        "path": "/royal-canin-size-mini-per-cani-adulti-8519/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14376",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "15014",
+    "sku": "15014",
+    "gtin": "10116966",
+    "title": "N&D Pumpkin Adult Mini Agnello Mirtillo",
+    "brand": "N&D",
+    "url": "https://www.arcaplanet.it/n-d-pumpkin-dog-adult-mini-agnello-mirtillo-15014/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300841/n-d-pumpkin-adult-mini-agnello-mirtillo-10116966--1-.jpg?v=638508316682170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300842/n-d-pumpkin-adult-mini-agnello-mirtillo-10116966--2-.jpg?v=638508316774230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300843/n-d-pumpkin-adult-mini-agnello-mirtillo-10116966--3-.jpg?v=638508316850170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300844/n-d-pumpkin-adult-mini-agnello-mirtillo-10116966--4-.jpg?v=638508316925900000"
+    ],
+    "price": {
+      "current": 39.95,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.707142857142857,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15014",
+        "sku": "15014",
+        "gtin": "10116966",
+        "title": "7KG",
+        "url": "https://www.arcaplanet.it/n-d-pumpkin-dog-adult-mini-agnello-mirtillo-15014/p",
+        "price": {
+          "current": 39.95,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 5.707142857142857,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "7KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "n-d-pumpkin-dog-adult-mini-agnello-mirtillo-15014p",
+        "name": "N&D Pumpkin Adult Mini Agnello Mirtillo",
+        "path": "/n-d-pumpkin-dog-adult-mini-agnello-mirtillo-15014/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14378",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8774",
+    "sku": "8774",
+    "gtin": "10069078",
+    "title": "Monge Natural Superpremium Adult All Breeds con Salmone",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-dog-adult-all-breeds-salmone-e-riso-8774/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301605/monge-natural-superpremium-adult-all-breeds-con-salmone-10069078--1-.jpg?v=638518936103200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301064/monge-natural-superpremium-adult-all-breeds-con-salmone-10069078--2-.jpg?v=638509518486330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301065/monge-natural-superpremium-adult-all-breeds-con-salmone-10069078--3-.jpg?v=638509518561200000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.162364696086595,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8774",
+        "sku": "8774",
+        "gtin": "10069078",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-dog-adult-all-breeds-salmone-e-riso-8774/p",
+        "price": {
+          "current": 49.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 4.162364696086595,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-dog-adult-all-breeds-salmone-e-riso-8774p",
+        "name": "Monge Natural Superpremium Adult All Breeds con Salmone",
+        "path": "/monge-dog-adult-all-breeds-salmone-e-riso-8774/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18621",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8722",
+    "sku": "8722",
+    "gtin": "10078827",
+    "title": "Monge Natural Superpremium Light Dog Adult All Breeds con Salmone",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-natural--superpremium--all--breeds--adult--light-8722/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301129/monge-natural-superpremium-light-adult-all-breeds-con-salmone-10078827--1-.jpg?v=638512030383100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301130/monge-natural-superpremium-light-adult-all-breeds-con-salmone-10078827--2-.jpg?v=638512030446000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301131/monge-natural-superpremium-light-adult-all-breeds-con-salmone-10078827--3-.jpg?v=638512030512030000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 54.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.162364696086595,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8722",
+        "sku": "8722",
+        "gtin": "10078827",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-natural--superpremium--all--breeds--adult--light-8722/p",
+        "price": {
+          "current": 49.99,
+          "original": 54.99,
+          "pricePerUnit": {
+            "value": 4.162364696086595,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-natural--superpremium--all--breeds--adult--light-8722p",
+        "name": "Monge Natural Superpremium Light Dog Adult All Breeds con Salmone",
+        "path": "/monge-natural--superpremium--all--breeds--adult--light-8722/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22506",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "8777",
+    "sku": "8777",
+    "gtin": "10068437",
+    "title": "Monge Natural Superpremium Adult Maxi con Pollo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-natural-superpremium-adult-maxi-con-pollo-8777/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301057/monge-natural-superpremium-adult-maxi-con-pollo-10068437--1-.jpg?v=638509507884130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301058/monge-natural-superpremium-adult-maxi-con-pollo-10068437--2-.jpg?v=638509507965570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301059/monge-natural-superpremium-adult-maxi-con-pollo-10068437--3-.jpg?v=638509508045730000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 43.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.335279399499583,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8777",
+        "sku": "8777",
+        "gtin": "10068437",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/monge-natural-superpremium-adult-maxi-con-pollo-8777/p",
+        "price": {
+          "current": 39.99,
+          "original": 43.99,
+          "pricePerUnit": {
+            "value": 3.335279399499583,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "monge-natural-superpremium-adult-maxi-con-pollo-8777p",
+        "name": "Monge Natural Superpremium Adult Maxi con Pollo",
+        "path": "/monge-natural-superpremium-adult-maxi-con-pollo-8777/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22519",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "25258",
+    "sku": "25258",
+    "gtin": "1000000000072",
+    "title": "Kit Risparmio 2x12KG Monge Dog Superpremium",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-dog-superpremium-25258/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308175/Kit-Risparmio-2x12KG-Monge-Dog-Superpremium--10076615-x2_result.jpg?v=638648436904100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308144/Kit-Risparmio-2x12KG-Monge-Dog-Superpremium-2.jpg?v=638648266529930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308145/Kit-Risparmio-2x12KG-Monge-Dog-Superpremium-3.jpg?v=638648266616770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308146/Kit-Risparmio-2x12KG-Monge-Dog-Superpremium-4.jpg?v=638648266699830000"
+    ],
+    "price": {
+      "current": 84.9,
+      "original": 109.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.4795081967213117,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25258",
+        "sku": "25258",
+        "gtin": "1000000000072",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-dog-superpremium-25258/p",
+        "price": {
+          "current": 84.9,
+          "original": 109.98,
+          "pricePerUnit": {
+            "value": 3.4795081967213117,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x12kg-monge-dog-superpremium-25258p",
+        "name": "Kit Risparmio 2x12KG Monge Dog Superpremium",
+        "path": "/kit-risparmio-2x12kg-monge-dog-superpremium-25258/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27269",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "25284",
+    "sku": "25284",
+    "gtin": "1000000000077",
+    "title": "Kit Risparmio 2x12KG Monge Superpremium Adult Hypo",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-superpremium-adult-hypo-25284/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308181/monge-natural-superpremium-hypo-adult-all-breeds-con-salmone-e-tonno-10068870-x2_result.jpg?v=638648442837100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308150/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-Hypo-Salmone-e-Tonno-2.jpg?v=638648296885400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308151/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-Hypo-Salmone-e-Tonno-3.jpg?v=638648296973330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308152/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-Hypo-Salmone-e-Tonno-4.jpg?v=638648297065800000"
+    ],
+    "price": {
+      "current": 84.9,
+      "original": 109.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.451219512195122,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25284",
+        "sku": "25284",
+        "gtin": "1000000000077",
+        "title": "SALMONE E TONNO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-superpremium-adult-hypo-25284/p",
+        "price": {
+          "current": 84.9,
+          "original": 109.98,
+          "pricePerUnit": {
+            "value": 3.451219512195122,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x12kg-monge-superpremium-adult-hypo-25284p",
+        "name": "Kit Risparmio 2x12KG Monge Superpremium Adult Hypo",
+        "path": "/kit-risparmio-2x12kg-monge-superpremium-adult-hypo-25284/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27295",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "25303",
+    "sku": "25303",
+    "gtin": "1000000000082",
+    "title": "Kit Risparmio 2x12KG Monge Superpremium Adult",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-dog-superpremium-adult-25303/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308183/monge-natural-superpremium-adult-all-breeds-con-salmone-10069078-x2_result.jpg?v=638648451205770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308147/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-2.jpg?v=638648283499930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308148/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-3.jpg?v=638648283605400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308149/Kit-Risparmio-2x12KG-Monge-Superpremium-Adult-4.jpg?v=638648283682900000"
+    ],
+    "price": {
+      "current": 84.9,
+      "original": 119.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.451219512195122,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25303",
+        "sku": "25303",
+        "gtin": "1000000000082",
+        "title": "SALMONE E RISO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x12kg-monge-dog-superpremium-adult-25303/p",
+        "price": {
+          "current": 84.9,
+          "original": 119.98,
+          "pricePerUnit": {
+            "value": 3.451219512195122,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x12kg-monge-dog-superpremium-adult-25303p",
+        "name": "Kit Risparmio 2x12KG Monge Superpremium Adult",
+        "path": "/kit-risparmio-2x12kg-monge-dog-superpremium-adult-25303/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27314",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:20:52.087Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  }
+]

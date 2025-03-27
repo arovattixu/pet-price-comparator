@@ -1,0 +1,3728 @@
+[
+  {
+    "id": "46",
+    "sku": "46",
+    "gtin": "10077542",
+    "title": "Cliffi Nature Uccelli Mix Per Tortore e Colombi",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-nature-uccelli-mix-per-tortore-e-colombi-1kg-46/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/210079/https---www.arcaplanet.it-vtex-images-10077542_1.jpg?v=637447274654830000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "46",
+        "sku": "46",
+        "gtin": "10077542",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/cliffi-nature-uccelli-mix-per-tortore-e-colombi-1kg-46/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.85,
+          "pricePerUnit": {
+            "value": 2.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-nature-uccelli-mix-per-tortore-e-colombi-1kg-46p",
+        "name": "Cliffi Nature Uccelli Mix Per Tortore e Colombi",
+        "path": "/cliffi-nature-uccelli-mix-per-tortore-e-colombi-1kg-46/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "41",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "2085",
+    "sku": "2085",
+    "gtin": "10110797",
+    "title": "Expecial Uccelli Palla Grasso Singola",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-uccelli-palla-grasso-singola-85g-2085/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206408/Expecial-Palla-di-Grasso-Singola-85g.jpg?v=637413941403600000"
+    ],
+    "price": {
+      "current": 0.49,
+      "original": 0.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.444444444444445,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2085",
+        "sku": "2085",
+        "gtin": "10110797",
+        "title": "85G",
+        "url": "https://www.arcaplanet.it/expecial-uccelli-palla-grasso-singola-85g-2085/p",
+        "price": {
+          "current": 0.49,
+          "original": 0.49,
+          "pricePerUnit": {
+            "value": 5.444444444444445,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-uccelli-palla-grasso-singola-85g-2085p",
+        "name": "Expecial Uccelli Palla Grasso Singola",
+        "path": "/expecial-uccelli-palla-grasso-singola-85g-2085/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2010",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "5397",
+    "sku": "5397",
+    "gtin": "10058183",
+    "title": "Cliffi Morbido Super",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-uccelli-morbido-super-5397/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284498/cliffi-morbido-super-300-gr.jpg?v=638181772707330000"
+    ],
+    "price": {
+      "current": 3.35,
+      "original": 4.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5397",
+        "sku": "5397",
+        "gtin": "10058183",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/cliffi-uccelli-morbido-super-5397/p",
+        "price": {
+          "current": 3.35,
+          "original": 4.29,
+          "pricePerUnit": {
+            "value": 11.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-uccelli-morbido-super-5397p",
+        "name": "Cliffi Morbido Super",
+        "path": "/cliffi-uccelli-morbido-super-5397/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5261",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "6393",
+    "sku": "6393",
+    "gtin": "10110798",
+    "title": "Expecial Uccelli Palla Grasso Multipack",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-uccelli-palla-grasso-multipack-6x85-g-6393/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206409/Expecial-palle-di-grasso-multipack-6x85g.jpg?v=637413941411400000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.2745098039215685,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6393",
+        "sku": "6393",
+        "gtin": "10110798",
+        "title": "6X85G",
+        "url": "https://www.arcaplanet.it/expecial-uccelli-palla-grasso-multipack-6x85-g-6393/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 5.2745098039215685,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-uccelli-palla-grasso-multipack-6x85-g-6393p",
+        "name": "Expecial Uccelli Palla Grasso Multipack",
+        "path": "/expecial-uccelli-palla-grasso-multipack-6x85-g-6393/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6237",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "6559",
+    "sku": "6559",
+    "gtin": "10118460",
+    "title": "Expecial Pappagalli Fruit Mix",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-pappagalli-fruit-mix-800g-6559/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252519/Expecial-Frutta-Mix_pappagalli-800g.jpg?v=637472718712000000"
+    ],
+    "price": {
+      "current": 4.79,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.9875,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6559",
+        "sku": "6559",
+        "gtin": "10118460",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/expecial-pappagalli-fruit-mix-800g-6559/p",
+        "price": {
+          "current": 4.79,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 5.9875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-pappagalli-fruit-mix-800g-6559p",
+        "name": "Expecial Pappagalli Fruit Mix",
+        "path": "/expecial-pappagalli-fruit-mix-800g-6559/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6403",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "6629",
+    "sku": "6629",
+    "gtin": "00004610",
+    "title": "Vitakraft African Uccelli Inseparabili",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-african-uccelli-inseparabili-750g-6629/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221545/vitakraft-african-uccelli-inseparabili.jpg?v=637454712634670000"
+    ],
+    "price": {
+      "current": 5.3,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.066666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 34
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6629",
+        "sku": "6629",
+        "gtin": "00004610",
+        "title": "750G",
+        "url": "https://www.arcaplanet.it/vitakraft-african-uccelli-inseparabili-750g-6629/p",
+        "price": {
+          "current": 5.3,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 7.066666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "750G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-african-uccelli-inseparabili-750g-6629p",
+        "name": "Vitakraft African Uccelli Inseparabili",
+        "path": "/vitakraft-african-uccelli-inseparabili-750g-6629/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6472",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "7038",
+    "sku": "7038",
+    "gtin": "10118459",
+    "title": "Expecial Uccelli Liberi Wild Mix",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-uccelli-liberi-wild-mix-1kg-7038/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252529/Expecial-wild-mix-1-kg.jpg?v=637472726584500000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7038",
+        "sku": "7038",
+        "gtin": "10118459",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/expecial-uccelli-liberi-wild-mix-1kg-7038/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 4.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-uccelli-liberi-wild-mix-1kg-7038p",
+        "name": "Expecial Uccelli Liberi Wild Mix",
+        "path": "/expecial-uccelli-liberi-wild-mix-1kg-7038/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6878",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "6752",
+    "sku": "6752",
+    "gtin": "10118461",
+    "title": "Expecial Parrocchetti Fruit Mix",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/exp-fruit-mix-kg-1-parrocchetti-6752/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271909/Nuovo-progetto--7-.jpg?v=637890894886870000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.49,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6752",
+        "sku": "6752",
+        "gtin": "10118461",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/exp-fruit-mix-kg-1-parrocchetti-6752/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 6.49,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "exp-fruit-mix-kg-1-parrocchetti-6752p",
+        "name": "Expecial Parrocchetti Fruit Mix",
+        "path": "/exp-fruit-mix-kg-1-parrocchetti-6752/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11415",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11574",
+    "sku": "11574",
+    "gtin": "00008723",
+    "title": "Lettiera per Uccelli Valman Ocean Fresh Air",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221594/ocean-fresh-air-kg-1.jpg?v=637454713117000000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.32,
+        "unit": "litro"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11574",
+        "sku": "11574",
+        "gtin": "00008723",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.65,
+          "pricePerUnit": {
+            "value": 1.32,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbievegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/uccelli/sabbie/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "lettiera-per-uccelli-valman-ocean-fresh-air-11574p",
+        "name": "Lettiera per Uccelli Valman Ocean Fresh Air",
+        "path": "/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11601",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11579",
+    "sku": "11579",
+    "gtin": "00008817",
+    "title": "biscuit fruit",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/biscuit-fruit-gr-30-11579/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221580/biscuit-fruit-gr-30.jpg?v=637454712965700000"
+    ],
+    "price": {
+      "current": 1.25,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 41.66666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11579",
+        "sku": "11579",
+        "gtin": "00008817",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/biscuit-fruit-gr-30-11579/p",
+        "price": {
+          "current": 1.25,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 41.66666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "biscuit-fruit-gr-30-11579p",
+        "name": "biscuit fruit",
+        "path": "/biscuit-fruit-gr-30-11579/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11606",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11648",
+    "sku": "11648",
+    "gtin": "00034877",
+    "title": "Grandmix Cocorite pz12",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/grandmix-cocorite-gr-400-pz12-11648/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221598/grandmix-cocorite-gr-400-pz12.jpg?v=637454713160970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251387/grandmix-cocorite-gr-400-pz12.jpg?v=637455075517070000"
+    ],
+    "price": {
+      "current": 1.3,
+      "original": 1.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11648",
+        "sku": "11648",
+        "gtin": "00034877",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/grandmix-cocorite-gr-400-pz12-11648/p",
+        "price": {
+          "current": 1.3,
+          "original": 1.7,
+          "pricePerUnit": {
+            "value": 3.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "grandmix-cocorite-gr-400-pz12-11648p",
+        "name": "Grandmix Cocorite pz12",
+        "path": "/grandmix-cocorite-gr-400-pz12-11648/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11674",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11919",
+    "sku": "11919",
+    "gtin": "00008737",
+    "title": "Biogrit 700G",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/biogrit-700-gr--11919/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221591/biogrit-700-gr-.jpg?v=637454713086500000"
+    ],
+    "price": {
+      "current": 1.9,
+      "original": 2.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.7142857142857144,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11919",
+        "sku": "11919",
+        "gtin": "00008737",
+        "title": "700G",
+        "url": "https://www.arcaplanet.it/biogrit-700-gr--11919/p",
+        "price": {
+          "current": 1.9,
+          "original": 2.59,
+          "pricePerUnit": {
+            "value": 2.7142857142857144,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "700G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "biogrit-700-gr--11919p",
+        "name": "Biogrit 700G",
+        "path": "/biogrit-700-gr--11919/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11713",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11693",
+    "sku": "11693",
+    "gtin": "00034833",
+    "title": "Grandmix Pappagalli",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/grandmix-pappagalli-kg-2-pz5-11693/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266814/valman-grandmix-pappagalli-2kg.jpg?v=637788164705730000"
+    ],
+    "price": {
+      "current": 7.15,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.575,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11693",
+        "sku": "11693",
+        "gtin": "00034833",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/grandmix-pappagalli-kg-2-pz5-11693/p",
+        "price": {
+          "current": 7.15,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 3.575,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "grandmix-pappagalli-kg-2-pz5-11693p",
+        "name": "Grandmix Pappagalli",
+        "path": "/grandmix-pappagalli-kg-2-pz5-11693/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11720",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11750",
+    "sku": "11750",
+    "gtin": "00034850",
+    "title": "Girasole Medio",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/girasole-medio-gr-500-pz-20-11750/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221575/girasole-medio-gr-500-pz-20.jpg?v=637454712922200000"
+    ],
+    "price": {
+      "current": 2.35,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.7,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11750",
+        "sku": "11750",
+        "gtin": "00034850",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/girasole-medio-gr-500-pz-20-11750/p",
+        "price": {
+          "current": 2.35,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 4.7,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "girasole-medio-gr-500-pz-20-11750p",
+        "name": "Girasole Medio",
+        "path": "/girasole-medio-gr-500-pz-20-11750/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11778",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11763",
+    "sku": "11763",
+    "gtin": "00034863",
+    "title": "Miglio Giallo 20 pezzi",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/miglio-giallo-kg-1-pz20-11763/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221587/miglio-giallo-kg-1-pz20.jpg?v=637454713045200000"
+    ],
+    "price": {
+      "current": 1.8,
+      "original": 2.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11763",
+        "sku": "11763",
+        "gtin": "00034863",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/miglio-giallo-kg-1-pz20-11763/p",
+        "price": {
+          "current": 1.8,
+          "original": 2.7,
+          "pricePerUnit": {
+            "value": 1.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "miglio-giallo-kg-1-pz20-11763p",
+        "name": "Miglio Giallo 20 pezzi",
+        "path": "/miglio-giallo-kg-1-pz20-11763/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11791",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11771",
+    "sku": "11771",
+    "gtin": "00034895",
+    "title": "Natural Mix Parrocchetti",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/naturalmix-parrocchetti-kg-4-5-11771/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221571/naturalmix-parrocchetti-kg-45.jpg?v=637454712879770000"
+    ],
+    "price": {
+      "current": 8.2,
+      "original": 10.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.822222222222222,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11771",
+        "sku": "11771",
+        "gtin": "00034895",
+        "title": "4.5KG",
+        "url": "https://www.arcaplanet.it/naturalmix-parrocchetti-kg-4-5-11771/p",
+        "price": {
+          "current": 8.2,
+          "original": 10.9,
+          "pricePerUnit": {
+            "value": 1.822222222222222,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "naturalmix-parrocchetti-kg-4-5-11771p",
+        "name": "Natural Mix Parrocchetti",
+        "path": "/naturalmix-parrocchetti-kg-4-5-11771/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11797",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11777",
+    "sku": "11777",
+    "gtin": "00034893",
+    "title": "Natural Mix Esotici",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/naturalmix-esotici-kg-5-11777/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221573/naturalmix-esotici-kg-5.jpg?v=637454712895430000"
+    ],
+    "price": {
+      "current": 8.7,
+      "original": 12.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.7399999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11777",
+        "sku": "11777",
+        "gtin": "00034893",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/naturalmix-esotici-kg-5-11777/p",
+        "price": {
+          "current": 8.7,
+          "original": 12.69,
+          "pricePerUnit": {
+            "value": 1.7399999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "naturalmix-esotici-kg-5-11777p",
+        "name": "Natural Mix Esotici",
+        "path": "/naturalmix-esotici-kg-5-11777/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11803",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11781",
+    "sku": "11781",
+    "gtin": "00008738",
+    "title": "Melody Mix Gr.300 Semi D. Salute",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/melody-mix-gr-300-semi-d--salute-11781/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221584/melody-mix-gr-300-semi-d--salute.jpg?v=637454713015170000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.166666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11781",
+        "sku": "11781",
+        "gtin": "00008738",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/melody-mix-gr-300-semi-d--salute-11781/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 7.166666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "melody-mix-gr-300-semi-d--salute-11781p",
+        "name": "Melody Mix Gr.300 Semi D. Salute",
+        "path": "/melody-mix-gr-300-semi-d--salute-11781/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11807",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "11891",
+    "sku": "11891",
+    "gtin": "00034921",
+    "title": "Avena Decorticata",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/avena-decorticata-kg-1-11891/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221590/avena-decorticata-kg-1.jpg?v=637454713076500000"
+    ],
+    "price": {
+      "current": 1.65,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11891",
+        "sku": "11891",
+        "gtin": "00034921",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/avena-decorticata-kg-1-11891/p",
+        "price": {
+          "current": 1.65,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 1.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "avena-decorticata-kg-1-11891p",
+        "name": "Avena Decorticata",
+        "path": "/avena-decorticata-kg-1-11891/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11915",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "12040",
+    "sku": "12040",
+    "gtin": "00034820",
+    "title": "Natural Mix Cocorite",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/naturalmix-cocorite-kg-5-12040/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221572/naturalmix-cocorite-kg-5.jpg?v=637454712886670000"
+    ],
+    "price": {
+      "current": 8.1,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6199999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12040",
+        "sku": "12040",
+        "gtin": "00034820",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/naturalmix-cocorite-kg-5-12040/p",
+        "price": {
+          "current": 8.1,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 1.6199999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "naturalmix-cocorite-kg-5-12040p",
+        "name": "Natural Mix Cocorite",
+        "path": "/naturalmix-cocorite-kg-5-12040/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13396",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "14680",
+    "sku": "14680",
+    "gtin": "00008771",
+    "title": "Grandpaté Insects",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/valman-grandpate-insects-14680/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266841/valman-grand-pate-insects-1kg.jpg?v=637791366902800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267142/valman-grandpate-insects-ingredienti.jpg?v=637806943527900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267143/valman-grandpate-insects-additivi.jpg?v=637806943680870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267144/valman-grandpate-insects-tenori-analitici.jpg?v=637806943826570000"
+    ],
+    "price": {
+      "current": 4.7,
+      "original": 6.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.7,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14680",
+        "sku": "14680",
+        "gtin": "00008771",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/valman-grandpate-insects-14680/p",
+        "price": {
+          "current": 4.7,
+          "original": 6.79,
+          "pricePerUnit": {
+            "value": 4.7,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "valman-grandpate-insects-14680p",
+        "name": "Grandpaté Insects",
+        "path": "/valman-grandpate-insects-14680/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16817",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "14681",
+    "sku": "14681",
+    "gtin": "00034840",
+    "title": "Grandmix Mangime per Canarini",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/valman-grandmix-mangime-canarini-14681/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268472/grandmix-canarini-400gr.jpg?v=637816639807500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270202/valman-grandmix-mangime-canarini-ingredienti.jpg?v=637844259998700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270203/valman-grandmix-mangime-canarini-additivi.jpg?v=637844260107100000"
+    ],
+    "price": {
+      "current": 1.8,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14681",
+        "sku": "14681",
+        "gtin": "00034840",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/valman-grandmix-mangime-canarini-14681/p",
+        "price": {
+          "current": 1.8,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 4.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "valman-grandmix-mangime-canarini-14681p",
+        "name": "Grandmix Mangime per Canarini",
+        "path": "/valman-grandmix-mangime-canarini-14681/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16818",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "14682",
+    "sku": "14682",
+    "gtin": "00002131",
+    "title": "Biscuit Classic",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/valman-biscuit-classic-14682/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268407/biscuit-classic-uova-zucchero.jpg?v=637816463843970000"
+    ],
+    "price": {
+      "current": 1.25,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 41.66666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14682",
+        "sku": "14682",
+        "gtin": "00002131",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/valman-biscuit-classic-14682/p",
+        "price": {
+          "current": 1.25,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 41.66666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "valman-biscuit-classic-14682p",
+        "name": "Biscuit Classic",
+        "path": "/valman-biscuit-classic-14682/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16819",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16583",
+    "sku": "16583",
+    "gtin": "10146324",
+    "title": "MultiFit Mangime Mix per Uccelli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-mix-per-uccelli-16583/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282700/1218597_LWP_1.jpg?v=638152542395330000"
+    ],
+    "price": {
+      "current": 2.2,
+      "original": 2.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.2,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16583",
+        "sku": "16583",
+        "gtin": "10146324",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-mangime-mix-per-uccelli-16583/p",
+        "price": {
+          "current": 2.2,
+          "original": 2.59,
+          "pricePerUnit": {
+            "value": 2.2,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-mix-per-uccelli-16583p",
+        "name": "MultiFit Mangime Mix per Uccelli",
+        "path": "/multifit-mangime-mix-per-uccelli-16583/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18700",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16633",
+    "sku": "16633",
+    "gtin": "10146205",
+    "title": "MultiFit Palline di Grasso Senza Rete",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-palline-di-grasso-senza-rete-16633/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282805/a436a73c2a385d927daa58244049ab5194d75bf9_61c8bd70fc8b481e8b35674a83f7bbed384422f7.jpg?v=638155104980400000"
+    ],
+    "price": {
+      "current": 5.09,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 254.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16633",
+        "sku": "16633",
+        "gtin": "10146205",
+        "title": "20PZ",
+        "url": "https://www.arcaplanet.it/multifit-palline-di-grasso-senza-rete-16633/p",
+        "price": {
+          "current": 5.09,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 254.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-palline-di-grasso-senza-rete-16633p",
+        "name": "MultiFit Palline di Grasso Senza Rete",
+        "path": "/multifit-palline-di-grasso-senza-rete-16633/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18753",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16646",
+    "sku": "16646",
+    "gtin": "10147013",
+    "title": "Fit and Fun Funny Meal Mangime per Pappagalli Grandi",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-mangime-per-pappagalli-grandi-16646/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318596/fit-and-fun-mangime-per-pappagalli-grandi-10147013.jpg.jpg?v=638772108531030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318597/1231815-416x523.jpg?v=638772108531200000"
+    ],
+    "price": {
+      "current": 5.94,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9800000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16646",
+        "sku": "16646",
+        "gtin": "10147013",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/fit-and-fun-mangime-per-pappagalli-grandi-16646/p",
+        "price": {
+          "current": 5.94,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 1.9800000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-mangime-per-pappagalli-grandi-16646p",
+        "name": "Fit and Fun Funny Meal Mangime per Pappagalli Grandi",
+        "path": "/fit-and-fun-mangime-per-pappagalli-grandi-16646/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18766",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16647",
+    "sku": "16647",
+    "gtin": "10146996",
+    "title": "MultiFit Palle di Grasso",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-palle-di-grasso-16647/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297314/multifit-palle-di-grasso-10146996.jpg?v=638466307726370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297315/MultiFit-Palle-di-Grasso-10146996.jpg?v=638466309234230000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 106,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16647",
+        "sku": "16647",
+        "gtin": "10146996",
+        "title": "6PZ",
+        "url": "https://www.arcaplanet.it/multifit-palle-di-grasso-16647/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 106,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-palle-di-grasso-16647p",
+        "name": "MultiFit Palle di Grasso",
+        "path": "/multifit-palle-di-grasso-16647/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18767",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16768",
+    "sku": "16768",
+    "gtin": "10144405",
+    "title": "MultiFit Alimento per Uccelli Favourite Feed",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-favourite-feed-16768/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282696/b4f7b9907d6832fc9058c144f86a1c438c04d5a9_1172255__de_DE__Multifit_Leibgericht_2_5kg--1-.jpg?v=638152532007700000"
+    ],
+    "price": {
+      "current": 6.54,
+      "original": 7.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.616,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16768",
+        "sku": "16768",
+        "gtin": "10144405",
+        "title": "2.5KG",
+        "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-favourite-feed-16768/p",
+        "price": {
+          "current": 6.54,
+          "original": 7.69,
+          "pricePerUnit": {
+            "value": 2.616,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-alimento-per-uccelli-favourite-feed-16768p",
+        "name": "MultiFit Alimento per Uccelli Favourite Feed",
+        "path": "/multifit-alimento-per-uccelli-favourite-feed-16768/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18886",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16829",
+    "sku": "16829",
+    "gtin": "10143441",
+    "title": "MultiFit Alimento per Uccelli Semi di Girasole",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-semi-di-girasole-16829/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282694/34912c7e26feaad35e5856bacb797ca2a312df49_b5bd826ad9bc096e6a85835b36eb7e973f4f731e--1-.jpg?v=638152523949430000"
+    ],
+    "price": {
+      "current": 5.94,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.3760000000000003,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16829",
+        "sku": "16829",
+        "gtin": "10143441",
+        "title": "2.5KG",
+        "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-semi-di-girasole-16829/p",
+        "price": {
+          "current": 5.94,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 2.3760000000000003,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-alimento-per-uccelli-semi-di-girasole-16829p",
+        "name": "MultiFit Alimento per Uccelli Semi di Girasole",
+        "path": "/multifit-alimento-per-uccelli-semi-di-girasole-16829/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18947",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16697",
+    "sku": "16697",
+    "gtin": "10147060",
+    "title": "Premiere Semi di Girasole Sgusciati",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-semi-di-girasole-sgusciati-16697/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283357/premiere-semi-girasole-uccelli-3kg.jpg?v=638162826162770000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.996666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16697",
+        "sku": "16697",
+        "gtin": "10147060",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/premiere-semi-di-girasole-sgusciati-16697/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 5.996666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "premiere-semi-di-girasole-sgusciati-16697p",
+        "name": "Premiere Semi di Girasole Sgusciati",
+        "path": "/premiere-semi-di-girasole-sgusciati-16697/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19004",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16895",
+    "sku": "16895",
+    "gtin": "10143777",
+    "title": "MultiFit Spighe di Panico Snack per Uccelli 100G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-spighe-di-panico-snack-per-uccelli-100g--16895/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278587/multifit-spighe-di-panico-snack-uccelli-100g.jpg?v=638084245099200000"
+    ],
+    "price": {
+      "current": 2.29,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16895",
+        "sku": "16895",
+        "gtin": "10143777",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-spighe-di-panico-snack-per-uccelli-100g--16895/p",
+        "price": {
+          "current": 2.29,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 22.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-spighe-di-panico-snack-per-uccelli-100g--16895p",
+        "name": "MultiFit Spighe di Panico Snack per Uccelli 100G",
+        "path": "/multifit-spighe-di-panico-snack-per-uccelli-100g--16895/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19013",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "17015",
+    "sku": "17015",
+    "gtin": "10147016",
+    "title": "MultiFit Mangime per Canarini",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-canarini-17015/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289744/1231818.jpg?v=638303708243870000"
+    ],
+    "price": {
+      "current": 3.32,
+      "original": 3.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.32,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17015",
+        "sku": "17015",
+        "gtin": "10147016",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-canarini-17015/p",
+        "price": {
+          "current": 3.32,
+          "original": 3.69,
+          "pricePerUnit": {
+            "value": 3.32,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-canarini-17015p",
+        "name": "MultiFit Mangime per Canarini",
+        "path": "/multifit-mangime-per-canarini-17015/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19133",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "16826",
+    "sku": "16826",
+    "gtin": "10142147",
+    "title": "MultiFit Sabbia per Pappagallini",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-pappagallini-16826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283340/lettiera-sabbia-multifit-5kg.jpg?v=638162792405030000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.45,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16826",
+        "sku": "16826",
+        "gtin": "10142147",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-pappagallini-16826/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.65,
+          "pricePerUnit": {
+            "value": 0.45,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbieassorbente",
+        "name": "Assorbente",
+        "path": "/piccoli-animali/uccelli/sabbie/assorbente/",
+        "level": 5
+      },
+      {
+        "id": "multifit-sabbia-per-pappagallini-16826p",
+        "name": "MultiFit Sabbia per Pappagallini",
+        "path": "/multifit-sabbia-per-pappagallini-16826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19450",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "18804",
+    "sku": "18804",
+    "gtin": "10150611",
+    "title": "MultiFit Alimento Principale  per Uccelli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-principale-18804/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282704/1292194_LWP_1.jpg?v=638152558805370000"
+    ],
+    "price": {
+      "current": 3.53,
+      "original": 4.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.53,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18804",
+        "sku": "18804",
+        "gtin": "10150611",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-alimento-per-uccelli-principale-18804/p",
+        "price": {
+          "current": 3.53,
+          "original": 4.15,
+          "pricePerUnit": {
+            "value": 3.53,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-alimento-per-uccelli-principale-18804p",
+        "name": "MultiFit Alimento Principale  per Uccelli",
+        "path": "/multifit-alimento-per-uccelli-principale-18804/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20922",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "18836",
+    "sku": "18836",
+    "gtin": "10143778",
+    "title": "MultiFit Spighe Panico Rosse",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-uccelli-party-loops-18836/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282901/1103740_OS--1-.jpg?v=638156793067630000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18836",
+        "sku": "18836",
+        "gtin": "10143778",
+        "title": "80G",
+        "url": "https://www.arcaplanet.it/multifit-snack-uccelli-party-loops-18836/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 26.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-uccelli-party-loops-18836p",
+        "name": "MultiFit Spighe Panico Rosse",
+        "path": "/multifit-snack-uccelli-party-loops-18836/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20954",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "18382",
+    "sku": "18382",
+    "gtin": "10152333",
+    "title": "Premiere Burro d'arachidi 250G",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-burro-darachidi-250g-18382/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283084/5a7230f4e1ff220e061722c6fe621c2411df6f4c_1320615__de_DE__premiere_wv_hb.jpg?v=638157681958770000"
+    ],
+    "price": {
+      "current": 3.59,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.36,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18382",
+        "sku": "18382",
+        "gtin": "10152333",
+        "title": "SEMI DI GIRASOLE",
+        "url": "https://www.arcaplanet.it/premiere-burro-darachidi-250g-18382/p",
+        "price": {
+          "current": 3.59,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 14.36,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "premiere-burro-darachidi-250g-18382p",
+        "name": "Premiere Burro d'arachidi 250G",
+        "path": "/premiere-burro-darachidi-250g-18382/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21264",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "19641",
+    "sku": "19641",
+    "gtin": "10143464",
+    "title": "MultiFit Sticks per Pappagalli alla Frutta",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sticks-per-pappagalli-alla-frutta-19641/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283093/1081306002_OS--1-.jpg?v=638157758909770000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.000000000000004,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19641",
+        "sku": "19641",
+        "gtin": "10143464",
+        "title": "2X30G",
+        "url": "https://www.arcaplanet.it/multifit-sticks-per-pappagalli-alla-frutta-19641/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.55,
+          "pricePerUnit": {
+            "value": 22.000000000000004,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sticks-per-pappagalli-alla-frutta-19641p",
+        "name": "MultiFit Sticks per Pappagalli alla Frutta",
+        "path": "/multifit-sticks-per-pappagalli-alla-frutta-19641/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21759",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "19727",
+    "sku": "19727",
+    "gtin": "10150399",
+    "title": "MultiFit Osso di Seppia",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-osso-di-seppia-19727/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282904/1286237_LWP_1.jpg?v=638156801549530000"
+    ],
+    "price": {
+      "current": 2.29,
+      "original": 2.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 114.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19727",
+        "sku": "19727",
+        "gtin": "10150399",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/multifit-osso-di-seppia-19727/p",
+        "price": {
+          "current": 2.29,
+          "original": 2.29,
+          "pricePerUnit": {
+            "value": 114.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/uccelli/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-osso-di-seppia-19727p",
+        "name": "MultiFit Osso di Seppia",
+        "path": "/multifit-osso-di-seppia-19727/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21845",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "20125",
+    "sku": "20125",
+    "gtin": "10137414",
+    "title": "Versele Laga Alimento per Parrocchetti Prestige",
+    "brand": "VERSELE LAGA",
+    "url": "https://www.arcaplanet.it/versele-laga-alimento-per-parrocchetti-prestige-20125/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286652/9ed2a63425e7fd57ba7b6cf2395fb5226cc8dd6a_60f43d05432fc1f84b7c8f07466da2173195409d--1-.jpg?v=638212101112530000"
+    ],
+    "price": {
+      "current": 9.95,
+      "original": 9.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.4875,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20125",
+        "sku": "20125",
+        "gtin": "10137414",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/versele-laga-alimento-per-parrocchetti-prestige-20125/p",
+        "price": {
+          "current": 9.95,
+          "original": 9.95,
+          "pricePerUnit": {
+            "value": 2.4875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "versele-laga-alimento-per-parrocchetti-prestige-20125p",
+        "name": "Versele Laga Alimento per Parrocchetti Prestige",
+        "path": "/versele-laga-alimento-per-parrocchetti-prestige-20125/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22243",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  },
+  {
+    "id": "21784",
+    "sku": "21784",
+    "gtin": "10147587",
+    "title": "MultiFit Palle di Grasso Senza Rete",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-palle-di-grasso-senza-rete-21784/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287986/d3c51200f04ce9338b9ae3688ccb14044cb50672_04c1b38bcb5184c68139d71ea0382dabb067c812--1-.jpg?v=638236559473000000"
+    ],
+    "price": {
+      "current": 11.89,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 594.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21784",
+        "sku": "21784",
+        "gtin": "10147587",
+        "title": "35PZ",
+        "url": "https://www.arcaplanet.it/multifit-palle-di-grasso-senza-rete-21784/p",
+        "price": {
+          "current": 11.89,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 594.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/uccelli/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-palle-di-grasso-senza-rete-21784p",
+        "name": "MultiFit Palle di Grasso Senza Rete",
+        "path": "/multifit-palle-di-grasso-senza-rete-21784/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23872",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:09:46.718Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/"
+  }
+]

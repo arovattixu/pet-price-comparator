@@ -1,0 +1,3689 @@
+[
+  {
+    "id": "272",
+    "sku": "272",
+    "gtin": "10130054",
+    "title": "Hi Fish Cat Busta Multipack 6x70G",
+    "brand": "HI FISH",
+    "url": "https://www.arcaplanet.it/hi-fish-cat-busta-multipack-6x70g-272/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272444/hi-fish-cat-tonno-salmone-6x70g.jpg?v=637903857567700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253303/Hi-fish-busta-cibo-gatto-tonno-con-salmone.jpg?v=637510606425770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257429/hi-fish-multipack-tonno-salmone-componenti-analitici.jpg?v=637580755609300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257430/hi-fish-multipack-tonno-salmone-dosaggio.jpg?v=637580755699630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272445/bollo-hi.jpg?v=637903857863070000"
+    ],
+    "price": {
+      "current": 7.74,
+      "original": 7.74,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 18.42857142857143,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "272",
+        "sku": "272",
+        "gtin": "10130054",
+        "title": "TONNO CON SALMONE",
+        "url": "https://www.arcaplanet.it/hi-fish-cat-busta-multipack-6x70g-272/p",
+        "price": {
+          "current": 7.74,
+          "original": 7.74,
+          "pricePerUnit": {
+            "value": 18.42857142857143,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "hi-fish-cat-busta-multipack-6x70g-272p",
+        "name": "Hi Fish Cat Busta Multipack 6x70G",
+        "path": "/hi-fish-cat-busta-multipack-6x70g-272/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "481",
+    "sku": "481",
+    "gtin": "10130076",
+    "title": "Next Cat Busta Multipack 6x70G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-busta-multipack-6x70g-481/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272359/NEXT_ADULT_Busta_TONNO-CON-SALMONE_Piramide_3D.jpg?v=637903818363500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272360/6x70g.jpg?v=637903818455030000"
+    ],
+    "price": {
+      "current": 5.94,
+      "original": 5.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.142857142857144,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "481",
+        "sku": "481",
+        "gtin": "10130076",
+        "title": "TONNO CON SALMONE",
+        "url": "https://www.arcaplanet.it/next-cat-busta-multipack-6x70g-481/p",
+        "price": {
+          "current": 5.94,
+          "original": 5.94,
+          "pricePerUnit": {
+            "value": 14.142857142857144,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-cat-busta-multipack-6x70g-481p",
+        "name": "Next Cat Busta Multipack 6x70G",
+        "path": "/next-cat-busta-multipack-6x70g-481/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "423",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "459",
+    "sku": "459",
+    "gtin": "10130089",
+    "title": "Next Natural Cat Lattina Multipack 4x150G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-4x150g-459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272066/Next-Cat-Natural-Tonno-4x150G.jpg?v=637898387619200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272067/bollino-4x150.jpg?v=637898387750730000"
+    ],
+    "price": {
+      "current": 7.96,
+      "original": 7.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.266666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "459",
+        "sku": "459",
+        "gtin": "10130089",
+        "title": "TONNO",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-4x150g-459/p",
+        "price": {
+          "current": 7.96,
+          "original": 7.96,
+          "pricePerUnit": {
+            "value": 13.266666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4X150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-4x150g-459p",
+        "name": "Next Natural Cat Lattina Multipack 4x150G",
+        "path": "/next-natural-cat-lattina-multipack-4x150g-459/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "427",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "675",
+    "sku": "675",
+    "gtin": "10130134",
+    "title": "Virtus Natural Cat Lattina Multipack 6x70G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-atlantic-formula-gatto-adult-multipack-6x70g-675/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272267/virtus-cat-atlantic-formula-multipack.jpg?v=637903792777330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252912/252493-800-auto.png?v=637489834508100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262791/virtus-cat-atlantic-formula-multipack-ingredienti.jpg?v=637673945629830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264464/virtus-nature-atlantic-formula-lattina1.jpg?v=637719650983770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264465/dolphin.png?v=637719651133770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264466/no_preservatives.png?v=637719651238830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272268/bollo-virtus.jpg?v=637903792873030000"
+    ],
+    "price": {
+      "current": 8.1,
+      "original": 8.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.285714285714285,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "675",
+        "sku": "675",
+        "gtin": "10130134",
+        "title": "TONNO",
+        "url": "https://www.arcaplanet.it/virtus-atlantic-formula-gatto-adult-multipack-6x70g-675/p",
+        "price": {
+          "current": 8.1,
+          "original": 8.1,
+          "pricePerUnit": {
+            "value": 19.285714285714285,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "TONNETTO E ALICETTE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-atlantic-formula-gatto-adult-multipack-6x70g-675p",
+        "name": "Virtus Natural Cat Lattina Multipack 6x70G",
+        "path": "/virtus-atlantic-formula-gatto-adult-multipack-6x70g-675/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "633",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2086",
+    "sku": "2086",
+    "gtin": "10129853",
+    "title": "Schesir Cat Busta Multipack 20x85G",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-85g-2086/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259901/tonno-pollo2.jpg?v=637607338127630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259902/tonno-pollo3.jpg?v=637607338219200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259903/tonno-pollo1.jpg?v=637607338460170000"
+    ],
+    "price": {
+      "current": 1.39,
+      "original": 1.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.8176470588235294,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2086",
+        "sku": "2086",
+        "gtin": "10129853",
+        "title": "TONNETTO CON AFFETTATO DI POLLO",
+        "url": "https://www.arcaplanet.it/schesir-cat-busta-85g-2086/p",
+        "price": {
+          "current": 1.39,
+          "original": 1.39,
+          "pricePerUnit": {
+            "value": 0.8176470588235294,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 20,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "TONNETTO CON POLLO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "schesir-cat-busta-85g-2086p",
+        "name": "Schesir Cat Busta Multipack 20x85G",
+        "path": "/schesir-cat-busta-85g-2086/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2011",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 20,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "5251",
+    "sku": "5251",
+    "gtin": "10063896",
+    "title": "Schesir Cat Lattina Multipack 6x50G",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-cat-lattina-multipack-6x50g-5251/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260290/01064146_8005852711267-V2.jpg?v=637612400835970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260291/01064146_8005852711267-V1.jpg?v=637612400996670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260292/01064146_8005852711267.jpg?v=637612401022870000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 6.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.633333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 19
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5251",
+        "sku": "5251",
+        "gtin": "10063896",
+        "title": "TONNETTO CON ORATA",
+        "url": "https://www.arcaplanet.it/schesir-cat-lattina-multipack-6x50g-5251/p",
+        "price": {
+          "current": 4.99,
+          "original": 6.19,
+          "pricePerUnit": {
+            "value": 16.633333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "schesir-cat-lattina-multipack-6x50g-5251p",
+        "name": "Schesir Cat Lattina Multipack 6x50G",
+        "path": "/schesir-cat-lattina-multipack-6x50g-5251/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5126",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "5827",
+    "sku": "5827",
+    "gtin": "10062275",
+    "title": "Expecial Cat Lattina 400G",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cat-pate-lattina-400g-5827/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249023/expecial-gatto-pate-pollo-e-verdure.jpg?v=637455052212970000"
+    ],
+    "price": {
+      "current": 1.1,
+      "original": 1.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.75,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5827",
+        "sku": "5827",
+        "gtin": "10062275",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/expecial-cat-pate-lattina-400g-5827/p",
+        "price": {
+          "current": 1.1,
+          "original": 1.1,
+          "pricePerUnit": {
+            "value": 2.75,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO E VERDURE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "expecial-cat-pate-lattina-400g-5827p",
+        "name": "Expecial Cat Lattina 400G",
+        "path": "/expecial-cat-pate-lattina-400g-5827/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5678",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "5886",
+    "sku": "5886",
+    "gtin": "10129366",
+    "title": "Almo Nature Cat Lattina Multipack 6x70G",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/almo-nature-cat-lattina-multipack-6x70g-5886/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315664/Almo-Nature-Cat-Lattina-Multipack-6x70G-1.jpg?v=638741955475570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315665/Almo-Nature-Cat-Lattina-Multipack-6x70G-2.jpg?v=638741955546870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315666/Almo-Nature-Cat-Lattina-Multipack-6x70G-3.jpg?v=638741955613670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315667/bollino-unit.jpg?v=638741955692770000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.642857142857142,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5886",
+        "sku": "5886",
+        "gtin": "10129366",
+        "title": "TONNO DELL'ATLANTICO",
+        "url": "https://www.arcaplanet.it/almo-nature-cat-lattina-multipack-6x70g-5886/p",
+        "price": {
+          "current": 6.99,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 16.642857142857142,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "almo-nature-cat-lattina-multipack-6x70g-5886p",
+        "name": "Almo Nature Cat Lattina Multipack 6x70G",
+        "path": "/almo-nature-cat-lattina-multipack-6x70g-5886/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5735",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "6065",
+    "sku": "6065",
+    "gtin": "10129813",
+    "title": "Schesir Cat Lattina in Gelatina Multipack 6x85G",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-cat-lattina-in-gelatina-multipack-6x85g-6065/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280229/schesir-cat-multipack-tonnetto.jpg?v=638114618652570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280230/schesir-cat-multipack-tonnetto-piatto.jpg?v=638114619425400000"
+    ],
+    "price": {
+      "current": 6.69,
+      "original": 8.34,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.11764705882353,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6065",
+        "sku": "6065",
+        "gtin": "10129813",
+        "title": "TONNETTO",
+        "url": "https://www.arcaplanet.it/schesir-cat-lattina-in-gelatina-multipack-6x85g-6065/p",
+        "price": {
+          "current": 6.69,
+          "original": 8.34,
+          "pricePerUnit": {
+            "value": 13.11764705882353,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "schesir-cat-lattina-in-gelatina-multipack-6x85g-6065p",
+        "name": "Schesir Cat Lattina in Gelatina Multipack 6x85G",
+        "path": "/schesir-cat-lattina-in-gelatina-multipack-6x85g-6065/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5913",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "1389",
+    "sku": "1389",
+    "gtin": "10065259",
+    "title": "Petreet Natura Cat Lattina Multipack 6x70G",
+    "brand": "PETREET",
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-lattina-multipack-6x70g-1389/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293126/Petreet-Natura-Cat-Lattina-Multipack-6x70G-10065259.jpg?v=638385068088300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293127/Petreet-Natura-Cat-Lattina-Multipack-6x70G-10065259..jpg?v=638385068190400000"
+    ],
+    "price": {
+      "current": 7.95,
+      "original": 7.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 18.92857142857143,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1389",
+        "sku": "1389",
+        "gtin": "10065259",
+        "title": "TONNO ROSA CON FAGIOLINI",
+        "url": "https://www.arcaplanet.it/petreet-natura-cat-lattina-multipack-6x70g-1389/p",
+        "price": {
+          "current": 7.95,
+          "original": 7.95,
+          "pricePerUnit": {
+            "value": 18.92857142857143,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "petreet-natura-cat-lattina-multipack-6x70g-1389p",
+        "name": "Petreet Natura Cat Lattina Multipack 6x70G",
+        "path": "/petreet-natura-cat-lattina-multipack-6x70g-1389/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6273",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "6463",
+    "sku": "6463",
+    "gtin": "10118452",
+    "title": "Petreet Natura Cat Le Vellutate Lattina Multipack 6x70G",
+    "brand": "PETREET",
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208325/Petreet-Multipack-5-1-70g-Vellutate-Pollo.jpg?v=637413970280970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/212480/https---www.arcaplanet.it-vtex-images-10118452_1.jpg?v=637447295105570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270946/petreet-gatto-vellutata-pollo-interno.jpg?v=637853696862470000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 7.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.11904761904762,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6463",
+        "sku": "6463",
+        "gtin": "10118452",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463/p",
+        "price": {
+          "current": 7.19,
+          "original": 7.19,
+          "pricePerUnit": {
+            "value": 17.11904761904762,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463p",
+        "name": "Petreet Natura Cat Le Vellutate Lattina Multipack 6x70G",
+        "path": "/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6308",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "6783",
+    "sku": "6783",
+    "gtin": "10130148",
+    "title": "Next Cat Sterilised Vaschetta Multipack 12x85G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-sterilised-vaschetta-multipack-12x85g-6783/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294021/https---www.arcaplanet.it-vtex-images-10130148_1.jpg?v=638412750165530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294023/next-cat-sterilised-pollo-pesceazzuro-12x85g-razione.jpg?v=638412752401930000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.735294117647058,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6783",
+        "sku": "6783",
+        "gtin": "10130148",
+        "title": "POLLO E PESCE AZZURO",
+        "url": "https://www.arcaplanet.it/next-cat-sterilised-vaschetta-multipack-12x85g-6783/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 12.735294117647058,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-cat-sterilised-vaschetta-multipack-12x85g-6783p",
+        "name": "Next Cat Sterilised Vaschetta Multipack 12x85G",
+        "path": "/next-cat-sterilised-vaschetta-multipack-12x85g-6783/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6624",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "8302",
+    "sku": "8302",
+    "gtin": "10129785",
+    "title": "Gourmet Gold Tortini Cat Lattina Multipack 48x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-multipack-48x85g-8302/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318437/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--1-.jpg.jpg?v=638771925998730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318438/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--2-.jpg?v=638771925999200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318439/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--3-.jpg?v=638771925999200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318440/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--4-.jpg?v=638771925999370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318441/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--5-.jpg?v=638771925999530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318442/gourmet-gold-tortini-cat-lattina-multipack-48x85g-10129785--6-.jpg?v=638771925999670000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.860294117647058,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8302",
+        "sku": "8302",
+        "gtin": "10129785",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-multipack-48x85g-8302/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 6.860294117647058,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "48X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-gatto-mix-tortini-multipack-48x85g-8302p",
+        "name": "Gourmet Gold Tortini Cat Lattina Multipack 48x85G",
+        "path": "/gourmet-gold-gatto-mix-tortini-multipack-48x85g-8302/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8129",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "8325",
+    "sku": "8325",
+    "gtin": "10129787",
+    "title": "Gourmet Gold Delizie in Salsa Cat Lattina Multipack 48x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-dadini-multipack-48x85g-8325/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301777/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--1-.jpg?v=638525654949200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301778/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--2-.jpg?v=638525655067970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301779/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--3-.jpg?v=638525655233300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301780/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--4-.jpg?v=638525655393630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301781/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--5-.jpg?v=638525655486200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301782/gourmet-gold-delizie-in-salsa-cat-lattina-multipack-48x85g-10129787--6-.jpg?v=638525655581100000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.860294117647058,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8325",
+        "sku": "8325",
+        "gtin": "10129787",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-dadini-multipack-48x85g-8325/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 6.860294117647058,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "48X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-gatto-mix-dadini-multipack-48x85g-8325p",
+        "name": "Gourmet Gold Delizie in Salsa Cat Lattina Multipack 48x85G",
+        "path": "/gourmet-gold-gatto-mix-dadini-multipack-48x85g-8325/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "8326",
+    "sku": "8326",
+    "gtin": "10129786",
+    "title": "Gourmet Gold Tortini con Verdure Cat Lattina Multipack 48x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274174/MAIN.jpg?v=637955466389400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274175/PT01.jpg?v=637955466478270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274176/PT02.jpg?v=637955466989800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274177/PT03.jpg?v=637955467142400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274178/PT04.jpg?v=637955467290170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274179/PT05.jpg?v=637955467392500000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.860294117647058,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8326",
+        "sku": "8326",
+        "gtin": "10129786",
+        "title": "MIX CARNE",
+        "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 6.860294117647058,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "48X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326p",
+        "name": "Gourmet Gold Tortini con Verdure Cat Lattina Multipack 48x85G",
+        "path": "/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8153",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "8416",
+    "sku": "8416",
+    "gtin": "10111798",
+    "title": "Gourmet Gold Mousse Cat Lattina Multipack 48x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-mousse-multipack-48x85g-8416/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275291/gourmet-gold--gatto-mix-mousse-multipack.jpg?v=637974579633300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274089/PT02.jpg?v=637955423890730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274090/PT03.jpg?v=637955423983730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274091/PT04.jpg?v=637955424086430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274092/PT09.jpg?v=637955424184200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275289/gourmet-gold--gatto-mix-mousse-coniglio.jpg?v=637974579464500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275290/gourmet-gold--gatto-mix-moussemultipack-48.jpg?v=637974579547530000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.860294117647058,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8416",
+        "sku": "8416",
+        "gtin": "10111798",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-mousse-multipack-48x85g-8416/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 6.860294117647058,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "48X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-gatto-mix-mousse-multipack-48x85g-8416p",
+        "name": "Gourmet Gold Mousse Cat Lattina Multipack 48x85G",
+        "path": "/gourmet-gold-gatto-mix-mousse-multipack-48x85g-8416/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8243",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "8426",
+    "sku": "8426",
+    "gtin": "10110755",
+    "title": "Gourmet Perle Filettini in Salsa Cat Busta Multipack 60x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-perle-gatto-multipack-60x85g-8426/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274367/MAIN.PNG.jpg?v=637955633053070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274368/PT02.PNG.jpg?v=637955633146630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274369/PT03.JPG.jpg?v=637955633263630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274370/PT04.PNG.jpg?v=637955633384800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274371/PT05.JPG.jpg?v=637955633704500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274372/PT06.JPG.jpg?v=637955633838270000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 46.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.860784313725491,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8426",
+        "sku": "8426",
+        "gtin": "10110755",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/gourmet-perle-gatto-multipack-60x85g-8426/p",
+        "price": {
+          "current": 34.99,
+          "original": 46.9,
+          "pricePerUnit": {
+            "value": 6.860784313725491,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-perle-gatto-multipack-60x85g-8426p",
+        "name": "Gourmet Perle Filettini in Salsa Cat Busta Multipack 60x85G",
+        "path": "/gourmet-perle-gatto-multipack-60x85g-8426/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "10360",
+    "sku": "10360",
+    "gtin": "10130773",
+    "title": "Schesir Cat Busta Multipack 6x85G",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-multipack-6x85g-10360/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272479/schesir-tonno-salmone.jpg?v=637904444144470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254210/schesir-busta-multipack-tonnetto-salmone-per-gatti-cibo.jpg?v=637545891120170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272480/6x85g.png?v=637904444231270000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 8.34,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.098039215686274,
+        "unit": "KG"
+      },
+      "discountPercentage": 14
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10360",
+        "sku": "10360",
+        "gtin": "10130773",
+        "title": "TONNETTO CON SALMONE",
+        "url": "https://www.arcaplanet.it/schesir-cat-busta-multipack-6x85g-10360/p",
+        "price": {
+          "current": 7.19,
+          "original": 8.34,
+          "pricePerUnit": {
+            "value": 14.098039215686274,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "schesir-cat-busta-multipack-6x85g-10360p",
+        "name": "Schesir Cat Busta Multipack 6x85G",
+        "path": "/schesir-cat-busta-multipack-6x85g-10360/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9950",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "5804",
+    "sku": "5804",
+    "gtin": "10074472",
+    "title": "Almo Nature Daily Cat Lattina 400G",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/almo-nature-cat-daily-lattina-400g-5804/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315785/Almo-Nature-Daily-Cat-Lattina-400G-10074472.jpg?v=638742731045400000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.374999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5804",
+        "sku": "5804",
+        "gtin": "10074472",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/almo-nature-cat-daily-lattina-400g-5804/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 5.374999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "almo-nature-cat-daily-lattina-400g-5804p",
+        "name": "Almo Nature Daily Cat Lattina 400G",
+        "path": "/almo-nature-cat-daily-lattina-400g-5804/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "12089",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "4136",
+    "sku": "4136",
+    "gtin": "10067641",
+    "title": "Next Natural Cat Lattina Multipack 24x150G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-24x150g-4136/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293926/NEXT-CAT_Lattina_CAT_TONNO-CON-PESCE-BIANCO-150gr_E1707.jpg?v=638411693909770000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.5972222222222222,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4136",
+        "sku": "4136",
+        "gtin": "10067641",
+        "title": "TONNO CON PESCE BIANCO",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-24x150g-4136/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 0.5972222222222222,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-24x150g-4136p",
+        "name": "Next Natural Cat Lattina Multipack 24x150G",
+        "path": "/next-natural-cat-lattina-multipack-24x150g-4136/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12228",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2009",
+    "sku": "2009",
+    "gtin": "10118683",
+    "title": "Natural Trainer Cat Sterilised Busta Multipack 12x85G",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-busta-85g-2009/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302721/natural-trainer-gatto-sterilised-busta-85g-10118683--1-.jpg?v=638537806292300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302722/natural-trainer-gatto-sterilised-busta-85g-10118683--2-.jpg?v=638537806378130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302723/natural-trainer-gatto-sterilised-busta-85g-10118683--3-.jpg?v=638537806472500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302724/natural-trainer-gatto-sterilised-busta-85g-10118683--4-.jpg?v=638537806551300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302725/natural-trainer-gatto-sterilised-busta-85g-10118683--5-.jpg?v=638537806652130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302726/natural-trainer-gatto-sterilised-busta-85g-10118683--6-.jpg?v=638537806743970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302727/natural-trainer-gatto-sterilised-busta-85g-10118683--7-.jpg?v=638537806836330000"
+    ],
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.8137254901960784,
+        "unit": "KG"
+      },
+      "discountPercentage": 36
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2009",
+        "sku": "2009",
+        "gtin": "10118683",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-busta-85g-2009/p",
+        "price": {
+          "current": 0.83,
+          "original": 1.29,
+          "pricePerUnit": {
+            "value": 0.8137254901960784,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 12,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-gatto-sterilised-busta-85g-2009p",
+        "name": "Natural Trainer Cat Sterilised Busta Multipack 12x85G",
+        "path": "/natural-trainer-gatto-sterilised-busta-85g-2009/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12346",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 12,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2011",
+    "sku": "2011",
+    "gtin": "10118680",
+    "title": "Natural Trainer Kitten Busta Multipack 12x85G",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-kitten-busta-multipack-12x85g-2011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302773/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--1-.jpg?v=638537853970070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302774/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--2-.jpg?v=638537854051470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302775/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--3-.jpg?v=638537854149270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302776/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--4-.jpg?v=638537854246700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302777/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--5-.jpg?v=638537854318770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302779/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--6-.jpg?v=638537854415570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302781/natural-trainer-kitten-young-bocconcini-in-salsa-busta-85g-10118680--7-.jpg?v=638537854514430000"
+    ],
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.8137254901960784,
+        "unit": "KG"
+      },
+      "discountPercentage": 36
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2011",
+        "sku": "2011",
+        "gtin": "10118680",
+        "title": "TACCHINO",
+        "url": "https://www.arcaplanet.it/natural-trainer-kitten-busta-multipack-12x85g-2011/p",
+        "price": {
+          "current": 0.83,
+          "original": 1.29,
+          "pricePerUnit": {
+            "value": 0.8137254901960784,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 12,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "TACCHINO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-kitten-busta-multipack-12x85g-2011p",
+        "name": "Natural Trainer Kitten Busta Multipack 12x85G",
+        "path": "/natural-trainer-kitten-busta-multipack-12x85g-2011/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12393",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 12,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2455",
+    "sku": "2455",
+    "gtin": "00000812",
+    "title": "Gourmet Gold Mousse Lattina Multipack 24x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-mousse-lattina-85g-2455/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274071/PT.01.jpg?v=637955408913800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274072/PT.02.jpg?v=637955409090500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274073/PT.03.jpg?v=637955409184530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274074/PT.04.jpg?v=637955409500670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274075/PT.05.jpg?v=637955409628530000"
+    ],
+    "price": {
+      "current": 0.69,
+      "original": 0.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.338235294117647,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2455",
+        "sku": "2455",
+        "gtin": "00000812",
+        "title": "POLLO DELICATO",
+        "url": "https://www.arcaplanet.it/gourmet-gold-mousse-lattina-85g-2455/p",
+        "price": {
+          "current": 0.69,
+          "original": 0.69,
+          "pricePerUnit": {
+            "value": 0.338235294117647,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO DELICATO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-mousse-lattina-85g-2455p",
+        "name": "Gourmet Gold Mousse Lattina Multipack 24x85G",
+        "path": "/gourmet-gold-mousse-lattina-85g-2455/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12444",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "9828",
+    "sku": "9828",
+    "gtin": "10045309",
+    "title": "Stuzzy Cat Vaschetta Multipack 32x100G",
+    "brand": "STUZZY",
+    "url": "https://www.arcaplanet.it/stuzzy-cat-pate-vaschetta-100g-9828/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315463/Stuzzy-Cat-Vaschetta-Multipack-32x100G-10045309.jpg?v=638741712329070000"
+    ],
+    "price": {
+      "current": 0.62,
+      "original": 0.62,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.19374999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9828",
+        "sku": "9828",
+        "gtin": "10045309",
+        "title": "PROSCIUTTO",
+        "url": "https://www.arcaplanet.it/stuzzy-cat-pate-vaschetta-100g-9828/p",
+        "price": {
+          "current": 0.62,
+          "original": 0.62,
+          "pricePerUnit": {
+            "value": 0.19374999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 32,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "PROSCIUTTO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "stuzzy-cat-pate-vaschetta-100g-9828p",
+        "name": "Stuzzy Cat Vaschetta Multipack 32x100G",
+        "path": "/stuzzy-cat-pate-vaschetta-100g-9828/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "12485",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 32,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2440",
+    "sku": "2440",
+    "gtin": "10078726",
+    "title": "Gourmet Gold Cuore Morbido Cat Lattina Multipack 24x85G",
+    "brand": "GOURMET",
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-cuore-morbido-lattina-85g-2440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273888/PT01.jpg?v=637951946181330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273889/PT02.jpg?v=637951946438530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273890/PT04.jpg?v=637951946820800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273891/PT05.jpg?v=637951946941070000"
+    ],
+    "price": {
+      "current": 0.69,
+      "original": 0.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.338235294117647,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2440",
+        "sku": "2440",
+        "gtin": "10078726",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/gourmet-gold-gatto-cuore-morbido-lattina-85g-2440/p",
+        "price": {
+          "current": 0.69,
+          "original": 0.69,
+          "pricePerUnit": {
+            "value": 0.338235294117647,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gourmet-gold-gatto-cuore-morbido-lattina-85g-2440p",
+        "name": "Gourmet Gold Cuore Morbido Cat Lattina Multipack 24x85G",
+        "path": "/gourmet-gold-gatto-cuore-morbido-lattina-85g-2440/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "12757",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "5094",
+    "sku": "5094",
+    "gtin": "10109456",
+    "title": "Next Natural Cat Lattina Multipack 6x50G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x50g-5094/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208060/Next-Multipack-Tonnetto-6x50g-gatto.jpg?v=637413966272270000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.96666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5094",
+        "sku": "5094",
+        "gtin": "10109456",
+        "title": "TONNETTO",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x50g-5094/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 19.96666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-6x50g-5094p",
+        "name": "Next Natural Cat Lattina Multipack 6x50G",
+        "path": "/next-natural-cat-lattina-multipack-6x50g-5094/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12870",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "2199",
+    "sku": "2199",
+    "gtin": "10079307",
+    "title": "Stuzzy Monoprotein Cat Busta Multipack 20x85G",
+    "brand": "STUZZY",
+    "url": "https://www.arcaplanet.it/stuzzy-cat-monoprotein-busta-85g-2199/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315472/Stuzzy-Monoprotein-Cat-Busta-Multipack-20x85G-10079307.jpg?v=638741719536270000"
+    ],
+    "price": {
+      "current": 1.05,
+      "original": 1.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6176470588235294,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2199",
+        "sku": "2199",
+        "gtin": "10079307",
+        "title": "PROSCIUTTO",
+        "url": "https://www.arcaplanet.it/stuzzy-cat-monoprotein-busta-85g-2199/p",
+        "price": {
+          "current": 1.05,
+          "original": 1.39,
+          "pricePerUnit": {
+            "value": 0.6176470588235294,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 20,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "PROSCIUTTO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "stuzzy-cat-monoprotein-busta-85g-2199p",
+        "name": "Stuzzy Monoprotein Cat Busta Multipack 20x85G",
+        "path": "/stuzzy-cat-monoprotein-busta-85g-2199/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "12890",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 20,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "12713",
+    "sku": "12713",
+    "gtin": "10138704",
+    "title": "Virtus Cat Natural Lattina Multipack 24x150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-cat-adult-natural-lattina-150g-12713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271855/Lattine-con-vassoio_tonno-atlantic-Vista-corrente.jpg?v=637886459598470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271856/generica-1.jpg?v=637886459736530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271858/VIRTUS-CAT-GR.150-ADULT-ATLANTIC-TONNO.jpg?v=637886460318500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271859/dolphin-safe.jpg?v=637886460433500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271860/no-preservative.jpg?v=637886460567770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272309/virtus-cat-nature-atlantic-formula-multipack.jpg?v=637903804614500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272310/bollo-virtus-24x85.jpg?v=637903805050570000"
+    ],
+    "price": {
+      "current": 2.29,
+      "original": 2.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6361111111111111,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12713",
+        "sku": "12713",
+        "gtin": "10138704",
+        "title": "TONNO",
+        "url": "https://www.arcaplanet.it/virtus-cat-adult-natural-lattina-150g-12713/p",
+        "price": {
+          "current": 2.29,
+          "original": 2.29,
+          "pricePerUnit": {
+            "value": 0.6361111111111111,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "TONNO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-cat-adult-natural-lattina-150g-12713p",
+        "name": "Virtus Cat Natural Lattina Multipack 24x150G",
+        "path": "/virtus-cat-adult-natural-lattina-150g-12713/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14850",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "13796",
+    "sku": "13796",
+    "gtin": "10139614",
+    "title": "Monge Grill Cat Sterilised Busta Multipack 12x85G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261945/monge-grill-sterilised-vitello-galletto-trota-per-gatto-12x85-g.jpg?v=637660002334200000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.813725490196079,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13796",
+        "sku": "13796",
+        "gtin": "10139614",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 8.813725490196079,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796p",
+        "name": "Monge Grill Cat Sterilised Busta Multipack 12x85G",
+        "path": "/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15934",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "13924",
+    "sku": "13924",
+    "gtin": "10139746",
+    "title": "Natural Trainer Cat Sterilised Busta Multipack 24x85G",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-6-buste-gratis-13924/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302841/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--1-.jpg?v=638537924748430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302842/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--2-.jpg?v=638537925001000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302843/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--3-.jpg?v=638537925081630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302844/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--4-.jpg?v=638537925188930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302845/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--5-.jpg?v=638537925278400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302846/natural-trainer-gatto-sterilised-6-buste-gratis-10139746--6-.jpg?v=638537925393870000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.32843137254902,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13924",
+        "sku": "13924",
+        "gtin": "10139746",
+        "title": "MIX MERLUZZO E TACCHINO",
+        "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-6-buste-gratis-13924/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 8.32843137254902,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "24X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-gatto-sterilised-6-buste-gratis-13924p",
+        "name": "Natural Trainer Cat Sterilised Busta Multipack 24x85G",
+        "path": "/natural-trainer-gatto-sterilised-6-buste-gratis-13924/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16062",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "14601",
+    "sku": "14601",
+    "gtin": "10140331",
+    "title": "Felix Le Ghiottonerie Cat Busta Multipack 80x85G",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314638/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-main.jpg?v=638730460708200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314639/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-1.jpg?v=638730460816000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314640/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-2.jpg?v=638730460922230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314641/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-3.jpg?v=638730461062000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314642/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-4.jpg?v=638730461157100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314643/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-5.jpg?v=638730461244930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314644/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-6.jpg?v=638730461336070000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.410294117647059,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14601",
+        "sku": "14601",
+        "gtin": "10140331",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+        "price": {
+          "current": 29.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 4.410294117647059,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "80X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "felix-le-ghiottonerie-multipack-80x85g-14601p",
+        "name": "Felix Le Ghiottonerie Cat Busta Multipack 80x85G",
+        "path": "/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16738",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "15885",
+    "sku": "15885",
+    "gtin": "10143695",
+    "title": "Premiere Meat Menu Cat Lattina 400G",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-meat-menu-per-gatti-adulti-400g-15885/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274906/premiere-meat-menu-con-mix-di-carne-400g.jpg?v=637964218276700000"
+    ],
+    "price": {
+      "current": 1.58,
+      "original": 2.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.95,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15885",
+        "sku": "15885",
+        "gtin": "10143695",
+        "title": "MIX DI CARNE",
+        "url": "https://www.arcaplanet.it/premiere-meat-menu-per-gatti-adulti-400g-15885/p",
+        "price": {
+          "current": 1.58,
+          "original": 2.1,
+          "pricePerUnit": {
+            "value": 3.95,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "premiere-meat-menu-per-gatti-adulti-400g-15885p",
+        "name": "Premiere Meat Menu Cat Lattina 400G",
+        "path": "/premiere-meat-menu-per-gatti-adulti-400g-15885/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19250",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "19789",
+    "sku": "19789",
+    "gtin": "10145560",
+    "title": "Real Nature Wilderness Cat Paté Lattina 400G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-per-gatti-adulti-400g-19789/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/319218/real-nature-wilderness-per-gatti-adulti-400g-10145560.jpg.jpg?v=638779943721400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/319219/RN-WILDERNESS-CAT-GR.400-ADULT-PURE-POLLO.jpg?v=638779943721570000"
+    ],
+    "price": {
+      "current": 2.24,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6000000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19789",
+        "sku": "19789",
+        "gtin": "10145560",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-per-gatti-adulti-400g-19789/p",
+        "price": {
+          "current": 2.24,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 5.6000000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-wilderness-per-gatti-adulti-400g-19789p",
+        "name": "Real Nature Wilderness Cat Paté Lattina 400G",
+        "path": "/real-nature-wilderness-per-gatti-adulti-400g-19789/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21946",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "20271",
+    "sku": "20271",
+    "gtin": "10166028",
+    "title": "Virtus Cat Natural Multipack 6X50G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-cat-natural-multipack-6x50g-20271/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286496/VIRTUS-CAT_multipack_house_1--1-.jpg?v=638210291771330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286497/virtus-COSCIA-DI-POLLO2-copia--1-.jpg?v=638210292579070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286498/VIRTUS-CAT_multipack_house_2--1-.jpg?v=638210293531670000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.84375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20271",
+        "sku": "20271",
+        "gtin": "10166028",
+        "title": "COSCIA DI POLLO",
+        "url": "https://www.arcaplanet.it/virtus-cat-natural-multipack-6x50g-20271/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 21.84375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-cat-natural-multipack-6x50g-20271p",
+        "name": "Virtus Cat Natural Multipack 6X50G",
+        "path": "/virtus-cat-natural-multipack-6x50g-20271/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "1372",
+        "name": "+ COMPRI - SPENDI"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22389",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "20703",
+    "sku": "20703",
+    "gtin": "10166289",
+    "title": "Virtus Cat Natural Busta Multipack 6X70G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-cat-natural-busta-multipack-6x70g-20703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280930/Virtus-Cat_pouch-naturali-70g_multi_nature_atlantic--1-.jpg?v=638121421926400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280929/Virtus-Cat_pouch-naturali-70g_-nature-atlantic-formula-Vista-corrente--1-.jpg?v=638121421719100000"
+    ],
+    "price": {
+      "current": 7.5,
+      "original": 7.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.857142857142858,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20703",
+        "sku": "20703",
+        "gtin": "10166289",
+        "title": "TONNO",
+        "url": "https://www.arcaplanet.it/virtus-cat-natural-busta-multipack-6x70g-20703/p",
+        "price": {
+          "current": 7.5,
+          "original": 7.5,
+          "pricePerUnit": {
+            "value": 17.857142857142858,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-cat-natural-busta-multipack-6x70g-20703p",
+        "name": "Virtus Cat Natural Busta Multipack 6X70G",
+        "path": "/virtus-cat-natural-busta-multipack-6x70g-20703/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22820",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "472",
+    "sku": "472",
+    "gtin": "10130112",
+    "title": "Next Natural Cat Lattina Multipack 6x70G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x70g-472/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272285/NEXT-CAT_ADULT_Lattina_TONNO-CON-ARAGOSTA_PIRAMIDE_3D.jpg?v=637903797215430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253497/next-lattina-gatto-tonno-con-aragosta-70g.jpg?v=637523449245500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272287/6x70g.jpg?v=637903797379030000"
+    ],
+    "price": {
+      "current": 7.14,
+      "original": 7.14,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "472",
+        "sku": "472",
+        "gtin": "10130112",
+        "title": "TONNO CON ARAGOSTA",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x70g-472/p",
+        "price": {
+          "current": 7.14,
+          "original": 7.14,
+          "pricePerUnit": {
+            "value": 17,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-6x70g-472p",
+        "name": "Next Natural Cat Lattina Multipack 6x70G",
+        "path": "/next-natural-cat-lattina-multipack-6x70g-472/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24109",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "22441",
+    "sku": "22441",
+    "gtin": "10170002",
+    "title": "Expecial Cat Busta Multipack 96X100G",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cat-bocconcini-jelly-multipack-96x100g-22441/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291903/Expecial-Cat-Bocconcini-Jelly-Multipack-96X100G-10170002.jpg?v=638357310249300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291904/Expecial-Cat-Bocconcini-Jelly-Multipack-96X100G-10170002.jpg?v=638756482406930000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 48.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.097814776274714,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22441",
+        "sku": "22441",
+        "gtin": "10170002",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/expecial-cat-bocconcini-jelly-multipack-96x100g-22441/p",
+        "price": {
+          "current": 48.99,
+          "original": 48.99,
+          "pricePerUnit": {
+            "value": 5.097814776274714,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "expecial-cat-bocconcini-jelly-multipack-96x100g-22441p",
+        "name": "Expecial Cat Busta Multipack 96X100G",
+        "path": "/expecial-cat-bocconcini-jelly-multipack-96x100g-22441/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24502",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "23548",
+    "sku": "23548",
+    "gtin": "10173543",
+    "title": "Next Cat Busta Multipack 24x70G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-busta-multipack-24x70g-23548/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305652/Next-Cat-Busta-Multipack-24x70G-10173543-1.jpg?v=638596643293400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305653/Next-Cat-Busta-Multipack-24x70G-10173543-2.jpg?v=638596643465700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305654/Next-Cat-Busta-Multipack-24x70G-10173543-3.jpg?v=638596643845900000"
+    ],
+    "price": {
+      "current": 23.75,
+      "original": 23.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.136904761904763,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23548",
+        "sku": "23548",
+        "gtin": "10173543",
+        "title": "TONNO GAMBERETTI SALMONE ALICI",
+        "url": "https://www.arcaplanet.it/next-cat-busta-multipack-24x70g-23548/p",
+        "price": {
+          "current": 23.75,
+          "original": 23.75,
+          "pricePerUnit": {
+            "value": 14.136904761904763,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-cat-busta-multipack-24x70g-23548p",
+        "name": "Next Cat Busta Multipack 24x70G",
+        "path": "/next-cat-busta-multipack-24x70g-23548/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25559",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "25250",
+    "sku": "25250",
+    "gtin": "1000000000064",
+    "title": "Kit Risparmio 132x85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/kit-risparmio-132x85g-felix-cat-ghiottonerie-25250/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308056/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-1.jpg?v=638646901960530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308057/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-2.jpg?v=638646902327070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308058/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-3.jpg?v=638646902431300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308059/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-4.jpg?v=638646902502030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308060/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-5.jpg?v=638646902580330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308061/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-6.jpg?v=638646902662200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308062/Kit-Risparmio-132X85G-Felix-Cat-Ghiottonerie-7.jpg?v=638646902739730000"
+    ],
+    "price": {
+      "current": 47.99,
+      "original": 71.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.3234234234234235,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25250",
+        "sku": "25250",
+        "gtin": "1000000000064",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-132x85g-felix-cat-ghiottonerie-25250/p",
+        "price": {
+          "current": 47.99,
+          "original": 71.97,
+          "pricePerUnit": {
+            "value": 4.3234234234234235,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-132x85g-felix-cat-ghiottonerie-25250p",
+        "name": "Kit Risparmio 132x85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+        "path": "/kit-risparmio-132x85g-felix-cat-ghiottonerie-25250/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27261",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  },
+  {
+    "id": "25301",
+    "sku": "25301",
+    "gtin": "1000000000080",
+    "title": "Kit Risparmio 160X85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308182/felix-le-ghiottonerie-multipack-80x85g_10140331_x2_result.jpg?v=638648449737230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308166/Kit-Risparmio-160X85G-Felix-Cat-Ghiottonerie.jpg?v=638648412141600000"
+    ],
+    "price": {
+      "current": 54.9,
+      "original": 79.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.9214285714285713,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25301",
+        "sku": "25301",
+        "gtin": "1000000000080",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+        "price": {
+          "current": 54.9,
+          "original": 79.98,
+          "pricePerUnit": {
+            "value": 3.9214285714285713,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-160x85g-felix-cat-ghiottonerie-25301p",
+        "name": "Kit Risparmio 160X85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+        "path": "/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27312",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:52:30.334Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/cibo/umido/"
+  }
+]

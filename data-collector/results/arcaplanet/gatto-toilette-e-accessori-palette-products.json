@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "9385",
+    "sku": "9385",
+    "gtin": "10110088",
+    "title": "Yes! Pick Up Gatto Paletta A Raccolta Giallo",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-a-raccolta-giallo-9385/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250833/yes-pick-up-gatto-paletta-a-raccolta-giallo.jpg?v=637455070500670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250835/yes-pick-up-gatto-paletta-a-raccolta-giallo.jpg?v=637455070525370000"
+    ],
+    "price": {
+      "current": 2.5,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 125,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9385",
+        "sku": "9385",
+        "gtin": "10110088",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-a-raccolta-giallo-9385/p",
+        "price": {
+          "current": 2.5,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 125,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-a-raccolta-giallo-9385p",
+        "name": "Yes! Pick Up Gatto Paletta A Raccolta Giallo",
+        "path": "/yes--pick-up-gatto-paletta-a-raccolta-giallo-9385/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9203",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9386",
+    "sku": "9386",
+    "gtin": "10110089",
+    "title": "Yes! Pick Up Gatto Paletta A Raccolta Grigio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-a-raccolta-grigio-9386/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227274/yes-pick-up-gatto-paletta-a-raccolta-grigio.jpg?v=637454791540000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250834/yes-pick-up-gatto-paletta-a-raccolta-grigio.jpg?v=637455070507070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250836/yes-pick-up-gatto-paletta-a-raccolta-grigio.jpg?v=637455070532030000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9386",
+        "sku": "9386",
+        "gtin": "10110089",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-a-raccolta-grigio-9386/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-a-raccolta-grigio-9386p",
+        "name": "Yes! Pick Up Gatto Paletta A Raccolta Grigio",
+        "path": "/yes--pick-up-gatto-paletta-a-raccolta-grigio-9386/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9204",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9387",
+    "sku": "9387",
+    "gtin": "10110090",
+    "title": "Paletta per Lettiera a Griglia Larga Blu Eco",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-larga-blu-9387/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260960/yes-paletta-pick-up-griglia-larga-blu.jpg?v=637620295136130000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9387",
+        "sku": "9387",
+        "gtin": "10110090",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-larga-blu-9387/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 134.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-griglia-larga-blu-9387p",
+        "name": "Paletta per Lettiera a Griglia Larga Blu Eco",
+        "path": "/yes--pick-up-gatto-paletta-griglia-larga-blu-9387/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9205",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9389",
+    "sku": "9389",
+    "gtin": "10110092",
+    "title": "Paletta per Lettiera a Griglia Larga Grigio Eco",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-larga-grigio-9389/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260665/yes-paletta-pick-up-grigio-larga.jpg?v=637617673360230000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9389",
+        "sku": "9389",
+        "gtin": "10110092",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-larga-grigio-9389/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 134.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-griglia-larga-grigio-9389p",
+        "name": "Paletta per Lettiera a Griglia Larga Grigio Eco",
+        "path": "/yes--pick-up-gatto-paletta-griglia-larga-grigio-9389/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9207",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9390",
+    "sku": "9390",
+    "gtin": "10110093",
+    "title": "Paletta per Lettiera a Griglia Stretta Blu",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-blu-9390/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227278/yes-pick-up-gatto-paletta-griglia-stretta-blu.jpg?v=637454791568800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250843/yes-pick-up-gatto-paletta-griglia-stretta-blu.jpg?v=637455070593970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250846/yes-pick-up-gatto-paletta-griglia-stretta-blu.jpg?v=637455070617870000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9390",
+        "sku": "9390",
+        "gtin": "10110093",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-blu-9390/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 134.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-griglia-stretta-blu-9390p",
+        "name": "Paletta per Lettiera a Griglia Stretta Blu",
+        "path": "/yes--pick-up-gatto-paletta-griglia-stretta-blu-9390/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9208",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9391",
+    "sku": "9391",
+    "gtin": "10110094",
+    "title": "Paletta per Lettiera a Griglia Stretta Gialla",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-giallo-9391/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250847/yes-pick-up-gatto-paletta-griglia-stretta-giallo.jpg?v=637455070623470000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9391",
+        "sku": "9391",
+        "gtin": "10110094",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-giallo-9391/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 134.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-griglia-stretta-giallo-9391p",
+        "name": "Paletta per Lettiera a Griglia Stretta Gialla",
+        "path": "/yes--pick-up-gatto-paletta-griglia-stretta-giallo-9391/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9209",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9392",
+    "sku": "9392",
+    "gtin": "10110095",
+    "title": "Paletta per Lettiera a Griglia Stretta Grigia",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-grigio-9392/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250845/yes-pick-up-gatto-paletta-griglia-stretta-grigio.jpg?v=637455070607400000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9392",
+        "sku": "9392",
+        "gtin": "10110095",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--pick-up-gatto-paletta-griglia-stretta-grigio-9392/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.69,
+          "pricePerUnit": {
+            "value": 134.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes--pick-up-gatto-paletta-griglia-stretta-grigio-9392p",
+        "name": "Paletta per Lettiera a Griglia Stretta Grigia",
+        "path": "/yes--pick-up-gatto-paletta-griglia-stretta-grigio-9392/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9210",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "9394",
+    "sku": "9394",
+    "gtin": "10110097",
+    "title": "Paletta Pick Up Jumbo Standard Grigio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-paletta-pick-up-jumbo-standard-grigio-per-gatto-9394/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262339/yes-paletta-pick-up-jumbo-grigio-eco.jpg?v=637667819435000000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9394",
+        "sku": "9394",
+        "gtin": "10110097",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-paletta-pick-up-jumbo-standard-grigio-per-gatto-9394/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "yes-paletta-pick-up-jumbo-standard-grigio-per-gatto-9394p",
+        "name": "Paletta Pick Up Jumbo Standard Grigio",
+        "path": "/yes-paletta-pick-up-jumbo-standard-grigio-per-gatto-9394/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9212",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "17410",
+    "sku": "17410",
+    "gtin": "10142153",
+    "title": "Anione Paletta Jumbo Stretta",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-jumbo-stretta-17410/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283962/6df2c2fb8687fe9a1d282140700501079e474d60_551d5b10385e64e267ce47b8107d6159e111545b.jpg?v=638173248331800000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17410",
+        "sku": "17410",
+        "gtin": "10142153",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-paletta-jumbo-stretta-17410/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-jumbo-stretta-17410p",
+        "name": "Anione Paletta Jumbo Stretta",
+        "path": "/anione-paletta-jumbo-stretta-17410/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19528",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "17500",
+    "sku": "17500",
+    "gtin": "10152728",
+    "title": "Anione Paletta per Lettiera con Supporto",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-con-supporto-17500/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286753/51fa9748b3ab815650b37df20b4ed98f087fdff2_94d4215880ee6fc341ec3abfd4a3f4fce0fbf778--1-.jpg?v=638215538121270000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17500",
+        "sku": "17500",
+        "gtin": "10152728",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-con-supporto-17500/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-per-lettiera-con-supporto-17500p",
+        "name": "Anione Paletta per Lettiera con Supporto",
+        "path": "/anione-paletta-per-lettiera-con-supporto-17500/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19618",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "17577",
+    "sku": "17577",
+    "gtin": "10142152",
+    "title": "Anione Paletta Jumbo Larga",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-jumbo-larga-17577/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283961/b82ea6017ef8fa7b20c9616848f6e12c961154b9_b16f1dca4af9c23ab1af4367b82280154cc7fea8.jpg?v=638173246389930000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17577",
+        "sku": "17577",
+        "gtin": "10142152",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-paletta-jumbo-larga-17577/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-jumbo-larga-17577p",
+        "name": "Anione Paletta Jumbo Larga",
+        "path": "/anione-paletta-jumbo-larga-17577/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19695",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "18319",
+    "sku": "18319",
+    "gtin": "10148826",
+    "title": "Anione Paletta per Lettiera in Alluminio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-in-alluminio-18319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285178/8cadcdb8e3346684902dd39550838acfa615c3f8_1e910d7026accbf072f8b97d7328353f09d7e4b5--1-.jpg?v=638193238071600000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18319",
+        "sku": "18319",
+        "gtin": "10148826",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-in-alluminio-18319/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-per-lettiera-in-alluminio-18319p",
+        "name": "Anione Paletta per Lettiera in Alluminio",
+        "path": "/anione-paletta-per-lettiera-in-alluminio-18319/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "19688",
+    "sku": "19688",
+    "gtin": "10142151",
+    "title": "Anione Paletta Stretta",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-stretta-19688/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284273/1b81294eca22cdc510aacc7b5b8a8d2fb49abd77_ac456ca33057d1c225337d8f8a21aa3292ef834f.jpg?v=638175920574200000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19688",
+        "sku": "19688",
+        "gtin": "10142151",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-paletta-stretta-19688/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-stretta-19688p",
+        "name": "Anione Paletta Stretta",
+        "path": "/anione-paletta-stretta-19688/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21806",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  },
+  {
+    "id": "21928",
+    "sku": "21928",
+    "gtin": "10152696",
+    "title": "Anione Paletta per Lettiera XL",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-xl-21928/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287857/5c07dcebf54faf06155e32a87c41ac68c2935e3c_1a76e45091b5a908302d2a718ce31a53673dbadb--1-.jpg?v=638235523145930000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21928",
+        "sku": "21928",
+        "gtin": "10152696",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-paletta-per-lettiera-xl-21928/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotoilette-e-accessori",
+        "name": "Toilette e accessori",
+        "path": "/gatto/toilette-e-accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattotoilette-e-accessoripalette",
+        "name": "Palette",
+        "path": "/gatto/toilette-e-accessori/palette/",
+        "level": 4
+      },
+      {
+        "id": "anione-paletta-per-lettiera-xl-21928p",
+        "name": "Anione Paletta per Lettiera XL",
+        "path": "/anione-paletta-per-lettiera-xl-21928/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "24016",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:00.584Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/toilette/e/accessori/palette/"
+  }
+]

@@ -1,0 +1,3840 @@
+[
+  {
+    "id": "4073",
+    "sku": "4073",
+    "gtin": "10129701",
+    "title": "Spray Igienizzante Zampe",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257822/perfect-higiene-spray-igienizzante-zampe.jpg?v=637588224381130000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.6,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4073",
+        "sku": "4073",
+        "gtin": "10129701",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 36.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073p",
+        "name": "Spray Igienizzante Zampe",
+        "path": "/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3975",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.290Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4737",
+    "sku": "4737",
+    "gtin": "10120953",
+    "title": "Deodorante Lucidante Spray Muschio Bianco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-deodorante-lucidante-spray-muschio-bianco-per-cane-300ml-4737/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254722/lovedi-deodorante-lucidante-spray-muschio-bianco-300ml.jpg?v=637553925176900000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.300000000000004,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4737",
+        "sku": "4737",
+        "gtin": "10120953",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/lovedi-deodorante-lucidante-spray-muschio-bianco-per-cane-300ml-4737/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 33.300000000000004,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-deodorante-lucidante-spray-muschio-bianco-per-cane-300ml-4737p",
+        "name": "Deodorante Lucidante Spray Muschio Bianco",
+        "path": "/lovedi-deodorante-lucidante-spray-muschio-bianco-per-cane-300ml-4737/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4618",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.290Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4761",
+    "sku": "4761",
+    "gtin": "10108923",
+    "title": "Shampoo Cane Aloe Olio Di Argan",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/merci-cane-shampoo-aloe-olio-di-argan-200ml-4761/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225117/merci-cane-shampoo-aloe-olio-di-argan.jpg?v=637454749580170000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.950000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4761",
+        "sku": "4761",
+        "gtin": "10108923",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/merci-cane-shampoo-aloe-olio-di-argan-200ml-4761/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 14.950000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "merci-cane-shampoo-aloe-olio-di-argan-200ml-4761p",
+        "name": "Shampoo Cane Aloe Olio Di Argan",
+        "path": "/merci-cane-shampoo-aloe-olio-di-argan-200ml-4761/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4642",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.290Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4762",
+    "sku": "4762",
+    "gtin": "10108920",
+    "title": "Shampoo Cane Aloe Olio Di Avocado",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/merci-cane-shampoo-aloe-olio-di-avocado-200ml-4762/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225118/merci-cane-shampoo-aloe-olio-di-avocado.jpg?v=637454749594730000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.950000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4762",
+        "sku": "4762",
+        "gtin": "10108920",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/merci-cane-shampoo-aloe-olio-di-avocado-200ml-4762/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 14.950000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "merci-cane-shampoo-aloe-olio-di-avocado-200ml-4762p",
+        "name": "Shampoo Cane Aloe Olio Di Avocado",
+        "path": "/merci-cane-shampoo-aloe-olio-di-avocado-200ml-4762/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4643",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4802",
+    "sku": "4802",
+    "gtin": "10112341",
+    "title": "Spray Pelo Natural Olio di Neem",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spray-pelo-natural-neem-per-cane-250ml-4802/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257972/lovedi-spray-pelo-250ml.jpg?v=637589083359830000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4802",
+        "sku": "4802",
+        "gtin": "10112341",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/lovedi-spray-pelo-natural-neem-per-cane-250ml-4802/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 31.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-spray-pelo-natural-neem-per-cane-250ml-4802p",
+        "name": "Spray Pelo Natural Olio di Neem",
+        "path": "/lovedi-spray-pelo-natural-neem-per-cane-250ml-4802/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4683",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4818",
+    "sku": "4818",
+    "gtin": "10111769",
+    "title": "Shampoo Antiparassitario all'Olio di Neem",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-shampoo-neen-250ml-4818/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208266/Perfect-Shampoo-Neem-250ml.jpg?v=637413969511370000"
+    ],
+    "price": {
+      "current": 14.9,
+      "original": 14.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 59.6,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4818",
+        "sku": "4818",
+        "gtin": "10111769",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-cane-shampoo-neen-250ml-4818/p",
+        "price": {
+          "current": 14.9,
+          "original": 14.9,
+          "pricePerUnit": {
+            "value": 59.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-shampoo-neen-250ml-4818p",
+        "name": "Shampoo Antiparassitario all'Olio di Neem",
+        "path": "/perfect-cane-shampoo-neen-250ml-4818/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4699",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4873",
+    "sku": "4873",
+    "gtin": "10079317",
+    "title": "Probiotic Cane Antiodore Balsamo",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-probiotic-cane-antiodore-balsamo-250ml-4873/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225195/perfect-probiotic-cane-antiodore-balsamo.jpg?v=637454750335200000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.76,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4873",
+        "sku": "4873",
+        "gtin": "10079317",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-probiotic-cane-antiodore-balsamo-250ml-4873/p",
+        "price": {
+          "current": 7.19,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 28.76,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-probiotic-cane-antiodore-balsamo-250ml-4873p",
+        "name": "Probiotic Cane Antiodore Balsamo",
+        "path": "/perfect-probiotic-cane-antiodore-balsamo-250ml-4873/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4754",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4900",
+    "sku": "4900",
+    "gtin": "10120952",
+    "title": "Deodorante Lucidante Spray Talco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-deodorante-lucidante-spray-talco-per-cane-300ml-4900/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254726/lovedi-deodorante-lucidante-spray-talco-300ml.jpg?v=637553944835530000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.300000000000004,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4900",
+        "sku": "4900",
+        "gtin": "10120952",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/lovedi-deodorante-lucidante-spray-talco-per-cane-300ml-4900/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 33.300000000000004,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-deodorante-lucidante-spray-talco-per-cane-300ml-4900p",
+        "name": "Deodorante Lucidante Spray Talco",
+        "path": "/lovedi-deodorante-lucidante-spray-talco-per-cane-300ml-4900/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4781",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "4963",
+    "sku": "4963",
+    "gtin": "10108918",
+    "title": "Cane Shampoo Mousse Aloe Argan e Talco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-shampoo-mousse-300ml-aloe-argan-talco-4963/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280537/lovedi-cane-shampoo-mousse-300ml.jpg?v=638115463984030000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.633333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4963",
+        "sku": "4963",
+        "gtin": "10108918",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/lovedi-cane-shampoo-mousse-300ml-aloe-argan-talco-4963/p",
+        "price": {
+          "current": 7.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 26.633333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-shampoo-mousse-300ml-aloe-argan-talco-4963p",
+        "name": "Cane Shampoo Mousse Aloe Argan e Talco",
+        "path": "/lovedi-cane-shampoo-mousse-300ml-aloe-argan-talco-4963/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4842",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "5147",
+    "sku": "5147",
+    "gtin": "10079316",
+    "title": "Probiotic Cane Antiodore Pelo",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-probiotic-cane-antiodore-pelo-250ml-5147/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225197/perfect-probiotic-cane-antiodore-pelo.jpg?v=637454750358030000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.76,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5147",
+        "sku": "5147",
+        "gtin": "10079316",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-probiotic-cane-antiodore-pelo-250ml-5147/p",
+        "price": {
+          "current": 7.19,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 28.76,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-probiotic-cane-antiodore-pelo-250ml-5147p",
+        "name": "Probiotic Cane Antiodore Pelo",
+        "path": "/perfect-probiotic-cane-antiodore-pelo-250ml-5147/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5026",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "6286",
+    "sku": "6286",
+    "gtin": "10111935",
+    "title": "Shampoo Cane Mousse Cuccioli",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-shampoo-mousse-300ml-manti-cuccioli-6286/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207653/Lovedi-Shampoo-Mousse-300ml-Manti-Cuccioli.jpg?v=637413960131470000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.633333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6286",
+        "sku": "6286",
+        "gtin": "10111935",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/lovedi-cane-shampoo-mousse-300ml-manti-cuccioli-6286/p",
+        "price": {
+          "current": 7.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 26.633333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-shampoo-mousse-300ml-manti-cuccioli-6286p",
+        "name": "Shampoo Cane Mousse Cuccioli",
+        "path": "/lovedi-cane-shampoo-mousse-300ml-manti-cuccioli-6286/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6132",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12307",
+    "sku": "12307",
+    "gtin": "10120688",
+    "title": "Balsamo per Cane Districante con Olio Di Argan",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272631/lovedi-dog-balsamo-districante-olio-di-argan.jpg?v=637907053422730000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12307",
+        "sku": "12307",
+        "gtin": "10120688",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 29.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307p",
+        "name": "Balsamo per Cane Districante con Olio Di Argan",
+        "path": "/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13716",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12311",
+    "sku": "12311",
+    "gtin": "10120680",
+    "title": "Shampoo per Cane Maltese con Uva Ursina",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-maltese-con-uva-ursina-12311/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272641/lovedi-dog-shampoo-maltese-uva-ursina.jpg?v=637907131357830000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12311",
+        "sku": "12311",
+        "gtin": "10120680",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-maltese-con-uva-ursina-12311/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 24.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-cane-maltese-con-uva-ursina-12311p",
+        "name": "Shampoo per Cane Maltese con Uva Ursina",
+        "path": "/lovedi-shampoo-per-cane-maltese-con-uva-ursina-12311/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13720",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12313",
+    "sku": "12313",
+    "gtin": "10120682",
+    "title": "Shampoo per Cane dal Manto Bianco  con Malva",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-dal-manto-bianco-con-malva-12313/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272643/lovedi-dog-shampoo-manto-bianco-malva.jpg?v=637907140165700000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12313",
+        "sku": "12313",
+        "gtin": "10120682",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-dal-manto-bianco-con-malva-12313/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 24.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-cane-dal-manto-bianco-con-malva-12313p",
+        "name": "Shampoo per Cane dal Manto Bianco  con Malva",
+        "path": "/lovedi-shampoo-per-cane-dal-manto-bianco-con-malva-12313/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13722",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12319",
+    "sku": "12319",
+    "gtin": "10120723",
+    "title": "Shampoo Secco in Polvere al Profumo di Talco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272654/Shampoo-secco-in-polvere.jpg?v=637907243321600000"
+    ],
+    "price": {
+      "current": 5.9,
+      "original": 5.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12319",
+        "sku": "12319",
+        "gtin": "10120723",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+        "price": {
+          "current": 5.9,
+          "original": 5.9,
+          "pricePerUnit": {
+            "value": 29.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319p",
+        "name": "Shampoo Secco in Polvere al Profumo di Talco",
+        "path": "/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13728",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12321",
+    "sku": "12321",
+    "gtin": "10108921",
+    "title": "Shampoo per Cane Addolcente con Aloe e Olio di Mandorle",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272633/lovedi-dog-shampoo-addolcente-aloe-olio-di-argan.jpg?v=637907092307330000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.950000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12321",
+        "sku": "12321",
+        "gtin": "10108921",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 14.950000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321p",
+        "name": "Shampoo per Cane Addolcente con Aloe e Olio di Mandorle",
+        "path": "/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13730",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12347",
+    "sku": "12347",
+    "gtin": "10108922",
+    "title": "Shampoo per Cane Rivitalizzante con Aloe e Olio di Jojoba",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-rivitalizzante-con-aloe-olio-di-jojoba-12347/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272632/lovedi-dog-shampoo-rivitalizzante-aloe-e-olio-di-jojoba.jpg?v=637907072599670000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.950000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12347",
+        "sku": "12347",
+        "gtin": "10108922",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-rivitalizzante-con-aloe-olio-di-jojoba-12347/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 14.950000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-cane-rivitalizzante-con-aloe-olio-di-jojoba-12347p",
+        "name": "Shampoo per Cane Rivitalizzante con Aloe e Olio di Jojoba",
+        "path": "/lovedi-shampoo-per-cane-rivitalizzante-con-aloe-olio-di-jojoba-12347/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13731",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12325",
+    "sku": "12325",
+    "gtin": "10110153",
+    "title": "Lozione Detergente Bio per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-lozione-detergente-bio-cane-100ml-12325/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273127/perfect-lozione-detergente-cane-100ml.jpg?v=637921701031000000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12325",
+        "sku": "12325",
+        "gtin": "10110153",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/perfect-lozione-detergente-bio-cane-100ml-12325/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-lozione-detergente-bio-cane-100ml-12325p",
+        "name": "Lozione Detergente Bio per Cane",
+        "path": "/perfect-lozione-detergente-bio-cane-100ml-12325/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13735",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12326",
+    "sku": "12326",
+    "gtin": "10110152",
+    "title": "Shampoo Delicato Bio per Cuccioli",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-shampoo-delicato-bio-cuccioli-200ml-12326/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273130/perfect-shampoo-delicato-cuccioli-200ml.jpg?v=637921712713630000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 34.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12326",
+        "sku": "12326",
+        "gtin": "10110152",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/perfect-shampoo-delicato-bio-cuccioli-200ml-12326/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 34.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-shampoo-delicato-bio-cuccioli-200ml-12326p",
+        "name": "Shampoo Delicato Bio per Cuccioli",
+        "path": "/perfect-shampoo-delicato-bio-cuccioli-200ml-12326/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13736",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12327",
+    "sku": "12327",
+    "gtin": "10110149",
+    "title": "Perfect Shampoo Igienizzante per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-shampoo-igienizzante-cane-200ml-12327/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273231/perfect-shampoo-igienizzante-200ml.jpg?v=637922686092300000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 34.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12327",
+        "sku": "12327",
+        "gtin": "10110149",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/perfect-shampoo-igienizzante-cane-200ml-12327/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 34.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-shampoo-igienizzante-cane-200ml-12327p",
+        "name": "Perfect Shampoo Igienizzante per Cane",
+        "path": "/perfect-shampoo-igienizzante-cane-200ml-12327/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13737",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12328",
+    "sku": "12328",
+    "gtin": "10110150",
+    "title": "Shampoo Lavaggi Frequenti per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-shampoo-lavaggi-frequenti-cane-200ml-12328/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273147/perfect-shampoo-lavaggi-frequenti-200ml.jpg?v=637921892557400000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 34.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12328",
+        "sku": "12328",
+        "gtin": "10110150",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/perfect-shampoo-lavaggi-frequenti-cane-200ml-12328/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 34.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-shampoo-lavaggi-frequenti-cane-200ml-12328p",
+        "name": "Shampoo Lavaggi Frequenti per Cane",
+        "path": "/perfect-shampoo-lavaggi-frequenti-cane-200ml-12328/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13738",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12329",
+    "sku": "12329",
+    "gtin": "10110148",
+    "title": "Shampoo per Cane dal Pelo Riccio con Lino Bio",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-shampoo-per-cane-dal-pelo-riccio-con-lino-bio-12329/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273212/perfect-bio-shampoo-pelo-riccio.jpg?v=637922577723100000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.6,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12329",
+        "sku": "12329",
+        "gtin": "10110148",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/perfect-shampoo-per-cane-dal-pelo-riccio-con-lino-bio-12329/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 27.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-shampoo-per-cane-dal-pelo-riccio-con-lino-bio-12329p",
+        "name": "Shampoo per Cane dal Pelo Riccio con Lino Bio",
+        "path": "/perfect-shampoo-per-cane-dal-pelo-riccio-con-lino-bio-12329/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13739",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12330",
+    "sku": "12330",
+    "gtin": "10110147",
+    "title": "Shampoo per Cane dal Pelo Lungo con Avena Bio",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-shampoo-per-cane-dal-pelo-lungo-con-avena-bio-12330/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273215/perfect-bio-shampoo-pelo-lungo.jpg?v=637922612391130000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 34.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12330",
+        "sku": "12330",
+        "gtin": "10110147",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/perfect-shampoo-per-cane-dal-pelo-lungo-con-avena-bio-12330/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 34.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-shampoo-per-cane-dal-pelo-lungo-con-avena-bio-12330p",
+        "name": "Shampoo per Cane dal Pelo Lungo con Avena Bio",
+        "path": "/perfect-shampoo-per-cane-dal-pelo-lungo-con-avena-bio-12330/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13740",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "12335",
+    "sku": "12335",
+    "gtin": "10079322",
+    "title": "Perfect Probiotic Shampoo Antiodore Dog Ml.250",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-probiotic-shampoo-antiodore-dog-ml-250-12335/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273252/PERFECT-PROBIOTIC-SHAMPOO-ANTIODORE-DOG-ML.250.jpg?v=637925262634600000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.96,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12335",
+        "sku": "12335",
+        "gtin": "10079322",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-probiotic-shampoo-antiodore-dog-ml-250-12335/p",
+        "price": {
+          "current": 7.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 31.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-probiotic-shampoo-antiodore-dog-ml-250-12335p",
+        "name": "Perfect Probiotic Shampoo Antiodore Dog Ml.250",
+        "path": "/perfect-probiotic-shampoo-antiodore-dog-ml-250-12335/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13746",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "14392",
+    "sku": "14392",
+    "gtin": "00043609",
+    "title": "Deodorante al Talco per Cane",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-deodorante-al-talco-per-cane-250ml-14392/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266239/camon-deodorante-al-talco-cane-250ml.jpg?v=637756738124470000"
+    ],
+    "price": {
+      "current": 10.9,
+      "original": 10.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 545,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14392",
+        "sku": "14392",
+        "gtin": "00043609",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/camon-deodorante-al-talco-per-cane-250ml-14392/p",
+        "price": {
+          "current": 10.9,
+          "original": 10.9,
+          "pricePerUnit": {
+            "value": 545,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "camon-deodorante-al-talco-per-cane-250ml-14392p",
+        "name": "Deodorante al Talco per Cane",
+        "path": "/camon-deodorante-al-talco-per-cane-250ml-14392/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16529",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "15373",
+    "sku": "15373",
+    "gtin": "10139551",
+    "title": "Spray per Cane Districante con Aloe Vera e Cocco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spray-per-cane-districante-con-aloe-vera-cocco-15373/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272674/lovedi-spray-districante-aloe-vera-e-cocco.jpg?v=637907911543830000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15373",
+        "sku": "15373",
+        "gtin": "10139551",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/lovedi-spray-per-cane-districante-con-aloe-vera-cocco-15373/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-spray-per-cane-districante-con-aloe-vera-cocco-15373p",
+        "name": "Spray per Cane Districante con Aloe Vera e Cocco",
+        "path": "/lovedi-spray-per-cane-districante-con-aloe-vera-cocco-15373/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17510",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "15478",
+    "sku": "15478",
+    "gtin": "10065185",
+    "title": "Schiuma Pulisci Zampe",
+    "brand": "GILL'S",
+    "url": "https://www.arcaplanet.it/gills-schiuma-pulisci-zampe-15478/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273142/gills-schiuma-pulisci-zampe-per-animali.jpg?v=637921797010570000"
+    ],
+    "price": {
+      "current": 7.1,
+      "original": 7.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 32.27272727272727,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15478",
+        "sku": "15478",
+        "gtin": "10065185",
+        "title": "220ML",
+        "url": "https://www.arcaplanet.it/gills-schiuma-pulisci-zampe-15478/p",
+        "price": {
+          "current": 7.1,
+          "original": 7.1,
+          "pricePerUnit": {
+            "value": 32.27272727272727,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "220ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "gills-schiuma-pulisci-zampe-15478p",
+        "name": "Schiuma Pulisci Zampe",
+        "path": "/gills-schiuma-pulisci-zampe-15478/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17615",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "16000",
+    "sku": "16000",
+    "gtin": "10151773",
+    "title": "Take Care Shampoo Pulizia Profonda",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-shampoo-pulizia-profonda-16000/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275170/10151773.jpg?v=637968403631800000"
+    ],
+    "price": {
+      "current": 4,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16000",
+        "sku": "16000",
+        "gtin": "10151773",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/take-care-shampoo-pulizia-profonda-16000/p",
+        "price": {
+          "current": 4,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 16,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "take-care-shampoo-pulizia-profonda-16000p",
+        "name": "Take Care Shampoo Pulizia Profonda",
+        "path": "/take-care-shampoo-pulizia-profonda-16000/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18137",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "16002",
+    "sku": "16002",
+    "gtin": "10151776",
+    "title": "Take Care Shampoo Secco Spray",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-shampoo-secco-spray-16002/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275171/10151776.jpg?v=637968407365700000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16002",
+        "sku": "16002",
+        "gtin": "10151776",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/take-care-shampoo-secco-spray-16002/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 31.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "take-care-shampoo-secco-spray-16002p",
+        "name": "Take Care Shampoo Secco Spray",
+        "path": "/take-care-shampoo-secco-spray-16002/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18139",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "18468",
+    "sku": "18468",
+    "gtin": "10148627",
+    "title": "Take Care Dog Balsamo per Zampe",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-balsamo-per-zampe-18468/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318359/3bbfc9eaffffaacf55c1fae7283b421104eca6ab_c7ab7f560a2f754e982332b79aaee68480a5fa79--1-.jpg?v=638769517256330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318360/take-care-balsamo-per-zampe-10148627--2-.jpg.jpg?v=638769518244400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318361/take-care-balsamo-per-zampe-10148627--3-.jpg.jpg?v=638769518244400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318362/take-care-balsamo-per-zampe-10148627--1-.jpg.jpg?v=638769518244400000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 159.79999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18468",
+        "sku": "18468",
+        "gtin": "10148627",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/take-care-balsamo-per-zampe-18468/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 159.79999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "take-care-balsamo-per-zampe-18468p",
+        "name": "Take Care Dog Balsamo per Zampe",
+        "path": "/take-care-balsamo-per-zampe-18468/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20586",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21343",
+    "sku": "21343",
+    "gtin": "10168922",
+    "title": "Yuup Siero Ristrutturante Pink Velvet per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-siero-ristrutturante-pink-velvet-per-cani-21343/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286143/EU-YHPV150--1-.jpg?v=638203566118200000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21343",
+        "sku": "21343",
+        "gtin": "10168922",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/yuup-siero-ristrutturante-pink-velvet-per-cani-21343/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-siero-ristrutturante-pink-velvet-per-cani-21343p",
+        "name": "Yuup Siero Ristrutturante Pink Velvet per Cani",
+        "path": "/yuup-siero-ristrutturante-pink-velvet-per-cani-21343/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23432",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21347",
+    "sku": "21347",
+    "gtin": "10134148",
+    "title": "Yuup Balsamo Districante per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-balsamo-districante-per-cani-21347/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286138/EU-YHBR250--1-.jpg?v=638203551456800000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21347",
+        "sku": "21347",
+        "gtin": "10134148",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-balsamo-districante-per-cani-21347/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-balsamo-districante-per-cani-21347p",
+        "name": "Yuup Balsamo Districante per Cani",
+        "path": "/yuup-balsamo-districante-per-cani-21347/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21348",
+    "sku": "21348",
+    "gtin": "10134156",
+    "title": "Yuup Scioglinodi Lucidante per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-scioglinodi-lucidante-per-cani-21348/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286139/EU-YHSN150--1-.jpg?v=638203554034730000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21348",
+        "sku": "21348",
+        "gtin": "10134156",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/yuup-scioglinodi-lucidante-per-cani-21348/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-scioglinodi-lucidante-per-cani-21348p",
+        "name": "Yuup Scioglinodi Lucidante per Cani",
+        "path": "/yuup-scioglinodi-lucidante-per-cani-21348/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21349",
+    "sku": "21349",
+    "gtin": "10134149",
+    "title": "Yuup Acqua Profumata per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-acqua-profumata-per-cani-21349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286140/EU-YHPU150--1-.jpg?v=638203557487300000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21349",
+        "sku": "21349",
+        "gtin": "10134149",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/yuup-acqua-profumata-per-cani-21349/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-acqua-profumata-per-cani-21349p",
+        "name": "Yuup Acqua Profumata per Cani",
+        "path": "/yuup-acqua-profumata-per-cani-21349/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23438",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21351",
+    "sku": "21351",
+    "gtin": "10134144",
+    "title": "Yuup Shampoo per Cani Cuccioli/Pelli Sensibili",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-shampoo-per-cani-cuccioli-pelli-sensibili-21351/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286137/EU-YHSD250--1-.jpg?v=638203548949900000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21351",
+        "sku": "21351",
+        "gtin": "10134144",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-shampoo-per-cani-cuccioli-pelli-sensibili-21351/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-shampoo-per-cani-cuccioli-pelli-sensibili-21351p",
+        "name": "Yuup Shampoo per Cani Cuccioli/Pelli Sensibili",
+        "path": "/yuup-shampoo-per-cani-cuccioli-pelli-sensibili-21351/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23440",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21625",
+    "sku": "21625",
+    "gtin": "10134146",
+    "title": "Yuup! Shampoo Dog per Manti Lunghi",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-shampoo-dog-per-manti-lunghi-21625/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287094/EU-YHSL250--1-.jpg?v=638223267559400000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 51.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21625",
+        "sku": "21625",
+        "gtin": "10134146",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-shampoo-dog-per-manti-lunghi-21625/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 51.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-shampoo-dog-per-manti-lunghi-21625p",
+        "name": "Yuup! Shampoo Dog per Manti Lunghi",
+        "path": "/yuup-shampoo-dog-per-manti-lunghi-21625/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23714",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21627",
+    "sku": "21627",
+    "gtin": "10134145",
+    "title": "Yuup! Shampoo Dog per Manti Scuri",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-shampoo-dog-per-manti-scuri-21627/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287085/EU-YHSS250--1-.jpg?v=638223262215170000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 51.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21627",
+        "sku": "21627",
+        "gtin": "10134145",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-shampoo-dog-per-manti-scuri-21627/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 51.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-shampoo-dog-per-manti-scuri-21627p",
+        "name": "Yuup! Shampoo Dog per Manti Scuri",
+        "path": "/yuup-shampoo-dog-per-manti-scuri-21627/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23716",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21629",
+    "sku": "21629",
+    "gtin": "10134152",
+    "title": "Yuup! Shampoo Secco",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-shampoo-secco-21629/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287099/EU-YHSA150--1-.jpg?v=638223269791800000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 86.60000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21629",
+        "sku": "21629",
+        "gtin": "10134152",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/yuup-shampoo-secco-21629/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 86.60000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-shampoo-secco-21629p",
+        "name": "Yuup! Shampoo Secco",
+        "path": "/yuup-shampoo-secco-21629/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23718",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "21630",
+    "sku": "21630",
+    "gtin": "10134143",
+    "title": "Yuup! Shampoo Dog Sbiancante per Manti Chiari",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-shampoo-dog-sbiancante-per-manti-chiari-21630/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287084/EU-YHSC250--1-.jpg?v=638223259680170000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 51.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21630",
+        "sku": "21630",
+        "gtin": "10134143",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-shampoo-dog-sbiancante-per-manti-chiari-21630/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 51.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-shampoo-dog-sbiancante-per-manti-chiari-21630p",
+        "name": "Yuup! Shampoo Dog Sbiancante per Manti Chiari",
+        "path": "/yuup-shampoo-dog-sbiancante-per-manti-chiari-21630/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23719",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  },
+  {
+    "id": "23577",
+    "sku": "23577",
+    "gtin": "10173576",
+    "title": "Perfect Balsamo Sensitive Zampe e Naso per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-balsamo-sensitive-zampe-e-naso-per-cane-23577/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309301/Perfect-Balsamo-Sensitive-Zampe-e-Naso-per-Cane-10173576-1.jpg?v=638658877180870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309302/Perfect-Balsamo-Sensitive-Zampe-e-Naso-per-Cane-10173576-2.jpg?v=638658877249230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309303/Perfect-Balsamo-Sensitive-Zampe-e-Naso-per-Cane-10173576-3.jpg?v=638658877329100000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.87499999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23577",
+        "sku": "23577",
+        "gtin": "10173576",
+        "title": "75G",
+        "url": "https://www.arcaplanet.it/perfect-balsamo-sensitive-zampe-e-naso-per-cane-23577/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 249.87499999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-balsamo-sensitive-zampe-e-naso-per-cane-23577p",
+        "name": "Perfect Balsamo Sensitive Zampe e Naso per Cane",
+        "path": "/perfect-balsamo-sensitive-zampe-e-naso-per-cane-23577/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25588",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:58.291Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/manto/e/cute/"
+  }
+]

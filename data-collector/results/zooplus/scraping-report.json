@@ -1,0 +1,44 @@
+{
+  "totalProducts": 200,
+  "categories": {
+    "/shop/cani/cibo_secco": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/cani/cibo_umido": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/cani/snack_biscotti": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/cani/cucce": {
+      "status": "success",
+      "productsCount": 100
+    },
+    "/shop/cani/cura_salute/antiparassitari": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/gatti/cibo/sterilizzati": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/gatti/lettiere": {
+      "status": "success",
+      "productsCount": 0
+    },
+    "/shop/gatti/tiragraffi": {
+      "status": "success",
+      "productsCount": 100
+    },
+    "/shop/gatti/giochi/interattivi": {
+      "status": "success",
+      "productsCount": 0
+    }
+  },
+  "startTime": "2025-03-23T22:21:04.110Z",
+  "endTime": "2025-03-23T22:22:21.152Z",
+  "elapsedSeconds": 77
+}

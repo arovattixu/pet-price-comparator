@@ -1,0 +1,3818 @@
+[
+  {
+    "id": "906",
+    "sku": "906",
+    "gtin": "10061019",
+    "title": "Croci Museruola Lupo",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-cane-museruola-lupo-xs-906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303903/Croci-Museruola-Lupo.jpg?v=638562049724800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231334/croci-cane-museruola-lupo.jpg?v=637454838466770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260740/croci-museruola-lupo-dimensioni.jpg?v=637619437447530000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "906",
+        "sku": "906",
+        "gtin": "10061019",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/croci-cane-museruola-lupo-xs-906/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriamuseruole",
+        "name": "Museruole",
+        "path": "/cane/guinzaglieria/museruole/",
+        "level": 4
+      },
+      {
+        "id": "croci-cane-museruola-lupo-xs-906p",
+        "name": "Croci Museruola Lupo",
+        "path": "/croci-cane-museruola-lupo-xs-906/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "864",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "3723",
+    "sku": "3723",
+    "gtin": "10059537",
+    "title": "Pettorina Ergocomfort Rosso e Nero",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-pettorina-per-cane-ergocomfort-rosso-nero-3723/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/216801/https---www.arcaplanet.it-media-catalog-product--p-e-pettorina-ergocomfort-rosso-ferc12.jpg?v=637454582453030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/233229/camon-ergocomfort-cane-pettorina-rosso-e-nero.jpg?v=637454859107030000"
+    ],
+    "price": {
+      "current": 30.99,
+      "original": 30.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3723",
+        "sku": "3723",
+        "gtin": "10059537",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/ferplast-pettorina-per-cane-ergocomfort-rosso-nero-3723/p",
+        "price": {
+          "current": 30.99,
+          "original": 30.99,
+          "pricePerUnit": {
+            "value": 1549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "ferplast-pettorina-per-cane-ergocomfort-rosso-nero-3723p",
+        "name": "Pettorina Ergocomfort Rosso e Nero",
+        "path": "/ferplast-pettorina-per-cane-ergocomfort-rosso-nero-3723/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3626",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "4447",
+    "sku": "4447",
+    "gtin": "10111815",
+    "title": "Pettorina Antifuga Stay",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-stay-cane-pettorina-antifuga-4447/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225747/trixie-stay-cane-pettorina-antifuga.jpg?v=637454755220330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/245732/trixie-stay-cane-pettorina-antifuga.jpg?v=637455025285370000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4447",
+        "sku": "4447",
+        "gtin": "10111815",
+        "title": "S/M",
+        "url": "https://www.arcaplanet.it/trixie-stay-cane-pettorina-antifuga-4447/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S-M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "trixie-stay-cane-pettorina-antifuga-4447p",
+        "name": "Pettorina Antifuga Stay",
+        "path": "/trixie-stay-cane-pettorina-antifuga-4447/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4956",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "4219",
+    "sku": "4219",
+    "gtin": "10064709",
+    "title": "Flexi Guinzaglio New Classic Tape Nero",
+    "brand": "FLEXI",
+    "url": "https://www.arcaplanet.it/flexi-guinzaglio-new-classic-tape-nero-4219/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296031/Guinzaglio-New-Classic-Tape-XS-3m-10064709.jpg?v=638448997551130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296032/Guinzaglio-New-Classic-Tape-XS-3m-10064709-2.jpg?v=638448997636970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296033/Guinzaglio-New-Classic-Tape-XS-3m-10064709-3.jpg?v=638448997724230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296035/Guinzaglio-New-Classic-Tape-XS-3m-10064709-4.jpg?v=638448997855300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296036/Guinzaglio-New-Classic-Tape-XS-3m-10064709-5.jpg?v=638448997949700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296037/Guinzaglio-New-Classic-Tape-XS-3m-10064709-6.jpg?v=638448998055400000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4219",
+        "sku": "4219",
+        "gtin": "10064709",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/flexi-guinzaglio-new-classic-tape-nero-4219/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "flexi-guinzaglio-new-classic-tape-nero-4219p",
+        "name": "Flexi Guinzaglio New Classic Tape Nero",
+        "path": "/flexi-guinzaglio-new-classic-tape-nero-4219/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5166",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "3000",
+    "sku": "3000",
+    "gtin": "10056429",
+    "title": "Pettorina Addestramento Easy Walk Professional per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-pettorina-easy-walk-professional-per-cane-3000/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271377/trixie-pettorina-easy-walk-professional-per-cane.jpg?v=637870903703530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271378/pettorina-trixie-addestramento-easy-walk-professional.jpg?v=637870903819530000"
+    ],
+    "price": {
+      "current": 17.39,
+      "original": 17.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 869.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3000",
+        "sku": "3000",
+        "gtin": "10056429",
+        "title": "M-L",
+        "url": "https://www.arcaplanet.it/trixie-pettorina-easy-walk-professional-per-cane-3000/p",
+        "price": {
+          "current": 17.39,
+          "original": 17.39,
+          "pricePerUnit": {
+            "value": 869.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M-L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "trixie-pettorina-easy-walk-professional-per-cane-3000p",
+        "name": "Pettorina Addestramento Easy Walk Professional per Cane",
+        "path": "/trixie-pettorina-easy-walk-professional-per-cane-3000/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5966",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "9742",
+    "sku": "9742",
+    "gtin": "10118146",
+    "title": "Kippy Evo Gps",
+    "brand": "KIPPY",
+    "url": "https://www.arcaplanet.it/kippy-evo-cane-gps-9742/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260685/kippy-evo-gps-cane-gatto-marrone-dettaglio.jpg?v=637618446288400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260686/kippy-evo-gps-cane-gatto-marrone-dettagli.jpg?v=637618446393870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269826/kippy-evo-gps-benessere.jpg?v=637837135520870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269827/kippy-evo-gps-gatto.jpg?v=637837135770870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269828/kippy-evo-gps-geofence.jpg?v=637837135981870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269829/kippy-evo-gps-localizzazione.jpg?v=637837136400300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289525/kippy-evo-gps-prezzi.jpg?v=638300304432570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290146/kippy-evo-gps-marrone-10118146.jpg?v=638331453151330000"
+    ],
+    "price": {
+      "current": 29.95,
+      "original": 49.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1497.5,
+        "unit": "none"
+      },
+      "discountPercentage": 40
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9742",
+        "sku": "9742",
+        "gtin": "10118146",
+        "title": "BROWN WOOD",
+        "url": "https://www.arcaplanet.it/kippy-evo-cane-gps-9742/p",
+        "price": {
+          "current": 29.95,
+          "original": 49.9,
+          "pricePerUnit": {
+            "value": 1497.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BROWN WOOD"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriagps",
+        "name": "GPS",
+        "path": "/cane/guinzaglieria/gps/",
+        "level": 4
+      },
+      {
+        "id": "kippy-evo-cane-gps-9742p",
+        "name": "Kippy Evo Gps",
+        "path": "/kippy-evo-cane-gps-9742/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9541",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "144",
+    "sku": "144",
+    "gtin": "10129174",
+    "title": "Collare Majesty in Similpelle Rosso",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-collare-similpelle-majesty-rosso-144/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260502/lovedi-collare-majesty-cane-rosso-s.jpg?v=637614177001800000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "144",
+        "sku": "144",
+        "gtin": "10129174",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/lovedi-collare-similpelle-majesty-rosso-144/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-collare-similpelle-majesty-rosso-144p",
+        "name": "Collare Majesty in Similpelle Rosso",
+        "path": "/lovedi-collare-similpelle-majesty-rosso-144/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13767",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "349",
+    "sku": "349",
+    "gtin": "10129186",
+    "title": "Guinzaglio Similpelle Majesty Rosso",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-guinzaglio-similpelle-majesty-rosso-349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260596/lovedi-guinzaglio-similpelle-majesty-rosso120x1.jpg?v=637616788937400000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "349",
+        "sku": "349",
+        "gtin": "10129186",
+        "title": "CM.1",
+        "url": "https://www.arcaplanet.it/lovedi-guinzaglio-similpelle-majesty-rosso-349/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.1"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-guinzaglio-similpelle-majesty-rosso-349p",
+        "name": "Guinzaglio Similpelle Majesty Rosso",
+        "path": "/lovedi-guinzaglio-similpelle-majesty-rosso-349/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13779",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "90",
+    "sku": "90",
+    "gtin": "10129206",
+    "title": "Lovedì Pettorina Similpelle Svedese Rossa",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pettorina-similpelle-svedese-majesty-rossa-90/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280397/pettorina-similpelle-svedese-majesty-rosso.jpg?v=638115353756130000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "90",
+        "sku": "90",
+        "gtin": "10129206",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-pettorina-similpelle-svedese-majesty-rossa-90/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pettorina-similpelle-svedese-majesty-rossa-90p",
+        "name": "Lovedì Pettorina Similpelle Svedese Rossa",
+        "path": "/lovedi-pettorina-similpelle-svedese-majesty-rossa-90/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13799",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "12385",
+    "sku": "12385",
+    "gtin": "10138360",
+    "title": "Guinzaglio Comfort Addestramento Rosso",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-guinzaglio-comfort-cm-200-rosso-cane-12385/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261325/PAY-GUINZAGLIO-ROSSO-dettaglio.jpg?v=637629685125300000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12385",
+        "sku": "12385",
+        "gtin": "10138360",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-guinzaglio-comfort-cm-200-rosso-cane-12385/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-guinzaglio-comfort-cm-200-rosso-cane-12385p",
+        "name": "Guinzaglio Comfort Addestramento Rosso",
+        "path": "/pet-around-you-guinzaglio-comfort-cm-200-rosso-cane-12385/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13873",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "585",
+    "sku": "585",
+    "gtin": "10130312",
+    "title": "Pettorina Reflective Nylon Blu",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-blu-585/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258402/10130318-P.A.Y.-PETT-REFLECTIVE-NYLON-CM.15X35-50-BLU.jpg?v=637595197622770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279539/PAY_PETT-REFLECTIVE-BLU_10130312_-1.jpg?v=638108633043600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279540/PAY_PETT-REFLECTIVE-BLU_10130312_3.jpg?v=638108633123130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279541/PAY_PETT-REFLECTIVE-BLU_10130312_4--1-.jpg?v=638108633188130000"
+    ],
+    "price": {
+      "current": 17.89,
+      "original": 17.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "585",
+        "sku": "585",
+        "gtin": "10130312",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-blu-585/p",
+        "price": {
+          "current": 17.89,
+          "original": 17.89,
+          "pricePerUnit": {
+            "value": 894.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-pettorina-reflective-nylon-blu-585p",
+        "name": "Pettorina Reflective Nylon Blu",
+        "path": "/pet-around-you-pettorina-reflective-nylon-blu-585/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14510",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "589",
+    "sku": "589",
+    "gtin": "10130313",
+    "title": "Pettorina Reflective Nylon Nero",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-nero-589/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258440/10130319-P.A.Y.-PETT-REFLECTIVE-NYLON-CM.15X35-50-NERO.jpg?v=637595377621400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279548/PAY_COLL-REFLECTIVE-NERO_10130313_1.jpg?v=638108634062100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279549/PAY_COLL-REFLECTIVE-NERO_10130313_3.jpg?v=638108634185570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279550/PAY_COLL-REFLECTIVE-NERO_10130313_4.jpg?v=638108634307900000"
+    ],
+    "price": {
+      "current": 17.89,
+      "original": 17.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "589",
+        "sku": "589",
+        "gtin": "10130313",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-nero-589/p",
+        "price": {
+          "current": 17.89,
+          "original": 17.89,
+          "pricePerUnit": {
+            "value": 894.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-pettorina-reflective-nylon-nero-589p",
+        "name": "Pettorina Reflective Nylon Nero",
+        "path": "/pet-around-you-pettorina-reflective-nylon-nero-589/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14511",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "598",
+    "sku": "598",
+    "gtin": "10130321",
+    "title": "Pettorina Reflective Nylon Rosso",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-rosso-598/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258282/10130321-P.A.Y.-PETT-REFLECTIVE-NYLON-CM.15X35-50-ROSSO.jpg?v=637594303054200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279571/PAY_PETT-REFLECTIVE-ROSSA_10130315_1.jpg?v=638108636099570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279572/PAY_PETT-REFLECTIVE-ROSSA_10130315_3.jpg?v=638108636165600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279573/PAY_PETT-REFLECTIVE-ROSSA_10130315_4.jpg?v=638108636257400000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "598",
+        "sku": "598",
+        "gtin": "10130321",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-rosso-598/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-pettorina-reflective-nylon-rosso-598p",
+        "name": "Pettorina Reflective Nylon Rosso",
+        "path": "/pet-around-you-pettorina-reflective-nylon-rosso-598/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14513",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "593",
+    "sku": "593",
+    "gtin": "10130316",
+    "title": "Pettorina Reflective Nylon Rosa",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-rosa-593/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258550/10130322-P.A.Y.-PETT-REFLECTIVE-NYLON-CM.15X35-50-ROSA.jpg?v=637596081037170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279588/PAY_PETT-REFLECTIVE-ROSA_10130316_1.jpg?v=638108637347130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279589/PAY_PETT-REFLECTIVE-ROSA_10130316_3.jpg?v=638108637432870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279590/PAY_PETT-REFLECTIVE-ROSA_10130316_4.jpg?v=638108637511900000"
+    ],
+    "price": {
+      "current": 17.89,
+      "original": 17.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "593",
+        "sku": "593",
+        "gtin": "10130316",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-reflective-nylon-rosa-593/p",
+        "price": {
+          "current": 17.89,
+          "original": 17.89,
+          "pricePerUnit": {
+            "value": 894.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-pettorina-reflective-nylon-rosa-593p",
+        "name": "Pettorina Reflective Nylon Rosa",
+        "path": "/pet-around-you-pettorina-reflective-nylon-rosa-593/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14514",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "13196",
+    "sku": "13196",
+    "gtin": "10072960",
+    "title": "Lunghina Cotone per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-lunghina-cotone-per-cane-nero-13196/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260171/trixie-lunghina-cotone-nero.jpg?v=637611651204230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260172/trixie-lunghina-cotone-nero-dettaglio.jpg?v=637611651284670000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13196",
+        "sku": "13196",
+        "gtin": "10072960",
+        "title": "5M",
+        "url": "https://www.arcaplanet.it/trixie-lunghina-cotone-per-cane-nero-13196/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "5M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "trixie-lunghina-cotone-per-cane-nero-13196p",
+        "name": "Lunghina Cotone per Cane",
+        "path": "/trixie-lunghina-cotone-per-cane-nero-13196/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15334",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "14302",
+    "sku": "14302",
+    "gtin": "10140117",
+    "title": "Collare Outdoor Rosso",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-collare-outdoor-rosso-14302/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270450/collare-outdoor-rosso.jpg?v=637848327336300000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14302",
+        "sku": "14302",
+        "gtin": "10140117",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-collare-outdoor-rosso-14302/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-collare-outdoor-rosso-14302p",
+        "name": "Collare Outdoor Rosso",
+        "path": "/pet-around-you-collare-outdoor-rosso-14302/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16443",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "14311",
+    "sku": "14311",
+    "gtin": "10140127",
+    "title": "Pettorina Outdoor Rossa",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-outdoor-rossa-14311/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270441/pettorina-outdoor-rossa.jpg?v=637848314261370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270442/Nuovo-progetto--3-.jpg?v=637848314357900000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14311",
+        "sku": "14311",
+        "gtin": "10140127",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-outdoor-rossa-14311/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-pettorina-outdoor-rossa-14311p",
+        "name": "Pettorina Outdoor Rossa",
+        "path": "/pet-around-you-pettorina-outdoor-rossa-14311/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16456",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18312",
+    "sku": "18312",
+    "gtin": "10149574",
+    "title": "Dogs Creek Museruola Protettiva",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-museruola-protettiva-18312/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286154/f44cbc6aafb116a0237e5d4124717f0e35eca6ca_4174671e2130db00b55950941a9ef240dcb46ea9--1-.jpg?v=638204333673330000"
+    ],
+    "price": {
+      "current": 22.99,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18312",
+        "sku": "18312",
+        "gtin": "10149574",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/dogs-creek-museruola-protettiva-18312/p",
+        "price": {
+          "current": 22.99,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriamuseruole",
+        "name": "Museruole",
+        "path": "/cane/guinzaglieria/museruole/",
+        "level": 4
+      },
+      {
+        "id": "dogs-creek-museruola-protettiva-18312p",
+        "name": "Dogs Creek Museruola Protettiva",
+        "path": "/dogs-creek-museruola-protettiva-18312/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20465",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18413",
+    "sku": "18413",
+    "gtin": "10148684",
+    "title": "Anione Guinzaglio Activity Retriever 1.7M",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-guinzaglio-activity-retriever-1-7m--18413/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286088/cf150d053d1e593f5651c217b4d8fbb1a21aad69_9251e6b935751d8d9b427101f4e88c3413b75ffb--1-.jpg?v=638203425890500000"
+    ],
+    "price": {
+      "current": 14.24,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 712,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18413",
+        "sku": "18413",
+        "gtin": "10148684",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/anione-guinzaglio-activity-retriever-1-7m--18413/p",
+        "price": {
+          "current": 14.24,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 712,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "anione-guinzaglio-activity-retriever-1-7m--18413p",
+        "name": "Anione Guinzaglio Activity Retriever 1.7M",
+        "path": "/anione-guinzaglio-activity-retriever-1-7m--18413/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20531",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18527",
+    "sku": "18527",
+    "gtin": "10147350",
+    "title": "Anione Guinzaglio Doppio in Nylon Bordeaux",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-guinzaglio-2-strati-in-nylon-bordeaux-18527/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285367/9dbc91a5e38766ae258399ef892e6dc9800062a6_deed0b3734ef9913d1d2575f91dcae8fa7a564c1--1-.jpg?v=638194917390900000"
+    ],
+    "price": {
+      "current": 9.5,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 475,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18527",
+        "sku": "18527",
+        "gtin": "10147350",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-guinzaglio-2-strati-in-nylon-bordeaux-18527/p",
+        "price": {
+          "current": 9.5,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 475,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "Color": "BORDEAUX"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "anione-guinzaglio-2-strati-in-nylon-bordeaux-18527p",
+        "name": "Anione Guinzaglio Doppio in Nylon Bordeaux",
+        "path": "/anione-guinzaglio-2-strati-in-nylon-bordeaux-18527/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20645",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18659",
+    "sku": "18659",
+    "gtin": "10154915",
+    "title": "Anione Pettorina Classic Verde",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pettorina-classic-verde-18659/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283749/23856de44e47b80758c410794c73c81f1472b5af_1358349__de_DE__AniOne_H_Geschirr_Classic_gr__nmain--1-.jpg?v=638168863112700000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18659",
+        "sku": "18659",
+        "gtin": "10154915",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/anione-pettorina-classic-verde-18659/p",
+        "price": {
+          "current": 17.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL",
+            "Color": "VERDE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "anione-pettorina-classic-verde-18659p",
+        "name": "Anione Pettorina Classic Verde",
+        "path": "/anione-pettorina-classic-verde-18659/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20777",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18713",
+    "sku": "18713",
+    "gtin": "10149458",
+    "title": "Museruola AniOne Nylon",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/museruola-anione-nylon-18713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284860/Museruola_1273265_1273267_1273264_1273263_1273262_1273266.jpg?v=638188686720270000"
+    ],
+    "price": {
+      "current": 3.5,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 175,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18713",
+        "sku": "18713",
+        "gtin": "10149458",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/museruola-anione-nylon-18713/p",
+        "price": {
+          "current": 3.5,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriamuseruole",
+        "name": "Museruole",
+        "path": "/cane/guinzaglieria/museruole/",
+        "level": 4
+      },
+      {
+        "id": "museruola-anione-nylon-18713p",
+        "name": "Museruola AniOne Nylon",
+        "path": "/museruola-anione-nylon-18713/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20855",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18770",
+    "sku": "18770",
+    "gtin": "10143853",
+    "title": "Anione Pettorina H in Nylon Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pettorina-h-in-nylon-nero-18770/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284515/0aab3894f05fa7b38755841fb6df0395ebdc58f6_901f4baa7d4226143dd48d550ee6ad6e779feb77--1-.jpg?v=638181874807000000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18770",
+        "sku": "18770",
+        "gtin": "10143853",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-pettorina-h-in-nylon-nero-18770/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "anione-pettorina-h-in-nylon-nero-18770p",
+        "name": "Anione Pettorina H in Nylon Nero",
+        "path": "/anione-pettorina-h-in-nylon-nero-18770/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20888",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18772",
+    "sku": "18772",
+    "gtin": "10143849",
+    "title": "Anione Collare in Nylon Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-collare-in-nylon-nero-18772/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285085/892521b34f4ab83f3600d7c86482f746fc86863a_3b58ba820bc426b159f637c9873587008063865a--1-.jpg?v=638192231959770000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18772",
+        "sku": "18772",
+        "gtin": "10143849",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-collare-in-nylon-nero-18772/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "anione-collare-in-nylon-nero-18772p",
+        "name": "Anione Collare in Nylon Nero",
+        "path": "/anione-collare-in-nylon-nero-18772/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20890",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "18766",
+    "sku": "18766",
+    "gtin": "10143851",
+    "title": "Anione Pettorina H in Nylon Rosso",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pettorina-h-in-nylon-rosso-18766/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284518/95e3979336e0636bbe885705ebaf411b4a2a3faa_e490f4e455ca8ce50b175a0b7183a90cefea0427--1-.jpg?v=638181879650830000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 524.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18766",
+        "sku": "18766",
+        "gtin": "10143851",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-pettorina-h-in-nylon-rosso-18766/p",
+        "price": {
+          "current": 10.49,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 524.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M",
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "anione-pettorina-h-in-nylon-rosso-18766p",
+        "name": "Anione Pettorina H in Nylon Rosso",
+        "path": "/anione-pettorina-h-in-nylon-rosso-18766/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20897",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19185",
+    "sku": "19185",
+    "gtin": "10149268",
+    "title": "Anione Pettorina No Escape Nera",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-pettorina-no-escape-nera-19185/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283757/76005c49f2805f3c85c53a8a2cbca5885e966fb3_74bb8b63be82f60d5c79a5512e5e256d3cc34548--1-.jpg?v=638168888178330000"
+    ],
+    "price": {
+      "current": 17.09,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 854.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19185",
+        "sku": "19185",
+        "gtin": "10149268",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-pettorina-no-escape-nera-19185/p",
+        "price": {
+          "current": 17.09,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 854.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "NERO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "anione-pettorina-no-escape-nera-19185p",
+        "name": "Anione Pettorina No Escape Nera",
+        "path": "/anione-pettorina-no-escape-nera-19185/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21313",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19237",
+    "sku": "19237",
+    "gtin": "10153515",
+    "title": "Guinzaglio Perfectgrip Rosa",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/guinzaglio-perfectgrip-rosa-19237/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285339/1337225_1337221_1337374.jpg?v=638194790370270000"
+    ],
+    "price": {
+      "current": 12.59,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 629.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19237",
+        "sku": "19237",
+        "gtin": "10153515",
+        "title": "5M",
+        "url": "https://www.arcaplanet.it/guinzaglio-perfectgrip-rosa-19237/p",
+        "price": {
+          "current": 12.59,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 629.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "5M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "guinzaglio-perfectgrip-rosa-19237p",
+        "name": "Guinzaglio Perfectgrip Rosa",
+        "path": "/guinzaglio-perfectgrip-rosa-19237/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21359",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19242",
+    "sku": "19242",
+    "gtin": "10153520",
+    "title": "Guinzaglio Perfectgrip Giallo Cane",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/guinzaglio-perfectgrip-giallo-cane-19242/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285355/1337220.jpg?v=638194839741500000"
+    ],
+    "price": {
+      "current": 15.29,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 764.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19242",
+        "sku": "19242",
+        "gtin": "10153520",
+        "title": "10M",
+        "url": "https://www.arcaplanet.it/guinzaglio-perfectgrip-giallo-cane-19242/p",
+        "price": {
+          "current": 15.29,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 764.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "10M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "guinzaglio-perfectgrip-giallo-cane-19242p",
+        "name": "Guinzaglio Perfectgrip Giallo Cane",
+        "path": "/guinzaglio-perfectgrip-giallo-cane-19242/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21360",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19309",
+    "sku": "19309",
+    "gtin": "10149810",
+    "title": "Anione Guinzaglio Retrattile in Nastro Rosso",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-guinzaglio-retrattile-in-corda-rosso-19309/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286097/4e9d946bf5e1b67ce8ceeddc3470082ebd0bec86_0c03a734bcbad33ea92bb44397284e37cf6f53a4--1-.jpg?v=638203432818670000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19309",
+        "sku": "19309",
+        "gtin": "10149810",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/anione-guinzaglio-retrattile-in-corda-rosso-19309/p",
+        "price": {
+          "current": 8.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "ROSSO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "anione-guinzaglio-retrattile-in-corda-rosso-19309p",
+        "name": "Anione Guinzaglio Retrattile in Nastro Rosso",
+        "path": "/anione-guinzaglio-retrattile-in-corda-rosso-19309/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21427",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19306",
+    "sku": "19306",
+    "gtin": "10149808",
+    "title": "Anione Guinzaglio Retrattile in Nastro Grigio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-guinzaglio-retrattile-in-corda-grigio-19306/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286091/09c6d9c380a3f46cee588147cee62d91a42b5341_632658f1f3d35c7d0c2c1811fd1a4b5cbeafbcb4--1-.jpg?v=638203430296330000"
+    ],
+    "price": {
+      "current": 10.49,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 524.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19306",
+        "sku": "19306",
+        "gtin": "10149808",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/anione-guinzaglio-retrattile-in-corda-grigio-19306/p",
+        "price": {
+          "current": 10.49,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 524.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M",
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "anione-guinzaglio-retrattile-in-corda-grigio-19306p",
+        "name": "Anione Guinzaglio Retrattile in Nastro Grigio",
+        "path": "/anione-guinzaglio-retrattile-in-corda-grigio-19306/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21474",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19593",
+    "sku": "19593",
+    "gtin": "10150557",
+    "title": "Naturally Good Collare in Corda Beige",
+    "brand": "NATURALLY GOOD",
+    "url": "https://www.arcaplanet.it/naturally-good-collare-in-corda-beige-19593/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283970/ce83b24dcd2cab7c5153ab577b39fd2c036c0290_c2a9cdd07afed51a322a38737ac008a5b7f043d4--1-.jpg?v=638173319659500000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19593",
+        "sku": "19593",
+        "gtin": "10150557",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/naturally-good-collare-in-corda-beige-19593/p",
+        "price": {
+          "current": 17.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S",
+            "Color": "BEIGE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriacollari",
+        "name": "Collari",
+        "path": "/cane/guinzaglieria/collari/",
+        "level": 4
+      },
+      {
+        "id": "naturally-good-collare-in-corda-beige-19593p",
+        "name": "Naturally Good Collare in Corda Beige",
+        "path": "/naturally-good-collare-in-corda-beige-19593/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21711",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "19716",
+    "sku": "19716",
+    "gtin": "10150119",
+    "title": "Dogs Creek Pettorina Norvegese Nera",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/pettorina-norvegese-nera-19716/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286151/1278570_1278621_1278622_1278623.jpg?v=638204321790800000"
+    ],
+    "price": {
+      "current": 25.49,
+      "original": 33.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19716",
+        "sku": "19716",
+        "gtin": "10150119",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/pettorina-norvegese-nera-19716/p",
+        "price": {
+          "current": 25.49,
+          "original": 33.99,
+          "pricePerUnit": {
+            "value": 1274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-norvegese-nera-19716p",
+        "name": "Dogs Creek Pettorina Norvegese Nera",
+        "path": "/pettorina-norvegese-nera-19716/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21863",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "21781",
+    "sku": "21781",
+    "gtin": "10149870",
+    "title": "Anione Luce Rotonda Blinki",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-luce-rotonda-blinki-21781/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287685/a48b132ffed19fc6630e39a69577411b4b4743e0_3554580a41d51b6b6733168b96ac57ed1fed96cd--1-.jpg?v=638233818687670000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21781",
+        "sku": "21781",
+        "gtin": "10149870",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/anione-luce-rotonda-blinki-21781/p",
+        "price": {
+          "current": 1.99,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaaltro",
+        "name": "Altro",
+        "path": "/cane/guinzaglieria/altro/",
+        "level": 4
+      },
+      {
+        "id": "anione-luce-rotonda-blinki-21781p",
+        "name": "Anione Luce Rotonda Blinki",
+        "path": "/anione-luce-rotonda-blinki-21781/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24047",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23228",
+    "sku": "23228",
+    "gtin": "10128163",
+    "title": "Pettorina Julius-K9 IDC Powerharness Rossa",
+    "brand": "JULIUS K9",
+    "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-rossa-23228/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295260/Pettorina-Julius-K9-IDC-Powerharness-Rossa-10128163.jpg?v=638436783648770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295261/Pettorina-Julius-K9-IDC-Powerharness-Rossa-10128163..jpg?v=638436783767700000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23228",
+        "sku": "23228",
+        "gtin": "10128163",
+        "title": "3XS",
+        "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-rossa-23228/p",
+        "price": {
+          "current": 20.99,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 1049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-julius-k9-idc-powerharness-rossa-23228p",
+        "name": "Pettorina Julius-K9 IDC Powerharness Rossa",
+        "path": "/pettorina-julius-k9-idc-powerharness-rossa-23228/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25237",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23233",
+    "sku": "23233",
+    "gtin": "10128165",
+    "title": "Pettorina Julius-K9 IDC Powerharness Nera",
+    "brand": "JULIUS K9",
+    "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-nera-23233/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295209/Pettorina-Julius-K9-IDC-Powerharness-Nera-10128165.jpg?v=638436765765470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295210/Pettorina-Julius-K9-IDC-Powerharness-Nera-10128165..jpg?v=638436765907000000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23233",
+        "sku": "23233",
+        "gtin": "10128165",
+        "title": "2XS",
+        "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-nera-23233/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-julius-k9-idc-powerharness-nera-23233p",
+        "name": "Pettorina Julius-K9 IDC Powerharness Nera",
+        "path": "/pettorina-julius-k9-idc-powerharness-nera-23233/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25242",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23258",
+    "sku": "23258",
+    "gtin": "10173176",
+    "title": "Pettorina Julius-K9 IDC Powerharness Rosa",
+    "brand": "JULIUS K9",
+    "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-rosa-23258/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295223/Pettorina-Julius-K9-IDC-Powerharness-Rosa-Scuro-10173176.jpg?v=638436770321730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295251/Pettorina-Julius-K9-IDC-Powerharness-Rosa-10173176.jpg?v=638436782421730000"
+    ],
+    "price": {
+      "current": 37.99,
+      "original": 37.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1899.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23258",
+        "sku": "23258",
+        "gtin": "10173176",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-rosa-23258/p",
+        "price": {
+          "current": 37.99,
+          "original": 37.99,
+          "pricePerUnit": {
+            "value": 1899.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-julius-k9-idc-powerharness-rosa-23258p",
+        "name": "Pettorina Julius-K9 IDC Powerharness Rosa",
+        "path": "/pettorina-julius-k9-idc-powerharness-rosa-23258/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25294",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23256",
+    "sku": "23256",
+    "gtin": "10173174",
+    "title": "Pettorina Julius-K9 IDC Powerharness Wild Lady",
+    "brand": "JULIUS K9",
+    "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-wild-lady-23256/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295281/Pettorina-Julius-K9-IDC-Powerharness-Wild-Lady-10173174.jpg?v=638436808606900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295282/Pettorina-Julius-K9-IDC-Powerharness-Wild-Lady-10173174-1.jpg?v=638436808832800000"
+    ],
+    "price": {
+      "current": 40.99,
+      "original": 40.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23256",
+        "sku": "23256",
+        "gtin": "10173174",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pettorina-julius-k9-idc-powerharness-wild-lady-23256/p",
+        "price": {
+          "current": 40.99,
+          "original": 40.99,
+          "pricePerUnit": {
+            "value": 2049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-julius-k9-idc-powerharness-wild-lady-23256p",
+        "name": "Pettorina Julius-K9 IDC Powerharness Wild Lady",
+        "path": "/pettorina-julius-k9-idc-powerharness-wild-lady-23256/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25296",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23685",
+    "sku": "23685",
+    "gtin": "10173712",
+    "title": "Guinzaglio Reflective Nylon Cipria",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/guinzaglio-reflective-nylon-cipria-23685/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310991/guinzaglio-reflective-nylon-cipria-10173712--1-.jpg?v=638676906701570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310992/guinzaglio-reflective-nylon-cipria-10173712--2-.jpg?v=638676906775100000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23685",
+        "sku": "23685",
+        "gtin": "10173712",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/guinzaglio-reflective-nylon-cipria-23685/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriaguinzagli",
+        "name": "Guinzagli",
+        "path": "/cane/guinzaglieria/guinzagli/",
+        "level": 4
+      },
+      {
+        "id": "guinzaglio-reflective-nylon-cipria-23685p",
+        "name": "Guinzaglio Reflective Nylon Cipria",
+        "path": "/guinzaglio-reflective-nylon-cipria-23685/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25702",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23703",
+    "sku": "23703",
+    "gtin": "10173724",
+    "title": "Pettorina Reflective Nylon Cipria",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pettorina-reflective-nylon-cipria-23703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308583/pettorina-reflective-nylon-cipria-10173724--1-.jpg?v=638652855009300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308584/pettorina-reflective-nylon-cipria-10173724--2-.jpg?v=638652855106670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308585/pettorina-reflective-nylon-cipria-10173724--3-.jpg?v=638652855227830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308586/pettorina-reflective-nylon-cipria-10173724--4-.jpg?v=638652855327800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308587/pettorina-reflective-nylon-cipria-10173724--5-.jpg?v=638652855476870000"
+    ],
+    "price": {
+      "current": 17.89,
+      "original": 17.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "23703",
+        "sku": "23703",
+        "gtin": "10173724",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pettorina-reflective-nylon-cipria-23703/p",
+        "price": {
+          "current": 17.89,
+          "original": 17.89,
+          "pricePerUnit": {
+            "value": 894.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-reflective-nylon-cipria-23703p",
+        "name": "Pettorina Reflective Nylon Cipria",
+        "path": "/pettorina-reflective-nylon-cipria-23703/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25714",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  },
+  {
+    "id": "23704",
+    "sku": "23704",
+    "gtin": "10173723",
+    "title": "Pettorina Reflective Nylon Verde",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pettorina-reflective-nylon-verde-23704/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308598/pettorina-reflective-nylon-verde-10173723--1-.jpg?v=638652858802670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308599/pettorina-reflective-nylon-verde-10173723--2-.jpg?v=638652858889030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308600/pettorina-reflective-nylon-verde-10173723--3-.jpg?v=638652858997730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308601/pettorina-reflective-nylon-verde-10173723--4-.jpg?v=638652859115800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308602/pettorina-reflective-nylon-verde-10173723--5-.jpg?v=638652859212030000"
+    ],
+    "price": {
+      "current": 17.89,
+      "original": 17.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23704",
+        "sku": "23704",
+        "gtin": "10173723",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pettorina-reflective-nylon-verde-23704/p",
+        "price": {
+          "current": 17.89,
+          "original": 17.89,
+          "pricePerUnit": {
+            "value": 894.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneguinzaglieria",
+        "name": "Guinzaglieria",
+        "path": "/cane/guinzaglieria/",
+        "level": 3
+      },
+      {
+        "id": "caneguinzaglieriapettorine",
+        "name": "Pettorine",
+        "path": "/cane/guinzaglieria/pettorine/",
+        "level": 4
+      },
+      {
+        "id": "pettorina-reflective-nylon-verde-23704p",
+        "name": "Pettorina Reflective Nylon Verde",
+        "path": "/pettorina-reflective-nylon-verde-23704/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25715",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:35:58.323Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/guinzaglieria/"
+  }
+]

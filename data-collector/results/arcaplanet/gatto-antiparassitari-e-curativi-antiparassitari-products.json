@@ -1,0 +1,1628 @@
+[
+  {
+    "id": "921",
+    "sku": "921",
+    "gtin": "00000116",
+    "title": "Advantage Antiparassitario Spot on per Gatti sotto 4KG",
+    "brand": "ADVANTAGE",
+    "url": "https://www.arcaplanet.it/advantage-antiparassitario-spot-on-per-gatti-sotto-4kg-921/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295773/advantage-00000116.jpg?v=638448114008670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299699/advantage-antiparassitario-spot-on-per-gatti-00000116--1-.jpg?v=638484345516470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299700/advantage-antiparassitario-spot-on-per-gatti-00000116--2-.jpg?v=638484345599100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299701/advantage-antiparassitario-spot-on-per-gatti-00000116--3-.jpg?v=638484345672530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299702/advantage-antiparassitario-spot-on-per-gatti-00000116--4-.jpg?v=638484345822900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299703/advantage-antiparassitario-spot-on-per-gatti-00000116--5-.jpg?v=638484345911970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299704/advantage-antiparassitario-spot-on-per-gatti-00000116--6-.jpg?v=638484346016870000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 30.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 35
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "921",
+        "sku": "921",
+        "gtin": "00000116",
+        "title": "4 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantage-antiparassitario-spot-on-per-gatti-sotto-4kg-921/p",
+        "price": {
+          "current": 19.99,
+          "original": 30.8,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditoriantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/piccoli-animali/roditori/antiparassitari-e-curativi/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditoriantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/piccoli-animali/roditori/antiparassitari-e-curativi/antiparassitari/",
+        "level": 5
+      },
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantage-antiparassitario-spot-on-per-gatti-sotto-4kg-921p",
+        "name": "Advantage Antiparassitario Spot on per Gatti sotto 4KG",
+        "path": "/advantage-antiparassitario-spot-on-per-gatti-sotto-4kg-921/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "879",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "1011",
+    "sku": "1011",
+    "gtin": "00036178",
+    "title": "Frontline Combo Antiparassitario Spot On Kitten",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-kitten-1-pipetta-1011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308392/frontline-combo-antiparassitario-spot-on-kitten-00036178--1-.jpg?v=638651709970770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308393/frontline-combo-antiparassitario-spot-on-kitten-00036178--2-.jpg?v=638651710043170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308394/frontline-combo-antiparassitario-spot-on-kitten-00036178--3-.jpg?v=638651710104600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308395/frontline-combo-antiparassitario-spot-on-kitten-00036178--4-.jpg?v=638651710170070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308396/frontline-combo-antiparassitario-spot-on-kitten-00036178--5-.jpg?v=638651710237970000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 14,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 36
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1011",
+        "sku": "1011",
+        "gtin": "00036178",
+        "title": "1 PIPETTA",
+        "url": "https://www.arcaplanet.it/frontline-combo-kitten-1-pipetta-1011/p",
+        "price": {
+          "current": 8.99,
+          "original": 14,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-kitten-1-pipetta-1011p",
+        "name": "Frontline Combo Antiparassitario Spot On Kitten",
+        "path": "/frontline-combo-kitten-1-pipetta-1011/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "969",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "3893",
+    "sku": "3893",
+    "gtin": "10111966",
+    "title": "Zolux Schiuma Antiparassitario Gatto  No Risciacquo",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-gatto-schiuma-dimeticone-norisciacquo-150ml-3893/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226014/zolux-gatto-schiuma-dimeticone-norisciacquo.jpg?v=637454757679830000"
+    ],
+    "price": {
+      "current": 11.49,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3893",
+        "sku": "3893",
+        "gtin": "10111966",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/zolux-gatto-schiuma-dimeticone-norisciacquo-150ml-3893/p",
+        "price": {
+          "current": 11.49,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 11.49,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarishampoo",
+        "name": "Shampoo",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/shampoo/",
+        "level": 5
+      },
+      {
+        "id": "zolux-gatto-schiuma-dimeticone-norisciacquo-150ml-3893p",
+        "name": "Zolux Schiuma Antiparassitario Gatto  No Risciacquo",
+        "path": "/zolux-gatto-schiuma-dimeticone-norisciacquo-150ml-3893/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3796",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "4810",
+    "sku": "4810",
+    "gtin": "10111770",
+    "title": "Lozione Spray Neem",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208265/Perfect-Lozione-Spray-Neem-250ml.jpg?v=637413969505730000"
+    ],
+    "price": {
+      "current": 14.9,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 57.30769230769231,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4810",
+        "sku": "4810",
+        "gtin": "10111770",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "price": {
+          "current": 14.9,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 57.30769230769231,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-lozione-spray-neem-250ml-4810p",
+        "name": "Lozione Spray Neem",
+        "path": "/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4691",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "6198",
+    "sku": "6198",
+    "gtin": "10111671",
+    "title": "Frontline Combo Antiparassitario Spot On per Gatti",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-gatto-6-pipette-6198/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308397/frontline-combo-antiparassitario-spot-on-per-gatti-10111671--1-.jpg?v=638651711143600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308398/frontline-combo-antiparassitario-spot-on-per-gatti-10111671--2-.jpg?v=638651711241000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308399/frontline-combo-antiparassitario-spot-on-per-gatti-10111671--3-.jpg?v=638651711325330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308400/frontline-combo-antiparassitario-spot-on-per-gatti-10111671--4-.jpg?v=638651711485870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308401/frontline-combo-antiparassitario-spot-on-per-gatti-10111671--5-.jpg?v=638651711578670000"
+    ],
+    "price": {
+      "current": 36.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1849.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6198",
+        "sku": "6198",
+        "gtin": "10111671",
+        "title": "6 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-gatto-6-pipette-6198/p",
+        "price": {
+          "current": 36.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 1849.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-gatto-6-pipette-6198p",
+        "name": "Frontline Combo Antiparassitario Spot On per Gatti",
+        "path": "/frontline-combo-spot-on-gatto-6-pipette-6198/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6044",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26679",
+    "sku": "26679",
+    "gtin": "1000000000812",
+    "title": "Frontline Antiparassitario Spot-On per Gatti",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-spot-on-antiparassitario-per-gatti-4-pipette-26679/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315346/frontline-antiparassitario-spot-on-per-gatti-1000000000812x2.jpg?v=638737507662600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315347/frontline-antiparassitario-spot-on-per-gatti-1000000000812-1.png?v=638737507793700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315348/frontline-antiparassitario-spot-on-per-gatti-1000000000812-2.jpg?v=638737507928870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315349/frontline-antiparassitario-spot-on-per-gatti-1000000000812-3.jpg?v=638737508059530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315350/frontline-antiparassitario-spot-on-per-gatti-1000000000812-4.jpg?v=638737508210870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315351/frontline-antiparassitario-spot-on-per-gatti-1000000000812-5.jpg?v=638737508359570000"
+    ],
+    "price": {
+      "current": 55.98,
+      "original": 55.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26679",
+        "sku": "26679",
+        "gtin": "1000000000812",
+        "title": "KIT RISPARMIO 2X4 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-spot-on-antiparassitario-per-gatti-4-pipette-26679/p",
+        "price": {
+          "current": 55.98,
+          "original": 55.98,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-spot-on-antiparassitario-per-gatti-4-pipette-26679p",
+        "name": "Frontline Antiparassitario Spot-On per Gatti",
+        "path": "/frontline-spot-on-antiparassitario-per-gatti-4-pipette-26679/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11361",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26680",
+    "sku": "26680",
+    "gtin": "1000000000813",
+    "title": "Frontline Combo Antiparassitario Spot On per Gatti",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-gatto-26680/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315352/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-x2.jpg?v=638737511760900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315353/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-1.png?v=638737511845170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315354/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-2.jpg?v=638737512003970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315355/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-3.jpg?v=638737512131800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315356/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-4.jpg?v=638737512258830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315357/frontline-combo-antiparassitario-spot-on-per-gatti-1000000000813-5.jpg?v=638737512416300000"
+    ],
+    "price": {
+      "current": 56.7,
+      "original": 70,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1417.5,
+        "unit": "none"
+      },
+      "discountPercentage": 19
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26680",
+        "sku": "26680",
+        "gtin": "1000000000813",
+        "title": "KIT RISPARMIO 2X3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-gatto-26680/p",
+        "price": {
+          "current": 56.7,
+          "original": 70,
+          "pricePerUnit": {
+            "value": 1417.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-gatto-26680p",
+        "name": "Frontline Combo Antiparassitario Spot On per Gatti",
+        "path": "/frontline-combo-spot-on-gatto-26680/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11412",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26673",
+    "sku": "26673",
+    "gtin": "1000000000806",
+    "title": "Seresto Collare Antiparassitario per Gatti",
+    "brand": "SERESTO",
+    "url": "https://www.arcaplanet.it/seresto-collare-antiparassitario-per-gatti-26673/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315279/seresto-antiparassitario-gatto_1000000000806x2.jpg?v=638737453702800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315280/seresto-antiparassitario-gatto_1000000000806-1.png?v=638737453791800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315281/seresto-antiparassitario-gatto_1000000000806-2.jpg?v=638737453914870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315282/seresto-antiparassitario-gatto_1000000000806-3.jpg?v=638737454058000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315283/seresto-antiparassitario-gatto_1000000000806-4.jpg?v=638737454178400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315284/seresto-antiparassitario-gatto_1000000000806-5.jpg?v=638737454409970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315285/seresto-antiparassitario-gatto_1000000000806-6.jpg?v=638737454562270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315286/seresto-antiparassitario-gatto_1000000000806-7.jpg?v=638737454711370000"
+    ],
+    "price": {
+      "current": 55.99,
+      "original": 101.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.75,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26673",
+        "sku": "26673",
+        "gtin": "1000000000806",
+        "title": "KIT RISPARMIO 2PZ",
+        "url": "https://www.arcaplanet.it/seresto-collare-antiparassitario-per-gatti-26673/p",
+        "price": {
+          "current": 55.99,
+          "original": 101.8,
+          "pricePerUnit": {
+            "value": 1399.75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "seresto-collare-antiparassitario-per-gatti-26673p",
+        "name": "Seresto Collare Antiparassitario per Gatti",
+        "path": "/seresto-collare-antiparassitario-per-gatti-26673/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11950",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "14525",
+    "sku": "14525",
+    "gtin": "10140287",
+    "title": "Vectra Felis Antiparassitario per Gatti 0.6-10KG",
+    "brand": "Vectra",
+    "url": "https://www.arcaplanet.it/vectra-felis-spot-on-14525/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266784/vectra-felis-gatto-antiparassitario.jpg?v=637787196644600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266782/vectra-felis-gatto.jpg?v=637787194087500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266783/vectra-felis-gatto-applicazione.jpg?v=637787194202530000"
+    ],
+    "price": {
+      "current": 18.9,
+      "original": 29.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 944.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 37
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14525",
+        "sku": "14525",
+        "gtin": "10140287",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/vectra-felis-spot-on-14525/p",
+        "price": {
+          "current": 18.9,
+          "original": 29.9,
+          "pricePerUnit": {
+            "value": 944.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "vectra-felis-spot-on-14525p",
+        "name": "Vectra Felis Antiparassitario per Gatti 0.6-10KG",
+        "path": "/vectra-felis-spot-on-14525/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16662",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "20534",
+    "sku": "20534",
+    "gtin": "10155490",
+    "title": "Virbac Effipro Duo Antiparassitario Spot on Gatto",
+    "brand": "VIRBAC",
+    "url": "https://www.arcaplanet.it/ciam-virbac-effipro-duo-antiparassitario-spot-on-gatto-4-pipette-20534/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278777/ciam-virbac-effipro-duo-spot-on-gatto-4-pipette.jpg?v=638091982307800000"
+    ],
+    "price": {
+      "current": 25.38,
+      "original": 32,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1269,
+        "unit": "none"
+      },
+      "discountPercentage": 21
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20534",
+        "sku": "20534",
+        "gtin": "10155490",
+        "title": "4 PIPETTE",
+        "url": "https://www.arcaplanet.it/ciam-virbac-effipro-duo-antiparassitario-spot-on-gatto-4-pipette-20534/p",
+        "price": {
+          "current": 25.38,
+          "original": 32,
+          "pricePerUnit": {
+            "value": 1269,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "ciam-virbac-effipro-duo-antiparassitario-spot-on-gatto-4-pipette-20534p",
+        "name": "Virbac Effipro Duo Antiparassitario Spot on Gatto",
+        "path": "/ciam-virbac-effipro-duo-antiparassitario-spot-on-gatto-4-pipette-20534/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22652",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23164",
+    "sku": "23164",
+    "gtin": "10173135",
+    "title": "AdTab Compresse Masticabili Gatto 12 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-gatto-12mg-23164/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294359/AdTab-Compresse-Masticabili-Gatto-12-MG-10173135.jpg?v=638424016371070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305725/DOSAGGIO-GATTO.jpg?v=638599328865400000"
+    ],
+    "price": {
+      "current": 34.8,
+      "original": 34.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1739.9999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23164",
+        "sku": "23164",
+        "gtin": "10173135",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-gatto-12mg-23164/p",
+        "price": {
+          "current": 34.8,
+          "original": 34.8,
+          "pricePerUnit": {
+            "value": 1739.9999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-gatto-12mg-23164p",
+        "name": "AdTab Compresse Masticabili Gatto 12 MG",
+        "path": "/adtab-compresse-masticabili-gatto-12mg-23164/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25173",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23167",
+    "sku": "23167",
+    "gtin": "10173136",
+    "title": "AdTab Compresse Masticabili Gatto 48 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-gatto-48mg-23167/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294360/AdTab-Compresse-Masticabili-Gatto-48-MG-10173136.jpg?v=638424018568600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305726/DOSAGGIO-GATTO.jpg?v=638599329748900000"
+    ],
+    "price": {
+      "current": 36.2,
+      "original": 36.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1810,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23167",
+        "sku": "23167",
+        "gtin": "10173136",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-gatto-48mg-23167/p",
+        "price": {
+          "current": 36.2,
+          "original": 36.2,
+          "pricePerUnit": {
+            "value": 1810,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-gatto-48mg-23167p",
+        "name": "AdTab Compresse Masticabili Gatto 48 MG",
+        "path": "/adtab-compresse-masticabili-gatto-48mg-23167/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25176",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23211",
+    "sku": "23211",
+    "gtin": "10173098",
+    "title": "Resolution Shampoo Disinfestante",
+    "brand": "RESOLUTION",
+    "url": "https://www.arcaplanet.it/resolution-shampoo-disinfestante-23211/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294287/Resolution-shampoo-disinfettante.jpg?v=638422917270900000"
+    ],
+    "price": {
+      "current": 29.5,
+      "original": 29.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1475,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23211",
+        "sku": "23211",
+        "gtin": "10173098",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/resolution-shampoo-disinfestante-23211/p",
+        "price": {
+          "current": 29.5,
+          "original": 29.5,
+          "pricePerUnit": {
+            "value": 1475,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarishampoo",
+        "name": "Shampoo",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/shampoo/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarishampoo",
+        "name": "Shampoo",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/shampoo/",
+        "level": 5
+      },
+      {
+        "id": "resolution-shampoo-disinfestante-23211p",
+        "name": "Resolution Shampoo Disinfestante",
+        "path": "/resolution-shampoo-disinfestante-23211/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25220",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "5374",
+    "sku": "5374",
+    "gtin": "00000117",
+    "title": "Advantage Antiparassitario Spot on per Gatti sopra i 4KG",
+    "brand": "ADVANTAGE",
+    "url": "https://www.arcaplanet.it/advantage-antiparassitario-spot-on-per-gatti-sopra-i-4kg-5374/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295774/advantage-00000117.jpg?v=638448114642200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299693/advantage-antiparassitario-spot-on-per-gatti-00000117--1-.jpg?v=638484344110630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299694/advantage-antiparassitario-spot-on-per-gatti-00000117--2-.jpg?v=638484344336900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299695/advantage-antiparassitario-spot-on-per-gatti-00000117--3-.jpg?v=638484344421600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299696/advantage-antiparassitario-spot-on-per-gatti-00000117--4-.jpg?v=638484344517100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299697/advantage-antiparassitario-spot-on-per-gatti-00000117--5-.jpg?v=638484344619530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299698/advantage-antiparassitario-spot-on-per-gatti-00000117--6-.jpg?v=638484344741930000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 30.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 35
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5374",
+        "sku": "5374",
+        "gtin": "00000117",
+        "title": "4 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantage-antiparassitario-spot-on-per-gatti-sopra-i-4kg-5374/p",
+        "price": {
+          "current": 19.99,
+          "original": 30.8,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantage-antiparassitario-spot-on-per-gatti-sopra-i-4kg-5374p",
+        "name": "Advantage Antiparassitario Spot on per Gatti sopra i 4KG",
+        "path": "/advantage-antiparassitario-spot-on-per-gatti-sopra-i-4kg-5374/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26073",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "25707",
+    "sku": "25707",
+    "gtin": "1000000000328",
+    "title": "Kit Risparmio 2x6Pipette Frontline Gatto Combo Antiparassitario Spot On",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-25707/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310408/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--6-.jpg?v=638671880571600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310403/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--1-.jpg?v=638671879683800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310404/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--2-.jpg?v=638671880125130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310405/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--3-.jpg?v=638671880202700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310406/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--4-.jpg?v=638671880383230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310407/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-1000000000328--5-.jpg?v=638671880489470000"
+    ],
+    "price": {
+      "current": 79.98,
+      "original": 79.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25707",
+        "sku": "25707",
+        "gtin": "1000000000328",
+        "title": "12 PIPETTE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-25707/p",
+        "price": {
+          "current": 79.98,
+          "original": 79.98,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-25707p",
+        "name": "Kit Risparmio 2x6Pipette Frontline Gatto Combo Antiparassitario Spot On",
+        "path": "/kit-risparmio-2x6pipette-frontline-gatto-combo-antiparassitario-spot-on-25707/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27718",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:58:02.454Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/antiparassitari/"
+  }
+]

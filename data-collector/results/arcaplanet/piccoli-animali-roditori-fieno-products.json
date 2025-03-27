@@ -1,0 +1,3475 @@
+[
+  {
+    "id": "2294",
+    "sku": "2294",
+    "gtin": "00004864",
+    "title": "Vitakraft Verde Piantaggine e Trifoglio",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-verde-piantaggine-e-trifoglio-2294/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222372/vitakraft-verde-piantaggine-e-trifoglio.jpg?v=637454721229200000"
+    ],
+    "price": {
+      "current": 2.95,
+      "original": 3.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 147.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2294",
+        "sku": "2294",
+        "gtin": "00004864",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/vitakraft-verde-piantaggine-e-trifoglio-2294/p",
+        "price": {
+          "current": 2.95,
+          "original": 3.8,
+          "pricePerUnit": {
+            "value": 147.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-verde-piantaggine-e-trifoglio-2294p",
+        "name": "Vitakraft Verde Piantaggine e Trifoglio",
+        "path": "/vitakraft-verde-piantaggine-e-trifoglio-2294/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2217",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "5934",
+    "sku": "5934",
+    "gtin": "10065752",
+    "title": "Oxbow Fieno Oat Hay",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-fieno-oat-hay-425g-5934/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299756/Oxbow-Fieno-Oat-Hay-10065752.jpg?v=638485034551470000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 20.906976744186046,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "5934",
+        "sku": "5934",
+        "gtin": "10065752",
+        "title": "425G",
+        "url": "https://www.arcaplanet.it/oxbow-fieno-oat-hay-425g-5934/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 20.906976744186046,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "425G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-fieno-oat-hay-425g-5934p",
+        "name": "Oxbow Fieno Oat Hay",
+        "path": "/oxbow-fieno-oat-hay-425g-5934/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5787",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "5935",
+    "sku": "5935",
+    "gtin": "10065750",
+    "title": "Oxbow Fieno Alfalfa Hay",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-fieno-alfalfa-hay-425g-5935/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299755/Oxbow-Fieno-Alfalfa-Hay-10065750.jpg?v=638485033530870000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 20.906976744186046,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5935",
+        "sku": "5935",
+        "gtin": "10065750",
+        "title": "425G",
+        "url": "https://www.arcaplanet.it/oxbow-fieno-alfalfa-hay-425g-5935/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 20.906976744186046,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "425G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-fieno-alfalfa-hay-425g-5935p",
+        "name": "Oxbow Fieno Alfalfa Hay",
+        "path": "/oxbow-fieno-alfalfa-hay-425g-5935/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5788",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "5939",
+    "sku": "5939",
+    "gtin": "10065753",
+    "title": "Oxbow Fieno Orchard Grass Hay",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-fieno-orchard-grass-hay-5939/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299805/Oxbow-Fieno-Orchard-Grass-Hay-10065753.jpg?v=638485061855430000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 20.906976744186046,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "5939",
+        "sku": "5939",
+        "gtin": "10065753",
+        "title": "425G",
+        "url": "https://www.arcaplanet.it/oxbow-fieno-orchard-grass-hay-5939/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 20.906976744186046,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "425G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-fieno-orchard-grass-hay-5939p",
+        "name": "Oxbow Fieno Orchard Grass Hay",
+        "path": "/oxbow-fieno-orchard-grass-hay-5939/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6383",
+    "sku": "6383",
+    "gtin": "00004786",
+    "title": "Vitakraft Verde Plus Dente Di Leone",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-verde-plus-dente-di-leone-500g-6383/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221341/vitakraft-verde-plus-dente-di-leone.jpg?v=637454710293970000"
+    ],
+    "price": {
+      "current": 5.4,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6383",
+        "sku": "6383",
+        "gtin": "00004786",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/vitakraft-verde-plus-dente-di-leone-500g-6383/p",
+        "price": {
+          "current": 5.4,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 10.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-verde-plus-dente-di-leone-500g-6383p",
+        "name": "Vitakraft Verde Plus Dente Di Leone",
+        "path": "/vitakraft-verde-plus-dente-di-leone-500g-6383/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6227",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6388",
+    "sku": "6388",
+    "gtin": "10058187",
+    "title": "Cliffi Alpino Conigli e Altri Roditori Camomilla",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-alpino-conigli-e-altri-roditori-camomilla-500g-6388/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290280/FIENO_CAMOMILLA-10058187.jpg?v=638333236377600000"
+    ],
+    "price": {
+      "current": 5.36,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.72,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6388",
+        "sku": "6388",
+        "gtin": "10058187",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/cliffi-alpino-conigli-e-altri-roditori-camomilla-500g-6388/p",
+        "price": {
+          "current": 5.36,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 10.72,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-alpino-conigli-e-altri-roditori-camomilla-500g-6388p",
+        "name": "Cliffi Alpino Conigli e Altri Roditori Camomilla",
+        "path": "/cliffi-alpino-conigli-e-altri-roditori-camomilla-500g-6388/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6232",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6444",
+    "sku": "6444",
+    "gtin": "00019749",
+    "title": "Vitakraft Verde Selvatica",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-verde-selvatica-500g-6444/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221342/vitakraft-verde-selvatica.jpg?v=637454710302230000"
+    ],
+    "price": {
+      "current": 5.4,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6444",
+        "sku": "6444",
+        "gtin": "00019749",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/vitakraft-verde-selvatica-500g-6444/p",
+        "price": {
+          "current": 5.4,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 10.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-verde-selvatica-500g-6444p",
+        "name": "Vitakraft Verde Selvatica",
+        "path": "/vitakraft-verde-selvatica-500g-6444/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6288",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6447",
+    "sku": "6447",
+    "gtin": "10058614",
+    "title": "Cliffi Alpino Conigli e Altri Roditori Petali di Rosa",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-alpino-conigli-e-altri-roditori-rosa-500g-6447/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221392/cliffi-alpino-conigli-e-altri-roditori-rosa.jpg?v=637454710864400000"
+    ],
+    "price": {
+      "current": 5.36,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.72,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6447",
+        "sku": "6447",
+        "gtin": "10058614",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/cliffi-alpino-conigli-e-altri-roditori-rosa-500g-6447/p",
+        "price": {
+          "current": 5.36,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 10.72,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-alpino-conigli-e-altri-roditori-rosa-500g-6447p",
+        "name": "Cliffi Alpino Conigli e Altri Roditori Petali di Rosa",
+        "path": "/cliffi-alpino-conigli-e-altri-roditori-rosa-500g-6447/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6291",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6824",
+    "sku": "6824",
+    "gtin": "10078951",
+    "title": "Expecial Roditori Fieno Naturale",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-roditori-fieno-naturale-1-kg-6824/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227008/expecial-roditori-fieno-naturale.jpg?v=637454788819300000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6824",
+        "sku": "6824",
+        "gtin": "10078951",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/expecial-roditori-fieno-naturale-1-kg-6824/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 3.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "expecial-roditori-fieno-naturale-1-kg-6824p",
+        "name": "Expecial Roditori Fieno Naturale",
+        "path": "/expecial-roditori-fieno-naturale-1-kg-6824/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6665",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "7078",
+    "sku": "7078",
+    "gtin": "10058188",
+    "title": "Cliffi Conigli e Altri Roditori Fienobello",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-conigli-e-altri-roditori-fienobello-xl-7078/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311053/cliffi-conigli-e-altri-roditori-fienobello-xl-10058188_result-ok.jpg?v=638677064912030000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 5.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.59,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7078",
+        "sku": "7078",
+        "gtin": "10058188",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/cliffi-conigli-e-altri-roditori-fienobello-xl-7078/p",
+        "price": {
+          "current": 5.59,
+          "original": 5.59,
+          "pricePerUnit": {
+            "value": 5.59,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-conigli-e-altri-roditori-fienobello-xl-7078p",
+        "name": "Cliffi Conigli e Altri Roditori Fienobello",
+        "path": "/cliffi-conigli-e-altri-roditori-fienobello-xl-7078/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6918",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "5927",
+    "sku": "5927",
+    "gtin": "10065754",
+    "title": "Oxbow Fieno Western Timothy",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-fieno-western-timothy-1-136kg-5927/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283834/oxbow-fieno-western-timothy-425g.jpg?v=638169933394270000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 20.906976744186046,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "5927",
+        "sku": "5927",
+        "gtin": "10065754",
+        "title": "425G",
+        "url": "https://www.arcaplanet.it/oxbow-fieno-western-timothy-1-136kg-5927/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 20.906976744186046,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-fieno-western-timothy-1-136kg-5927p",
+        "name": "Oxbow Fieno Western Timothy",
+        "path": "/oxbow-fieno-western-timothy-1-136kg-5927/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6937",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "7213",
+    "sku": "7213",
+    "gtin": "00008252",
+    "title": "Vitakraft Roditori Fieno Dei Pascoli Alpini",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-roditori-fieno-dei-pascoli-alpini-7213/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221340/vitakraft-roditori-fieno-dei-pascoli-alpini.jpg?v=637454710286770000"
+    ],
+    "price": {
+      "current": 3.2,
+      "original": 4.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 106.66666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7213",
+        "sku": "7213",
+        "gtin": "00008252",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/vitakraft-roditori-fieno-dei-pascoli-alpini-7213/p",
+        "price": {
+          "current": 3.2,
+          "original": 4.35,
+          "pricePerUnit": {
+            "value": 106.66666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-roditori-fieno-dei-pascoli-alpini-7213p",
+        "name": "Vitakraft Roditori Fieno Dei Pascoli Alpini",
+        "path": "/vitakraft-roditori-fieno-dei-pascoli-alpini-7213/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7052",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "7905",
+    "sku": "7905",
+    "gtin": "10066336",
+    "title": "Cliffi Erbavoglio",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-conigli-e-altri-roditori-erbavoglio-2-5kg-7905/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223213/cliffi-conigli-e-altri-roditori-erbavoglio.jpg?v=637454729734500000"
+    ],
+    "price": {
+      "current": 7.15,
+      "original": 9.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.8600000000000003,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7905",
+        "sku": "7905",
+        "gtin": "10066336",
+        "title": "2.5KG",
+        "url": "https://www.arcaplanet.it/cliffi-conigli-e-altri-roditori-erbavoglio-2-5kg-7905/p",
+        "price": {
+          "current": 7.15,
+          "original": 9.79,
+          "pricePerUnit": {
+            "value": 2.8600000000000003,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-conigli-e-altri-roditori-erbavoglio-2-5kg-7905p",
+        "name": "Cliffi Erbavoglio",
+        "path": "/cliffi-conigli-e-altri-roditori-erbavoglio-2-5kg-7905/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7735",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "6355",
+    "sku": "6355",
+    "gtin": "10110283",
+    "title": "Expecial Roditori Fieno Fleolo Timothy",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/exp-fieno-fleolo-timothy-gr-500-6355/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206391/Expecial-fieno-fleolo-Timothy-500g.jpg?v=637413941142730000"
+    ],
+    "price": {
+      "current": 4.59,
+      "original": 4.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.18,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6355",
+        "sku": "6355",
+        "gtin": "10110283",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/exp-fieno-fleolo-timothy-gr-500-6355/p",
+        "price": {
+          "current": 4.59,
+          "original": 4.59,
+          "pricePerUnit": {
+            "value": 9.18,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "exp-fieno-fleolo-timothy-gr-500-6355p",
+        "name": "Expecial Roditori Fieno Fleolo Timothy",
+        "path": "/exp-fieno-fleolo-timothy-gr-500-6355/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "11414",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "11563",
+    "sku": "11563",
+    "gtin": "00007223",
+    "title": "Bunny Fieno Fresco Baviera Con Camomilla",
+    "brand": "BUNNY",
+    "url": "https://www.arcaplanet.it/bunny-fieno-fresco-baviera-con-camomilla-11563/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222586/bunny-fieno-fresco-baviera-con-camomilla-gr-500.jpg?v=637454723572930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/236429/bunny-fieno-fresco-baviera-con-camomilla-gr-500.jpg?v=637454946409730000"
+    ],
+    "price": {
+      "current": 8.79,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.58,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11563",
+        "sku": "11563",
+        "gtin": "00007223",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/bunny-fieno-fresco-baviera-con-camomilla-11563/p",
+        "price": {
+          "current": 8.79,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 17.58,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "bunny-fieno-fresco-baviera-con-camomilla-11563p",
+        "name": "Bunny Fieno Fresco Baviera Con Camomilla",
+        "path": "/bunny-fieno-fresco-baviera-con-camomilla-11563/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11591",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "11591",
+    "sku": "11591",
+    "gtin": "00034816",
+    "title": "Fieno Herbal Treats Tarassaco",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/fieno-per-roditori-herbal-treats-tarassaco-11591/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221363/tarassaco-gr-150-pz6.jpg?v=637454710580070000"
+    ],
+    "price": {
+      "current": 4.09,
+      "original": 5.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 21
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11591",
+        "sku": "11591",
+        "gtin": "00034816",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/fieno-per-roditori-herbal-treats-tarassaco-11591/p",
+        "price": {
+          "current": 4.09,
+          "original": 5.19,
+          "pricePerUnit": {
+            "value": 27.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "fieno-per-roditori-herbal-treats-tarassaco-11591p",
+        "name": "Fieno Herbal Treats Tarassaco",
+        "path": "/fieno-per-roditori-herbal-treats-tarassaco-11591/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11618",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "11628",
+    "sku": "11628",
+    "gtin": "00007221",
+    "title": "Bunny Fieno Fresco Baviera Con Mele",
+    "brand": "BUNNY",
+    "url": "https://www.arcaplanet.it/bunny-fieno-fresco-baviera-con-mele-gr-500-11628/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/236428/bunny-fieno-fresco-baviera-con-mele-gr-500.jpg?v=637454946404100000"
+    ],
+    "price": {
+      "current": 8.79,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.58,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11628",
+        "sku": "11628",
+        "gtin": "00007221",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/bunny-fieno-fresco-baviera-con-mele-gr-500-11628/p",
+        "price": {
+          "current": 8.79,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 17.58,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "bunny-fieno-fresco-baviera-con-mele-gr-500-11628p",
+        "name": "Bunny Fieno Fresco Baviera Con Mele",
+        "path": "/bunny-fieno-fresco-baviera-con-mele-gr-500-11628/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11654",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "11663",
+    "sku": "11663",
+    "gtin": "00034894",
+    "title": "Erba Medica",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/padovan-herbal-treats-erba-medica-270-g-11663/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261975/valman-erba-medica1.jpg?v=637661732965200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261976/valman-erba-medica.jpg?v=637661733127130000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 4.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.925925925925926,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11663",
+        "sku": "11663",
+        "gtin": "00034894",
+        "title": "270G",
+        "url": "https://www.arcaplanet.it/padovan-herbal-treats-erba-medica-270-g-11663/p",
+        "price": {
+          "current": 3.49,
+          "original": 4.59,
+          "pricePerUnit": {
+            "value": 12.925925925925926,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "270G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "padovan-herbal-treats-erba-medica-270-g-11663p",
+        "name": "Erba Medica",
+        "path": "/padovan-herbal-treats-erba-medica-270-g-11663/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11689",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "13801",
+    "sku": "13801",
+    "gtin": "10139648",
+    "title": "Bunny Fieno Naturaleda Prati non Trattati",
+    "brand": "BUNNY",
+    "url": "https://www.arcaplanet.it/bunny-fieno-naturale-da-prati-non-trattati-600gr-13801/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264733/bunny-fieno-naturale-da-prati-non-trattati-600gr.jpg?v=637721533322130000"
+    ],
+    "price": {
+      "current": 11.25,
+      "original": 12.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 18.75,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13801",
+        "sku": "13801",
+        "gtin": "10139648",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/bunny-fieno-naturale-da-prati-non-trattati-600gr-13801/p",
+        "price": {
+          "current": 11.25,
+          "original": 12.49,
+          "pricePerUnit": {
+            "value": 18.75,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "bunny-fieno-naturale-da-prati-non-trattati-600gr-13801p",
+        "name": "Bunny Fieno Naturaleda Prati non Trattati",
+        "path": "/bunny-fieno-naturale-da-prati-non-trattati-600gr-13801/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15939",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "14078",
+    "sku": "14078",
+    "gtin": "10139892",
+    "title": "In the Nature Bio Fieno per Roditori",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-bio-fieno-per-roditori-14078/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270404/in-the-nature-bio-fieno-camomilla-1kg.jpg?v=637847660077430000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14078",
+        "sku": "14078",
+        "gtin": "10139892",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/in-the-nature-bio-fieno-per-roditori-14078/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 6.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-bio-fieno-per-roditori-14078p",
+        "name": "In the Nature Bio Fieno per Roditori",
+        "path": "/in-the-nature-bio-fieno-per-roditori-14078/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16215",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "14082",
+    "sku": "14082",
+    "gtin": "10139889",
+    "title": "In the Nature Fieno con Camomilla per Roditori",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-camomilla-per-roditori-14082/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270408/in-the-nature-fieno-camomilla-600g.jpg?v=637847698638570000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14082",
+        "sku": "14082",
+        "gtin": "10139889",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-camomilla-per-roditori-14082/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 11.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-fieno-con-camomilla-per-roditori-14082p",
+        "name": "In the Nature Fieno con Camomilla per Roditori",
+        "path": "/in-the-nature-fieno-con-camomilla-per-roditori-14082/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16219",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "14083",
+    "sku": "14083",
+    "gtin": "10139890",
+    "title": "In the Nature Fieno con Mela per Roditori",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-mela-per-roditori-14083/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270409/in-the-nature-fieno-mela-600g.jpg?v=637847744502800000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14083",
+        "sku": "14083",
+        "gtin": "10139890",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-mela-per-roditori-14083/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 11.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-fieno-con-mela-per-roditori-14083p",
+        "name": "In the Nature Fieno con Mela per Roditori",
+        "path": "/in-the-nature-fieno-con-mela-per-roditori-14083/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16220",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "14084",
+    "sku": "14084",
+    "gtin": "10139891",
+    "title": "In the Nature Fieno con Carote per Roditori",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-carote-per-roditori-14084/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270405/in-the-nature-fieno-carote-600g.jpg?v=637847670099970000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14084",
+        "sku": "14084",
+        "gtin": "10139891",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/in-the-nature-fieno-con-carote-per-roditori-14084/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 11.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-fieno-con-carote-per-roditori-14084p",
+        "name": "In the Nature Fieno con Carote per Roditori",
+        "path": "/in-the-nature-fieno-con-carote-per-roditori-14084/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16221",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16431",
+    "sku": "16431",
+    "gtin": "10142508",
+    "title": "Fit and Fun Fieno Montagna per Roditori",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-fun-fieno-montagna-per-roditori-16431/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281156/fit-fun-fieno-montagna-per-roditori-5kg.jpg?v=638126598218670000"
+    ],
+    "price": {
+      "current": 11.04,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.2079999999999997,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16431",
+        "sku": "16431",
+        "gtin": "10142508",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/fit-fun-fieno-montagna-per-roditori-16431/p",
+        "price": {
+          "current": 11.04,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 2.2079999999999997,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "fit-fun-fieno-montagna-per-roditori-16431p",
+        "name": "Fit and Fun Fieno Montagna per Roditori",
+        "path": "/fit-fun-fieno-montagna-per-roditori-16431/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18643",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16524",
+    "sku": "16524",
+    "gtin": "10143418",
+    "title": "Real Nature Fieno Naturale per Roditori",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-naturale-16524/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318042/real-nature-fieno-naturale-10143418--1-.jpg.jpg?v=638767643123570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318043/real-nature-fieno-naturale-10143418--2-.jpg.jpg?v=638767643123730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318044/real-nature-fieno-naturale-10143418--3-.jpg.jpg?v=638767643123730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318045/real-nature-fieno-naturale-10143418--4-.jpg.jpg?v=638767643123730000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.49,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16524",
+        "sku": "16524",
+        "gtin": "10143418",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-naturale-16524/p",
+        "price": {
+          "current": 8.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 8.49,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-naturale-16524p",
+        "name": "Real Nature Fieno Naturale per Roditori",
+        "path": "/real-nature-fieno-naturale-16524/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18647",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16525",
+    "sku": "16525",
+    "gtin": "10143257",
+    "title": "MultiFit Fieno per Roditori",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-16525/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286635/39ac5633c08898130aa5767da7a6cc0f5d003bac_1072670_0--1-.jpg?v=638211360055430000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.82,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16525",
+        "sku": "16525",
+        "gtin": "10143257",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-16525/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 3.82,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "multifit-fieno-per-roditori-16525p",
+        "name": "MultiFit Fieno per Roditori",
+        "path": "/multifit-fieno-per-roditori-16525/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18648",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16529",
+    "sku": "16529",
+    "gtin": "10146262",
+    "title": "Real Nature Fieno per Roditori Green Nature",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-verdura-16529/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318046/real-nature-fieno-green-nature-verdura-10146262--3-.jpg.jpg?v=638767652395300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318047/real-nature-fieno-green-nature-verdura-10146262--1-.jpg.jpg?v=638767652395300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318048/real-nature-fieno-green-nature-verdura-10146262--2-.jpg.jpg?v=638767652395300000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.32,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16529",
+        "sku": "16529",
+        "gtin": "10146262",
+        "title": "750G",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-verdura-16529/p",
+        "price": {
+          "current": 8.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 11.32,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "750G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-green-nature-verdura-16529p",
+        "name": "Real Nature Fieno per Roditori Green Nature",
+        "path": "/real-nature-fieno-green-nature-verdura-16529/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18652",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16614",
+    "sku": "16614",
+    "gtin": "10153393",
+    "title": "Real Nature Fieno per Roditori Provenza",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-roditori-provenza-16614/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286751/16614.jpg?v=638215534554730000"
+    ],
+    "price": {
+      "current": 11.89,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.926666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16614",
+        "sku": "16614",
+        "gtin": "10153393",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-roditori-provenza-16614/p",
+        "price": {
+          "current": 11.89,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 7.926666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-roditori-provenza-16614p",
+        "name": "Real Nature Fieno per Roditori Provenza",
+        "path": "/real-nature-fieno-roditori-provenza-16614/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18734",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16630",
+    "sku": "16630",
+    "gtin": "10142509",
+    "title": "Multifit Fieno",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-fieno-16630/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286388/dc809f8a38777457d346dd356ec5e185a601c159_fdd05e2c43de4a5385a863fcbc848c15f4c113f8.jpg?v=638206202070570000"
+    ],
+    "price": {
+      "current": 7.01,
+      "original": 8.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.505,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16630",
+        "sku": "16630",
+        "gtin": "10142509",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/multifit-fieno-16630/p",
+        "price": {
+          "current": 7.01,
+          "original": 8.25,
+          "pricePerUnit": {
+            "value": 3.505,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "multifit-fieno-16630p",
+        "name": "Multifit Fieno",
+        "path": "/multifit-fieno-16630/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18750",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16637",
+    "sku": "16637",
+    "gtin": "10148962",
+    "title": "Real Nature Fieno per Roditori Germania Settentrionale",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-germania-settentrionale-16637/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286631/bc8e55758ec865ae48735cd83858aae940ccf9fb_94e063af968688cfacc6fad088672b70bd463808.jpg?v=638211344249670000"
+    ],
+    "price": {
+      "current": 11.89,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.926666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16637",
+        "sku": "16637",
+        "gtin": "10148962",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-germania-settentrionale-16637/p",
+        "price": {
+          "current": 11.89,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 7.926666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-germania-settentrionale-16637p",
+        "name": "Real Nature Fieno per Roditori Germania Settentrionale",
+        "path": "/real-nature-fieno-germania-settentrionale-16637/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18757",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16649",
+    "sku": "16649",
+    "gtin": "10146255",
+    "title": "Real Nature Fieno per Roditori Green Nature Rosa",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-rosa-16649/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318065/real-nature-fieno-green-nature-rosa-10146255 -3-.jpg.jpg?v=638767698473500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318066/real-nature-fieno-green-nature-rosa-10146255 -1-.jpg.jpg?v=638767698473500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318067/real-nature-fieno-green-nature-rosa-10146255 -2-.jpg.jpg?v=638767698473500000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.32,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16649",
+        "sku": "16649",
+        "gtin": "10146255",
+        "title": "750G",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-rosa-16649/p",
+        "price": {
+          "current": 8.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 11.32,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "750G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-green-nature-rosa-16649p",
+        "name": "Real Nature Fieno per Roditori Green Nature Rosa",
+        "path": "/real-nature-fieno-green-nature-rosa-16649/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18769",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16580",
+    "sku": "16580",
+    "gtin": "10143303",
+    "title": "MultiFit Fieno per Roditori 500G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-500g-16580/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286638/1073129001_OS--1-.jpg?v=638211367058130000"
+    ],
+    "price": {
+      "current": 4.29,
+      "original": 5.05,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.58,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16580",
+        "sku": "16580",
+        "gtin": "10143303",
+        "title": "DENTE DI LEONE",
+        "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-500g-16580/p",
+        "price": {
+          "current": 4.29,
+          "original": 5.05,
+          "pricePerUnit": {
+            "value": 8.58,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "multifit-fieno-per-roditori-500g-16580p",
+        "name": "MultiFit Fieno per Roditori 500G",
+        "path": "/multifit-fieno-per-roditori-500g-16580/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19066",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "16778",
+    "sku": "16778",
+    "gtin": "10148549",
+    "title": "MultiFit Fieno per Roditori Casetta",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-casetta-16778/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283224/d142fd44f4141d24a18a0de6966d2e0da12e4225_04cb51b0a69e3e1033bede18dc9958464644b80d--1-.jpg?v=638161243957130000"
+    ],
+    "price": {
+      "current": 9.6,
+      "original": 11.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 480,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16778",
+        "sku": "16778",
+        "gtin": "10148549",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/multifit-fieno-per-roditori-casetta-16778/p",
+        "price": {
+          "current": 9.6,
+          "original": 11.29,
+          "pricePerUnit": {
+            "value": 480,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "multifit-fieno-per-roditori-casetta-16778p",
+        "name": "MultiFit Fieno per Roditori Casetta",
+        "path": "/multifit-fieno-per-roditori-casetta-16778/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19633",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "17714",
+    "sku": "17714",
+    "gtin": "10150662",
+    "title": "MultiFit Palla di Fieno per Roditori",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-palla-di-fieno-per-roditori-17714/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282907/0f3a873d1e07353369992fe6132445bb0bea20f9_239a1dff52a6da6dc620aeba2d8924dc0627c02e.jpg?v=638156811821970000"
+    ],
+    "price": {
+      "current": 12.74,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 159.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17714",
+        "sku": "17714",
+        "gtin": "10150662",
+        "title": "80G",
+        "url": "https://www.arcaplanet.it/multifit-palla-di-fieno-per-roditori-17714/p",
+        "price": {
+          "current": 12.74,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 159.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "80G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "multifit-palla-di-fieno-per-roditori-17714p",
+        "name": "MultiFit Palla di Fieno per Roditori",
+        "path": "/multifit-palla-di-fieno-per-roditori-17714/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19832",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "17721",
+    "sku": "17721",
+    "gtin": "10150827",
+    "title": "Real Nature Roditori Legno da Rosicchiare Green Nature",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-green-nature-legno-da-rosicchiare-17721/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286747/17721.jpg?v=638215526740500000"
+    ],
+    "price": {
+      "current": 12.74,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.493333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17721",
+        "sku": "17721",
+        "gtin": "10150827",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/real-nature-green-nature-legno-da-rosicchiare-17721/p",
+        "price": {
+          "current": 12.74,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 8.493333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-green-nature-legno-da-rosicchiare-17721p",
+        "name": "Real Nature Roditori Legno da Rosicchiare Green Nature",
+        "path": "/real-nature-green-nature-legno-da-rosicchiare-17721/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19839",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "17970",
+    "sku": "17970",
+    "gtin": "10150022",
+    "title": "Real Nature Fieno Green Nature",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-17970/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285689/21e3f87a36d5bd3a4b96ab5a2fa6c30b7597515a_ca48d46628f5044ca66ea9241f8530c31d0d3d18.jpg?v=638197525117500000"
+    ],
+    "price": {
+      "current": 13.59,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.53,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17970",
+        "sku": "17970",
+        "gtin": "10150022",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-green-nature-17970/p",
+        "price": {
+          "current": 13.59,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 4.53,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-green-nature-17970p",
+        "name": "Real Nature Fieno Green Nature",
+        "path": "/real-nature-fieno-green-nature-17970/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20088",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  },
+  {
+    "id": "19803",
+    "sku": "19803",
+    "gtin": "10149562",
+    "title": "Real Nature Fieno Alpeggio per Roditori",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-fieno-alpeggio-per-roditori-19803/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286686/0c994360035633fbca8ca273ac9653cae5ab5ad2_9c04ba3944ca813c0c9d1897cb4eae3fe3130991.jpg?v=638212249953370000"
+    ],
+    "price": {
+      "current": 12.54,
+      "original": 14.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.36,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19803",
+        "sku": "19803",
+        "gtin": "10149562",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/real-nature-fieno-alpeggio-per-roditori-19803/p",
+        "price": {
+          "current": 12.54,
+          "original": 14.75,
+          "pricePerUnit": {
+            "value": 8.36,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorifieno",
+        "name": "Fieno",
+        "path": "/piccoli-animali/roditori/fieno/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-fieno-alpeggio-per-roditori-19803p",
+        "name": "Real Nature Fieno Alpeggio per Roditori",
+        "path": "/real-nature-fieno-alpeggio-per-roditori-19803/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21921",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:03:41.657Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/fieno/"
+  }
+]

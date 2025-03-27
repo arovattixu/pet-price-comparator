@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "8446",
+    "sku": "8446",
+    "gtin": "10111939",
+    "title": "Perfect Lettiera in Silicio per Gatti",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-gatto-lettiera-silicio-8446/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249052/perfect-gatto-lettiera-silicio.jpg?v=637455052440800000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2702341137123745,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8446",
+        "sku": "8446",
+        "gtin": "10111939",
+        "title": "15L",
+        "url": "https://www.arcaplanet.it/perfect-gatto-lettiera-silicio-8446/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 1.2702341137123745,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "15L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "perfect-gatto-lettiera-silicio-8446p",
+        "name": "Perfect Lettiera in Silicio per Gatti",
+        "path": "/perfect-gatto-lettiera-silicio-8446/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7015",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "7438",
+    "sku": "7438",
+    "gtin": "10129316",
+    "title": "Perfect Lettiera Gatto in Silicio Rosa",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/lettiera-silicio-rosa-perfect-7438/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207528/Lettiera-per-gatti-Silicio-Perfect-Rosa-5L.jpg?v=637413956814900000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8016032064128256,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7438",
+        "sku": "7438",
+        "gtin": "10129316",
+        "title": "5L",
+        "url": "https://www.arcaplanet.it/lettiera-silicio-rosa-perfect-7438/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 1.8016032064128256,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-silicio-rosa-perfect-7438p",
+        "name": "Perfect Lettiera Gatto in Silicio Rosa",
+        "path": "/lettiera-silicio-rosa-perfect-7438/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "7273",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "7439",
+    "sku": "7439",
+    "gtin": "10129315",
+    "title": "Perfect Lettiera Gatto in Silicio Talco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/lettiera-silicio-al-talco-perfect-7439/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208264/Perfect-Lettiera-Silicio-al-Talco-5L.jpg?v=637413969499930000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8016032064128256,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7439",
+        "sku": "7439",
+        "gtin": "10129315",
+        "title": "5L",
+        "url": "https://www.arcaplanet.it/lettiera-silicio-al-talco-perfect-7439/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 1.8016032064128256,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-silicio-al-talco-perfect-7439p",
+        "name": "Perfect Lettiera Gatto in Silicio Talco",
+        "path": "/lettiera-silicio-al-talco-perfect-7439/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "7274",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "7516",
+    "sku": "7516",
+    "gtin": "10111940",
+    "title": "Perfect Lettiera Gatto in Silicio Aloe Vera",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/lettiera-in-silicio-con-aloe-vera-perfect-7516/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208256/Perfect-Hgiene-lettiera-silicio-Aloe-5L.jpg?v=637413969392730000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8016032064128256,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7516",
+        "sku": "7516",
+        "gtin": "10111940",
+        "title": "5L",
+        "url": "https://www.arcaplanet.it/lettiera-in-silicio-con-aloe-vera-perfect-7516/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 1.8016032064128256,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-in-silicio-con-aloe-vera-perfect-7516p",
+        "name": "Perfect Lettiera Gatto in Silicio Aloe Vera",
+        "path": "/lettiera-in-silicio-con-aloe-vera-perfect-7516/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "7351",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "16586",
+    "sku": "16586",
+    "gtin": "10147106",
+    "title": "MultiFit Lettiera Diamonds Aloe Vera",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-diamonds-aloe-vera-7kg-16586/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278027/MultiFit-Lettiera-Diamonds-Aloe-Vera-7kg.jpg?v=638059475295500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278030/MultiFit-Lettiera-Diamonds-Aloe-Vera-7kg-1.jpg?v=638059477325770000"
+    ],
+    "price": {
+      "current": 28.89,
+      "original": 33.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9298597194388778,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16586",
+        "sku": "16586",
+        "gtin": "10147106",
+        "title": "15L",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-diamonds-aloe-vera-7kg-16586/p",
+        "price": {
+          "current": 28.89,
+          "original": 33.99,
+          "pricePerUnit": {
+            "value": 1.9298597194388778,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-diamonds-aloe-vera-7kg-16586p",
+        "name": "MultiFit Lettiera Diamonds Aloe Vera",
+        "path": "/multifit-lettiera-diamonds-aloe-vera-7kg-16586/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18707",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "17538",
+    "sku": "17538",
+    "gtin": "10145926",
+    "title": "MultiFit Lettiera Gatto Diamonds Comfort Silice",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-gatto-diamonds-comfort-silice-17538/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294581/MultiFit-Lettiera-Gatto-Diamonds-Comfort-Silice-10145926.jpg?v=638430104981100000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 20.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.620474406991261,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17538",
+        "sku": "17538",
+        "gtin": "10145926",
+        "title": "8L",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-gatto-diamonds-comfort-silice-17538/p",
+        "price": {
+          "current": 20.99,
+          "original": 20.99,
+          "pricePerUnit": {
+            "value": 2.620474406991261,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "8L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-gatto-diamonds-comfort-silice-17538p",
+        "name": "MultiFit Lettiera Gatto Diamonds Comfort Silice",
+        "path": "/multifit-lettiera-gatto-diamonds-comfort-silice-17538/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19656",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "25320",
+    "sku": "25320",
+    "gtin": "1000000000099",
+    "title": "Kit Risparmio 3x15L Perfect Lettiera in Silicio per Gatti",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x15l-perfect-lettiera-in-silicio-per-gatti-25320/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308168/Kit-Risparmio-3x15L-Perfect-Lettiera-in-Silicio-per-Gatti.jpg?v=638648428594270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308167/Kit-Risparmio-3x15L-Perfect-Lettiera-in-Silicio-per-Gatti--2.jpg?v=638648424216970000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 68.97,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.0654305200341005,
+        "unit": "litro"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25320",
+        "sku": "25320",
+        "gtin": "1000000000099",
+        "title": "GEL SILICE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x15l-perfect-lettiera-in-silicio-per-gatti-25320/p",
+        "price": {
+          "current": 49.99,
+          "original": 68.97,
+          "pricePerUnit": {
+            "value": 1.0654305200341005,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-3x15l-perfect-lettiera-in-silicio-per-gatti-25320p",
+        "name": "Kit Risparmio 3x15L Perfect Lettiera in Silicio per Gatti",
+        "path": "/kit-risparmio-3x15l-perfect-lettiera-in-silicio-per-gatti-25320/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27331",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "25555",
+    "sku": "25555",
+    "gtin": "1000000000176",
+    "title": "Kit Risparmio 6x5L Perfect Lettiera Gatto Silicio",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x5l-perfect-lettiera-gatto-silicio-25555/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310262/Kit-Risparmio-6x5L-Perfect-Lettiera-Gatto-Silicio-1000000000176.jpg?v=638670919926800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310263/Kit-Risparmio-6x5L-Perfect-Lettiera-Gatto-Silicio-1000000000176-2.png?v=638749494891900000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.0016700066800266,
+        "unit": "litro"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25555",
+        "sku": "25555",
+        "gtin": "1000000000176",
+        "title": "ALOE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x5l-perfect-lettiera-gatto-silicio-25555/p",
+        "price": {
+          "current": 29.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 1.0016700066800266,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-6x5l-perfect-lettiera-gatto-silicio-25555p",
+        "name": "Kit Risparmio 6x5L Perfect Lettiera Gatto Silicio",
+        "path": "/kit-risparmio-6x5l-perfect-lettiera-gatto-silicio-25555/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27566",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "26495",
+    "sku": "26495",
+    "gtin": "1000000000724",
+    "title": "Kit Risparmio 2x15L Multifit Lettiera Assorbente Diamonds",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x15l-multifit-lettiera-assorbente-diamonds-26495/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314412/Kit-Risparmio-2x15L-Multifit-Lettiera-Assorbente-Diamonds-1000000000724x2.jpg?v=638727022195930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314413/Kit-Risparmio-2x15L-Multifit-Lettiera-Assorbente-Diamonds-1000000000724-1.png?v=638727022285800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314414/Kit-Risparmio-2x15L-Multifit-Lettiera-Assorbente-Diamonds-1000000000724-2.jpg?v=638727022398770000"
+    ],
+    "price": {
+      "current": 51.99,
+      "original": 67.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.7364729458917836,
+        "unit": "litro"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26495",
+        "sku": "26495",
+        "gtin": "1000000000724",
+        "title": "ALOE VERA",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x15l-multifit-lettiera-assorbente-diamonds-26495/p",
+        "price": {
+          "current": 51.99,
+          "original": 67.98,
+          "pricePerUnit": {
+            "value": 1.7364729458917836,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x15l-multifit-lettiera-assorbente-diamonds-26495p",
+        "name": "Kit Risparmio 2x15L Multifit Lettiera Assorbente Diamonds",
+        "path": "/kit-risparmio-2x15l-multifit-lettiera-assorbente-diamonds-26495/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "26640",
+    "sku": "26640",
+    "gtin": "1000000000780",
+    "title": "Kit Risparmio 4x7.6L Perfect Lettiera Gatto in Silicio",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/kit-risparmio-4x7-5l-perfect-lettiera-gatto-in-silicio-26640/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314935/Kit-Risparmio-4x7.5L-Perfect-Lettiera-in-Silicio-per-Gatti-1000000000780x4.jpg?v=638732222894130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314936/Kit-Risparmio-4x7.5L-Perfect-Lettiera-in-Silicio-per-Gatti-1000000000780.png?v=638732222965100000"
+    ],
+    "price": {
+      "current": 43.49,
+      "original": 57.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.4477363515312918,
+        "unit": "litro"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26640",
+        "sku": "26640",
+        "gtin": "1000000000780",
+        "title": "GEL SILICE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-4x7-5l-perfect-lettiera-gatto-in-silicio-26640/p",
+        "price": {
+          "current": 43.49,
+          "original": 57.96,
+          "pricePerUnit": {
+            "value": 1.4477363515312918,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-4x7-5l-perfect-lettiera-gatto-in-silicio-26640p",
+        "name": "Kit Risparmio 4x7.6L Perfect Lettiera Gatto in Silicio",
+        "path": "/kit-risparmio-4x7-5l-perfect-lettiera-gatto-in-silicio-26640/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28631",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  },
+  {
+    "id": "26867",
+    "sku": "26867",
+    "gtin": "10186881",
+    "title": "MultiFit Lettiera Gatto Diamonds Comfort Silice Agglomerante",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-gatto-diamonds-comfort-silice-agglomerante-26867/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316778/multifit-lettiera-gatto-diamonds-comfort-silice-agglomerante.jpg.jpg?v=638757501173230000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6904761904761905,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26867",
+        "sku": "26867",
+        "gtin": "10186881",
+        "title": "4.2KG",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-gatto-diamonds-comfort-silice-agglomerante-26867/p",
+        "price": {
+          "current": 13.49,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 1.6904761904761905,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosabbie",
+        "name": "Sabbie",
+        "path": "/gatto/sabbie/",
+        "level": 3
+      },
+      {
+        "id": "gattosabbiesilicio",
+        "name": "Silicio",
+        "path": "/gatto/sabbie/silicio/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-gatto-diamonds-comfort-silice-agglomerante-26867p",
+        "name": "MultiFit Lettiera Gatto Diamonds Comfort Silice Agglomerante",
+        "path": "/multifit-lettiera-gatto-diamonds-comfort-silice-agglomerante-26867/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28858",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:39:19.513Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/sabbie/silicio/"
+  }
+]

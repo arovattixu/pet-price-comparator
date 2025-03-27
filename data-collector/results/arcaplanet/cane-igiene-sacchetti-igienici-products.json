@@ -1,0 +1,3763 @@
+[
+  {
+    "id": "1075",
+    "sku": "1075",
+    "gtin": "10120919",
+    "title": "Sacchetti Igienici Regular",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/ricarica-refill-bon-ton-regular-verde-cane-1075/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254504/ricariche-refill-verdi-per-bon-ton-regular.jpg?v=637552046300430000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1075",
+        "sku": "1075",
+        "gtin": "10120919",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/ricarica-refill-bon-ton-regular-verde-cane-1075/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "ricarica-refill-bon-ton-regular-verde-cane-1075p",
+        "name": "Sacchetti Igienici Regular",
+        "path": "/ricarica-refill-bon-ton-regular-verde-cane-1075/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1032",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1110",
+    "sku": "1110",
+    "gtin": "10118202",
+    "title": "Sacchetti Igienici al Talco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-talco-3x15-1110/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208247/Perfect-dog-sacchetti-igienici-al-talco-3x15.jpg?v=637413969238530000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "1110",
+        "sku": "1110",
+        "gtin": "10118202",
+        "title": "3X15",
+        "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-talco-3x15-1110/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-sacchetti-igienici-talco-3x15-1110p",
+        "name": "Sacchetti Igienici al Talco",
+        "path": "/perfect-cane-sacchetti-igienici-talco-3x15-1110/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1067",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1111",
+    "sku": "1111",
+    "gtin": "10118585",
+    "title": "Sacchetti Igienici Grigi per Cane",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-cane-ricariche-grigio-1111/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208747/Sacchetti-Refill-ricarica-Bon-Ton-grigio.jpg?v=637413976656770000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "1111",
+        "sku": "1111",
+        "gtin": "10118585",
+        "title": "30 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-cane-ricariche-grigio-1111/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-cane-ricariche-grigio-1111p",
+        "name": "Sacchetti Igienici Grigi per Cane",
+        "path": "/bon-ton-cane-ricariche-grigio-1111/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1068",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1152",
+    "sku": "1152",
+    "gtin": "10120920",
+    "title": "Sacchetti Igienici Bianchi Nano",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-nano-cane-ricariche-bianco-1152/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208560/Ricariche-Refill-per-Bon-Ton-Nano-bianche.jpg?v=637413974489170000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "1152",
+        "sku": "1152",
+        "gtin": "10120920",
+        "title": "30 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-nano-cane-ricariche-bianco-1152/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-nano-cane-ricariche-bianco-1152p",
+        "name": "Sacchetti Igienici Bianchi Nano",
+        "path": "/bon-ton-nano-cane-ricariche-bianco-1152/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1109",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1120",
+    "sku": "1120",
+    "gtin": "00043648",
+    "title": "Ricarica sacchetti",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-nano-cane-ricariche-1120/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220685/bon-ton-nano-cane-ricariche.jpg?v=637454703371870000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1120",
+        "sku": "1120",
+        "gtin": "00043648",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/bon-ton-nano-cane-ricariche-1120/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-nano-cane-ricariche-1120p",
+        "name": "Ricarica sacchetti",
+        "path": "/bon-ton-nano-cane-ricariche-1120/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1111",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1183",
+    "sku": "1183",
+    "gtin": "00043645",
+    "title": "Dispenser con Sacchetti",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-dispenser-con-sacchetti-nano-coeur-per-cane-1183/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258024/dispenser-con-sacchetti-rosso.jpg?v=637589937974900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258025/dispenser-con-sacchetti-rosa.jpg?v=637589938059330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258026/dispenser-con-sacchetti-nero.jpg?v=637589938142330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258027/dispenser-con-sacchetti-bianco.jpg?v=637589938223830000"
+    ],
+    "price": {
+      "current": 6.75,
+      "original": 13.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 337.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1183",
+        "sku": "1183",
+        "gtin": "00043645",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/united-pets-dispenser-con-sacchetti-nano-coeur-per-cane-1183/p",
+        "price": {
+          "current": 6.75,
+          "original": 13.5,
+          "pricePerUnit": {
+            "value": 337.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-dispenser-con-sacchetti-nano-coeur-per-cane-1183p",
+        "name": "Dispenser con Sacchetti",
+        "path": "/united-pets-dispenser-con-sacchetti-nano-coeur-per-cane-1183/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1140",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "1149",
+    "sku": "1149",
+    "gtin": "10062656",
+    "title": "Camon Dispenser Sacchetti CityGo",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-citygo-cane-dispeser-sacchetti-argento-1149/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305611/camon-dispenser-sacchetti-citygo-10062656.jpg?v=638588136192900000"
+    ],
+    "price": {
+      "current": 3.3,
+      "original": 6.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 165,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1149",
+        "sku": "1149",
+        "gtin": "10062656",
+        "title": "FUCSIA",
+        "url": "https://www.arcaplanet.it/camon-citygo-cane-dispeser-sacchetti-argento-1149/p",
+        "price": {
+          "current": 3.3,
+          "original": 6.6,
+          "pricePerUnit": {
+            "value": 165,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "camon-citygo-cane-dispeser-sacchetti-argento-1149p",
+        "name": "Camon Dispenser Sacchetti CityGo",
+        "path": "/camon-citygo-cane-dispeser-sacchetti-argento-1149/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1354",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2771",
+    "sku": "2771",
+    "gtin": "10118228",
+    "title": "Sacchetti Igienici Funny Mix",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-3x20-mix-2771/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252597/lovedi-dog-sacchettini-igienici-lovc113.jpg?v=637475139386330000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2771",
+        "sku": "2771",
+        "gtin": "10118228",
+        "title": "FUNNY",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-3x20-mix-2771/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-3x20-mix-2771p",
+        "name": "Sacchetti Igienici Funny Mix",
+        "path": "/lovedi-cane-sacchetti-igienici-3x20-mix-2771/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2881",
+        "name": "1+1"
+      }
+    ],
+    "metadata": {
+      "groupId": "2691",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2774",
+    "sku": "2774",
+    "gtin": "10118229",
+    "title": "Sacchetti Igienici Happy Mix",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249071/lovedi-cane-sacchetti-igienici-6x20.jpg?v=637455052617600000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2774",
+        "sku": "2774",
+        "gtin": "10118229",
+        "title": "6X20",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774p",
+        "name": "Sacchetti Igienici Happy Mix",
+        "path": "/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2692",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2805",
+    "sku": "2805",
+    "gtin": "10078480",
+    "title": "Sacchetti Igienici Blu Expecial",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252505/Expecial-Dog-sacchetti-igienici_BLU--1-.jpg?v=637471862008200000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2805",
+        "sku": "2805",
+        "gtin": "10078480",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-blu-3x20-2805p",
+        "name": "Sacchetti Igienici Blu Expecial",
+        "path": "/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2723",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2806",
+    "sku": "2806",
+    "gtin": "10078479",
+    "title": "Expecial Sacchetti Igienici Neri",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276038/Expecial-Dog-sacchetti-igienici_NERO.jpg?v=638016733580970000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2806",
+        "sku": "2806",
+        "gtin": "10078479",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-neri-3x20-2806p",
+        "name": "Expecial Sacchetti Igienici Neri",
+        "path": "/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2724",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2807",
+    "sku": "2807",
+    "gtin": "10078481",
+    "title": "Expecial Sacchetti Igienici Rossi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276039/Expecial-Dog-sacchetti-igienici_ROSSO.jpg?v=638016733937700000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2807",
+        "sku": "2807",
+        "gtin": "10078481",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-rossi-3x20-2807p",
+        "name": "Expecial Sacchetti Igienici Rossi",
+        "path": "/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2725",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "2808",
+    "sku": "2808",
+    "gtin": "10078482",
+    "title": "Expecial Sacchetti Igienici Verdi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276040/Expecial-Dog-sacchetti-igienici_VERDE.jpg?v=638016734292900000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2808",
+        "sku": "2808",
+        "gtin": "10078482",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-verdi-3x20-2808p",
+        "name": "Expecial Sacchetti Igienici Verdi",
+        "path": "/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2726",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "3794",
+    "sku": "3794",
+    "gtin": "00000365",
+    "title": "Sacchetti Igienici Arancioni",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-cane-ricariche-arancio-3794/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220683/bon-ton-cane-ricariche.jpg?v=637454703360130000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3794",
+        "sku": "3794",
+        "gtin": "00000365",
+        "title": "30 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-cane-ricariche-arancio-3794/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-cane-ricariche-arancio-3794p",
+        "name": "Sacchetti Igienici Arancioni",
+        "path": "/bon-ton-cane-ricariche-arancio-3794/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3697",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "3896",
+    "sku": "3896",
+    "gtin": "10058425",
+    "title": "Distributore Sacchetti in Plastica",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-pick-up-cane-distributore-plastica-sacchetti-3896/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218507/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-distributore-sacchetti-dog-pick-up-tric136.jpg?v=637454598157030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218509/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-distributore-sacchetti-dog-pick-up-tric136_2.jpg?v=637454598168300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/229488/trixie-pick-up-cane-distributore-plastica-sacchetti.jpg?v=637454817787230000"
+    ],
+    "price": {
+      "current": 5.25,
+      "original": 5.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 262.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3896",
+        "sku": "3896",
+        "gtin": "10058425",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-pick-up-cane-distributore-plastica-sacchetti-3896/p",
+        "price": {
+          "current": 5.25,
+          "original": 5.25,
+          "pricePerUnit": {
+            "value": 262.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "trixie-pick-up-cane-distributore-plastica-sacchetti-3896p",
+        "name": "Distributore Sacchetti in Plastica",
+        "path": "/trixie-pick-up-cane-distributore-plastica-sacchetti-3896/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3799",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "4188",
+    "sku": "4188",
+    "gtin": "10078483",
+    "title": "Sacchetti Igienici Mix Color",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276041/Expecial-Dog-sacchetti-igienici_MISTI-6x20.jpg?v=638016735072300000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4188",
+        "sku": "4188",
+        "gtin": "10078483",
+        "title": "6X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-mix-color-6x20-4188p",
+        "name": "Sacchetti Igienici Mix Color",
+        "path": "/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4083",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "4276",
+    "sku": "4276",
+    "gtin": "10118318",
+    "title": "Sacchetti Igienici Con Maniglie",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-con-maniglie-80-pz-4276/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207651/Lovedi-sacchetti-igienici-con-maniglia-80pz.jpg?v=637413960118630000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4276",
+        "sku": "4276",
+        "gtin": "10118318",
+        "title": "80 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-con-maniglie-80-pz-4276/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-con-maniglie-80-pz-4276p",
+        "name": "Sacchetti Igienici Con Maniglie",
+        "path": "/lovedi-cane-sacchetti-igienici-con-maniglie-80-pz-4276/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4166",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "5082",
+    "sku": "5082",
+    "gtin": "10079427",
+    "title": "Dispenser Sacchetti City Bag Con Rotolo",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/tre-ponti-cane-dispenser-city-bag-con-rotolo-5082/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280507/tre-ponti-cane-dispenser-city-bag-con-rotolo.jpg?v=638115448754930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280508/tre-ponti-cane-dispenser-city-bag-con-rotolo--2-.jpg?v=638115448819030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280509/tre-ponti-cane-dispenser-city-bag-con-rotolo--1-.jpg?v=638115448901930000"
+    ],
+    "price": {
+      "current": 1.13,
+      "original": 2.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 56.49999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5082",
+        "sku": "5082",
+        "gtin": "10079427",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tre-ponti-cane-dispenser-city-bag-con-rotolo-5082/p",
+        "price": {
+          "current": 1.13,
+          "original": 2.25,
+          "pricePerUnit": {
+            "value": 56.49999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "tre-ponti-cane-dispenser-city-bag-con-rotolo-5082p",
+        "name": "Dispenser Sacchetti City Bag Con Rotolo",
+        "path": "/tre-ponti-cane-dispenser-city-bag-con-rotolo-5082/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "4961",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "6030",
+    "sku": "6030",
+    "gtin": "10129485",
+    "title": "Sacchetti Igienici 360 Pezzi Maxi Scorta",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274629/lovedi-sacchettini-igienici-maxi.jpg?v=637958208916830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274628/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi.jpg?v=637958208807200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274630/lovedi-sacchettini-igienici-maxi-dettagli.jpg?v=637958209155700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274631/lovedi-sacchettini-igienici-maxi-dettagli-2.jpg?v=637958209473100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274632/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-scatola.jpg?v=637958209616270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274633/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-dettagli.jpg?v=637958209708600000"
+    ],
+    "price": {
+      "current": 10.3,
+      "original": 10.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 515,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6030",
+        "sku": "6030",
+        "gtin": "10129485",
+        "title": "360 SACCHETTI",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+        "price": {
+          "current": 10.3,
+          "original": 10.3,
+          "pricePerUnit": {
+            "value": 515,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030p",
+        "name": "Sacchetti Igienici 360 Pezzi Maxi Scorta",
+        "path": "/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5882",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "9354",
+    "sku": "9354",
+    "gtin": "10118317",
+    "title": "Dog Sacchetti Igienici 100 Per Cento Bio Mais",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208246/Perfect-Dog-sacchetti-igienici-100--Bio-Mais-4x12.jpg?v=638772129976800000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9354",
+        "sku": "9354",
+        "gtin": "10118317",
+        "title": "4X10",
+        "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354p",
+        "name": "Dog Sacchetti Igienici 100 Per Cento Bio Mais",
+        "path": "/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9172",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "10435",
+    "sku": "10435",
+    "gtin": "10130798",
+    "title": "Bottiglietta Azzurra Bon Ton Pi Lava Pipì",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-verde-10435/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314120/Bottiglietta-Azzurra-Bon-Ton-Pi-Lava-Pipi-10130798.jpg?v=638720128975700000"
+    ],
+    "price": {
+      "current": 9.45,
+      "original": 9.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 472.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10435",
+        "sku": "10435",
+        "gtin": "10130798",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-verde-10435/p",
+        "price": {
+          "current": 9.45,
+          "original": 9.45,
+          "pricePerUnit": {
+            "value": 472.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-pi-bottiglietta-lava-pipi-verde-10435p",
+        "name": "Bottiglietta Azzurra Bon Ton Pi Lava Pipì",
+        "path": "/bon-ton-pi-bottiglietta-lava-pipi-verde-10435/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10029",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "10439",
+    "sku": "10439",
+    "gtin": "10130797",
+    "title": "Bottiglietta Rosa lava pipi",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-rosa-10439/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254437/bon-ton-bottigliette-lava-pipi-cani.jpg?v=637551117522970000"
+    ],
+    "price": {
+      "current": 9.45,
+      "original": 9.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 472.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10439",
+        "sku": "10439",
+        "gtin": "10130797",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-rosa-10439/p",
+        "price": {
+          "current": 9.45,
+          "original": 9.45,
+          "pricePerUnit": {
+            "value": 472.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-pi-bottiglietta-lava-pipi-rosa-10439p",
+        "name": "Bottiglietta Rosa lava pipi",
+        "path": "/bon-ton-pi-bottiglietta-lava-pipi-rosa-10439/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10033",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "10441",
+    "sku": "10441",
+    "gtin": "10130795",
+    "title": "Acquamare Bottiglietta lava pipi",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-acquamare-10441/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254434/bon-ton-bottiglietta-lava-pipi-cane.jpg?v=637551065171470000"
+    ],
+    "price": {
+      "current": 9.45,
+      "original": 9.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 472.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10441",
+        "sku": "10441",
+        "gtin": "10130795",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-acquamare-10441/p",
+        "price": {
+          "current": 9.45,
+          "original": 9.45,
+          "pricePerUnit": {
+            "value": 472.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-pi-bottiglietta-lava-pipi-acquamare-10441p",
+        "name": "Acquamare Bottiglietta lava pipi",
+        "path": "/bon-ton-pi-bottiglietta-lava-pipi-acquamare-10441/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10035",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "10443",
+    "sku": "10443",
+    "gtin": "10130796",
+    "title": "Bottiglietta Arancione  lava pipi",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-arancione-10443/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254436/bon-ton-bottiglietta-lava-pipi-cani.jpg?v=637551115851600000"
+    ],
+    "price": {
+      "current": 9.45,
+      "original": 9.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 472.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "10443",
+        "sku": "10443",
+        "gtin": "10130796",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/bon-ton-pi-bottiglietta-lava-pipi-arancione-10443/p",
+        "price": {
+          "current": 9.45,
+          "original": 9.45,
+          "pricePerUnit": {
+            "value": 472.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "bon-ton-pi-bottiglietta-lava-pipi-arancione-10443p",
+        "name": "Bottiglietta Arancione  lava pipi",
+        "path": "/bon-ton-pi-bottiglietta-lava-pipi-arancione-10443/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10037",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "11618",
+    "sku": "11618",
+    "gtin": "00010176",
+    "title": "Pinza Nippy Verde C/24 Sacchetti",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/pinza-nippy-verde-c-24-sacchetti-11618/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306440/pinza-nippy-verde-c24-sacchetti-00010176---1-.jpg?v=638616634500770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306441/pinza-nippy-verde-c24-sacchetti-00010176---2-.jpg?v=638616634658500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306442/pinza-nippy-verde-c24-sacchetti-00010176---3-.jpg?v=638616634831000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306443/pinza-nippy-verde-c24-sacchetti-00010176---4-.jpg?v=638616634959630000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11618",
+        "sku": "11618",
+        "gtin": "00010176",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pinza-nippy-verde-c-24-sacchetti-11618/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "pinza-nippy-verde-c-24-sacchetti-11618p",
+        "name": "Pinza Nippy Verde C/24 Sacchetti",
+        "path": "/pinza-nippy-verde-c-24-sacchetti-11618/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11644",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "11620",
+    "sku": "11620",
+    "gtin": "00010177",
+    "title": "Ferplast Sacchetto Igenico Nippy L270",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/sacchetto-igenico-nippy-l270-11620/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306439/ferplast-sacchetto-igienico-nippy-l270-00010177.jpg?v=638616633389230000"
+    ],
+    "price": {
+      "current": 3.69,
+      "original": 3.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 184.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11620",
+        "sku": "11620",
+        "gtin": "00010177",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/sacchetto-igenico-nippy-l270-11620/p",
+        "price": {
+          "current": 3.69,
+          "original": 3.69,
+          "pricePerUnit": {
+            "value": 184.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "sacchetto-igenico-nippy-l270-11620p",
+        "name": "Ferplast Sacchetto Igenico Nippy L270",
+        "path": "/sacchetto-igenico-nippy-l270-11620/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11646",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "14144",
+    "sku": "14144",
+    "gtin": "10139959",
+    "title": "Yes! Sacchetti Igienici",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-sacchetti-igienici-14144/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276047/yes-sacchettini-igienici-rosso.jpg?v=638016747195170000"
+    ],
+    "price": {
+      "current": 2.2,
+      "original": 2.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 110,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14144",
+        "sku": "14144",
+        "gtin": "10139959",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/yes-sacchetti-igienici-14144/p",
+        "price": {
+          "current": 2.2,
+          "original": 2.2,
+          "pricePerUnit": {
+            "value": 110,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "yes-sacchetti-igienici-14144p",
+        "name": "Yes! Sacchetti Igienici",
+        "path": "/yes-sacchetti-igienici-14144/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16281",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "14191",
+    "sku": "14191",
+    "gtin": "10140008",
+    "title": "Lovedì Sacchetti Igienici Neri",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-sacchetti-igienici-neri-14191/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276049/lovedi-sacchetti-igienici-neri.jpg?v=638016749170600000"
+    ],
+    "price": {
+      "current": 2.49,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 124.50000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14191",
+        "sku": "14191",
+        "gtin": "10140008",
+        "title": "3X12",
+        "url": "https://www.arcaplanet.it/lovedi-sacchetti-igienici-neri-14191/p",
+        "price": {
+          "current": 2.49,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 124.50000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-sacchetti-igienici-neri-14191p",
+        "name": "Lovedì Sacchetti Igienici Neri",
+        "path": "/lovedi-sacchetti-igienici-neri-14191/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16328",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "15343",
+    "sku": "15343",
+    "gtin": "10118587",
+    "title": "Ricariche di Sacchettini Biodegradabili Lilla",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/united-pets-ricariche-sacchettini-biodegradabili-lilla-15343/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272671/united-pets-sacchettini-biodegradabili.jpg?v=637907902904470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272672/united-pets-3-rotoli-ricariche-pack.jpg?v=637907905834900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272673/united-pets-3-rotoli-ricariche.jpg?v=637907905951500000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 237.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15343",
+        "sku": "15343",
+        "gtin": "10118587",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/united-pets-ricariche-sacchettini-biodegradabili-lilla-15343/p",
+        "price": {
+          "current": 4.75,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 237.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "united-pets-ricariche-sacchettini-biodegradabili-lilla-15343p",
+        "name": "Ricariche di Sacchettini Biodegradabili Lilla",
+        "path": "/united-pets-ricariche-sacchettini-biodegradabili-lilla-15343/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17480",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "16541",
+    "sku": "16541",
+    "gtin": "10150488",
+    "title": "Fit and Fun Dog Sacchetti Igienici",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-sacchetti-igienici-16541/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285398/0378da28616d24567a92d6d8c605813739af7eb1_652b77c129aaeb3cf69e62a985311d03c5f12626.jpg?v=638194952247330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318672/fit-and-fun-sacchetti-igienici-10150488.jpg.jpg?v=638772994612330000"
+    ],
+    "price": {
+      "current": 11.04,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 552,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16541",
+        "sku": "16541",
+        "gtin": "10150488",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-sacchetti-igienici-16541/p",
+        "price": {
+          "current": 11.04,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 552,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-sacchetti-igienici-16541p",
+        "name": "Fit and Fun Dog Sacchetti Igienici",
+        "path": "/fit-and-fun-sacchetti-igienici-16541/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18664",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "18562",
+    "sku": "18562",
+    "gtin": "10151736",
+    "title": "Take Care Sacchetti Igienici Blue Breeze",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-sacchetti-igienici-blue-breeze-18562/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284854/8b4f62dd09c68dd21d826e31cb1df49300561654_92c8e6b3ad5f293e2f19e53d6c90e3b14ebcef02--1-.jpg?v=638188061031370000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18562",
+        "sku": "18562",
+        "gtin": "10151736",
+        "title": "4X20",
+        "url": "https://www.arcaplanet.it/take-care-sacchetti-igienici-blue-breeze-18562/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "take-care-sacchetti-igienici-blue-breeze-18562p",
+        "name": "Take Care Sacchetti Igienici Blue Breeze",
+        "path": "/take-care-sacchetti-igienici-blue-breeze-18562/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20680",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "18563",
+    "sku": "18563",
+    "gtin": "10151737",
+    "title": "Take Care Sacchetti Igienici Blu Breeze",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-sacchetti-igienici-blu-breeze-18563/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286280/0031e7303f72f37fa7ac1750a4647413433045b5_dde533e1fb3bf6d94c8d8c2739e5fe4b83cb729c--1-.jpg?v=638205287620000000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 424.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18563",
+        "sku": "18563",
+        "gtin": "10151737",
+        "title": "8X20",
+        "url": "https://www.arcaplanet.it/take-care-sacchetti-igienici-blu-breeze-18563/p",
+        "price": {
+          "current": 8.49,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 424.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "take-care-sacchetti-igienici-blu-breeze-18563p",
+        "name": "Take Care Sacchetti Igienici Blu Breeze",
+        "path": "/take-care-sacchetti-igienici-blu-breeze-18563/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20681",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "18810",
+    "sku": "18810",
+    "gtin": "10150592",
+    "title": "Fit and Fun Rotoli di Sacchetti Igienici",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-rotoli-di-sacchetti-igienici-18810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289466/1291895_1_1.jpg?v=638296092731770000"
+    ],
+    "price": {
+      "current": 0.67,
+      "original": 0.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18810",
+        "sku": "18810",
+        "gtin": "10150592",
+        "title": "1PZX20",
+        "url": "https://www.arcaplanet.it/fit-and-fun-rotoli-di-sacchetti-igienici-18810/p",
+        "price": {
+          "current": 0.67,
+          "original": 0.79,
+          "pricePerUnit": {
+            "value": 33.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-rotoli-di-sacchetti-igienici-18810p",
+        "name": "Fit and Fun Rotoli di Sacchetti Igienici",
+        "path": "/fit-and-fun-rotoli-di-sacchetti-igienici-18810/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21338",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "21280",
+    "sku": "21280",
+    "gtin": "10168875",
+    "title": "Sacchetti Igienici per Cane",
+    "brand": "START",
+    "url": "https://www.arcaplanet.it/sacchetti-igienici-per-cane-21280/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288302/sacchetti-igienici-nero.jpg?v=638243122340670000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21280",
+        "sku": "21280",
+        "gtin": "10168875",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/sacchetti-igienici-per-cane-21280/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "sacchetti-igienici-per-cane-21280p",
+        "name": "Sacchetti Igienici per Cane",
+        "path": "/sacchetti-igienici-per-cane-21280/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "21897",
+    "sku": "21897",
+    "gtin": "10154929",
+    "title": "Take Care Sacchettini Igienici",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-sacchettini-igienici-21897/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301894/Take-Care-Sacchettini-Igienici-10154929.jpg?v=638526674959870000"
+    ],
+    "price": {
+      "current": 0.79,
+      "original": 0.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 39.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21897",
+        "sku": "21897",
+        "gtin": "10154929",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/take-care-sacchettini-igienici-21897/p",
+        "price": {
+          "current": 0.79,
+          "original": 0.79,
+          "pricePerUnit": {
+            "value": 39.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "take-care-sacchettini-igienici-21897p",
+        "name": "Take Care Sacchettini Igienici",
+        "path": "/take-care-sacchettini-igienici-21897/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23985",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "22573",
+    "sku": "22573",
+    "gtin": "10170152",
+    "title": "Trixie Sacchetti Igienici Cane Natale",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-sacchetti-igienici-cane-natale-22573/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290285/TX-SACCHETTI-IGIENICI-CANE-NATALE-10170152.jpg?v=638333797347730000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22573",
+        "sku": "22573",
+        "gtin": "10170152",
+        "title": "8X20PZ",
+        "url": "https://www.arcaplanet.it/trixie-sacchetti-igienici-cane-natale-22573/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "trixie-sacchetti-igienici-cane-natale-22573p",
+        "name": "Trixie Sacchetti Igienici Cane Natale",
+        "path": "/trixie-sacchetti-igienici-cane-natale-22573/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24599",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "25876",
+    "sku": "25876",
+    "gtin": "1000000000392",
+    "title": "Kit Risparmio Lovedi 720 Sacchetti Igienici Maxi Scorta",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x360-lovedi-sacchetti-igienici-maxi-scorta-25876/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312391/kit-risparmio-2x360-lovedi-sacchetti-igienici-maxi-scorta-1000000000392-main.jpg?v=638689070339300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312027/lovedi-sacchettini-igienici-maxi-scorta-360-pezzix2.jpg?v=638683819357430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312028/lovedi-sacchettini-igienici-maxi-scorta-.png?v=638683819729270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312029/lovedi-sacchettini-igienici-maxi.jpg?v=638683819866970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312030/lovedi-sacchettini-igienici-maxi-dettagli.jpg?v=638683820009700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312031/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-scatola_.jpg?v=638683820190700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312032/lovedi-sacchettini-igienici-maxi-scorta.jpg?v=638683820324230000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 20.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 424.74999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25876",
+        "sku": "25876",
+        "gtin": "1000000000392",
+        "title": "720",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x360-lovedi-sacchetti-igienici-maxi-scorta-25876/p",
+        "price": {
+          "current": 16.99,
+          "original": 20.6,
+          "pricePerUnit": {
+            "value": 424.74999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-2x360-lovedi-sacchetti-igienici-maxi-scorta-25876p",
+        "name": "Kit Risparmio Lovedi 720 Sacchetti Igienici Maxi Scorta",
+        "path": "/kit-risparmio-2x360-lovedi-sacchetti-igienici-maxi-scorta-25876/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27867",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "25877",
+    "sku": "25877",
+    "gtin": "1000000000393",
+    "title": "Kit Risparmio Lovedi 1080 Sacchetti Igienici Maxi Scorta",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x360-lovedi-sacchetti-igienici-maxi-scorta-25877/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312392/kit-risparmio-3x360-lovedi-sacchetti-igienici-maxi-scorta-1000000000393-main.jpg?v=638689071221170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312033/lovedi-sacchettini-igienici-maxi-scorta-x3.jpg?v=638683820555870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312034/lovedi-sacchettini-igienici-maxi-scorta-.png?v=638683820647270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312035/lovedi-sacchettini-igienici-maxi.jpg?v=638683820769130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312036/lovedi-sacchettini-igienici-maxi-dettagli.jpg?v=638683820882330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312037/lovedi-sacchettini-igienici-maxi-dettagli-2.jpg?v=638683820990300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312038/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-scatola_.jpg?v=638683821114070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312039/lovedi-sacchettini-igienici-maxi-scorta.jpg?v=638683821231400000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 30.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.8333333333333,
+        "unit": "none"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25877",
+        "sku": "25877",
+        "gtin": "1000000000393",
+        "title": "1080",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x360-lovedi-sacchetti-igienici-maxi-scorta-25877/p",
+        "price": {
+          "current": 23.99,
+          "original": 30.9,
+          "pricePerUnit": {
+            "value": 399.8333333333333,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "kit-risparmio-3x360-lovedi-sacchetti-igienici-maxi-scorta-25877p",
+        "name": "Kit Risparmio Lovedi 1080 Sacchetti Igienici Maxi Scorta",
+        "path": "/kit-risparmio-3x360-lovedi-sacchetti-igienici-maxi-scorta-25877/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27868",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.341Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "26332",
+    "sku": "26332",
+    "gtin": "10177437",
+    "title": "Petkit Sacchetti per Rifiuti Multicolor",
+    "brand": "PETKIT",
+    "url": "https://www.arcaplanet.it/petkit-sacchetti-per-rifiuti-multicolor-26332/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313765/Petkit-Sacchetti-per-Rifiuti-Multicolor-10177437-1.jpg?v=638712341589630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313766/Petkit-Sacchetti-per-Rifiuti-Multicolor-10177437-2.jpg?v=638781501172900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313767/Petkit-Sacchetti-per-Rifiuti-Multicolor-10177437-3.jpg?v=638781501172900000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26332",
+        "sku": "26332",
+        "gtin": "10177437",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/petkit-sacchetti-per-rifiuti-multicolor-26332/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "petkit-sacchetti-per-rifiuti-multicolor-26332p",
+        "name": "Petkit Sacchetti per Rifiuti Multicolor",
+        "path": "/petkit-sacchetti-per-rifiuti-multicolor-26332/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "28323",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  },
+  {
+    "id": "26333",
+    "sku": "26333",
+    "gtin": "10177438",
+    "title": "Petkit Sacchetti Igienici per Pura Max 2 e Purobot Max Pro",
+    "brand": "PETKIT",
+    "url": "https://www.arcaplanet.it/petkit-sacchetti-igienici-per-pura-max-2-e-purobot-max-pro-26333/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314140/Petkit-Sacchetti-Igienici-per-Pura-Max-2-e-Purobot-Max-Pro-10177438-1.jpg?v=638720312522330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314141/Petkit-Sacchetti-Igienici-per-Pura-Max-2-e-Purobot-Max-Pro-10177438-2.jpg?v=638720312955670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314142/Petkit-Sacchetti-Igienici-per-Pura-Max-2-e-Purobot-Max-Pro-10177438-3.jpg?v=638720313032830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314143/Petkit-Sacchetti-Igienici-per-Pura-Max-2-e-Purobot-Max-Pro-10177438-4.jpg?v=638720313101100000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26333",
+        "sku": "26333",
+        "gtin": "10177438",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/petkit-sacchetti-igienici-per-pura-max-2-e-purobot-max-pro-26333/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "petkit-sacchetti-igienici-per-pura-max-2-e-purobot-max-pro-26333p",
+        "name": "Petkit Sacchetti Igienici per Pura Max 2 e Purobot Max Pro",
+        "path": "/petkit-sacchetti-igienici-per-pura-max-2-e-purobot-max-pro-26333/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28324",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:42:46.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/sacchetti/igienici/"
+  }
+]

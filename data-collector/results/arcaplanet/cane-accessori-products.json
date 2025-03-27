@@ -1,0 +1,4197 @@
+[
+  {
+    "id": "511",
+    "sku": "511",
+    "gtin": "10129059",
+    "title": "Cardatore per Cani Perfect Grooming",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-511/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253310/cardatore-large.jpg?v=637513990342030000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 824.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "511",
+        "sku": "511",
+        "gtin": "10129059",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-511/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 824.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/cane/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-cardatore-511p",
+        "name": "Cardatore per Cani Perfect Grooming",
+        "path": "/perfect-grooming-cane-cardatore-511/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "469",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "626",
+    "sku": "626",
+    "gtin": "00013422",
+    "title": "Mutandina Igenica per cani",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/mutandina-igienica-per-cani-in-calore-626/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289743/Mutandina_Igienica_Pack--1-.jpg?v=638303641408070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/217058/https---www.arcaplanet.it-media-catalog-product--m-u-mutandina-igienica-doggy-pants-croc183_2.jpg?v=637454584547170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/228778/sanicat-gatto-lettiera-clumping-marsiglia.jpg?v=637454809456500000"
+    ],
+    "price": {
+      "current": 9.2,
+      "original": 9.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 459.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "626",
+        "sku": "626",
+        "gtin": "00013422",
+        "title": "TG.30",
+        "url": "https://www.arcaplanet.it/mutandina-igienica-per-cani-in-calore-626/p",
+        "price": {
+          "current": 9.2,
+          "original": 9.2,
+          "pricePerUnit": {
+            "value": 459.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.30"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentointimo",
+        "name": "Intimo",
+        "path": "/cane/accessori/abbigliamento/intimo/",
+        "level": 5
+      },
+      {
+        "id": "mutandina-igienica-per-cani-in-calore-626p",
+        "name": "Mutandina Igenica per cani",
+        "path": "/mutandina-igienica-per-cani-in-calore-626/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "2585",
+    "sku": "2585",
+    "gtin": "10121064",
+    "title": "Ciotola Pieghevole con Gancio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254547/lovedi-ciotola-pieghevole-arancione.jpg?v=637552782746270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254548/lovedi-ciotola-pieghevole-cane-che-beve.jpg?v=637552782839200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254549/lovedi-ciotola-pieghevole-verde.jpg?v=637552782930400000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2585",
+        "sku": "2585",
+        "gtin": "10121064",
+        "title": "237ML",
+        "url": "https://www.arcaplanet.it/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "237ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-ciotola-pieghevole-con-gancio-cane-2585p",
+        "name": "Ciotola Pieghevole con Gancio",
+        "path": "/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2504",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "2277",
+    "sku": "2277",
+    "gtin": "10111472",
+    "title": "Scarponcini per Cani Outdoor",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-scarponcini-cane-outdoor-4tg-2277/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281148/camon-scarponcini-cane-outdoor.jpg?v=638126597096030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281153/camon-scarponcini-cane-outdoor-dettaglio.jpg?v=638126597897900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281155/camon-scarponcini-cane-outdoor-guida-alle-taglie.jpg?v=638126598216270000"
+    ],
+    "price": {
+      "current": 21.24,
+      "original": 23.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1062,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2277",
+        "sku": "2277",
+        "gtin": "10111472",
+        "title": "TG.2",
+        "url": "https://www.arcaplanet.it/camon-scarponcini-cane-outdoor-4tg-2277/p",
+        "price": {
+          "current": 21.24,
+          "original": 23.6,
+          "pricePerUnit": {
+            "value": 1062,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TG.2"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "camon-scarponcini-cane-outdoor-4tg-2277p",
+        "name": "Scarponcini per Cani Outdoor",
+        "path": "/camon-scarponcini-cane-outdoor-4tg-2277/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2924",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "3819",
+    "sku": "3819",
+    "gtin": "10129079",
+    "title": "Spazzola Doppia per Cani",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-spazzola-doppia-3819/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253313/spazzola-doppia-small.jpg?v=637514025355200000"
+    ],
+    "price": {
+      "current": 16.9,
+      "original": 16.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 844.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3819",
+        "sku": "3819",
+        "gtin": "10129079",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-spazzola-doppia-3819/p",
+        "price": {
+          "current": 16.9,
+          "original": 16.9,
+          "pricePerUnit": {
+            "value": 844.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-spazzola-doppia-3819p",
+        "name": "Spazzola Doppia per Cani",
+        "path": "/perfect-grooming-cane-spazzola-doppia-3819/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3722",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "4241",
+    "sku": "4241",
+    "gtin": "10130010",
+    "title": "Lovedì Spazzola Adesiva Antibatterica 60 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254392/lovedi-spazzola-adesiva-antibatterica-60-stappi-cane.jpg?v=637550216776870000"
+    ],
+    "price": {
+      "current": 6.3,
+      "original": 6.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 315,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4241",
+        "sku": "4241",
+        "gtin": "10130010",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+        "price": {
+          "current": 6.3,
+          "original": 6.3,
+          "pricePerUnit": {
+            "value": 315,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241p",
+        "name": "Lovedì Spazzola Adesiva Antibatterica 60 Strappi",
+        "path": "/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4132",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "4315",
+    "sku": "4315",
+    "gtin": "10058723",
+    "title": "Spazzola Furminator per Cane a Pelo Corto",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-corto-4315/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296921/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-1.jpg?v=638457696049930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296922/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-2.jpg?v=638457696204470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296923/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-3.jpg?v=638457696301600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296924/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-4.jpg?v=638457696494900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296925/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-5.jpg?v=638457696678170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296926/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-6.jpg?v=638457696936430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296927/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-7.jpg?v=638457697118400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296928/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-8.jpg?v=638457697294970000"
+    ],
+    "price": {
+      "current": 24.14,
+      "original": 34.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1207,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4315",
+        "sku": "4315",
+        "gtin": "10058723",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-corto-4315/p",
+        "price": {
+          "current": 24.14,
+          "original": 34.49,
+          "pricePerUnit": {
+            "value": 1207,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "furminator-cane-a-pelo-corto-4315p",
+        "name": "Spazzola Furminator per Cane a Pelo Corto",
+        "path": "/furminator-cane-a-pelo-corto-4315/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5285",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "6267",
+    "sku": "6267",
+    "gtin": "10111238",
+    "title": "Ciotola Ceramica Petrolio Pets Home",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225475/trixie-cane-ciotola-ceramica-pets-home-petrolio.jpg?v=637454752810870000"
+    ],
+    "price": {
+      "current": 5,
+      "original": 6.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 250,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6267",
+        "sku": "6267",
+        "gtin": "10111238",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+        "price": {
+          "current": 5,
+          "original": 6.25,
+          "pricePerUnit": {
+            "value": 250,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-ciotola-ceramica-pets-home-petrolio-6267p",
+        "name": "Ciotola Ceramica Petrolio Pets Home",
+        "path": "/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6113",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "6269",
+    "sku": "6269",
+    "gtin": "10111241",
+    "title": "Ciotola Ceramica Tortora",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225483/trixie-cane-ciotola-ceramica-pets-home-tortora.jpg?v=637454752884830000"
+    ],
+    "price": {
+      "current": 6.25,
+      "original": 6.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 312.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6269",
+        "sku": "6269",
+        "gtin": "10111241",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+        "price": {
+          "current": 6.25,
+          "original": 6.25,
+          "pricePerUnit": {
+            "value": 312.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-ciotola-ceramica-pets-home-tortora-6269p",
+        "name": "Ciotola Ceramica Tortora",
+        "path": "/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6115",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "9096",
+    "sku": "9096",
+    "gtin": "10130004",
+    "title": "Paletta Per Crocchette Cane",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-cane-paletta-per-crocchette-verde-9096/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227406/yes-cane-paletta-per-crocchette-verde.jpg?v=637454792748200000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9096",
+        "sku": "9096",
+        "gtin": "10130004",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/yes-cane-paletta-per-crocchette-verde-9096/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes-cane-paletta-per-crocchette-verde-9096p",
+        "name": "Paletta Per Crocchette Cane",
+        "path": "/yes-cane-paletta-per-crocchette-verde-9096/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8919",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "9130",
+    "sku": "9130",
+    "gtin": "10110648",
+    "title": "Yes! Gnammy Ciotola in Acciaio 20CM",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227039/yes-gnammy-cane-ciotola-acciaio-1900ml.jpg?v=637454789096030000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9130",
+        "sku": "9130",
+        "gtin": "10110648",
+        "title": "1900ML",
+        "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.9L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130p",
+        "name": "Yes! Gnammy Ciotola in Acciaio 20CM",
+        "path": "/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8952",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "9190",
+    "sku": "9190",
+    "gtin": "10110662",
+    "title": "Alzaciotole Stand Up Duplex",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/205473/Alzaciotole-Yes--Stand-Up-Duplex-20-cm.jpg?v=637413928610230000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9190",
+        "sku": "9190",
+        "gtin": "10110662",
+        "title": "CM.20",
+        "url": "https://www.arcaplanet.it/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.20"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--stand-up-cane-alzaciotole-duplex-cm--20-9190p",
+        "name": "Alzaciotole Stand Up Duplex",
+        "path": "/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9010",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "11440",
+    "sku": "11440",
+    "gtin": "10130533",
+    "title": "Cappotto Impermeabile Montreal Grigio",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262475/yes-cappotto-impermeabile-montreal-grigio.jpg?v=637672258747400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263808/guida-taglia-cappottini.jpg?v=637691332244070000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "11440",
+        "sku": "11440",
+        "gtin": "10130533",
+        "title": "CM.35",
+        "url": "https://www.arcaplanet.it/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-cappottino-impermeabile-montreal-grigio-11440p",
+        "name": "Cappotto Impermeabile Montreal Grigio",
+        "path": "/yes-cappottino-impermeabile-montreal-grigio-11440/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11034",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.121Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "11529",
+    "sku": "11529",
+    "gtin": "10130622",
+    "title": "Maglioncino Dolcevita Stoccolma Nero",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261710/yes-maglioncino-dolcevita-stoccolma-nero-cane.jpg?v=637654116839530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261866/yes-maglioncino-dolcevita-stoccolma-nero.jpg?v=637654745847730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263815/guida-taglia-cappottini.jpg?v=637691336285400000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11529",
+        "sku": "11529",
+        "gtin": "10130622",
+        "title": "CM.25",
+        "url": "https://www.arcaplanet.it/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.25"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocappottini",
+        "name": "Cappottini",
+        "path": "/cane/accessori/abbigliamento/cappottini/",
+        "level": 5
+      },
+      {
+        "id": "yes-maglioncino-dolcevita-stoccolma-nero-11529p",
+        "name": "Maglioncino Dolcevita Stoccolma Nero",
+        "path": "/yes-maglioncino-dolcevita-stoccolma-nero-11529/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11123",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "11782",
+    "sku": "11782",
+    "gtin": "10058787",
+    "title": "Calzini per Cani Fantasia Cuori",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-calze-pet-rosse-3-cuori-11782/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221114/camon-calze-pet-rosse-3-cuori-tg-s.jpg?v=638756488516470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231005/camon-calze-pet-rosse-3-cuori-tg-s.jpg?v=638756488516470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253529/Cattura.png?v=638756488516630000"
+    ],
+    "price": {
+      "current": 3.28,
+      "original": 6.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 164,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11782",
+        "sku": "11782",
+        "gtin": "10058787",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/camon-calze-pet-rosse-3-cuori-11782/p",
+        "price": {
+          "current": 3.28,
+          "original": 6.55,
+          "pricePerUnit": {
+            "value": 164,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "camon-calze-pet-rosse-3-cuori-11782p",
+        "name": "Calzini per Cani Fantasia Cuori",
+        "path": "/camon-calze-pet-rosse-3-cuori-11782/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "13398",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "4292",
+    "sku": "4292",
+    "gtin": "10129070",
+    "title": "Guanto Toglipelo per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-guanto-toglipelo-grooming-4292/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266580/perfect-guanto-toglipelo-grooming-pack.jpg?v=637782647329830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266581/perfect-guanto-toglipelo-grooming.jpg?v=637782647414800000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4292",
+        "sku": "4292",
+        "gtin": "10129070",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/perfect-guanto-toglipelo-grooming-4292/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaguanti",
+        "name": "Guanti",
+        "path": "/cane/accessori/toelettatura/guanti/",
+        "level": 5
+      },
+      {
+        "id": "perfect-guanto-toglipelo-grooming-4292p",
+        "name": "Guanto Toglipelo per Cane",
+        "path": "/perfect-guanto-toglipelo-grooming-4292/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14608",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "13057",
+    "sku": "13057",
+    "gtin": "00044126",
+    "title": "Borsa porta Snack",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271099/trixie-borsa-porta-snack-grigia.jpg?v=637862228322630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271100/trixie-borsa-porta-snack-rosa.jpg?v=637862228434700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271102/trixie-borsa-porta-snack-verde.jpg?v=637862372582600000"
+    ],
+    "price": {
+      "current": 4.55,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 227.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13057",
+        "sku": "13057",
+        "gtin": "00044126",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+        "price": {
+          "current": 4.55,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 227.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "borsa-porta-snack-13057p",
+        "name": "Borsa porta Snack",
+        "path": "/borsa-porta-snack-13057/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "14171",
+    "sku": "14171",
+    "gtin": "10139970",
+    "title": "Bidone Porta Crocchette Happy Kibble",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265647/yes-bidone-porta-crocchette-happy-kibble-s.jpg?v=637734284037100000"
+    ],
+    "price": {
+      "current": 21.49,
+      "original": 21.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1074.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "14171",
+        "sku": "14171",
+        "gtin": "10139970",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "price": {
+          "current": 21.49,
+          "original": 21.49,
+          "pricePerUnit": {
+            "value": 1074.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "yes-bidone-porta-crocchette-happy-kibble-14171p",
+        "name": "Bidone Porta Crocchette Happy Kibble",
+        "path": "/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16308",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "14840",
+    "sku": "14840",
+    "gtin": "10113144",
+    "title": "Scarpetta Protezione Zampe Cane Walker",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267378/scarpetta-protezione-zampe-cane-walker.jpg?v=637810516054200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267379/scarpetta-protezione-zampe-cane-walker1.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267380/scarpetta-protezione-zampe-cane-walker2.jpg?v=638762474684370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267381/scarpetta-protezione-zampe-cane-walker3.jpg?v=638762474684370000"
+    ],
+    "price": {
+      "current": 11.3,
+      "original": 11.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 565,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14840",
+        "sku": "14840",
+        "gtin": "10113144",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "price": {
+          "current": 11.3,
+          "original": 11.3,
+          "pricePerUnit": {
+            "value": 565,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiparafarmacia",
+        "name": "Parafarmacia",
+        "path": "/cane/antiparassitari-e-curativi/parafarmacia/",
+        "level": 4
+      },
+      {
+        "id": "trixe-scarpetta-protezione-zampe-cane-walker-14840p",
+        "name": "Scarpetta Protezione Zampe Cane Walker",
+        "path": "/trixe-scarpetta-protezione-zampe-cane-walker-14840/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16979",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "15107",
+    "sku": "15107",
+    "gtin": "10140876",
+    "title": "Impermeabile Vancouver Police Blu",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-impermeabile-vancouver-police-blu-15107/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276025/yes-impermeabile-vancouver-police-blu.jpg?v=638013409686230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276026/yes-impermeabile-vancouver-police-blu-2.jpg?v=638748758955230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276027/yes-impermeabile-vancouver-police-blu-3.jpg?v=638748758955230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276028/yes-impermeabile-vancouver-police-blu-4.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276029/yes-impermeabile-vancouver-police-blu-5.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276030/yes-impermeabile-vancouver-police-blu-6.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276031/yes-impermeabile-vancouver-police-blu-7.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276032/yes-impermeabile-vancouver-police-blu-9.jpg?v=638748758955400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276033/yes-impermeabile-vancouver-police-blu-10.jpg?v=638748758955570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276034/yes-impermeabile-vancouver-police-blu-11.jpg?v=638748758955570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276035/yes-impermeabile-vancouver-police-blu-12.jpg?v=638748758955570000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15107",
+        "sku": "15107",
+        "gtin": "10140876",
+        "title": "35CM",
+        "url": "https://www.arcaplanet.it/yes-impermeabile-vancouver-police-blu-15107/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "yes-impermeabile-vancouver-police-blu-15107p",
+        "name": "Impermeabile Vancouver Police Blu",
+        "path": "/yes-impermeabile-vancouver-police-blu-15107/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "15697",
+    "sku": "15697",
+    "gtin": "10141223",
+    "title": "Ciotola Pieghevole in Silicone Blu",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276489/pet-around-you-ciotola-pieghevole-blu.jpg?v=638034173855230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276490/pet-around-you-ciotola-pieghevole-blu-view.jpg?v=638034173930770000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15697",
+        "sku": "15697",
+        "gtin": "10141223",
+        "title": "750ML",
+        "url": "https://www.arcaplanet.it/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "750ML",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-ciotola-pieghevole-in-silicone-blu-15697p",
+        "name": "Ciotola Pieghevole in Silicone Blu",
+        "path": "/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17834",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "16288",
+    "sku": "16288",
+    "gtin": "10155800",
+    "title": "Ciotola Modern Bianca",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276599/luna-e-teo-ciotola-modern-bianca.jpg?v=638034341429300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276600/luna-e-teo-ciotola-modern-bianca-view.jpg?v=638034341796100000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16288",
+        "sku": "16288",
+        "gtin": "10155800",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-bianca-16288p",
+        "name": "Ciotola Modern Bianca",
+        "path": "/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18426",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "16291",
+    "sku": "16291",
+    "gtin": "10155801",
+    "title": "Ciotola Modern Azzurra",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276595/luna-e-teo-ciotola-modern-azzurra.jpg?v=638034309577730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276605/luna-e-teo-ciotola-modern-azzurra-view.jpg?v=638034346231900000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16291",
+        "sku": "16291",
+        "gtin": "10155801",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-azzurra-16291p",
+        "name": "Ciotola Modern Azzurra",
+        "path": "/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18429",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "16287",
+    "sku": "16287",
+    "gtin": "10155796",
+    "title": "Ciotola Modern Rosa",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-rosa-16287/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276608/luna-e-teo-ciotola-modern-rosa.jpg?v=638034354716100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276609/luna-e-teo-ciotola-modern-rosa-view.jpg?v=638034354830170000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.702702702702705,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16287",
+        "sku": "16287",
+        "gtin": "10155796",
+        "title": "370ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-rosa-16287/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 29.702702702702705,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "370ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-rosa-16287p",
+        "name": "Ciotola Modern Rosa",
+        "path": "/luna-e-teo-ciotola-modern-rosa-16287/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18432",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "18065",
+    "sku": "18065",
+    "gtin": "10154607",
+    "title": "Anione Tappetino Sottociotola Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-nero-18065/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283483/5536646ae15abcff114aee7630fe910fdfe41856_ab1192c10581c1cfa620dde18ca74b3acb607acf.jpg?v=638164518988100000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18065",
+        "sku": "18065",
+        "gtin": "10154607",
+        "title": "60X40CM",
+        "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-nero-18065/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-tappetino-sottociotola-nero-18065p",
+        "name": "Anione Tappetino Sottociotola Nero",
+        "path": "/anione-tappetino-sottociotola-nero-18065/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20183",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "18476",
+    "sku": "18476",
+    "gtin": "10148519",
+    "title": "More Ciotola in Acciaio Inox Royal",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-ciotola-in-acciaio-inox-royal-18476/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284258/7ac5181594a636c5cf5d1e03aaab262874188933_824c8173c07254d7e42073a289f3846f856ef6f4--1-.jpg?v=638175814689100000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.685714285714287,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18476",
+        "sku": "18476",
+        "gtin": "10148519",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/more-ciotola-in-acciaio-inox-royal-18476/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 25.685714285714287,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "more-ciotola-in-acciaio-inox-royal-18476p",
+        "name": "More Ciotola in Acciaio Inox Royal",
+        "path": "/more-ciotola-in-acciaio-inox-royal-18476/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20594",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "18745",
+    "sku": "18745",
+    "gtin": "10146765",
+    "title": "Anione Ciotola in Acciaio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-18745/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284133/2adfca9d5eaca65b709eec4c3b0968bf0ea24434_e60923e7b61d4883b7c6c3f0029005fb0d9ba086--1-.jpg?v=638174194767970000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18745",
+        "sku": "18745",
+        "gtin": "10146765",
+        "title": "1200ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-18745/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.2L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-18745p",
+        "name": "Anione Ciotola in Acciaio",
+        "path": "/anione-ciotola-in-acciaio-18745/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20863",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "18993",
+    "sku": "18993",
+    "gtin": "10151109",
+    "title": "Fit and Fun Spazzola per Cane",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-spazzola-per-cane-18993/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285148/28cfca381c3262e0be5edb55fd5e9a437a348884_07af2147fb95fe60790721f7a33296edf806c00c.jpg?v=638193121293270000"
+    ],
+    "price": {
+      "current": 1.5,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 75,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18993",
+        "sku": "18993",
+        "gtin": "10151109",
+        "title": "19CM",
+        "url": "https://www.arcaplanet.it/fit-and-fun-spazzola-per-cane-18993/p",
+        "price": {
+          "current": 1.5,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-spazzola-per-cane-18993p",
+        "name": "Fit and Fun Spazzola per Cane",
+        "path": "/fit-and-fun-spazzola-per-cane-18993/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21111",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "19034",
+    "sku": "19034",
+    "gtin": "10154608",
+    "title": "Anione Tappetino Sottociotola",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-19034/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283485/7fa07731c7e578c1c3790d3c51c6c7df654eb8b3_4aa0343aa70e31ffcf49f16b6d08d5b281b82449.jpg?v=638164521230970000"
+    ],
+    "price": {
+      "current": 3.59,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 179.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19034",
+        "sku": "19034",
+        "gtin": "10154608",
+        "title": "44X30CM",
+        "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-19034/p",
+        "price": {
+          "current": 3.59,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 179.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-tappetino-sottociotola-19034p",
+        "name": "Anione Tappetino Sottociotola",
+        "path": "/anione-tappetino-sottociotola-19034/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "19032",
+    "sku": "19032",
+    "gtin": "10154610",
+    "title": "Anione Ciotola in Acciaio Inox Enjoy",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285887/6fb92c7221d63574639f8635ffad4991c681260b_b30342d7a8d703bf2c97125c39f0395463bbc736.jpg?v=638200136580470000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19032",
+        "sku": "19032",
+        "gtin": "10154610",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-inox-enjoy-19032p",
+        "name": "Anione Ciotola in Acciaio Inox Enjoy",
+        "path": "/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "19035",
+    "sku": "19035",
+    "gtin": "10154611",
+    "title": "Anione Ciotola in Acciaio Inox a Pois",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285890/c731bd13de32050fe8e4e9191eb79b741f8a722a_b737cb17f88c49ff8d6b1554fa251ce11c1bebbb.jpg?v=638200140016200000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19035",
+        "sku": "19035",
+        "gtin": "10154611",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-inox-a-pois-19035p",
+        "name": "Anione Ciotola in Acciaio Inox a Pois",
+        "path": "/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21198",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "19466",
+    "sku": "19466",
+    "gtin": "10152953",
+    "title": "Anione Ciotola in Ceramica Rosa con Corona",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285885/e391eec99f1f2b4ee2f9578f0a8d956479812ec4_1fddea517145ae65dc21f5c9869e23ae9fa7cc77--1-.jpg?v=638200116003600000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19466",
+        "sku": "19466",
+        "gtin": "10152953",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSA",
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-ceramica-rosa-con-corona-19466p",
+        "name": "Anione Ciotola in Ceramica Rosa con Corona",
+        "path": "/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "19226",
+    "sku": "19226",
+    "gtin": "10150072",
+    "title": "Dogs Creek Hiker Protezione per Zampe 2PZ",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/proteggizampe-hiker-2pz-19226/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318379/proteggizampe-hiker-2pz-10150072--1-.jpg.jpg?v=638769554921570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318380/proteggizampe-hiker-2pz-10150072--2-.jpg.jpg?v=638769554921570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318381/proteggizampe-hiker-2pz-10150072--3-.jpg.jpg?v=638769554921570000"
+    ],
+    "price": {
+      "current": 17.24,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 861.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19226",
+        "sku": "19226",
+        "gtin": "10150072",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/proteggizampe-hiker-2pz-19226/p",
+        "price": {
+          "current": 17.24,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 861.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentocalzature",
+        "name": "Calzature",
+        "path": "/cane/accessori/abbigliamento/calzature/",
+        "level": 5
+      },
+      {
+        "id": "proteggizampe-hiker-2pz-19226p",
+        "name": "Dogs Creek Hiker Protezione per Zampe 2PZ",
+        "path": "/proteggizampe-hiker-2pz-19226/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21870",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "20688",
+    "sku": "20688",
+    "gtin": "10166228",
+    "title": "Spazzola Bi-setole per Cuccioli  Baby Collection",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280512/lovedi-spazzola-bisetole-per-cucciolo-baby-collection.jpg?v=638115451621930000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20688",
+        "sku": "20688",
+        "gtin": "10166228",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688p",
+        "name": "Spazzola Bi-setole per Cuccioli  Baby Collection",
+        "path": "/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22806",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "20701",
+    "sku": "20701",
+    "gtin": "10166288",
+    "title": "Spazzola Adesiva 50 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-50-strappi-20701/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287836/Basic1.jpg?v=638235383728130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287837/Basic2WBG.jpg?v=638235383880500000"
+    ],
+    "price": {
+      "current": 2.6,
+      "original": 2.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 130,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20701",
+        "sku": "20701",
+        "gtin": "10166288",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-50-strappi-20701/p",
+        "price": {
+          "current": 2.6,
+          "original": 2.6,
+          "pricePerUnit": {
+            "value": 130,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-50-strappi-20701p",
+        "name": "Spazzola Adesiva 50 Strappi",
+        "path": "/lovedi-spazzola-adesiva-50-strappi-20701/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22818",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "21363",
+    "sku": "21363",
+    "gtin": "10169016",
+    "title": "Maglioncino I Love My Family Azzurro",
+    "brand": "RECORD",
+    "url": "https://www.arcaplanet.it/maglioncino-i-love-my-family-azzurro-21363/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286663/10168998.jpg?v=638212116367970000"
+    ],
+    "price": {
+      "current": 21.6,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1080,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21363",
+        "sku": "21363",
+        "gtin": "10169016",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/maglioncino-i-love-my-family-azzurro-21363/p",
+        "price": {
+          "current": 21.6,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1080,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "maglioncino-i-love-my-family-azzurro-21363p",
+        "name": "Maglioncino I Love My Family Azzurro",
+        "path": "/maglioncino-i-love-my-family-azzurro-21363/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23473",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "21696",
+    "sku": "21696",
+    "gtin": "10169360",
+    "title": "Lovedì Capottino Impermeabile Zefiro Fucsia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290896/Lovedi-Impermeabile-Zefiro-Fucsia-10169360.jpg?v=638342525665770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290897/Lovedi-Impermeabile-Zefiro-Fucsia-10169360.jpg?v=638342525922730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/290944/Misure-del-cane.jpg?v=638342590787770000"
+    ],
+    "price": {
+      "current": 20,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1000,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21696",
+        "sku": "21696",
+        "gtin": "10169360",
+        "title": "TG.24",
+        "url": "https://www.arcaplanet.it/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+        "price": {
+          "current": 20,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1000,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-capottino-impermeabile-zefiro-fucsia-21696p",
+        "name": "Lovedì Capottino Impermeabile Zefiro Fucsia",
+        "path": "/lovedi-capottino-impermeabile-zefiro-fucsia-21696/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23785",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "21703",
+    "sku": "21703",
+    "gtin": "10169368",
+    "title": "Lovedì Impermeabile Zefiro Trapuntato Pavone",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292786/lovedi-impermeabile-zefiro-trapuntato-pavone-10169368.jpg?v=638373911145230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292787/misura-dorso-cane-10169368.jpg?v=638373911710730000"
+    ],
+    "price": {
+      "current": 20,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1000,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21703",
+        "sku": "21703",
+        "gtin": "10169368",
+        "title": "TG.24",
+        "url": "https://www.arcaplanet.it/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+        "price": {
+          "current": 20,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1000,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentoimpermeabili",
+        "name": "Impermeabili",
+        "path": "/cane/accessori/abbigliamento/impermeabili/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-impermeabile-zefiro-trapuntato-pavone-21703p",
+        "name": "Lovedì Impermeabile Zefiro Trapuntato Pavone",
+        "path": "/lovedi-impermeabile-zefiro-trapuntato-pavone-21703/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "23434",
+    "sku": "23434",
+    "gtin": "10173391",
+    "title": "Vileda Pet Pro Panno in Microfibra",
+    "brand": "VILEDA",
+    "url": "https://www.arcaplanet.it/vileda-pet-pro-panno-in-microfibra--23434/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296688/vileda-pet-pro-panno-in-microfibra-10173391.jpg?v=638455072019600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295755/vileda-pet-pro-panno-in-microfibra-10173391--1-.jpg?v=638447293376900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295756/vileda-pet-pro-panno-in-microfibra-10173391--2-.jpg?v=638447293471170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295757/vileda-pet-pro-panno-in-microfibra-10173391--3-.jpg?v=638447293755400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295758/vileda-pet-pro-panno-in-microfibra-10173391--4-.jpg?v=638447293877270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295759/vileda-pet-pro-panno-in-microfibra-10173391--5-.jpg?v=638447297524670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295760/vileda-pet-pro-panno-in-microfibra-10173391--6-.jpg?v=638447297643070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295761/vileda-pet-pro-panno-in-microfibra-10173391--7-.jpg?v=638447297750600000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 269.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23434",
+        "sku": "23434",
+        "gtin": "10173391",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/vileda-pet-pro-panno-in-microfibra--23434/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 269.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaaccappatoi",
+        "name": "Accappatoi",
+        "path": "/cane/accessori/toelettatura/accappatoi/",
+        "level": 5
+      },
+      {
+        "id": "vileda-pet-pro-panno-in-microfibra--23434p",
+        "name": "Vileda Pet Pro Panno in Microfibra",
+        "path": "/vileda-pet-pro-panno-in-microfibra--23434/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25445",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  },
+  {
+    "id": "24722",
+    "sku": "24722",
+    "gtin": "10176601",
+    "title": "Lovedì Maglioncino Cane di Natale Winter",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308650/lovedi-maglioncino-cane-di-natale-winter-10176601--1-.jpg?v=638653483427800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308651/lovedi-maglioncino-cane-di-natale-winter-10176601--2-.jpg?v=638653483570970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308652/lovedi-maglioncino-cane-di-natale-winter-10176601--3-.jpg?v=638653483694100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308653/lovedi-maglioncino-cane-di-natale-winter-10176601--4-.jpg?v=638653483783830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308654/lovedi-maglioncino-cane-di-natale-winter-10176601--5-.jpg?v=638653483855130000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24722",
+        "sku": "24722",
+        "gtin": "10176601",
+        "title": "25CM",
+        "url": "https://www.arcaplanet.it/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriabbigliamento",
+        "name": "Abbigliamento",
+        "path": "/cane/accessori/abbigliamento/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriabbigliamentomaglioncini",
+        "name": "Maglioncini",
+        "path": "/cane/accessori/abbigliamento/maglioncini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-maglioncino-cane-di-natale-winter-24722p",
+        "name": "Lovedì Maglioncino Cane di Natale Winter",
+        "path": "/lovedi-maglioncino-cane-di-natale-winter-24722/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26733",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:30:45.122Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/"
+  }
+]

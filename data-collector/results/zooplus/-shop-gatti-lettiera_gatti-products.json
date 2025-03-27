@@ -1,0 +1,5794 @@
+[
+  {
+    "source": "zooplus",
+    "sourceId": "138692",
+    "name": "Lettiera Tigerino Premium - al borotalco",
+    "description": "Lettiera agglomerante a grana fine in granulato di argilla naturale, ad alto rendimento, dall'<b>elevato potere agglomerante </b>e non polverosa. <b>Al delicato profumo di borotalco!</b>",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/tigerino_premium_babypowder_12kg_1000x1000_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 7.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/canada/138692",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "138692",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1634147,
+        "description": "6 kg Formato prova",
+        "price": {
+          "current": 7.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2183491,
+        "description": "12 kg",
+        "price": {
+          "current": 13.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 2183395,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 24.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "209538",
+    "name": "Multipack risparmio! 6 x 5 L Lettiere Tigerino Crystals",
+    "description": "Lettiere in silicio per gatti Tigerino Crystals, ultra assorbenti, prive di polvere e ad alto rendimento, neutralizzano all'istante i cattivi odori -&nbsp;<b>ora in conveniente multipack risparmio&nbsp;</b><strong>da 6 x 5 L (13,2 kg)</strong>",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/icon_percent_template_1000x1000_int_4_2023_04_06t120357_194_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 34.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/209538",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "209538",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3191461,
+        "description": "4 varianti: 2 x Sensitive, 1 x Profumo di fiori, 2 x Lavanda, 1 x Aloe vera (c.a 13,2 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 2731839,
+        "description": "Profumo di fiori 6 x 5 L (13,2 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2731838,
+        "description": "Lavanda 6 x 5 L (c.a. 13,2 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 2731832,
+        "description": "Classic 6 x 5 L (c.a. 12,6 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 3077818,
+        "description": "Aloe Vera 6 x 5 L (13,2 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 2731841,
+        "description": "XXL / XL-Grain (senza profumo) 6 x 5 L (c.a. 13,3 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "59542",
+    "name": "Lettiera Tigerino Crystals - Classic (senza profumo)",
+    "description": "Lettiera&nbsp;in silicio Crystals Tigerino Classic, ultra assorbente e dall'ottima resa, neutralizza all'istante i cattivi odori,&nbsp;priva di polvere e <strong>senza profumo</strong>, per gatti sensibili agli odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/tigerino_crystal_sensitive_5l_1000x1000_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/59542",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "59542",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 330207,
+        "description": "5 L",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 330208,
+        "description": "Set %: 3 x 5 L",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2306586,
+        "description": "Set %: 6 x 5 L",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1947502",
+    "name": "Lettiera Tigerino Plant-Based Mais - Sensitive (senza profumo)",
+    "description": "Lettiera sostenibile in pellet di mais per gatti, ad alto rendimento, idrosolubile e compostabile, dal rapido potere agglomerante, assorbe efficacemente i cattivi odori, senza profumo e poco polverosa.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/408797_pla_tigerino_plantbased__cornlitter_sensitive_7l_hs_01_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/plantbased/1947502",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1947502",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5164696,
+        "description": "7 L",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 5164614,
+        "description": "14 L",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5164615,
+        "description": "Set %: 2 x 14 L",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "950146",
+    "name": "Lettiera Tigerino Crystals - Aloe Vera ",
+    "description": "Lettiera in silicio per gatti Tigerino Crystals con<b>&nbsp;profumo di aloe vera, </b>priva di polvere, ultra assorbente, cattura efficacemente i cattivi odori e inibisce la proliferazione batterica.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/tigerino_crystal_aloevera_5l_1000x1000_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/950146",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "950146",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3165105,
+        "description": "5 L (ca. 2,1 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3165106,
+        "description": "Set %: 3 x 5 L (ca. 6,3 kg)",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3077746,
+        "description": "Set %: 6 x 5 l",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "495637",
+    "name": "Lettiera colorata Tigerino Crystals - Fun / Sensitive (senza profumo)",
+    "description": "Lettiera in silicio&nbsp;per gatti&nbsp;Tigerino Crystals Fun / Sensitive,&nbsp;<strong>a granuli fini colorati rosa o blu</strong>, delicata sulle zampe, neutralizza all'istante i cattivi odori, ultra assorbente e priva di polvere.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/tigerino_crystal_sensitivepink_5l_1000x1000_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/495637",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "495637",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1660925,
+        "description": "rosa 5 L (ca. 2 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 1660926,
+        "description": "blu 5 L (ca. 2 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 1660928,
+        "description": "Set %: rosa 3 x 5 L (ca. 6kg)",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 1660927,
+        "description": "Set %: blu  3 x 5 L (ca. 6 kg)",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1947508",
+    "name": "Lettiera Tigerino Plant-Based Tofu – Profumo di latte",
+    "description": "Lettiera sostenibile a base di fibre di soia e amido per gatti,&nbsp;dall'alto rendimento, idrosolubile e biodegradabile, i suoi pellet vegetali vantano un rapido potere agglomerante, al dolce profumo di latte.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/380304_pla_tigerino_plantbased_tofu_littermilk_4_6kg_hs_01_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 13.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/plantbased/1947508",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1947508",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5164627,
+        "description": "11 L (4,6 kg)",
+        "price": {
+          "current": 13.99,
+          "currency": "EUR",
+          "unitPrice": "€ 3,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 5164711,
+        "description": "Set %: 2 x 11 L (9,2 kg)",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5164710,
+        "description": "Set %: 3 x 11 L (13,8 kg)",
+        "price": {
+          "current": 38.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,83",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "152976",
+    "name": "Lettiera Tigerino Crystals - Lavanda",
+    "description": "Lettiera in silicio per gatti Tigerino Crystals,<b>&nbsp;al fresco profumo di lavanda!</b>&nbsp;Ultra assorbente, dall'ottima resa e priva di polvere,&nbsp;neutralizza all'istante i cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/tigerino_crystal_lavender_5l_1000x1000_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/152976",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "152976",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 459241,
+        "description": "5 L (ca. 2,1 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 459242,
+        "description": "Set %: 3 x 5 L (ca. 6,3 kg)",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2515347,
+        "description": "Set %: 6 x 5 L (ca. 12,6 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2160743",
+    "name": "Lettiera Tigerino Premium - profumo di fiori Ambi Pur Fresh",
+    "description": "Lettiera per gatti economica, granuli di argilla naturale con una fresca fragranza di fiori Ambi Pur: a grana fine, molto poco polverosa, assorbente e agglomerante, lega efficacemente gli odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/1_2024_07_zooplus_tigerino_febreze_premium_blossombreeze_12kg_ambipur_1000x1000_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/ambi_pur/2160743",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2160743",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5658766,
+        "description": "12 kg",
+        "price": {
+          "current": 14.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,21",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 5658767,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "192127",
+    "name": "Lettiera Tigerino Crystals XXL / XL-Grain - Sensitive (senza profumo)",
+    "description": "Lettiera <strong>a grana grossa</strong> in silicio Tigerino Crystals XXL, neutralizza all'istante i cattivi odori, ultra assorbente e priva di polvere, priva di profumo, ideale per gatti sensibili agli odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/1_tigerino_crystal_xlgrain_5l_1000x1000_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 34.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/192127",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "192127",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "177941",
+    "name": "Lettiera Catsan Hygiene plus",
+    "description": "Lettiera Catsan Hygiene plus per gatti, in calcare naturale e fine sabbia di cava, non agglomerante, assorbe all'istante i liquidi e lega gli odori grazie ad una protezione minerale efficace e duratura.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/icon_topseller_1_2021_12_27t125347_704_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 15.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/177941",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "177941",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3018691,
+        "description": "18 L (ca. 9 Kg)",
+        "price": {
+          "current": 15.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,89",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 3018696,
+        "description": "Set %: 2 x 18 L (ca. 18 Kg)",
+        "price": {
+          "current": 29.49,
+          "currency": "EUR",
+          "unitPrice": "€ 0,82",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1374812",
+    "name": "Lettiera agglomerante Ever Clean® Lavanda",
+    "description": "Lettiera agglomerante e poco polverosa Ever Clean® con profumo delicato di lavanda che viene rilasciato solo quando il gatto usa la toilette, elimina i cattivi odori anziché coprirli, dura a lungo.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/287597_pla_everclean_lavender_klumpstreu_6l_hs_01_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 15.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiera_agglomerante/ever_clean/1374812",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1374812",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4086243,
+        "description": "10 l",
+        "price": {
+          "current": 15.79,
+          "currency": "EUR",
+          "unitPrice": "€ 1,58",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4086245,
+        "description": "Set %: 2 x 10 l",
+        "price": {
+          "current": 28.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,45",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "668335",
+    "name": "Lettiera agglomerante Catsan Active Fresh",
+    "description": "Lettiera agglomerante Catsan Active Fresh per gatti profumata, bianca naturale, controlla gli odori grazie al carbone attivo nero, forte potere assorbente, povera di polvere. Igienica e fresca.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/icon_topseller_1_2021_12_27t152012_601_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/668335",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "668335",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2353491,
+        "description": "8 L (ca. 7,7 kg)",
+        "price": {
+          "current": 14.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,87",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 2559837,
+        "description": "Set %: 2 x 8 L (ca 15,4 kg)",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,50",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1722644",
+    "name": "Ever Clean® Lettiera Multipla per Gatti",
+    "description": "Lettiera profumata ideale per le famiglie con più gatti. Aiuta a mantenere la lettiera pulita e igienica grazie a un piacevole profumo attivato dalle zampe",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/ec_3q_multiple_v1_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 15.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1722644",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": false
+      }
+    ],
+    "sku": "1722644",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4724602,
+        "description": "10 l",
+        "price": {
+          "current": 15.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,60",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": false,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4724601,
+        "description": "Set %: 2 x 10 L",
+        "price": {
+          "current": 29.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,47",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": false,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "288604",
+    "name": "Toilette per gatti Savic Nestor",
+    "description": "Toilette per gatti Savic Nestor dai colori moderni e freschi, con <strong>coperchio ribaltabile</strong>, per una <strong>rapida e pratica pulizia</strong> e <strong>filtro al carbone attivo</strong>. Misure:&nbsp;L 56 x P 39 x H 38,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/savic_katzentoilette_nestor_2024_hs_01_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 16.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/288604",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "288604",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 877545,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 16.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2907627,
+        "description": "azzurro / bianco",
+        "price": {
+          "current": 17.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4869157,
+        "description": "verde chiaro / bianco",
+        "price": {
+          "current": 17.19,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 877546,
+        "description": "Filtri di ricambio al carbone, 1 pz",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2310600,
+        "description": "Paletta igienica per lettiere Ultra",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295570,
+        "description": "12 Sacchetti igienici Savic Bag it Up Litter Maxi",
+        "price": {
+          "current": 3.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295578,
+        "description": "Set: Toilette grigio chiaro/bianco + 2 filtri extra + 12 sacchetti",
+        "price": {
+          "current": 23.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295573,
+        "description": "Set: Toilette azzurro/bianco + 2 filtri extra + 12 sacchetti",
+        "price": {
+          "current": 24.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2160656",
+    "name": "Lettiera Tigerino Performance Active Carbon - Profumo Ambi Pur",
+    "description": "Lettiera naturale in argilla efficace con fragranza Ambi Pur per bucato fresco. Controllo degli odori efficace grazie al carbone attivo naturale. Molto poco polveroso, assorbente e a grana fine.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/1_2024_07_zooplus_tigerino_performance_active_carbon_12kg_ambipur_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/ambi_pur/2160656",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2160656",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5658884,
+        "description": "12 kg",
+        "price": {
+          "current": 14.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 5658885,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "624457",
+    "name": "Sacchetti igienici Savic Bag it Up Litter",
+    "description": "Sacchetti igienici Savic Bag it Up Litter resistenti per la toilette del gatto, impediscono la formazione di accumuli di urina. contro i cattivi odori, per una pulizia semplice, veloce e igienica",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/icon_topseller_1_2021_12_27t154204_863_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 1.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/sacchetti_igienici/624457",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "624457",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2177827,
+        "description": "Medium - 12 pz",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2177824,
+        "description": "Set %: Medium - 3 x 12 pz",
+        "price": {
+          "current": 5.79,
+          "currency": "EUR",
+          "unitPrice": "€ 0,16",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2177820,
+        "description": "Large - 12 pz",
+        "price": {
+          "current": 2.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2177821,
+        "description": "Maxi - 12 pz",
+        "price": {
+          "current": 3.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2177822,
+        "description": "Set %: Maxi - 3 x 12 pz",
+        "price": {
+          "current": 11.79,
+          "currency": "EUR",
+          "unitPrice": "€ 0,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2177823,
+        "description": "Jumbo - 6 pz",
+        "price": {
+          "current": 4.29,
+          "currency": "EUR",
+          "unitPrice": "€ 0,72",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2177825,
+        "description": "Set %: Jumbo - 3 x 6 pz",
+        "price": {
+          "current": 11.49,
+          "currency": "EUR",
+          "unitPrice": "€ 0,64",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4949650,
+        "description": "Giant - 6 pz",
+        "price": {
+          "current": 7.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4949651,
+        "description": "Set %: Giant - 3 x 6 pz",
+        "price": {
+          "current": 20.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2395548,
+        "description": "Hop In - 6 pz",
+        "price": {
+          "current": 4.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,83",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2395549,
+        "description": "Set %: Hop In - 3 x 6 pz",
+        "price": {
+          "current": 13.49,
+          "currency": "EUR",
+          "unitPrice": "€ 0,75",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "177995",
+    "name": "Lettiera igienica Catsan Smart Pack",
+    "description": "Lettiera Catsan Smart Pack, facile ed igienica: combina la qualità della lettiera Catsan con i vantaggi delle salviette.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/icon_topseller_1_2021_12_27t145355_458_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/177995",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "177995",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 542706,
+        "description": "2 pacchi (8 L - ca. 4 Kg)",
+        "price": {
+          "current": 10.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 542707,
+        "description": "Set %: 3 x 2 pacchi (24 L - ca 12 kg)",
+        "price": {
+          "current": 30.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 2018226,
+        "description": "Paletta igienica per lettiere Ultra",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2160678",
+    "name": "Lettiera Tigerino Performance Zeolite Control - Ambi Pur fiori di gelsomino",
+    "description": "Lettiera a grumi in argilla naturale efficace con fragranza Ambi Pur ai fiori di gelsomino. Legame forte con gli odori grazie alla zeolite. Poco polveroso, assorbente, agglomerante ed economica.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/2024_07_zooplus_tigerino_performance_zeolite_control_12kg_ambipur_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/ambi_pur/2160678",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2160678",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5658939,
+        "description": "12 kg",
+        "price": {
+          "current": 14.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      },
+      {
+        "variantId": 5658937,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "10%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "393853",
+    "name": "Toilette per gatti Savic Nestor Jumbo",
+    "description": "Lettiera chiusa Savic Nestor Jumbo per gatti di taglia molto grande, con&nbsp;<strong>parte anteriore ribaltabile</strong>, filtro al carbone attivo e maniglia integrata, facile da pulire,&nbsp;mis: L 66,5 x P 48,5 x H 46,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/2_169496_savic_katzentoilette_nestor_jumbo_cat_whiteblue_colors_hs_08_4_6_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 37.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/393853",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "393853",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3402588,
+        "description": "azzurro / bianco",
+        "price": {
+          "current": 37.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2907628,
+        "description": "beige / bianco",
+        "price": {
+          "current": 37.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2459083,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 37.99,
+          "currency": "EUR",
+          "unitPrice": "€ 37,99",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 1300072,
+        "description": "Filtro di ricambio al carbone, 1 pz",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3295532,
+        "description": "Toilette beige/bianco + 2 filtri extra + 6 sacchetti",
+        "price": {
+          "current": 44.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295479,
+        "description": "Toilette grigio chiaro/bianco + 2 filtri extra + 6 sacchetti",
+        "price": {
+          "current": 44.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295524,
+        "description": "6 Sacchetti igienici Savic Bag it Up Litter Jumbo",
+        "price": {
+          "current": 4.29,
+          "currency": "EUR",
+          "unitPrice": "€ 0,72",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1723244",
+    "name": "Lettiera Ever Clean® Extra Forte - Profumo Fresco",
+    "description": "Lettiera profumata che forma grumi extra forti, con tecnologia a carboni attivi per eliminare gli odori sgradevoli e mantenere fresca l'area della lettiera.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/ec_3q_scented_v1_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 15.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1723244",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": false
+      }
+    ],
+    "sku": "1723244",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1723245",
+    "name": "Lettiera extra forte Ever Clean® - senza profumo",
+    "description": "Mantieni la toilette del tuo gatto fresca e igienica grazie a questa lettiera ultraresistente a base di argilla di alta qualità, senza profumi che possano irritare i nasi sensibili.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/1_284858_pla_everclean_extrastrong_klumpstreu_parfuemfrei_6l_hs_01_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1723245",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1723245",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4724600,
+        "description": "10 l",
+        "price": {
+          "current": 14.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,50",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4724599,
+        "description": "Set %: 2 x 10 L",
+        "price": {
+          "current": 29.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,47",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "193408",
+    "name": "Savic Refresh'r Wipes Sensitive",
+    "description": "Salviette antibatteriche per disinfettare e pulire occhi ed orecchie di animali. Con principio attivo di efficacia provata, contro batteri e funghi.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/34014_pla_savic_refresh_r_wipes_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 3.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/igiene_gatti/prodotti_cura_occhi_orecchie_gatto/cura_occhi_gatto/193408",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "193408",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 588817,
+        "description": "20 pz",
+        "price": {
+          "current": 3.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 1879741,
+        "description": "Set %: 2 x 20 pz",
+        "price": {
+          "current": 7.19,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2981858,
+        "description": "Set %: 6 x 20 pz",
+        "price": {
+          "current": 20.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "714631",
+    "name": "Lettiera Catsan Natural",
+    "description": "Lettiera agglomerante extra-assorbente Catsan Natural per gatti, 100% naturale, in fibre vegetali, 100% biodegradabile, lega subito gli odori, forma rapidamente grumi solidi,delicata sulle zampe.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/icon_topseller_1_2021_12_27t151434_105_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 19.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/714631",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "714631",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2557216,
+        "description": "8 L (ca. 4,4 kg)",
+        "price": {
+          "current": 19.49,
+          "currency": "EUR",
+          "unitPrice": "€ 2,44",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2557441,
+        "description": "Set %: 2 x 8 L (ca. 8,8 kg)",
+        "price": {
+          "current": 38.49,
+          "currency": "EUR",
+          "unitPrice": "€ 2,41",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 2587487,
+        "description": "20 L (ca. 11 kg)",
+        "price": {
+          "current": 38.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,95",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "605596",
+    "name": "Filtri di ricambio al carbone attivo",
+    "description": "Filtri di ricambio al carbone attivo per la toilette del vostro gatto, universali e specifici per toilette Savic e Catit (tutti i modelli).",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/zooplusmix_8_14_4_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 1.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/filtri_toilette_gatti/605596",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "605596",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2098406,
+        "description": "Universal (3 pz)",
+        "price": {
+          "current": 1.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2098411,
+        "description": "Savic (1 pz)",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "370592",
+    "name": "Toilette per gatti Savic Oscar",
+    "description": "Classica toilette per gatti Savic Oscar, con porticina basculante e trasparente, pratica maniglia e filtro al carbone attivo, misure:&nbsp;L 50 x B 37 x H 39 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/icon_topseller_1_2021_12_27t160359_429_3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 13.69,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/370592",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "370592",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1532233,
+        "description": "grigio / bianco",
+        "price": {
+          "current": 13.69,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 1210105,
+        "description": "1 filtro di ricambio",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3295862,
+        "description": "12 Sacchetti igienici Savic Bag it Up Litter Large",
+        "price": {
+          "current": 2.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295863,
+        "description": "Toilette + 2 filtri extra + 12 sacchetti",
+        "price": {
+          "current": 19.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1723260",
+    "name": "Lettiera per gatti Ever Clean® Litterfree Paws",
+    "description": "<p>Lettiera per gatti con granuli grandi che impediscono di trascinarla in casa, particolarmente adatta per le razze a pelo lungo, con un'innovativa tecnologia di profumazione attivata dalla zampa.</p>\n",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/284855_pla_everclean_litterfree_paws_katzenstreu_6l_hs_01_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 16.69,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1723260",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1723260",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4724656,
+        "description": "10 l",
+        "price": {
+          "current": 16.69,
+          "currency": "EUR",
+          "unitPrice": "€ 1,67",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4755276,
+        "description": "Set %: 2 x 10 l",
+        "price": {
+          "current": 30.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,55",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "370720",
+    "name": "Cassetta igienica con bordo Savic Iriz - 50 cm",
+    "description": "Cassetta igienica con bordo Savic Iriz per gatti, con bordo parasporco bianco removibile, ingresso facilitato, disponibile in due colori. Misure: L 50 x P 37 x H 14 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/farbkacheln_savic_katzentoilette_iriz_mit_rand_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.29,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/370720",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "370720",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1210189,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 6.29,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3295864,
+        "description": "12 Sacchetti igienici Savic Bag it Up Litter Large",
+        "price": {
+          "current": 2.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5576735,
+        "description": "champagne rosa",
+        "price": {
+          "current": 6.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1723246",
+    "name": "Lettiera a copertura totale Ever Clean® - Senza profumo",
+    "description": "Lettiera altamente assorbente e agglomerante che trattiene fino al 99% dei rifiuti solidi e liquidi, priva di profumo e quindi adatta a gatti e umani sensibili, con una durata di conservazione fino al 20% in più*.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/284859_pla_everclean_totalcover_klumpstreu_parfuemfrei_6l_hs_01_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1723246",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": false
+      }
+    ],
+    "sku": "1723246",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1392411",
+    "name": "Lettiera Professional Classic White",
+    "description": "Lettiera in bentonite agglomerante per gatti, con delicato profumo di borotalco, granuli molto chiari che facilitano il controllo dell'urina, assorbe i liquidi, lega gli odori e crea grumi compatti.",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/308398_pla_poerta21_professional_classic_white_12kg_hs_01_3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/professional_classic/1392411",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1392411",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4199953,
+        "description": "12 kg",
+        "price": {
+          "current": 14.79,
+          "currency": "EUR",
+          "unitPrice": "€ 1,23",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4206693,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "520460",
+    "name": "Toilette Savic Nestor Corner",
+    "description": "Toilette Savic Nestor Corner per gatti <strong>angolare salvaspazio</strong> con filtro al carbone attivo, <b>porta basculante</b> &amp; vaschetta rimovibile, per gli angoli, facile da pulire, mis.&nbsp;L 58,5 x P 45,5 x H 40 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/icon_topseller_1_2021_12_27t160726_760_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 22.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_angolo/520460",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "520460",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3162572,
+        "description": "blu/bianco",
+        "price": {
+          "current": 22.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 1747645,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 21.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 1747646,
+        "description": "1 filtro di ricambio",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "597877",
+    "name": "Toilette per gatti Savic Hop In",
+    "description": "Spaziosa toilette per gatti grandi Savic Hop In con <strong>ampia entrata dall'alto</strong>, ribalta perforata rimovibile e calpestabile, ermetica, facile da pulire, Made in Europe. Mis.: L 58 x P 38,5 x H 39,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/71915_savic_katzentocilette_hopin_fk_02_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 27.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_box/597877",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "597877",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2155524,
+        "description": "antracite / bianco",
+        "price": {
+          "current": 27.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2066034,
+        "description": "beige chiaro / bianco",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 4869721,
+        "description": "verde chiaro / bianco",
+        "price": {
+          "current": 27.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2396267,
+        "description": "6 Sacchetti Savic Bag it Up Litter Hop In",
+        "price": {
+          "current": 4.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1722643",
+    "name": "Ever Clean® Lettiera a controllo rapido degli odori",
+    "description": "Tieni a bada i cattivi odori con questa lettiera ad azione rapida. La miscela di estratti vegetali e la tecnologia del carbone attivo bloccano i cattivi odori in pochi secondi.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/284856_pla_everclean_fast_acting_odourcontrol_klumpstreu_6l_hs_01_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/1722643",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1722643",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4724597,
+        "description": "10 L",
+        "price": {
+          "current": 14.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,50",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4741559,
+        "description": "Set %: 2 x 10 L",
+        "price": {
+          "current": 27.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,37",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1412402",
+    "name": "Spray Nature's Miracle Stain & Odour Remover per macchie e odore - gatti",
+    "description": "Detergente per rimuovere cattivi odori e macchie provocati dai gatti, efficace contro lo sporco organico (urina, feci, vomito e saliva), con&nbsp;<strong>formula bio-enzimatica</strong>, erogatore spray. Contenuto: 946 ml.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/327996_pla_tetra_natures_miracle_katze_flecken_geruchsentferner_hs_01_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/igiene_casa/1412402",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1412402",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4262593,
+        "description": "946 ml",
+        "price": {
+          "current": 10.99,
+          "currency": "EUR",
+          "unitPrice": "€ 11,62",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4262490,
+        "description": "Set %: 2 x 946 ml",
+        "price": {
+          "current": 19.79,
+          "currency": "EUR",
+          "unitPrice": "€ 10,46",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1391961",
+    "name": "Toilette per gatti Savic Nestor Marble",
+    "description": "Toilette chiusa elegantemente marmorizzata per gatti, <strong>ampia porta basculante</strong>, coperchio facilmente rimovibile tramite clip, con maniglia e<strong>&nbsp;filtro al carbone attivo</strong>. Misure: L 56 x P 39 x H 38,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/252329_pla_savic_katzentoilettenestor_marble_hs_01_3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 22.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1391961",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1391961",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4198929,
+        "description": "grigio marmorizzato / nero",
+        "price": {
+          "current": 22.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 4869463,
+        "description": "verde Amazzonia marmorizzato / verde chiaro",
+        "price": {
+          "current": 22.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5153186,
+        "description": "nero / bianco marmorizzato",
+        "price": {
+          "current": 22.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "298613",
+    "name": "Cassetta igienica Savic Iriz con bordo - 42 cm",
+    "description": "Cassetta igienica Savic Iriz per gattini, gatti anziani o gatti malati, con <strong>ingresso basso</strong> e <strong>bordo removibile </strong>che mantiene pulito il pavimento, misure:&nbsp;L 42 x P 31 x H 12,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/savic_katzentoilette_iriz_mit_rand_nordischgr_n_grau_hs1_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 4.69,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/298613",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "298613",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 915863,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 4.69,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3764919,
+        "description": "verde / bianco",
+        "price": {
+          "current": 4.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3295654,
+        "description": "12 Sacchetti igienici Savic Bag it Up Litter Medium",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1620514",
+    "name": "Prezzo speciale! 18 L Lettiera Catsan Hygiene plus + 2 x 350 g Catisfactions Mega Tub",
+    "description": "<strong>Offerta limitata:</strong> 18 litri di lettiera Catsan Hygiene plus per gatti, a base di calcare naturale e sabbia di cava e 2 x 350 g di snack Catisfaction Mega Tub, insieme <strong>con uno sconto del <span style=\"color:#ed1c24;\">15%!</span></strong>",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/icon_percent_template_1000x1000_int_4_2023_10_05t162245_387_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 27.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/1620514",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1620514",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4578218,
+        "description": "18 L (ca. 9 Kg) + Catisfactions Pollo",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4577854,
+        "description": "18 L (ca. 9 Kg) + Catisfactions Formaggio",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5338305,
+        "description": "18 L (ca. 9 Kg) + Catisfactions Catnip",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5338306,
+        "description": "18 L (ca. 9 Kg) + Catisfactions Tonno",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5338346,
+        "description": "18 L (ca. 9 Kg) + Catisfactions Salmone",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1374818",
+    "name": "Lettiera agglomerante Ever Clean® Spring Garden",
+    "description": "Lettiera agglomerante e poco polverosa Ever Clean® Spring Garden, con profumo naturale che viene rilasciato solo quando il gatto utilizza la toilette, crea grumi compatti facili da rimuovere.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/284854_pla_everclean_spring_garden_klumpstreu_6l_hs_01_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 20.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiera_agglomerante/lettiere/1374818",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1374818",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4086328,
+        "description": "10 l",
+        "price": {
+          "current": 20.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,10",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4086302,
+        "description": "Set %: 2 x 10 l",
+        "price": {
+          "current": 39.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,97",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1412452",
+    "name": "Spray Nature's Miracle Urine Remover per macchie e odore di urina - gatti",
+    "description": "Detergente in spray <strong>contro le macchie e l'odore dell'urina dei gatti</strong>, rimuove efficacemente le macchie ostinate, neutralizza i cattivi odori e lascia una fragranza fresca. Contenuto: 946 ml.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/327998_pla_tetra_naturesmiracle_katze_urinflecken_geruchsentferner_hs_01_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 13.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/igiene_casa/1412452",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1412452",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4262493,
+        "description": "946 ml",
+        "price": {
+          "current": 13.79,
+          "currency": "EUR",
+          "unitPrice": "€ 14,58",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4262492,
+        "description": "Set %: 2 x 946 ml",
+        "price": {
+          "current": 25.49,
+          "currency": "EUR",
+          "unitPrice": "€ 13,47",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2225429",
+    "name": "Lettiera Biokat's Diamond Care  + 150g GimCat Pudding gratis!",
+    "description": "<strong>Offerta limitata: </strong>con la lettiera agglomerante per gatti Biokat's Diamond Care,&nbsp;ultra assorbente, con carbone attivo contro i cattivi odori, riceverai <b>150g di snack GimCat Pudding <span style=\"color:#ed1c24;\">gratis!</span></b>",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/71052_gratis_gimborn_biokats_diamondcare_classic_katzenstreu_hs_01_9_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.19,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/biokats/2225429",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2225429",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5817649,
+        "description": "10 L Classic",
+        "price": {
+          "current": 11.19,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5817653,
+        "description": "10 L Fresh",
+        "price": {
+          "current": 9.79,
+          "currency": "EUR",
+          "unitPrice": "€ 0,98",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5817650,
+        "description": "6 L Sensitive Classic",
+        "price": {
+          "current": 6.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5817651,
+        "description": "8 L MultiCat Fresh",
+        "price": {
+          "current": 7.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5817654,
+        "description": "10 L Vet Line Attracting & Calming",
+        "price": {
+          "current": 10.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,10",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "328345",
+    "name": "Savic Cassetta igienica Aseo con bordo alto",
+    "description": "Cassetta igienica funzionale Savic Aseo, <strong>vaschetta alta con&nbsp;bordo rimovibile </strong>che protegge dallo sporco lo spazio circostante, comodo accesso basso. Misure: L 56 x P 39 x H 27,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/55051_PLA_Savic_Katzentoilette_Aseo_grau_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/328345",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "328345",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "584436",
+    "name": "Toilette per gatti Nestor Impression \"Love\" by Savic",
+    "description": "Toilette Nestor Impression con scritta Love sul fianco, <strong>vaschetta alta, parte anteriore basculante, </strong>ingresso basso&nbsp;e <strong>filtro al carbone attivo</strong>, mis.:L 56 x P 39 x H 38,5 cm",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/icon_topseller_1_2021_12_27t152928_945_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 23.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/584436",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "584436",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2433575,
+        "description": "nero / argento con scritta \"Love\"",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 2017551,
+        "description": "1 filtro di ricambio",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3295610,
+        "description": "12 Sacchetti igienici Savic Bag it Up Litter Maxi",
+        "price": {
+          "current": 3.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3295611,
+        "description": "Toilette + 2 filtri extra + 12 sacchetti",
+        "price": {
+          "current": 30.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "520452",
+    "name": "Cassetta igienica Savic Aseo Jumbo con bordo alto",
+    "description": "Cassetta igienica Savic Aseo Jumbo con bordo alto <b>per gatti di taglia grande o più gatti</b>, con accesso basso e bordo alto rimovibile. Misure: L 67,5 x P 48,5 x H 28 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/80610_savic_katzentoilette__rand_mocca_hs_02_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 18.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/520452",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "520452",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2451424,
+        "description": "marrone chiaro / bianco",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 1747627,
+        "description": "grigio chiaro / bianco",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5338142,
+        "description": "grigio marmorizzato / nero",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "448283",
+    "name": "Lettiera agglomerante Catsan Ultra",
+    "description": "Lettiera agglomerante per gatti, ultra assorbente per una toilette sempre pulita e asciutta, <b>con granuli di argilla</b> per un assorbimento sicuro dell'umidità e degli odori, senza profumi.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/icon_topseller_1_2021_12_27t154332_192_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 24.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/448283",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "448283",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1090217",
+    "name": "Toilette per gatti Savic Nestor Impression \"Flamingo\"",
+    "description": "Toilette con stampa di fenicotteri per gatti, con&nbsp;<strong>vaschetta alta, apertura frontale</strong><b>,&nbsp;</b>porta basculante, maniglia, ingresso basso e<strong>&nbsp;filtro al carbone attivo</strong>,<strong> </strong>misure: L 58 x P 39 x H 38,5 cm",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/169596_pla_savic_katzentoilette_nestor_impression_flamingo_pinkwhite_hs_01_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 23.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1090217",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1090217",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3402436,
+        "description": "rosa / bianco con stampa \"Flamingo\"",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3402533,
+        "description": "Filtro di ricambio al carbone, 1 pz",
+        "price": {
+          "current": 2.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 3402438,
+        "description": "12 pz Sacchetti igienici Bag it Up Litter - Maxi",
+        "price": {
+          "current": 3.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3402437,
+        "description": "Starter Set: Toilette \"Flamingo\" + 2 filtri extra + 12 Sacchetti Bag it up",
+        "price": {
+          "current": 30.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1412403",
+    "name": "Spray Nature's Miracle Set-In Stain Remover per macchie e odori - gatti",
+    "description": "Detergente <strong>contro macchie sedimentate e odori sgradevoli </strong>(es. urina e feci) provocati dai gatti, con formula super efficace a base di ossigeno, lieve fragranza all'arancia. Contenuto: 709 ml.<br />\n&nbsp;",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/328096_pla_naturesmiracle_katze_setinflecken_geruchsentferner_hs_01_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/igiene_casa/1412403",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1412403",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4262495,
+        "description": "709 ml",
+        "price": {
+          "current": 10.99,
+          "currency": "EUR",
+          "unitPrice": "€ 15,50",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 4262496,
+        "description": "Set %: 2 x 709 ml",
+        "price": {
+          "current": 19.79,
+          "currency": "EUR",
+          "unitPrice": "€ 13,96",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1399906",
+    "name": "Toilette per gatti Savic Nestor Happy Planet",
+    "description": "Toilette per gatti Nestor Happy Planet di Savic&nbsp;<strong>per il 90% in materiale riciclato</strong>,<strong>&nbsp;</strong>con porta basculante, maniglia,&nbsp;filtro al carbone e vaschetta rialzata su un lato ideale per il raspamento. Misure: ca. L 56 x P 39 x H 39 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/312897_pla_savic_katzentoilette_nestor_happyplanet_hs_01_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 18.29,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1399906",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1399906",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1868017",
+    "name": "Toilette per gatti Savic Nestor Giant",
+    "description": "Ampia toilette chiusa <strong>per gatti di tg grande</strong>, con coperchio trasparente e ribaltabile per facilitare le operazioni di pulizia,&nbsp;vaschetta alta e filtro al carbone attivo. Mis.: L 75,5 x P 56 x H 55,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/380901_pla_savic_katzentoilette_nestor_giant_hs_01_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 79.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1868017",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1868017",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4949656,
+        "description": "bianco / grigio",
+        "price": {
+          "current": 79.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 4949743,
+        "description": "6 Sacchetti igienici Bag It Up Litter Tray Bags Giant",
+        "price": {
+          "current": 7.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5662617,
+        "description": "Filtro a carbone di ricambio, 2 pz",
+        "price": {
+          "current": 4.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5662719,
+        "description": "Starter Kit: Lettiera bianca / grigia + filtri di ricambio 2 pz + 6 sacchetti Bag It Up",
+        "price": {
+          "current": 88.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5699919,
+        "description": "Bianco / moka",
+        "price": {
+          "current": 79.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5699920,
+        "description": "Starter kit: Lettiera bianca / moka + filtri di ricambio 2 pz + 6 sacchetti Bag it up",
+        "price": {
+          "current": 88.99,
+          "currency": "EUR",
+          "unitPrice": "€ 22,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1868017",
+    "name": "Toilette per gatti Savic Nestor Giant",
+    "description": "Ampia toilette chiusa <strong>per gatti di tg grande</strong>, con coperchio trasparente e ribaltabile per facilitare le operazioni di pulizia,&nbsp;vaschetta alta e filtro al carbone attivo. Mis.: L 75,5 x P 56 x H 55,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/380901_pla_savic_katzentoilette_nestor_giant_hs_01_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 79.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1868017",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1868017",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4949656,
+        "description": "bianco / grigio",
+        "price": {
+          "current": 79.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 4949743,
+        "description": "6 Sacchetti igienici Bag It Up Litter Tray Bags Giant",
+        "price": {
+          "current": 7.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5662617,
+        "description": "Filtro a carbone di ricambio, 2 pz",
+        "price": {
+          "current": 4.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5662719,
+        "description": "Starter Kit: Lettiera bianca / grigia + filtri di ricambio 2 pz + 6 sacchetti Bag It Up",
+        "price": {
+          "current": 88.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5699919,
+        "description": "Bianco / moka",
+        "price": {
+          "current": 79.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5699920,
+        "description": "Starter kit: Lettiera bianca / moka + filtri di ricambio 2 pz + 6 sacchetti Bag it up",
+        "price": {
+          "current": 88.99,
+          "currency": "EUR",
+          "unitPrice": "€ 22,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1220775",
+    "name": "Paletta per lettiera Trixie, in acciaio inox",
+    "description": "Paletta <strong>in pregiato acciaio inox </strong>di Trixie,<strong>&nbsp;</strong>per tutte le lettiere più comuni, <strong>con fessure di medie dimensioni</strong> e&nbsp;pratico occhiello per appenderla, utilissima per pulire la toilette del tuo gatto.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/209904_pla_trixie_edelstahl_streuschaufel_hs_01_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 8.19,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/palette_igieniche/1220775",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1220775",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2227976",
+    "name": "10 L / 14 L Lettiera Biokat's Classic + 60 g GimCat Nutri Pockets gratis!",
+    "description": "<strong>Offerta limitata:</strong>&nbsp;con la lettiera agglomerante Biokat's Classic per gatti, che cattura bene gli odori, ha un'ottima resa e forma grumi extra-compatti, riceverai&nbsp;<b>60 g di GimCat Nutri Pockets<font color=\"red\">&nbsp;gratis!</font></b>",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/414597_gratis_biokats_classic_3in1_extrga_katzenstreu_hs_02_6_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.29,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/biokats/2227976",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2227976",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5825401,
+        "description": "10 L (ca. 10,2 kg) 3in1",
+        "price": {
+          "current": 6.29,
+          "currency": "EUR",
+          "unitPrice": "€ 0,63",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5825403,
+        "description": "10 L (ca. 9,9 kg) Fresh 3in1",
+        "price": {
+          "current": 8.19,
+          "currency": "EUR",
+          "unitPrice": "€ 0,82",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5825402,
+        "description": "10 L (ca. 10,25 kg) Fresh 3in1 - al borotalco",
+        "price": {
+          "current": 7.19,
+          "currency": "EUR",
+          "unitPrice": "€ 0,72",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5825400,
+        "description": "14 L 3in1 Extra",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "179977",
+    "name": "Lettiera Professional Classic con Borotalco",
+    "description": "Lettiera agglomerante per gatti Professional Classic con Borotalco, in bentonite,&nbsp;garantisce l'assorbimento ottimale degli odori, non si attacca alle zampine, con confezione riciclabile al 100%.",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/130196_pla_professional_classic_katzenstreu_mit_babypuderduft_14kg_hs_1_1_1_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 16.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/professional_classic/179977",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "179977",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3217943,
+        "description": "14 kg",
+        "price": {
+          "current": 16.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,21",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 3217895,
+        "description": "Set %: 2 x 14 kg",
+        "price": {
+          "current": 31.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1490912",
+    "name": "kooa Tappetino igienico antibatterico per toilette",
+    "description": "Pratico tappetino per toilette o porte basculanti, rivestimento antibatterico, con <strong>Memory Foam </strong>e scanalature, raccoglie lettiera in eccesso e sporco, <strong>lavabile in lavatrice</strong>, misure: ca. L 70 x P 50 cm<br />\n&nbsp;",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/314903_pla_kooa_antibakterieller_toilettenvorleger_fg_5272_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 20.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/tappetini_igienici/1490912",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1490912",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1013491",
+    "name": "Cassetta igienica triangolare Savic Rincon con bordo",
+    "description": "Cassetta igienica triangolare Savic Rincon con bordo per trattenere la lettiera, <strong>da mettere negli angoli</strong>, <strong>con ingresso basso </strong>ideale<strong>&nbsp;</strong>per gatti giovani, anziani e malati, mis. L 58,5 x P 45,5 x H 13 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/144796_pla_savic_rincon_ecktoilette_rand_grauwhite_cat_hs_02_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 3.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/1013491",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1013491",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3274123,
+        "description": "12 pz Sacchetti igienici Savic Bag it Up Litter, Maxi,",
+        "price": {
+          "current": 3.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3274122,
+        "description": "grigio / bianco",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": false,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "757752",
+    "name": "Paletta per lettiera Savic MegaLoo",
+    "description": "Paletta <strong>XL</strong> per lettiera Savic MegaLoo, per pulire efficacemente la toilette del gatto, con <strong>manico lungo </strong>ed ergonomico con inserto in gomma, comodo per evitare di chinarsi. In plastica resistente.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/95719_pla_savic_megaloo_streu_schaufel_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 3.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/palette_igieniche/757752",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "757752",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1948626",
+    "name": "Cassetta igienica Savic Aseo Giant",
+    "description": "Cassetta igienica indicata per gatti di taglia grande o che urinano in piedi, <strong>molto spaziosa</strong>, con&nbsp;<strong>bordo extra alto</strong>, ingresso ribassato, ideale per famiglie con più gatti. Misure: L 75 x P 56 x H 41 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/435097_pla_savic_katzentoilette_aseo_giant_hs_01_3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 29.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/1948626",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": false
+      }
+    ],
+    "sku": "1948626",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1383995",
+    "name": "Toilette per gatti Savic Mira",
+    "description": "Toilette Savic Mira per gatti, design decorativo effetto pelle, con porta basculante, <strong>vaschetta rimovibile</strong>, piedini antiscivolo e<strong>&nbsp;filtro al carbone attivo&nbsp;</strong>contro i cattivi odori. Colore: antracite / bianco.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/284823_pla_savic_katzentoilette_mira_anthrazit_hs_01_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 72.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/1383995",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1383995",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4119103,
+        "description": "antracite / bianco",
+        "price": {
+          "current": 72.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 4119162,
+        "description": "Filtri di ricambio (2 pz)",
+        "price": {
+          "current": 5.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1997337",
+    "name": "Toilette per gatti Savic Nestor Jumbo Marble",
+    "description": "Lussuosa lettiera chiusa per gatti di taglia grande, con elegante design in marmo nero, <strong>con parte anteriore apribile </strong>per una facile pulizia, <strong>filtro al carbone attivo sostituibile incluso</strong>, dimensioni: L 66,5 x P 48,5 x H 46,5 cm",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/462196_pla_savic_katzentoilette_nestor_jumbo_marble_hs_01_3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 46.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/tutte_toilette/chiuse_entrata_frontale/1997337",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1997337",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1947124",
+    "name": "Toilette per gatti Savic Hop In Giant",
+    "description": "Toilette extra large ideale per gatti di taglia grande, che urinano in piedi o che scavano vigorosamente, con&nbsp;<strong>bordo rialzato, coperchio perforato&nbsp;e&nbsp;</strong><strong>ingresso dall'alto</strong>. Misure: L 74 x P 50 x H 43,5 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/435096_pla_savic_katzentoilette_hopingiant_hs_01_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 41.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_box/1947124",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1947124",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5162920,
+        "description": "moka / bianco",
+        "price": {
+          "current": 41.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5644517,
+        "description": "Sacchetti per lettiera Bag it Up, Hop In Giant, 1 x 6 pz",
+        "price": {
+          "current": 8.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5644612,
+        "description": "Set iniziale: Toilette mocca/bianco + 6 sacchetti Bag it up",
+        "price": {
+          "current": 47.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2112428",
+    "name": "Toilette Savic Aseo Jumbo Marble",
+    "description": "Toilette extra-large <strong>per gatti di taglia grande </strong>o per più&nbsp;gatti, dotata di&nbsp;<strong>parete posteriore alta </strong>e&nbsp;<strong>ingresso ribassato</strong>, facile da pulire grazie al bordo rimovibile. Misure: L 67,5 x P 48,5 x H 28 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/462704_pla_savic_katzentoilette_aseo_jumbo_hohem_rand_hs_01_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 23.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/2112428",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2112428",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5524393,
+        "description": "grigio marmorizzato / nero",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5524396,
+        "description": "6 Sacchetti igienici Bag it Up Litter, Jumbo - 6 pz",
+        "price": {
+          "current": 4.29,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5524390,
+        "description": "Starter set: toilette grigio marmorizzato/nero + 6 Bag it Up Litter",
+        "price": {
+          "current": 27.49,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "776469",
+    "name": "Toilette per gatti Savic Reina con setaccio",
+    "description": "<p>Spaziosa<strong> </strong>lettiera chiusa Savic Reina con setaccio per <strong>pulizia facile e veloce e risparmio di lettiera</strong>, anche per taglie grandi<b> </b>e più gatti, con filtro al carbone attivo. Misure: L 64 x P 46 x H 48 cm.</p>\n",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/83746_pla_savic_katzentoilette_reina_mit_sieb_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 51.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/776469",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "776469",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2095925",
+    "name": "Lettiera Ever Clean® Naturally",
+    "description": "Lettiera agglomerante ad alto potere assorbente per la cassetta igienica per gatti, <strong>composta al 99,9% da materiali naturali</strong>, neutralizza i cattivi odori, poco polverosa e inodore, confezione riciclabile.",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/499698_pla_everclean_cat_litter_naturally_10l_hs_01_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 18.69,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/everclean/2095925",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2095925",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5480874,
+        "description": "10 L",
+        "price": {
+          "current": 18.69,
+          "currency": "EUR",
+          "unitPrice": "€ 1,87",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 5480875,
+        "description": "Set %: 2 x 10 L",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,75",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "592605",
+    "name": "Tappetino igienico Canadian Cat Company Select",
+    "description": "Tappetino scendi-toilette <b>XL</b><b>materiale spugnoso delicato sulle zampine</b>; nei suoi interstizi raccoglie la lettiera che viene rimossa mediante il velcro",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/71424_pla_canadian_cat_company_zaubermatte_select_hs_xxc10230_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/tappetini_igienici/592605",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "592605",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "606682",
+    "name": "Mobile in legno Ferplast per toilette",
+    "description": "Moderno mobiletto bianco Ferplast per nascondere la toilette del gatto, da usare anche come nicchia riposo, con porta con chiusura magnetica e apertura per l'ingresso e piedini regolabili in altezza.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/73006_pla_katzenschrank_aus_holz_hs_01_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 99.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/ausilii_pulizia/606682",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "606682",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2103527,
+        "description": "L 53 x P 60 x H 65 cm",
+        "price": {
+          "current": 99.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2120796,
+        "description": "Cassetta interna grigio /bianco L42 x P32 x H12 cm",
+        "price": {
+          "current": 4.69,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "619320",
+    "name": "Lettiera Catsan Naturelle Plus",
+    "description": "Lettiera naturale non agglomerante Catsan Naturelle Plus con <strong>trucioli di legno tenero non trattato</strong>, particolarmente assorbenti, biodegradabile, assorbe efficacemente liquidi e cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/73617_pla_catsan_naturelleplus_20l_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 23.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/catsan/619320",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "619320",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2156183,
+        "description": "20 L (ca. 8,6 kg)",
+        "price": {
+          "current": 23.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 2156182,
+        "description": "Set %: 2 x 20 L (ca. 17 Kg)",
+        "price": {
+          "current": 44.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,11",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2128800",
+    "name": "Lettiera per gatti Savic Hop effetto marmo",
+    "description": "Moderna lettiera con ingresso dall'alto<strong> in un lussuoso look marmoreo</strong>, i lati alti impediscono la fuoriuscita di lettiera, sporco e liquidi, <strong>ampia apertura</strong> per un facile accesso, dimensioni: L 58,5 x L 39 x H 39,5 cm",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/509905_pla_savic_katzentoilette_hop_in_back_black_hs_01_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 33.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_box/2128800",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2128800",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5574640,
+        "description": "nero-oro",
+        "price": {
+          "current": 33.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5574643,
+        "description": "Bag it Up Sacchetti per lettiere, Hop In, 1 x 6 pz",
+        "price": {
+          "current": 4.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "20%"
+      },
+      {
+        "variantId": 5574646,
+        "description": "Kit iniziale: Toilet effetto marmo nero/oro + 6 Bag it up",
+        "price": {
+          "current": 36.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2009196",
+    "name": "Toilette per gatti TIAKI Pixie",
+    "description": "Box toilette per gatti, facile da pulire, <strong>con pratico cassetto </strong>estraibile e maniglia per il trasporto, porta basculante trasparente, <strong>paletta inclusa. </strong>Colore: rosa;&nbsp;misure: L 53,2 x P 41 x H 40,6 cm.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/414998_pla_tiaki_haubentoilette_pixie_hs_01_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 36.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/toilette_gatti/box_toilette_gatti_con_cerniera/2009196",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2009196",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2229912",
+    "name": " Prezzo speciale! Tigerino VET Additivi per lettiera",
+    "description": "<strong>Offerta limitata:</strong> 4 x 10 g o 700 g di additivi per lettiera Tigerino VET, facili da usare e sicuri, ideali per monitorare la salute del gatto e contribuire al suo benessere, <strong>con uno speciale sconto del <span style=\"color:#ed1c24;\">20%</span>!</strong>",
+    "imageUrl": "https://media.zooplus.com/bilder/3/400/501075_tigerino_vet_blood_detection_4x10g_01_8_1__3.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.39,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/vet/2229912",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2229912",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5829877,
+        "description": "4 x 10 g Rilevatore di sangue nelle urine",
+        "price": {
+          "current": 14.39,
+          "currency": "EUR",
+          "unitPrice": "€ 359,75",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5829881,
+        "description": "700 g Relax & Support",
+        "price": {
+          "current": 6.79,
+          "currency": "EUR",
+          "unitPrice": "€ 6,79",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5829780,
+        "description": "4 x 10 g Rilevatore del pH urinario",
+        "price": {
+          "current": 14.39,
+          "currency": "EUR",
+          "unitPrice": "€ 14,39",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1944939",
+    "name": "Lettiera agglomerante Porta SoftCat Grass",
+    "description": "Lettiera ecologica per gatti, con un sicuro assorbimento degli odori, si agglomera saldamente per una facile pulizia, può essere smaltita nella toilette o nei rifiuti bio.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/388897_pla_porta_softcat_grass_9_5l_hs_01_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 21.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiera_agglomerante/lettiere/1944939",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1944939",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5158188,
+        "description": "9,5 l",
+        "price": {
+          "current": 21.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,31",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 5158266,
+        "description": "17 l",
+        "price": {
+          "current": 37.49,
+          "currency": "EUR",
+          "unitPrice": "€ 2,21",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": false,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1944861",
+    "name": "Lettiera Porta SoftCat Mais",
+    "description": "Lettiera biodegradabile per gatti, lega in modo sicuro i cattivi odori, dall'elevato potere agglomerante e capacità assorbente, delicata sulle zampette e facile da smaltire nello scarico della toilette.",
+    "imageUrl": "https://media.zooplus.com/bilder/2/400/388898_porta_softcat_corn_hs_01_2.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 16.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/softcat/1944861",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1944861",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5158270,
+        "description": "9,5 L",
+        "price": {
+          "current": 16.79,
+          "currency": "EUR",
+          "unitPrice": "€ 1,77",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5158268,
+        "description": "17 L",
+        "price": {
+          "current": 27.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,65",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      },
+      {
+        "variantId": 5158190,
+        "description": "Set%: 2 x 17 L",
+        "price": {
+          "current": 52.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": true,
+        "discountAmount": "15%"
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "717926",
+    "name": "Cassetta igienica Savic Simba con setaccio",
+    "description": "<p>Cassetta igienica Savic Simba <strong>con setaccio per una pulizia rapida</strong> e<strong> un basso consumo di lettiera</strong>, con <strong>bordo largo</strong> e ingresso ribassato, indicata <strong>per razze di taglia grande</strong>. Mis: L 64 x P 46 x H 31 cm.</p>\n",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/83535_pla_savic_katzentoilette_simba_mit_sieb_hs_04_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 41.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cassettine_igieniche_gatti/717926",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "717926",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1006655",
+    "name": "Multipack Risparmio! 2 x 12 kg Lettiera Tigerino Canada Style/Special Edition / Premium",
+    "description": "Lettiera agglomerante Tigerino Canada&nbsp; Style in granulato di argilla naturale, alto rendimento e potere assorbente, in tante profumate varianti o senza profumo <strong>- ora in conveniente multipack risparmio da 2 x 12 kg!</strong>",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/icon_percent_template_1000x1000_int_4_2023_04_06t130738_775_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 25.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/canada/1006655",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1006655",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3310636,
+        "description": "Limited Edition: al latte di mandorle e miele",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3455372,
+        "description": "Edizione Speciale - Profumo di lavanda",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3255421,
+        "description": "Edizione Speciale - Fresh Cut Grass",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3255419,
+        "description": "al borotalco",
+        "price": {
+          "current": 24.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3255420,
+        "description": "Sensitive (senza profumo)",
+        "price": {
+          "current": 24.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3579028,
+        "description": "alla vaniglia",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3255418,
+        "description": "alla rosa bianca",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "474945",
+    "name": "Lettiera vegetale Greenwoods Plant Fibre",
+    "description": "Lettiera vegetale agglomerante Greenwoods Plant Fibre, composta da fibre vegetali,&nbsp;<strong>biodegradabile e compostabile</strong>, ad alto rendimento,<strong>&nbsp;</strong>poco polverosa e delicata sulle zampine.&nbsp;<strong>Ora nel nuovo look!</strong>",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/icon_topseller_1_2021_12_27t124734_152_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 8.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/greenwoods/legno/474945",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "474945",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3038766,
+        "description": "8 L (ca. 3,7 kg)",
+        "price": {
+          "current": 8.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3104184,
+        "description": "30 L (ca. 13,2 kg)",
+        "price": {
+          "current": 25.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,87",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3104247,
+        "description": "Set %: 2 x 30 l (ca. 25,8 kg)",
+        "price": {
+          "current": 48.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,82",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2018786,
+        "description": "paletta igienica per lettiere Ultra",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,99",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "315442",
+    "name": "Lettiera Tigerino Canada Style / Premium - Sensitive (senza profumo)",
+    "description": "Lettiera agglomerante di alta qualità per gatti,&nbsp;in granulato di argilla naturale, dal rapido potere agglomerante. <strong>N</strong><b><strong>on</strong> polverosa, priva di profumo e indicata anche per gatti sensibili agli odori.</b>",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/tigerino_premium_sensitive_12kg_1000x1000_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 7.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/canada/315442",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "315442",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2515328,
+        "description": "6 kg",
+        "price": {
+          "current": 7.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,33",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2183398,
+        "description": "12 kg",
+        "price": {
+          "current": 13.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2183495,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 24.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "59543",
+    "name": "Lettiera Tigerino Nuggies (Ultra) a grana fine - borotalco",
+    "description": "Lettiera agglomerante in argilla naturale Tigerino Nuggies Ultra a grana fine, poco polverosa, igienica e dal rapido potere agglomerante, lega efficacemente i cattivi odori. <strong>Al profumo di borotalco</strong>.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/tigerino_nuggies_babypowder_14l_1000x1000_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/nuggies/59543",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "59543",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2003489,
+        "description": "14 L (ca. 14,4 kg)",
+        "price": {
+          "current": 11.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2003490,
+        "description": "Set %: 2 x 14 L (ca. 28,8 kg)",
+        "price": {
+          "current": 21.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,79",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2161897",
+    "name": "Lettiera Tigerino Plant-Based Mais - Profumo di Borotalco",
+    "description": "Lettiera sostenibile e idrosolubile in mais per gatti, ad alto rendimento, costituita da pellet vegetali dall'elevato potere agglomerante, efficace contro i cattivi odori. Ora al delicato profumo di bototalco!",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/520396_pla_plantbased_mais_babypuderduft_7l_01_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/plantbased/2161897",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2161897",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5663693,
+        "description": "7 L",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5663694,
+        "description": "14 L",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5663695,
+        "description": "Set %:  2 x 14 L",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "495666",
+    "name": "Lettiera agglomerante Tigerino Crystals - Fresh / Profumo di borotalco",
+    "description": "<strong>Lettiera agglomerante in silicio</strong> Tigerino Crystals Fresh per gatti, <strong>al delicato profumo di borotalco</strong>, neutralizza all'istante i cattivi odori,&nbsp;potere assorbente pari al 200%, dall'ottima resa.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/tigerino_crystal_babypowder_5l_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/495666",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "495666",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1661001,
+        "description": "5L  (ca. 2 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 1661002,
+        "description": "Set %: 3 x 5 L (ca. 6 kg) ",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "677953",
+    "name": "Lettiera Tigerino Nuggies (Ultra) - fiori di cotone",
+    "description": "Lettiera agglomerante in argilla naturale Tigerino Nuggies Ultra <strong>al profumo di fiori di cotone</strong>, dal rapido potere agglomerante e poco polverosa, con efficace <strong>formula Aroma Control</strong>&nbsp;contro i cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/tigerino_nuggies_frechcotton_14l_1000x1000_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/nuggies/677953",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "677953",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2394201,
+        "description": "14 L (ca. 14,2 kg)",
+        "price": {
+          "current": 11.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2394200,
+        "description": "Set %: 2 x 14 L (ca. 28,4 kg)",
+        "price": {
+          "current": 21.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,79",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1418402",
+    "name": "Lettiera Tigerino Performance - Zeolite Control",
+    "description": "Lettiera agglomerante per gatti Tigerino Performance Zeolite Control,&nbsp;in bentonite con zeolite blu per un controllo extra forte di odori e batteri, ultra assorbente e povera di polvere,&nbsp;al profumo di borotalco",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/tigerino_performance_zeolite_12kg_1000x1000_6_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/xlgrain/1418402",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1418402",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4277748,
+        "description": "12 kg",
+        "price": {
+          "current": 14.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,21",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4277829,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "209432",
+    "name": "Lettiera Tigerino Crystals - Profumo di fiori",
+    "description": "Lettiera in silicio per gatti Lettiera Tigerino Crystals <strong>al profumo di fiori</strong>, ultra assorbente, priva di polvere e dall'ottima resa, rilascia nell'ambiente una gradevole fragranza floreale.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/1_tigerino_crystal_flower_5l_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/209432",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "209432",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 636531,
+        "description": "5 L (ca. 2,1 kg)",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 636532,
+        "description": "Set %: 3 x 5 L (6,3 kg)",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2515346,
+        "description": "Set %: 6 x 5 L (12,6 kg)",
+        "price": {
+          "current": 34.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,17",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1931019",
+    "name": "Lettiera Tigerino Crystals – Sensitive (senza profumo)",
+    "description": "Lettiera agglomerante in silicio per gatti, priva di polvere, ultra assorbente, leggera e dall'ottima resa, neutralizza all'istante i cattivi odori e inibisce la proliferazione batterica. Senza profumo.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/379515_pla_tigerino_crystals_clumping_sensitive_5l_1000x1000_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/silicio/1931019",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1931019",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5121941,
+        "description": "5 L",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,40",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5121940,
+        "description": "Set %: 3 x 5 L",
+        "price": {
+          "current": 18.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,27",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1317158",
+    "name": "Lettiera agglomerante Greenwoods in argilla naturale",
+    "description": "<strong>Ora nel nuovo look!</strong> Lettiera agglomerante Greenwoods in argilla naturale, granulato finissimo <b>ad alto rendimento e super assorbente</b>, con<b> zeoliti verdi e profumo di talco </b>contro batteri e cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/greenwoods_cat_litter_babypowder_front_6kg_1000x1000_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 8.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/greenwoods/betonite/1317158",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1317158",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3927355,
+        "description": "6 kg",
+        "price": {
+          "current": 8.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,42",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3927283,
+        "description": "12 kg",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,08",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3927354,
+        "description": "Set %: 2 x 12 kg",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "950149",
+    "name": "Lettiera Tigerino Nuggies (Ultra) - Sensitive (senza profumo)",
+    "description": "Lettiera agglomerante a grana fine Tigerino Nuggies Ultra Sensitive, <strong>priva di profumo</strong> per gatti sensibili agli odori, in argilla naturale, dal rapido potere agglomerante, lega a lungo i cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/1_tigerino_nuggies_sensitive_14l_1000x1000_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/nuggies/950149",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "950149",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3077759,
+        "description": "14 L (ca. 14 kg)",
+        "price": {
+          "current": 11.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3077831,
+        "description": "Set %: 2 x 14 L (ca. 28 kg)",
+        "price": {
+          "current": 21.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,79",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1947577",
+    "name": "Lettiera Tigerino Plant-Based Tofu – Profumo di tè verde",
+    "description": "Lettiera sostenibile a base di fibre di soia e amido per gatti, dall'elevato rendimento, idrosolubile e biodegradabile, i suoi pellet vegetali vantano un rapido potere agglomerante, al profumo di tè verde.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/380303_pla_tigerino_plantbased_tofu_litter_green_tea_4_6kg_hs_01_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 13.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/plantbased/1947577",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1947577",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5164624,
+        "description": "11 L (4,6 kg)",
+        "price": {
+          "current": 13.99,
+          "currency": "EUR",
+          "unitPrice": "€ 3,04",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5164702,
+        "description": "Set %: 2 x 11 L (9,2 kg)",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5164623,
+        "description": "Set %: 3 x 11 L (13,8 kg)",
+        "price": {
+          "current": 38.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,83",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "490340",
+    "name": "Paletta igienica per lettiera Ultra",
+    "description": "Paletta igienica per lettiera Ultra a setaccio a maglia stretta, ideale per lettiere agglomeranti molto fini, facilita la pulizia della cassettina igienica o box toilette.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/65110_streuschaufel_ultrastreu_hellgrau_fg_dsc6273_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 1.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/palette_igieniche/490340",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "490340",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1641381,
+        "description": "1 pz",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 1641382,
+        "description": "Set %: 3 pz",
+        "price": {
+          "current": 2.69,
+          "currency": "EUR",
+          "unitPrice": "€ 0,90",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "2161880",
+    "name": "Lettiera Tigerino Plant-Based Mais - Profumo di Pino",
+    "description": "Lettiera sostenibile in mais per gatti, ad alto rendimento, idrosolubile e compostabile, costituita da pellet vegetali dall'elevato potere agglomerante, efficace contro i cattivi odori. Ora al profumo di pino!",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/518149_pla_plantbased_mais_pinienduft_7l_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/plantbased/2161880",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "2161880",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 5663572,
+        "description": "7 L",
+        "price": {
+          "current": 6.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5663571,
+        "description": "14 L",
+        "price": {
+          "current": 12.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,93",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 5663573,
+        "description": "Set %: 2 x 14 L",
+        "price": {
+          "current": 23.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "943525",
+    "name": "Deodorante per lettiera Tigerino Deodoriser / Refresher",
+    "description": "Deodorante per lettiera Tigerino Deodoriser/Refresher, in granulato di argilla naturale, lega gli odori, <strong>prolunga la durata della lettiera</strong> e ne&nbsp;<strong>rafforza il potere agglomerante</strong>. In 3 profumazioni!",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/1_tigerino_refresher_babypowder_700g_1000x1000_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 5.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/deodoranti_gatti/943525",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "943525",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3066248,
+        "description": "Baby Powder 700 g",
+        "price": {
+          "current": 5.99,
+          "currency": "EUR",
+          "unitPrice": "€ 8,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4439528,
+        "description": "Fresh Cotton 700 g",
+        "price": {
+          "current": 5.99,
+          "currency": "EUR",
+          "unitPrice": "€ 8,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4439529,
+        "description": "Spring Fresh 700 g",
+        "price": {
+          "current": 5.99,
+          "currency": "EUR",
+          "unitPrice": "€ 8,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3066249,
+        "description": "Set %: Baby Powder 2 x 700 g",
+        "price": {
+          "current": 10.49,
+          "currency": "EUR",
+          "unitPrice": "€ 7,49",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4439369,
+        "description": "Set %: Fresh Cotton 2 x 700 g",
+        "price": {
+          "current": 10.49,
+          "currency": "EUR",
+          "unitPrice": "€ 7,49",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4439530,
+        "description": "Set %: Spring Fresh 2 x 700 g",
+        "price": {
+          "current": 10.49,
+          "currency": "EUR",
+          "unitPrice": "€ 7,49",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "490342",
+    "name": "Paletta a setaccio per lettiera",
+    "description": "Paletta a setaccio per la toilette del gatto, ideale per <b>lettiere a grana grossa, come quelle agglomeranti e al silicio</b>.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/65112_PLA_Zhongda_Streuloeffel_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 1.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/palette_igieniche/490342",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "490342",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1418409",
+    "name": "Lettiera Tigerino XL Grain / Performance Multi Cat",
+    "description": "Lettiera agglomerante a grana grossa Tigerino XL Grain / Performance Multi Cat, in bentonite con carbone attivo, al profumo di borotalco, poco polverosa, per le abitazioni con più gatti a pelo lungo.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/tigerino_performance_multigrain_12kg_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 14.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/xlgrain/1418409",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1418409",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4277565,
+        "description": "12 L",
+        "price": {
+          "current": 14.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,21",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4277650,
+        "description": "Set %: 2 x 12 L",
+        "price": {
+          "current": 26.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,12",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "712854",
+    "name": "Lettiera Biokat's Bianco Fresh",
+    "description": "Lettiera a grana grossa per gatti&nbsp;Biokat's Bianco Fresh in argilla naturale bianca, con tanta montmorillonite, granuli verdi e fresco profumo, assorbe bene, agglomera rapidamente ed elimina gli odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/icon_topseller_1_2021_12_27t144219_370_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/biokats/grana_grossa/712854",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "712854",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2551911,
+        "description": "10 L (ca 10 kg)",
+        "price": {
+          "current": 10.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,10",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4102749,
+        "description": "Set %: 2 x 10 L (ca. 20 kg)",
+        "price": {
+          "current": 19.79,
+          "currency": "EUR",
+          "unitPrice": "€ 0,99",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "346603",
+    "name": "Tappetino igienico per gatti Zampine",
+    "description": "Tappetino funzionale beige pulisci zampe del gatto con impronte di zampine, superficie morbida; raccoglie perfettamente la sabbietta che esce dalla cassetta, facile da pulire.",
+    "imageUrl": "https://media.zooplus.com/bilder/5/400/55455_PLA_Katzentoilettenvorleger_Pfoetchen_DSC6968_5.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 1.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/palette_lettiera_gatti/tappetini_igienici/346603",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "346603",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "495622",
+    "name": "Lettiera Tigerino Nuggies (Ultra) - Fresh",
+    "description": "<strong>Ora con un nuovo profumo, ancora più fresco:</strong> lettiera agglomerante a grana fine in argilla naturale, poco polverosa, compatta e igienica, forma <b>grumi compatti e assorbe i cattivi odori</b>.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/tigerino_nuggies_springmeadow_14l_1000x1000_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/nuggies/495622",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "495622",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2003492,
+        "description": "14 L (ca. 14,2 kg)",
+        "price": {
+          "current": 11.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,86",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2003493,
+        "description": "Set %: 2 x 14 L (ca. 28,4 kg)",
+        "price": {
+          "current": 21.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,79",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "430555",
+    "name": "Lettiera Biokat's Diamond Care Fresh",
+    "description": "Lettiera agglomerante Biokat's Diamond Care Fresh in argilla naturale, al profumo di borotalco, poco polverosa, cattura gli odori, con carbone attivo assorbente e aloe vera.",
+    "imageUrl": "https://media.zooplus.com/bilder/6/400/icon_topseller_1_2021_12_27t143622_138_6.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 9.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/biokats/diamond_care/430555",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "430555",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2016588,
+        "description": "10 L (ca. 9,45 kg)",
+        "price": {
+          "current": 9.79,
+          "currency": "EUR",
+          "unitPrice": "€ 0,98",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2591147,
+        "description": "Set %: 2 x 10 L (ca. 20 kg)",
+        "price": {
+          "current": 17.69,
+          "currency": "EUR",
+          "unitPrice": "€ 0,88",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2018247,
+        "description": "paletta igienica per lettiere Ultra",
+        "price": {
+          "current": 1.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,99",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "78674",
+    "name": "Lettiera Biokat's Micro",
+    "description": "Lettiera agglomerante a grani extra fini. 4 volte più duratura della lettiera tradizionale, quasi del tutto senza polvere, delicata sulle zampe. Massimo assorbimento cattivi odori.",
+    "imageUrl": "https://media.zooplus.com/bilder/9/400/111702_pla_biokats_micro_classic_14l_hs_01_5_9.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 8.69,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/biokats/grana_ultra_fine/78674",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "78674",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 2963745,
+        "description": "14 L (ca. 14,2 kg)",
+        "price": {
+          "current": 8.69,
+          "currency": "EUR",
+          "unitPrice": "€ 0,62",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 2963746,
+        "description": "Set %: 2 x 14 L (ca. 28,4 kg)",
+        "price": {
+          "current": 15.69,
+          "currency": "EUR",
+          "unitPrice": "€ 0,56",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1001374",
+    "name": "Lettiera Sanicat Senza Profumo",
+    "description": "Lettiera in bentonite Sanicat Senza Profumo, per maggiore freschezza e igiene nella toilette, assorbe efficacemente i liquidi, con ossigeno attivo, a grana grossa, non si attacca alle zampe, senza polvere.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/icon_topseller_1_2021_12_27t152645_952_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 6.19,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/sanicat_professional/agglomeranti__premium/1001374",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1001374",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3239687,
+        "description": "10 L (ca. 9 kg)",
+        "price": {
+          "current": 6.19,
+          "currency": "EUR",
+          "unitPrice": "€ 0,62",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3239688,
+        "description": "Set %: 2 x 10 L (ca. 18 kg)",
+        "price": {
+          "current": 12.29,
+          "currency": "EUR",
+          "unitPrice": "€ 0,61",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "707434",
+    "name": "Lettiera Tigerino Special Care / Performance - Active Carbon",
+    "description": "Lettiera agglomerante <strong>con carbone attivo&nbsp;</strong>dall'<strong>incredibile efficacia antiodore!&nbsp;</strong><strong>100% </strong>a&nbsp;base di&nbsp;<strong>argilla naturale&nbsp;pura</strong>, dall'<strong>elevata capacità assorbente,&nbsp;</strong><strong>delicata&nbsp;</strong>sulle zampette. Al profumo di talco.",
+    "imageUrl": "https://media.zooplus.com/bilder/4/400/tigerino_activecarbon_prformance_14l_1000x1000_4.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 17.49,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/special_care/707434",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "707434",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 3761478,
+        "description": "14 L (ca. 13 kg)",
+        "price": {
+          "current": 17.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,25",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 3761388,
+        "description": "Set %: 2 x 14 L (ca. 26 kg)",
+        "price": {
+          "current": 32.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,18",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "40411",
+    "name": "Lettiera vegetale Cat's Best Original",
+    "description": "Lettiera agglomerante per gatti Cat's Best Original, 100% vegetale, naturale e compostabile, extra assorbente, delicata, cattura gli odori, povera di polvere e conveniente (efficace fino a 7 settimane).",
+    "imageUrl": "https://media.zooplus.com/bilder/0/400/20342_pla_catsbest_original_5l_hs_01_0.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 5.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/cats_best/cats_best/40411",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "40411",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1782548,
+        "description": "5 L (ca. 2,2 kg) - formato Prova!",
+        "price": {
+          "current": 5.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,20",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 295041,
+        "description": "10 L (ca. 4,5 kg)",
+        "price": {
+          "current": 9.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,00",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 533553,
+        "description": "20 L (ca. 9 kg)",
+        "price": {
+          "current": 16.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,85",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 298316,
+        "description": "40 L (ca. 18 kg)",
+        "price": {
+          "current": 32.99,
+          "currency": "EUR",
+          "unitPrice": "€ 0,82",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "567840",
+    "name": "Lettiera Tigerino Nuggies a grana grossa - borotalco",
+    "description": "Lettiera agglomerante a grana grossa in argilla naturale, igienica e poco polverosa, <b>forma grumi compatti e lega gli odori</b>, al profumo di borotalco. Ideale per gatti dal pelo medio o lungo.",
+    "imageUrl": "https://media.zooplus.com/bilder/1/400/tigerino_nuggies_babypowder_xl_14l_1000x1000_1.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/lettiere_gatti_tigerino/nuggies/567840",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": false
+      }
+    ],
+    "sku": "567840",
+    "weight": "",
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "461464",
+    "name": "Lettiera Super Benek Corn Cat Natural",
+    "description": "Lettiera agglomerante Super Benek Corn Cat Natural per gatti, innovativa, 100%<strong> in mais</strong> naturale, compostabile e biodegradabile, eliminabile nella toilette, assorbe gli odori ed è ultra assorbente.",
+    "imageUrl": "https://media.zooplus.com/bilder/8/400/64938_pla_super_benek_corn_cat_classic_naturalny_7l_hs_01_8.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 7.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/gatti/lettiera_gatti/benek/corn_cat/461464",
+        "lastUpdated": "2025-03-23T22:15:05.065Z",
+        "inStock": true
+      }
+    ],
+    "sku": "461464",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 1547821,
+        "description": "7 L (ca. 4,7 kg)",
+        "price": {
+          "current": 7.79,
+          "currency": "EUR",
+          "unitPrice": "€ 1,11",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 1927217,
+        "description": "25 L (ca. 15,7 kg )",
+        "price": {
+          "current": 27.49,
+          "currency": "EUR",
+          "unitPrice": "€ 1,10",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4007041,
+        "description": "35 L (ca. 22,5 kg)",
+        "price": {
+          "current": 37.99,
+          "currency": "EUR",
+          "unitPrice": "€ 1,09",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.065Z",
+    "createdAt": "2025-03-23T22:15:05.065Z"
+  },
+  {
+    "source": "zooplus",
+    "sourceId": "1874541",
+    "name": "Salviette Inodorina alla Clorexidina",
+    "description": "Salviette con clorexidina per cani e gatti Inodorina, in tessuto resistente ma&nbsp;delicato sulla pelle, puliscono, disinfettano e&nbsp;<strong>contribuiscono a rendere il pelo lucido</strong>, senza parabeni né OGM.",
+    "imageUrl": "https://media.zooplus.com/bilder/7/400/384511_pla_inodorina_chlorhexidin_tuecher_hs_01_7.jpg",
+    "brand": "",
+    "category": "/shop/gatti/lettiera_gatti",
+    "prices": [
+      {
+        "store": "zooplus",
+        "price": 2.79,
+        "currency": "EUR",
+        "url": "https://www.zooplus.it/shop/cani/cura_tosatrici_cani/inodorina/1874541",
+        "lastUpdated": "2025-03-23T22:15:05.066Z",
+        "inStock": true
+      }
+    ],
+    "sku": "1874541",
+    "weight": "",
+    "variants": [
+      {
+        "variantId": 4965425,
+        "description": "40 pz",
+        "price": {
+          "current": 2.79,
+          "currency": "EUR",
+          "unitPrice": null,
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4965439,
+        "description": "Set %: 3 x 40 pz",
+        "price": {
+          "current": 7.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,66",
+          "priceDate": "2025-03-23T22:15:05.065Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4965437,
+        "description": "Set %: 6 x 40 pz",
+        "price": {
+          "current": 15.49,
+          "currency": "EUR",
+          "unitPrice": "€ 2,58",
+          "priceDate": "2025-03-23T22:15:05.066Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      },
+      {
+        "variantId": 4965438,
+        "description": "Set %: 12 x 40 pz",
+        "price": {
+          "current": 29.99,
+          "currency": "EUR",
+          "unitPrice": "€ 2,50",
+          "priceDate": "2025-03-23T22:15:05.066Z"
+        },
+        "available": true,
+        "discounted": false,
+        "discountAmount": null
+      }
+    ],
+    "updatedAt": "2025-03-23T22:15:05.066Z",
+    "createdAt": "2025-03-23T22:15:05.066Z"
+  }
+]

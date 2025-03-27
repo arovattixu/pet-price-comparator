@@ -1,0 +1,4 @@
+# Lista di proxy
+# Formato: protocol://username:password@host:port
+# Esempio: http://user:pass@proxy.example.com:8080
+# Lasciare vuoto per usare connessione diretta

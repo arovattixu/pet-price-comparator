@@ -1,0 +1,3720 @@
+[
+  {
+    "id": "15056",
+    "sku": "15056",
+    "gtin": "10140780",
+    "title": "Purina Pro Plan Veterinary Diets Ha Hypoallergenic Gatto",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ha-hypoallergenic-15056/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271790/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-pack-frontale.jpg?v=637884550216100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271791/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-pack-frontale-2.jpg?v=637884550349270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271792/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-composizione.jpg?v=637884550463230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271793/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-dosaggio.jpg?v=637884550562500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271794/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-dimensione.jpg?v=637884550688000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271795/purina-pro-plan-veterinary-diets-ha-hypoallergenic-gatto-pack.jpg?v=637884550791000000"
+    ],
+    "price": {
+      "current": 55.99,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.997142857142858,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15056",
+        "sku": "15056",
+        "gtin": "10140780",
+        "title": "3.5KG",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-ha-hypoallergenic-15056/p",
+        "price": {
+          "current": 55.99,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 15.997142857142858,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-gatto-ha-hypoallergenic-15056p",
+        "name": "Purina Pro Plan Veterinary Diets Ha Hypoallergenic Gatto",
+        "path": "/purina-veterinary-diet-gatto-ha-hypoallergenic-15056/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5271",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "15049",
+    "sku": "15049",
+    "gtin": "10140776",
+    "title": "Purina Pro Plan Veterinary Diets En Gastrointestinal Gatto",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-eh-gastrointestinal-15049/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271628/purina-pro-plan-veterinary-diets-en-gastrointestinal-gatto.jpg?v=637876990739600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271629/purina-pro-plan-veterinary-diets-en-gastrointestinal.jpg?v=637876990845170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271630/purina-pro-plan-veterinary-diets-en-gastrointestinal-gatto-composizione.jpg?v=637876990967030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271631/purina-pro-plan-veterinary-diets-en-gastrointestinal-gatto-dosaggio.jpg?v=637876991064470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271632/purina-pro-plan-veterinary-diets-en-gastrointestinal-gatto-dimensioni.jpg?v=637876991180070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271633/purina-pro-plan-veterinary-diets-en-gastrointestinal-gatto-pack.jpg?v=637876991283600000"
+    ],
+    "price": {
+      "current": 69.9,
+      "original": 99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.98,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15049",
+        "sku": "15049",
+        "gtin": "10140776",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-gatto-eh-gastrointestinal-15049/p",
+        "price": {
+          "current": 69.9,
+          "original": 99,
+          "pricePerUnit": {
+            "value": 13.98,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-gatto-eh-gastrointestinal-15049p",
+        "name": "Purina Pro Plan Veterinary Diets En Gastrointestinal Gatto",
+        "path": "/purina-veterinary-diet-gatto-eh-gastrointestinal-15049/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5491",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22465",
+    "sku": "22465",
+    "gtin": "10170041",
+    "title": "Royal Canin V-Diet Fibre Response Alimento completo per gatti adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-fiber-response-22465/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289759/RC-VHN-FibreResponseFr31-MV-Eretailkit-1-it_IT.pdf.jpg?v=638308084297100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289760/RC-VHN-FibreResponseFr31-CV-Eretailkit-1-it_IT.pdf.jpg?v=638308084374900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289761/RC-VHN-FibreResponseFr31-CV-Eretailkit-7-it_IT.pdf.jpg?v=638308084526370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289762/RC-VHN-FibreResponseFr31-CV-Eretailkit-6-it_IT.pdf.jpg?v=638308084609530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289763/RC-VHN-FibreResponseFr31-CV-Eretailkit-9-it_IT.pdf.jpg?v=638308084700300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289764/RC-VHN-FibreResponseFr31-CV-Eretailkit-2-it_IT.pdf.jpg?v=638308084833900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289765/RC-VHN-FibreResponseFr31-CV-Eretailkit-3-it_IT.pdf.jpg?v=638308084926170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289766/RC-VHN-FibreResponseFr31-CV-Eretailkit-4-it_IT.pdf.jpg?v=638308085010430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289767/RC-VHN-FibreResponseFr31-CV-Eretailkit-5-it_IT.pdf.jpg?v=638308085356300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292424/post-smaltimento-rc-10170041.jpg?v=638369296909100000"
+    ],
+    "price": {
+      "current": 76.99,
+      "original": 76.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.2475,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22465",
+        "sku": "22465",
+        "gtin": "10170041",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-fiber-response-22465/p",
+        "price": {
+          "current": 76.99,
+          "original": 76.99,
+          "pricePerUnit": {
+            "value": 19.2475,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-fiber-response-22465p",
+        "name": "Royal Canin V-Diet Fibre Response Alimento completo per gatti adulti",
+        "path": "/royal-canin-veterinary-diet-gatto-fiber-response-22465/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5516",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7743",
+    "sku": "7743",
+    "gtin": "10056313",
+    "title": "Royal Canin V-Diet Gastrointestinal Moderate Calorie",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-moderate-calorie-7743/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316800/royal-canin-veterinary-diet-gatto-gastrointestinal-moderate-calorie.jpg?v=638759906021800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316801/Tabella-royal-vdiet-gastrointestinal-moderate-calorie_risultato.jpg.jpg?v=638759906021800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316802/post-smaltimento-rc-10056313.jpg?v=638759906021970000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.995,
+        "unit": "KG"
+      },
+      "discountPercentage": 9
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7743",
+        "sku": "7743",
+        "gtin": "10056313",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-moderate-calorie-7743/p",
+        "price": {
+          "current": 29.99,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 14.995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-gastrointestinal-moderate-calorie-7743p",
+        "name": "Royal Canin V-Diet Gastrointestinal Moderate Calorie",
+        "path": "/royal-canin-veterinary-diet-gatto-gastrointestinal-moderate-calorie-7743/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5518",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7349",
+    "sku": "7349",
+    "gtin": "10044888",
+    "title": "Royal Canin V-Diet Sensitivity Control",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-sensitivity-control-400g-7349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288177/_0000_F-DERMA-SENSCONT-PACKSHOT-B1.jpg?v=638241447486800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292430/post-smaltimento-rc-10044888.jpg?v=638369299595830000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 30.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.326666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7349",
+        "sku": "7349",
+        "gtin": "10044888",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-sensitivity-control-400g-7349/p",
+        "price": {
+          "current": 25.99,
+          "original": 30.99,
+          "pricePerUnit": {
+            "value": 17.326666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-sensitivity-control-400g-7349p",
+        "name": "Royal Canin V-Diet Sensitivity Control",
+        "path": "/royal-canin-veterinary-diet-gatto-sensitivity-control-400g-7349/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5521",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7350",
+    "sku": "7350",
+    "gtin": "10055159",
+    "title": "Royal Canin V-Diet Urinary S/O Moderate Calorie",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-moderate-calorie-7350/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288273/_0000_C_URINARY_MC_B1_PACKSHOT.jpg?v=638242472228770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259407/royal-canin-v-diet-urinary-moderate-calorie-dosaggio.jpg?v=637604899983470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292432/post-smaltimento-rc-10055159.jpg?v=638369300291670000"
+    ],
+    "price": {
+      "current": 24.64,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.426666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7350",
+        "sku": "7350",
+        "gtin": "10055159",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-moderate-calorie-7350/p",
+        "price": {
+          "current": 24.64,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 16.426666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-urinary-moderate-calorie-7350p",
+        "name": "Royal Canin V-Diet Urinary S/O Moderate Calorie",
+        "path": "/royal-canin-veterinary-diet-gatto-urinary-moderate-calorie-7350/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5522",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "8483",
+    "sku": "8483",
+    "gtin": "10068864",
+    "title": "Royal Canin V-Diet Urinary S/O Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-s-o-8483/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288277/_0001_C_URINARY_B1_PACKSHOT.jpg?v=638242474441900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256938/royal-canin-v-diet-cat-urinary-s-o-dosaggio.jpg?v=637574409092830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292436/post-smaltimento-rc-10068864.jpg?v=638369301811900000"
+    ],
+    "price": {
+      "current": 69.69,
+      "original": 73.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.955714285714285,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8483",
+        "sku": "8483",
+        "gtin": "10068864",
+        "title": "7KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-urinary-s-o-8483/p",
+        "price": {
+          "current": 69.69,
+          "original": 73.99,
+          "pricePerUnit": {
+            "value": 9.955714285714285,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "7KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-urinary-s-o-8483p",
+        "name": "Royal Canin V-Diet Urinary S/O Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-urinary-s-o-8483/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5523",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7745",
+    "sku": "7745",
+    "gtin": "10129826",
+    "title": "Royal Canin V-Diet Gastrointestinal Kitten",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-kitten-gastrointestinal-7745/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227189/royal-canin-veterinary-diet-kitten-gastrointestinal.jpg?v=637454790795700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259413/royal-canin-v-diet-kitten-gastrointestinal-dosaggio.jpg?v=637604907430430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292439/post-smaltimento-rc-10129826.jpg?v=638369302921530000"
+    ],
+    "price": {
+      "current": 31.99,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.995,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7745",
+        "sku": "7745",
+        "gtin": "10129826",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-kitten-gastrointestinal-7745/p",
+        "price": {
+          "current": 31.99,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 15.995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-kitten-gastrointestinal-7745p",
+        "name": "Royal Canin V-Diet Gastrointestinal Kitten",
+        "path": "/royal-canin-veterinary-diet-kitten-gastrointestinal-7745/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5524",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "12818",
+    "sku": "12818",
+    "gtin": "10138774",
+    "title": "Royal Canin V-Diet  Hypoallergenic Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-hypoallergenic-12818/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288184/_0001_F-DERMA-HYPO-PACKSHOT-B1.jpg?v=638241459200730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256930/royal-canin-v-diet-cat-hipoallergenic-dosaggio.jpg?v=637574397669130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292442/post-smaltimento-rc-10138774.jpg?v=638369304176970000"
+    ],
+    "price": {
+      "current": 66.99,
+      "original": 74.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.886666666666665,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12818",
+        "sku": "12818",
+        "gtin": "10138774",
+        "title": "4.5KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-hypoallergenic-12818/p",
+        "price": {
+          "current": 66.99,
+          "original": 74.99,
+          "pricePerUnit": {
+            "value": 14.886666666666665,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-hypoallergenic-12818p",
+        "name": "Royal Canin V-Diet  Hypoallergenic Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-hypoallergenic-12818/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5710",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7711",
+    "sku": "7711",
+    "gtin": "00003554",
+    "title": "Royal Canin V-Diet Renal Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-7711/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288219/_0000_F-RENAL-PACKSHOT-B1-VETVIT19.jpg?v=638242281968170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259419/royal-canin-v-diet-renal-gatto-dosaggio.jpg?v=638759906430200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292315/post-smaltimento-rc-00003554.jpg?v=638759906430200000"
+    ],
+    "price": {
+      "current": 30.99,
+      "original": 34.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7711",
+        "sku": "7711",
+        "gtin": "00003554",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-7711/p",
+        "price": {
+          "current": 30.99,
+          "original": 34.99,
+          "pricePerUnit": {
+            "value": 15.495,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-7711p",
+        "name": "Royal Canin V-Diet Renal Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-7711/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6221",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7734",
+    "sku": "7734",
+    "gtin": "00035629",
+    "title": "Royal Canin V-Diet Renal Special Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-special-7734/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288223/_0001_F-RENAL_SPE-PACKSHOT-B1-VETVIT19.jpg?v=638242286490500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259425/royal-canin-v-diet-renal-special-gatto-dosaggio.jpg?v=637604920933470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292322/post-smaltimento-rc-00035629.jpg?v=638368694441500000"
+    ],
+    "price": {
+      "current": 30.99,
+      "original": 36.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7734",
+        "sku": "7734",
+        "gtin": "00035629",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-special-7734/p",
+        "price": {
+          "current": 30.99,
+          "original": 36.49,
+          "pricePerUnit": {
+            "value": 15.495,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-special-7734p",
+        "name": "Royal Canin V-Diet Renal Special Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-special-7734/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6278",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7275",
+    "sku": "7275",
+    "gtin": "10060405",
+    "title": "Forza10 MonoDiet Cat Pesce",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-regular-diet-al-pesce-per-gatti-7275/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300316/Forza10-MonoDiet-Cat-Pesce-10060405.jpg?v=638495713294630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300317/Forza10-MonoDiet-Cat-Pesce-10060405-2.jpg?v=638495713990830000"
+    ],
+    "price": {
+      "current": 15.9,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7275",
+        "sku": "7275",
+        "gtin": "10060405",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/forza10-regular-diet-al-pesce-per-gatti-7275/p",
+        "price": {
+          "current": 15.9,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 10.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "forza10-regular-diet-al-pesce-per-gatti-7275p",
+        "name": "Forza10 MonoDiet Cat Pesce",
+        "path": "/forza10-regular-diet-al-pesce-per-gatti-7275/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7114",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "25151",
+    "sku": "25151",
+    "gtin": "10177011",
+    "title": "Royal Canin V-Diet Satiety Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-satiety-25151/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316816/royal-canin-veterinary-diet-gatto-satiety-10177011--2-.jpg.jpg?v=638759921629100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316817/royal-canin-veterinary-diet-gatto-satiety-10177011--1-.jpg.jpg?v=638759921629100000"
+    ],
+    "price": {
+      "current": 88.99,
+      "original": 88.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.831666666666665,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25151",
+        "sku": "25151",
+        "gtin": "10177011",
+        "title": "6KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-satiety-25151/p",
+        "price": {
+          "current": 88.99,
+          "original": 88.99,
+          "pricePerUnit": {
+            "value": 14.831666666666665,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-satiety-25151p",
+        "name": "Royal Canin V-Diet Satiety Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-satiety-25151/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7185",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7388",
+    "sku": "7388",
+    "gtin": "00003586",
+    "title": "Royal Canin V-Diet Diabetic Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-diabetic-7388/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288245/_0001_F_DIABETIC_B1_PACKSHOT_2019.jpg?v=638242316946300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259603/royal-canin-v-diet-diabetic-gatto-dosaggio.jpg?v=637605787140400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292421/post-smaltimento-rc-00003586.jpg?v=638369295639700000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.326666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7388",
+        "sku": "7388",
+        "gtin": "00003586",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-diabetic-7388/p",
+        "price": {
+          "current": 25.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 17.326666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-diabetic-7388p",
+        "name": "Royal Canin V-Diet Diabetic Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-diabetic-7388/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7225",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7436",
+    "sku": "7436",
+    "gtin": "10115181",
+    "title": "Farmina Cat Vet Life Ultrahypo",
+    "brand": "FARMINA",
+    "url": "https://www.arcaplanet.it/farmina-vet-life-gatto-ultrahypo-2kg-7436/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227403/farmina-vet-life-gatto-ultrahypo.jpg?v=637454792723330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258758/ultrahypo-farmina-cat.jpg?v=637598638798970000"
+    ],
+    "price": {
+      "current": 32.2,
+      "original": 37.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.1,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7436",
+        "sku": "7436",
+        "gtin": "10115181",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/farmina-vet-life-gatto-ultrahypo-2kg-7436/p",
+        "price": {
+          "current": 32.2,
+          "original": 37.99,
+          "pricePerUnit": {
+            "value": 16.1,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "farmina-vet-life-gatto-ultrahypo-2kg-7436p",
+        "name": "Farmina Cat Vet Life Ultrahypo",
+        "path": "/farmina-vet-life-gatto-ultrahypo-2kg-7436/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7271",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "8266",
+    "sku": "8266",
+    "gtin": "00018221",
+    "title": "Royal Canin V-Diet Renal Select Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-select-2kg-8266/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316803/royal-canin-veterinary-diet-gatto-renal-select-2kg-00018221--1-.jpg.jpg?v=638759909278770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316804/royal-canin-veterinary-diet-gatto-renal-select-2kg-00018221--2-.jpg.jpg?v=638759909278770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316805/royal-canin-veterinary-diet-gatto-renal-select-2kg-00018221--3-.jpg.jpg?v=638759909278770000"
+    ],
+    "price": {
+      "current": 54.99,
+      "original": 66.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.7475,
+        "unit": "KG"
+      },
+      "discountPercentage": 18
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8266",
+        "sku": "8266",
+        "gtin": "00018221",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-renal-select-2kg-8266/p",
+        "price": {
+          "current": 54.99,
+          "original": 66.99,
+          "pricePerUnit": {
+            "value": 13.7475,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-renal-select-2kg-8266p",
+        "name": "Royal Canin V-Diet Renal Select Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-renal-select-2kg-8266/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7282",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7732",
+    "sku": "7732",
+    "gtin": "10078171",
+    "title": "Royal Canin V-Diet Anallergenic Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-anallergic-2kg-7732/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288178/_0002_F-DERMA-ANA-PACKSHOT-B1.jpg?v=638241452785770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259595/royal-canin-v-diet-anallergic-gatto-dosaggio.jpg?v=637605778565770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292521/post-smaltimento-rc-10078171.jpg?v=638369361975400000"
+    ],
+    "price": {
+      "current": 37.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 18.995,
+        "unit": "KG"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7732",
+        "sku": "7732",
+        "gtin": "10078171",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-anallergic-2kg-7732/p",
+        "price": {
+          "current": 37.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 18.995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-anallergic-2kg-7732p",
+        "name": "Royal Canin V-Diet Anallergenic Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-anallergic-2kg-7732/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7564",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "20359",
+    "sku": "20359",
+    "gtin": "10119913",
+    "title": "Royal Canin Veterinary Diet Gastrointestinal Gatto",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-20359/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279932/1200x1200_Gastro-CAT--1-.jpg?v=638112329284470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297015/tabella-royal-canin-gastrointestinal-gatto-10119913.jpg?v=638458506180430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297016/post-smaltimento-rc-10119913.jpg?v=638458506475500000"
+    ],
+    "price": {
+      "current": 66.99,
+      "original": 66.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.7475,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20359",
+        "sku": "20359",
+        "gtin": "10119913",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-gatto-gastrointestinal-20359/p",
+        "price": {
+          "current": 66.99,
+          "original": 66.99,
+          "pricePerUnit": {
+            "value": 16.7475,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-gatto-gastrointestinal-20359p",
+        "name": "Royal Canin Veterinary Diet Gastrointestinal Gatto",
+        "path": "/royal-canin-veterinary-diet-gatto-gastrointestinal-20359/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7574",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.524Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "13427",
+    "sku": "13427",
+    "gtin": "10139263",
+    "title": "Hill's Prescription Diet i/d Digestive Care Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-digestive-care-con-pollo-13427/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269541/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-pack.jpg?v=637826125192000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269542/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-transizione.jpg?v=638745442915430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269543/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-salute.jpg?v=638745442915430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269544/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-razione.jpg?v=638745442915430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269546/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-ingredienti.jpg?v=638745442915430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269547/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-crocchette.jpg?v=638745442915600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269548/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-come-aiuta.jpg?v=638745442915600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269549/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-come-funziona.jpg?v=638745442915600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269550/hills-prescription-diet-i-d-alimento-per-gatti-con-pollo-benefici.jpg?v=638745442915600000"
+    ],
+    "price": {
+      "current": 77.9,
+      "original": 112.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.7375,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13427",
+        "sku": "13427",
+        "gtin": "10139263",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-i-d-digestive-care-con-pollo-13427/p",
+        "price": {
+          "current": 77.9,
+          "original": 112.99,
+          "pricePerUnit": {
+            "value": 9.7375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-i-d-digestive-care-con-pollo-13427p",
+        "name": "Hill's Prescription Diet i/d Digestive Care Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-i-d-digestive-care-con-pollo-13427/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9288",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14713",
+    "sku": "14713",
+    "gtin": "10140433",
+    "title": "Hill's Prescription Diet k/d Kidney Care Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-pollo-14713/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300634/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-1.png?v=638506877821470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300635/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-2.png?v=638506877991670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300636/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-3.jpg?v=638506878188470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300637/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-4.jpg?v=638506878360000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300718/Hill-s-Prescription-Diet-k-d-Kidney-Care-Alimento-Secco-per-Gatti-10140433-5.jpg?v=638507542778230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300719/Hill-s-Prescription-Diet-k-d-Kidney-Care-Alimento-Secco-per-Gatti-10140433-6.jpg?v=638507542883370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300720/Hill-s-Prescription-Diet-k-d-Kidney-Care-Alimento-Secco-per-Gatti-10140433-7.jpg?v=638507543012600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300721/Hill-s-Prescription-Diet-k-d-Kidney-Care-Alimento-Secco-per-Gatti-10140433-8.jpg?v=638507543142370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300855/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-9.jpg?v=638508384207730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300856/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-10140433-10.jpg?v=638508384328900000"
+    ],
+    "price": {
+      "current": 39.09,
+      "original": 48.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.030000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14713",
+        "sku": "14713",
+        "gtin": "10140433",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-pollo-14713/p",
+        "price": {
+          "current": 39.09,
+          "original": 48.99,
+          "pricePerUnit": {
+            "value": 13.030000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-k-d-pollo-14713p",
+        "name": "Hill's Prescription Diet k/d Kidney Care Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-k-d-pollo-14713/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9426",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "12932",
+    "sku": "12932",
+    "gtin": "10138884",
+    "title": "Hill's Prescription Diet Metabolic Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-metabolic-12932/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267738/hills-prescription-diet-metabolic-pollo-pack.jpg?v=637811470552600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267250/hills-prescription-diet-metabolic-pollo-transizione.jpg?v=638747764219630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267251/hills-prescription-diet-metabolic-pollo-gestione-peso.jpg?v=638747764219800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267252/hills-prescription-diet-metabolic-pollo-razione.jpg?v=638747764219800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267253/hills-prescription-diet-metabolic-pollo-somministrazione.jpg?v=638747764219970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267254/hills-prescription-diet-metabolic-pollo-ingredienti.jpg?v=638747764219970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267255/hills-prescription-diet-metabolic-pollo-crocchette.jpg?v=638747764219970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267256/hills-prescription-diet-metabolic-pollo-come-aiuta.jpg?v=638747764219970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267257/hills-prescription-diet-metabolic-pollo-come-funziona.jpg?v=638747764219970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267258/hills-prescription-diet-metabolic-pollo-caratteristiche.jpg?v=638747764220100000"
+    ],
+    "price": {
+      "current": 96.89,
+      "original": 113.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.11125,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12932",
+        "sku": "12932",
+        "gtin": "10138884",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-metabolic-12932/p",
+        "price": {
+          "current": 96.89,
+          "original": 113.99,
+          "pricePerUnit": {
+            "value": 12.11125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-metabolic-12932p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-metabolic-12932/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9470",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "12931",
+    "sku": "12931",
+    "gtin": "10138883",
+    "title": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-stress-al-pollo-12931/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268946/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-pack.jpg?v=637822437942500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268931/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-transizione.jpg?v=638747769078400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268932/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-salute.jpg?v=638747769078530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268933/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-razione.jpg?v=638747769078530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268935/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-ingredienti.jpg?v=638747769078530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268936/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-crocchette.jpg?v=638747769078700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268937/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-come-aiuta.jpg?v=638747769078700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268938/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-come-funziona.jpg?v=638747769078700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268939/hills-prescription-diet-c-d-multicare-stress-alimento-gatto-con-pollo-benefici.jpg?v=638747769078870000"
+    ],
+    "price": {
+      "current": 110.99,
+      "original": 110.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.87375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12931",
+        "sku": "12931",
+        "gtin": "10138883",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-stress-al-pollo-12931/p",
+        "price": {
+          "current": 110.99,
+          "original": 110.99,
+          "pricePerUnit": {
+            "value": 13.87375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-urinary-stress-al-pollo-12931p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Multicare Stress Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-c-d-urinary-stress-al-pollo-12931/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9472",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14913",
+    "sku": "14913",
+    "gtin": "10140660",
+    "title": "Hill's Prescription Diet k/d Kidney Care Alimento Secco per Gatti con Tonno",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-tonno-14913/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300382/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660.jpg?v=638497315778200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300384/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660..jpg?v=638747806103170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300389/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-crochette.jpg?v=638747806103300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300607/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-dosaggio.jpg?v=638747806103300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300608/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-componenti-analitici.jpg?v=638747806103300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300609/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660.jpg?v=638747806103470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300610/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-2.jpg?v=638747806103470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300611/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-1.jpg?v=638747806103470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300787/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-9.jpg?v=638747806103470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300788/Hill-s-Prescription-Diet-kd-Kidney-Care-Alimento-Secco-per-Gatti-con-Tonno-10140660-10.jpg?v=638747806103630000"
+    ],
+    "price": {
+      "current": 39.09,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.030000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 2
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14913",
+        "sku": "14913",
+        "gtin": "10140660",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-k-d-tonno-14913/p",
+        "price": {
+          "current": 39.09,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 13.030000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-k-d-tonno-14913p",
+        "name": "Hill's Prescription Diet k/d Kidney Care Alimento Secco per Gatti con Tonno",
+        "path": "/hills-prescription-diet-gatto-k-d-tonno-14913/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9473",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14978",
+    "sku": "14978",
+    "gtin": "10140738",
+    "title": "Hill's Prescription Diet r/d Weight Loss Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-r-d-14978/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270119/hills-prescription-diet-r-d-weight-loss-gatto-pollo-pack.jpg?v=637842517365900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270120/hills-prescription-diet-r-d-weight-loss-gatto-pollo-transizione.jpg?v=638747808694530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270121/hills-prescription-diet-r-d-weight-loss-gatto-pollo-gestione-peso.jpg?v=638747808694670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270122/hills-prescription-diet-r-d-weight-loss-gatto-pollo-razione.jpg?v=638747808694670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270123/hills-prescription-diet-r-d-weight-loss-gatto-pollo-ingredienti.jpg?v=638747808694670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270124/hills-prescription-diet-r-d-weight-loss-gatto-pollo-crocchette.jpg?v=638747808694830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270125/hills-prescription-diet-r-d-weight-loss-gatto-pollo-come-aiuta.jpg?v=638747808694830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270126/hills-prescription-diet-r-d-weight-loss-gatto-pollo-come-funziona.jpg?v=638747808694830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270127/hills-prescription-diet-r-d-weight-loss-gatto-pollo-caratteristiche.jpg?v=638747808695000000"
+    ],
+    "price": {
+      "current": 40.79,
+      "original": 47.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.596666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14978",
+        "sku": "14978",
+        "gtin": "10140738",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-r-d-14978/p",
+        "price": {
+          "current": 40.79,
+          "original": 47.99,
+          "pricePerUnit": {
+            "value": 13.596666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-r-d-14978p",
+        "name": "Hill's Prescription Diet r/d Weight Loss Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-r-d-14978/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "7435",
+    "sku": "7435",
+    "gtin": "10115172",
+    "title": "Farmina Cat Vet Life Struvite Management",
+    "brand": "FARMINA",
+    "url": "https://www.arcaplanet.it/farmina-vet-life-cat-kg2-struvite-management--7435/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227402/farmina-vet-life-gatto-struvite.jpg?v=638745389756500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258767/struvite-managment-farmina.jpg?v=638745389756670000"
+    ],
+    "price": {
+      "current": 24.72,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.36,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7435",
+        "sku": "7435",
+        "gtin": "10115172",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/farmina-vet-life-cat-kg2-struvite-management--7435/p",
+        "price": {
+          "current": 24.72,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 12.36,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "farmina-vet-life-cat-kg2-struvite-management--7435p",
+        "name": "Farmina Cat Vet Life Struvite Management",
+        "path": "/farmina-vet-life-cat-kg2-struvite-management--7435/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14040",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14974",
+    "sku": "14974",
+    "gtin": "10140734",
+    "title": "Hill's Prescription Diet y/d Thyroid Care Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-y-d-thyroid-care-14974/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270242/hills-prescription-diet-y-d-alimento-per-gatti-pack.jpg?v=637846561103530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270243/hills-prescription-diet-y-d-alimento-per-gatti-transizione.jpg?v=638747862004770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270244/hills-prescription-diet-y-d-alimento-per-gatti-salute.jpg?v=638747862004900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270247/hills-prescription-diet-y-d-alimento-per-gatti-razione.jpg?v=638747862005070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270248/hills-prescription-diet-y-d-alimento-per-gatti-ingredienti.jpg?v=638747862005070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270249/hills-prescription-diet-y-d-alimento-per-gatti-come-aiuta.jpg?v=638747862005230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270252/hills-prescription-diet-y-d-alimento-per-gatti-come-funziona.jpg?v=638747862005530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270253/hills-prescription-diet-y-d-alimento-per-gatti-benefici.jpg?v=638747862005700000"
+    ],
+    "price": {
+      "current": 37.9,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.633333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14974",
+        "sku": "14974",
+        "gtin": "10140734",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-y-d-thyroid-care-14974/p",
+        "price": {
+          "current": 37.9,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 12.633333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-y-d-thyroid-care-14974p",
+        "name": "Hill's Prescription Diet y/d Thyroid Care Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-y-d-thyroid-care-14974/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14087",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14885",
+    "sku": "14885",
+    "gtin": "10140616",
+    "title": "Hill's Prescription Diet c/d Urinary Stress + Metabolic Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-metabolic-14885/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267706/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-pack.jpg?v=637811452395770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267688/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-transizione.jpg?v=638747866941100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267689/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-salute.jpg?v=638747866941100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267690/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-razione.jpg?v=638747866941100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267691/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-ingredienti.jpg?v=638747866941270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267692/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-crocchette.jpg?v=638747866941270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267693/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-come-aiuta.jpg?v=638747866941270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267694/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-come-funziona.jpg?v=638747866941270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267695/hills-prescription-diet-c-d-multicare-stess-metabolic-pollo-caratteristiche.jpg?v=638747866941400000"
+    ],
+    "price": {
+      "current": 40.79,
+      "original": 47.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.596666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14885",
+        "sku": "14885",
+        "gtin": "10140616",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-metabolic-14885/p",
+        "price": {
+          "current": 40.79,
+          "original": 47.99,
+          "pricePerUnit": {
+            "value": 13.596666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-urinary-metabolic-14885p",
+        "name": "Hill's Prescription Diet c/d Urinary Stress + Metabolic Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-c-d-urinary-metabolic-14885/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15000",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14916",
+    "sku": "14916",
+    "gtin": "10140665",
+    "title": "Hill's Prescription Diet z/d Food Sensitivies Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-z-d-food-sensitivities-14916/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269351/hills-prescription-diet-z-d-food-sensitivities-gatto.jpg?v=637825310752330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269352/hills-prescription-diet-z-d-food-sensitivities-gatto-transizione.jpg?v=638747869085400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269353/hills-prescription-diet-z-d-food-sensitivities-gatto-sensibilita.jpg?v=638747869085570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269354/hills-prescription-diet-z-d-food-sensitivities-gatto-razione.jpg?v=638747869085570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269355/hills-prescription-diet-z-d-food-sensitivities-gatto-ingredienti.jpg?v=638747869085570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269356/hills-prescription-diet-z-d-food-sensitivities-gatto-crocchette.jpg?v=638747869085570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269357/hills-prescription-diet-z-d-food-sensitivities-gatto-come-aiuta.jpg?v=638747869085700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269358/hills-prescription-diet-z-d-food-sensitivities-gatto-come-funziona.jpg?v=638747869085700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269359/hills-prescription-diet-z-d-food-sensitivities-gatto-irritazioni.jpg?v=638747869085700000"
+    ],
+    "price": {
+      "current": 65.9,
+      "original": 97.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.983333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14916",
+        "sku": "14916",
+        "gtin": "10140665",
+        "title": "6KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-z-d-food-sensitivities-14916/p",
+        "price": {
+          "current": 65.9,
+          "original": 97.99,
+          "pricePerUnit": {
+            "value": 10.983333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-z-d-food-sensitivities-14916p",
+        "name": "Hill's Prescription Diet z/d Food Sensitivies Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-z-d-food-sensitivities-14916/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15001",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14917",
+    "sku": "14917",
+    "gtin": "10140666",
+    "title": "Hill's Prescription Diet c/d Urinary Care Multicare Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-care-al-pollo-14917/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269523/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-pack.jpg?v=637826113533200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269524/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-transizione.jpg?v=638747871823670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269525/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-salute.jpg?v=638747871823830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269526/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-razione.jpg?v=638747871823830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269527/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-ingredienti.jpg?v=638747871824000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269528/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-crocchette.jpg?v=638747871824000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269529/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-come-aiuta.jpg?v=638747871824000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269530/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-come-funziona.jpg?v=638747871824000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269531/hills-prescription-diet-c-d-multicare-alimento-gatti-con-pollo-benefici.jpg?v=638747871824130000"
+    ],
+    "price": {
+      "current": 97.99,
+      "original": 97.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.24875,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14917",
+        "sku": "14917",
+        "gtin": "10140666",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-c-d-urinary-care-al-pollo-14917/p",
+        "price": {
+          "current": 97.99,
+          "original": 97.99,
+          "pricePerUnit": {
+            "value": 12.24875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-c-d-urinary-care-al-pollo-14917p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Multicare Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-c-d-urinary-care-al-pollo-14917/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15066",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14912",
+    "sku": "14912",
+    "gtin": "10140663",
+    "title": "Hill's Prescription Diet Gastrointestinal Biome Alimento Secco per Gatti",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-gastrointestinal-biome-al-pollo-14912/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301537/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--1-.jpg?v=638518788249000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301538/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--2-.jpg?v=638747874128370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301539/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--3-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301540/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--4-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301541/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--5-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301542/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--6-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301543/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--7-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301544/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--8-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301545/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--9-.jpg?v=638747874128530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301546/hill-s-prescription-diet-gastrointestinal-biome-alimento-secco-per-gatti-10140663--10-.jpg?v=638747874128700000"
+    ],
+    "price": {
+      "current": 36.8,
+      "original": 47.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14912",
+        "sku": "14912",
+        "gtin": "10140663",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gatto-gastrointestinal-biome-al-pollo-14912/p",
+        "price": {
+          "current": 36.8,
+          "original": 47.99,
+          "pricePerUnit": {
+            "value": 12.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gatto-gastrointestinal-biome-al-pollo-14912p",
+        "name": "Hill's Prescription Diet Gastrointestinal Biome Alimento Secco per Gatti",
+        "path": "/hills-prescription-diet-gatto-gastrointestinal-biome-al-pollo-14912/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15067",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "14961",
+    "sku": "14961",
+    "gtin": "10140720",
+    "title": "Hill's Prescription Diet c/d Urinary Care Alimento Secco per Gatti con Pesce Oceanico",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-c-d-multicare-stress-gatto-pesce-oceanico-14961/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269775/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-pack.jpg?v=637836250549430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269776/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-transizione.jpg?v=638747876030300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269777/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-salute.jpg?v=638747876030430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269778/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-razione.jpg?v=638747876030430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269779/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-ingredienti.jpg?v=638747876030430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269780/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-crocchette.jpg?v=638747876030600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269781/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-come-aiuta.jpg?v=638747876030600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269782/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-come-funziona.jpg?v=638747876030600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269783/hills-prescription-diet-c-d-multicare-stress-gatto-pollo-pesce-oceanico-caratteristiche.jpg?v=638747876030770000"
+    ],
+    "price": {
+      "current": 110.99,
+      "original": 110.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.87375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14961",
+        "sku": "14961",
+        "gtin": "10140720",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-c-d-multicare-stress-gatto-pesce-oceanico-14961/p",
+        "price": {
+          "current": 110.99,
+          "original": 110.99,
+          "pricePerUnit": {
+            "value": 13.87375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-c-d-multicare-stress-gatto-pesce-oceanico-14961p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Alimento Secco per Gatti con Pesce Oceanico",
+        "path": "/hills-prescription-diet-c-d-multicare-stress-gatto-pesce-oceanico-14961/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17023",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "16389",
+    "sku": "16389",
+    "gtin": "10155884",
+    "title": "Advance Cat Urinary",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-cat-urinary-16389/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317742/advance-cat-urinary-10155884 -1-.jpg.jpg?v=638762591722530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317743/advance-cat-urinary-10155884 -2-.jpg.jpg?v=638762591722530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317744/advance-cat-urinary-10155884 -3-.jpg.jpg?v=638762591722700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317745/advance-cat-urinary-10155884 -4-.jpg.jpg?v=638762591722700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317746/advance-cat-urinary-10155884 -5-.jpg.jpg?v=638762591722700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317747/advance-cat-urinary-10155884 -6-.jpg.jpg?v=638762591722700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317748/advance-cat-urinary-10155884 -7-.jpg.jpg?v=638762591722870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317749/advance-cat-urinary-10155884 -8-.jpg.jpg?v=638762591722870000"
+    ],
+    "price": {
+      "current": 52.99,
+      "original": 78.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.62375,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16389",
+        "sku": "16389",
+        "gtin": "10155884",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/advance-cat-urinary-16389/p",
+        "price": {
+          "current": 52.99,
+          "original": 78.99,
+          "pricePerUnit": {
+            "value": 6.62375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "advance-cat-urinary-16389p",
+        "name": "Advance Cat Urinary",
+        "path": "/advance-cat-urinary-16389/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18512",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "16376",
+    "sku": "16376",
+    "gtin": "10133061",
+    "title": "Advance Diets Cat Sensitive Gastroenteric",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-diets-cat-sensitive-gastroenteric-16376/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317750/advance-diets-cat-sensitive-gastroenteric-10133061--1-.jpg.jpg?v=638762597209970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317751/advance-diets-cat-sensitive-gastroenteric-10133061--2-.jpg.jpg?v=638762597209970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317752/advance-diets-cat-sensitive-gastroenteric-10133061--3-.jpg.jpg?v=638762597210100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317753/advance-diets-cat-sensitive-gastroenteric-10133061--4-.jpg.jpg?v=638762597210100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317754/advance-diets-cat-sensitive-gastroenteric-10133061--5-.jpg.jpg?v=638762597210100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317755/advance-diets-cat-sensitive-gastroenteric-10133061--6-.jpg.jpg?v=638762597210100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317756/advance-diets-cat-sensitive-gastroenteric-10133061--7-.jpg.jpg?v=638762597210100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317757/advance-diets-cat-sensitive-gastroenteric-10133061--8-.jpg.jpg?v=638762597210100000"
+    ],
+    "price": {
+      "current": 18.52,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.346666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16376",
+        "sku": "16376",
+        "gtin": "10133061",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/advance-diets-cat-sensitive-gastroenteric-16376/p",
+        "price": {
+          "current": 18.52,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 12.346666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "advance-diets-cat-sensitive-gastroenteric-16376p",
+        "name": "Advance Diets Cat Sensitive Gastroenteric",
+        "path": "/advance-diets-cat-sensitive-gastroenteric-16376/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18513",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "16386",
+    "sku": "16386",
+    "gtin": "10155881",
+    "title": "Advance Diets Cat  Weight Balance",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-diets-cat--weight-belance-16386/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317787/advance-diets-cat-weight-belance-10155881 -2-.jpg.jpg?v=638762635420300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317788/advance-diets-cat-weight-belance-10155881 -3-.jpg.jpg?v=638762635420470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317789/advance-diets-cat-weight-belance-10155881 -4-.jpg.jpg?v=638762635420470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317790/advance-diets-cat-weight-belance-10155881 -5-.jpg.jpg?v=638762635420470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317791/advance-diets-cat-weight-belance-10155881 -6-.jpg.jpg?v=638762635420470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317792/advance-diets-cat-weight-belance-10155881 -7-.jpg.jpg?v=638762635420600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317793/advance-diets-cat-weight-belance-10155881 -8-.jpg.jpg?v=638762635420600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317794/advance-diets-cat-weight-belance-10155881 -1-.jpg.jpg?v=638762635420600000"
+    ],
+    "price": {
+      "current": 18.52,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.346666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16386",
+        "sku": "16386",
+        "gtin": "10155881",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/advance-diets-cat--weight-belance-16386/p",
+        "price": {
+          "current": 18.52,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 12.346666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "advance-diets-cat--weight-belance-16386p",
+        "name": "Advance Diets Cat  Weight Balance",
+        "path": "/advance-diets-cat--weight-belance-16386/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18523",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "21110",
+    "sku": "21110",
+    "gtin": "10168761",
+    "title": "Hill's Prescription Diet Metabolic Alimento Secco per Gatti con Tonno",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-metabolic-alimento-secco-per-gatti-con-tonno-21110/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284113/hills-prescription-diet-metabolic-alimento-secco-per-gatti-con-tonno.jpg?v=638174098275070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285978/607621_INGREDIENT_PANEL_ONGOING.jpg?v=638747878413170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285979/607621_ENHANCED_PACKAGE_FRONT_-_PLP_ONGOING.jpg?v=638747878413170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285980/607621_PACKSHOT_BUTT_PLATE.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285981/607621_KIBBLE_ONGOING.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285982/607621_KEY_CLAIMS_ONGOING.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285983/607621_HOW_IT_WORKS_ONGOING.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285984/607621_HOW_IT_HELPS_ONGOING.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285985/607621_PACKSHOT_BACK.jpg?v=638747878413300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285986/607621_CROSS_SELL_ONGOING.jpg?v=638747878413300000"
+    ],
+    "price": {
+      "current": 96.89,
+      "original": 113.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.11125,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21110",
+        "sku": "21110",
+        "gtin": "10168761",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-metabolic-alimento-secco-per-gatti-con-tonno-21110/p",
+        "price": {
+          "current": 96.89,
+          "original": 113.99,
+          "pricePerUnit": {
+            "value": 12.11125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-metabolic-alimento-secco-per-gatti-con-tonno-21110p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Secco per Gatti con Tonno",
+        "path": "/hills-prescription-diet-metabolic-alimento-secco-per-gatti-con-tonno-21110/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23198",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22865",
+    "sku": "22865",
+    "gtin": "10170447",
+    "title": "Hi Diet Cat Urinary",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-cat-urinary-22865/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292088/hi-diet-cat-urinary-10170447.jpg?v=638363202259430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294540/Urinary-10170447.jpg?v=638428946137170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294541/Urinary_cat-secco-10170447.jpg?v=638428946278770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301216/dosaggio-urinary-cat-10170447.jpg?v=638515297054930000"
+    ],
+    "price": {
+      "current": 26.99,
+      "original": 26.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22865",
+        "sku": "22865",
+        "gtin": "10170447",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/hi-diet-cat-urinary-22865/p",
+        "price": {
+          "current": 26.99,
+          "original": 26.99,
+          "pricePerUnit": {
+            "value": 13.495,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-cat-urinary-22865p",
+        "name": "Hi Diet Cat Urinary",
+        "path": "/hi-diet-cat-urinary-22865/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24878",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22867",
+    "sku": "22867",
+    "gtin": "10170448",
+    "title": "Hi Diet Cat Gastrointestinal",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-cat-gastrointestinal-22867/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292090/hi-diet-cat-gastrointestinal-10170448.jpg?v=638363209504300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294544/Gastrointestinal-10170448.jpg?v=638428950610030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294545/Gastrointestinal_cat-secco-10170448.jpg?v=638428950813870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301218/dosaggio-gastrointestinal-cat-10170448.jpg?v=638515297732200000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.995,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22867",
+        "sku": "22867",
+        "gtin": "10170448",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/hi-diet-cat-gastrointestinal-22867/p",
+        "price": {
+          "current": 25.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 12.995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-cat-gastrointestinal-22867p",
+        "name": "Hi Diet Cat Gastrointestinal",
+        "path": "/hi-diet-cat-gastrointestinal-22867/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24879",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22869",
+    "sku": "22869",
+    "gtin": "10170449",
+    "title": "Hi Diet Cat Renal",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-cat-renal-22869/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292098/hi-diet-cat-renal-10170449.jpg?v=638363237226700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294548/Renal-10170449.jpg?v=638428951783830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294549/Renal_cat-secco-10170449.jpg?v=638428951966430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301220/dosaggio-renal-cat-10170449.jpg?v=638515298461900000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22869",
+        "sku": "22869",
+        "gtin": "10170449",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/hi-diet-cat-renal-22869/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 14.495,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-cat-renal-22869p",
+        "name": "Hi Diet Cat Renal",
+        "path": "/hi-diet-cat-renal-22869/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24880",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22871",
+    "sku": "22871",
+    "gtin": "10170450",
+    "title": "Hi Diet Cat Hypoallergenic",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-cat-hypoallergenic-22871/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292103/hi-diet-cat-hypoallergenic-10170450.jpg?v=638363252959630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294552/Hypoallergenic-10170450.jpg?v=638428953499230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294553/Hypoallergenic_cat-secco-10170450.jpg?v=638428953678230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301222/dosaggio-hypoallergenic-cat-10170450.jpg?v=638515299157700000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22871",
+        "sku": "22871",
+        "gtin": "10170450",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/hi-diet-cat-hypoallergenic-22871/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 14.495,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-cat-hypoallergenic-22871p",
+        "name": "Hi Diet Cat Hypoallergenic",
+        "path": "/hi-diet-cat-hypoallergenic-22871/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24881",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  },
+  {
+    "id": "22873",
+    "sku": "22873",
+    "gtin": "10170451",
+    "title": "Hi Diet Cat Obesity",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-cat-obesity-22873/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297186/hi-diet-cat-obesity-2kg-10170451.jpg?v=638463590624000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294558/Obesity-10170451.jpg?v=638428954686800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294559/Obesity_cat-secco-10170451.jpg?v=638428954869170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301224/dosaggio-hypoallergenic-cat-10170451.jpg?v=638515299699100000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.495,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "22873",
+        "sku": "22873",
+        "gtin": "10170451",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/hi-diet-cat-obesity-22873/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 14.495,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattodiete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/gatto/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-cat-obesity-22873p",
+        "name": "Hi Diet Cat Obesity",
+        "path": "/hi-diet-cat-obesity-22873/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24882",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:09:09.525Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/diete/cibo/secco/"
+  }
+]

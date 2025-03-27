@@ -1,0 +1,3113 @@
+[
+  {
+    "id": "502",
+    "sku": "502",
+    "gtin": "10129530",
+    "title": "Spazzolino Doppio per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-care-spazzolino-doppio-cane-502/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257806/perfect-care-spazzolino-doppio-cane.jpg?v=637588204160170000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "502",
+        "sku": "502",
+        "gtin": "10129530",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/perfect-care-spazzolino-doppio-cane-502/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-care-spazzolino-doppio-cane-502p",
+        "name": "Spazzolino Doppio per Cane",
+        "path": "/perfect-care-spazzolino-doppio-cane-502/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "460",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "1100",
+    "sku": "1100",
+    "gtin": "10111941",
+    "title": "Salviette Dental Cleaners",
+    "brand": "CLIFFI",
+    "url": "https://www.arcaplanet.it/cliffi-salviette-dental-cleaners-1100/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280169/salviette-dental-cleaner.jpg?v=638114527418470000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1100",
+        "sku": "1100",
+        "gtin": "10111941",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/cliffi-salviette-dental-cleaners-1100/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "cliffi-salviette-dental-cleaners-1100p",
+        "name": "Salviette Dental Cleaners",
+        "path": "/cliffi-salviette-dental-cleaners-1100/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1057",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "1221",
+    "sku": "1221",
+    "gtin": "00010066",
+    "title": "Gel per Gengive Stomodine",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/stomodine-gel-per-gengive-per-cane-e-gatto-1221/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304558/Gel-per-Gengive-Stomodine-10066.jpg?v=638574253000100000"
+    ],
+    "price": {
+      "current": 18.49,
+      "original": 18.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 924.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1221",
+        "sku": "1221",
+        "gtin": "00010066",
+        "title": "30ML",
+        "url": "https://www.arcaplanet.it/stomodine-gel-per-gengive-per-cane-e-gatto-1221/p",
+        "price": {
+          "current": 18.49,
+          "original": 18.49,
+          "pricePerUnit": {
+            "value": 924.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "30ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "stomodine-gel-per-gengive-per-cane-e-gatto-1221p",
+        "name": "Gel per Gengive Stomodine",
+        "path": "/stomodine-gel-per-gengive-per-cane-e-gatto-1221/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1178",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "1874",
+    "sku": "1874",
+    "gtin": "10055788",
+    "title": "Candioli Dentalmax Cane",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/candioli-dentalmax-cane-50ml-1874/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/219344/candioli-dentalmax-cane.jpg?v=637454689107270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/216351/https---www.arcaplanet.it-media-catalog-product--d-e-dentalmax-istc5.jpg?v=637454577592070000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1874",
+        "sku": "1874",
+        "gtin": "10055788",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/candioli-dentalmax-cane-50ml-1874/p",
+        "price": {
+          "current": 13.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "candioli-dentalmax-cane-50ml-1874p",
+        "name": "Candioli Dentalmax Cane",
+        "path": "/candioli-dentalmax-cane-50ml-1874/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1803",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "1890",
+    "sku": "1890",
+    "gtin": "00036263",
+    "title": "Stomodine Gel Gengivale",
+    "brand": "ICF",
+    "url": "https://www.arcaplanet.it/stomodine-lp-cane-50ml-1890/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261679/stomodine-gel-per-gengive-con-olio-di-cartamo.jpg?v=637648794867400000"
+    ],
+    "price": {
+      "current": 20.1,
+      "original": 20.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1005,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1890",
+        "sku": "1890",
+        "gtin": "00036263",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/stomodine-lp-cane-50ml-1890/p",
+        "price": {
+          "current": 20.1,
+          "original": 20.1,
+          "pricePerUnit": {
+            "value": 1005,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "stomodine-lp-cane-50ml-1890p",
+        "name": "Stomodine Gel Gengivale",
+        "path": "/stomodine-lp-cane-50ml-1890/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1819",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "2296",
+    "sku": "2296",
+    "gtin": "10061471",
+    "title": "Dentifricio con Spazzolino Extra Soft",
+    "brand": "INNOVET",
+    "url": "https://www.arcaplanet.it/restomyl-dentifricio-per-cane-e-gatto-con-spazzolino-50ml-2296/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304565/Dentifricio-con-Spazzolino-Extra-Soft-10061471.jpg?v=638574964805000000"
+    ],
+    "price": {
+      "current": 16.3,
+      "original": 16.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.3,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2296",
+        "sku": "2296",
+        "gtin": "10061471",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/restomyl-dentifricio-per-cane-e-gatto-con-spazzolino-50ml-2296/p",
+        "price": {
+          "current": 16.3,
+          "original": 16.3,
+          "pricePerUnit": {
+            "value": 16.3,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "restomyl-dentifricio-per-cane-e-gatto-con-spazzolino-50ml-2296p",
+        "name": "Dentifricio con Spazzolino Extra Soft",
+        "path": "/restomyl-dentifricio-per-cane-e-gatto-con-spazzolino-50ml-2296/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2219",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "2820",
+    "sku": "2820",
+    "gtin": "10118212",
+    "title": "Fresh Breath Drops",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/fresh-breath-cane-drops-65ml-2820/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280181/fresh-breath-cane-drops.jpg?v=638114539613830000"
+    ],
+    "price": {
+      "current": 15.9,
+      "original": 15.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 265,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2820",
+        "sku": "2820",
+        "gtin": "10118212",
+        "title": "65ML",
+        "url": "https://www.arcaplanet.it/fresh-breath-cane-drops-65ml-2820/p",
+        "price": {
+          "current": 15.9,
+          "original": 15.9,
+          "pricePerUnit": {
+            "value": 265,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "65ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "fresh-breath-cane-drops-65ml-2820p",
+        "name": "Fresh Breath Drops",
+        "path": "/fresh-breath-cane-drops-65ml-2820/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2738",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3013",
+    "sku": "3013",
+    "gtin": "10118211",
+    "title": "Cane Clean Teeth Gel Berry Fresh",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-cane-clean-teeth-gel-berry-fresh-59ml-3013/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280179/tropiclean-cane-clean-teeth-gel-berry-fresh.jpg?v=638114534406070000"
+    ],
+    "price": {
+      "current": 17.5,
+      "original": 17.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 291.6666666666667,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3013",
+        "sku": "3013",
+        "gtin": "10118211",
+        "title": "59ML",
+        "url": "https://www.arcaplanet.it/tropiclean-cane-clean-teeth-gel-berry-fresh-59ml-3013/p",
+        "price": {
+          "current": 17.5,
+          "original": 17.5,
+          "pricePerUnit": {
+            "value": 291.6666666666667,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "59ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-cane-clean-teeth-gel-berry-fresh-59ml-3013p",
+        "name": "Cane Clean Teeth Gel Berry Fresh",
+        "path": "/tropiclean-cane-clean-teeth-gel-berry-fresh-59ml-3013/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2928",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3198",
+    "sku": "3198",
+    "gtin": "10118215",
+    "title": "Spazzolino da Dito",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/fresh-breath-cane-finger-brushes-ditale-3198/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280185/fresh-breath-cane-finger-brushes-ditale.jpg?v=638114542308600000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3198",
+        "sku": "3198",
+        "gtin": "10118215",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/fresh-breath-cane-finger-brushes-ditale-3198/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "fresh-breath-cane-finger-brushes-ditale-3198p",
+        "name": "Spazzolino da Dito",
+        "path": "/fresh-breath-cane-finger-brushes-ditale-3198/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3110",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3199",
+    "sku": "3199",
+    "gtin": "10118214",
+    "title": "Fresh Breath Tripleflex Spazzolino",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/fresh-breath-cane-tripleflex-spazzolino-s-3199/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281062/fresh-breath-cane-tripleflex-spazzolino.jpg?v=638124798239070000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3199",
+        "sku": "3199",
+        "gtin": "10118214",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/fresh-breath-cane-tripleflex-spazzolino-s-3199/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "fresh-breath-cane-tripleflex-spazzolino-s-3199p",
+        "name": "Fresh Breath Tripleflex Spazzolino",
+        "path": "/fresh-breath-cane-tripleflex-spazzolino-s-3199/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3111",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3200",
+    "sku": "3200",
+    "gtin": "10118213",
+    "title": "Tripleflex Spazzolino",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/fresh-breath-cane-tripleflex-spazzolino-3200/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280183/fresh-breath-cane-tripleflex-spazzolino.jpg?v=638114540254470000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3200",
+        "sku": "3200",
+        "gtin": "10118213",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/fresh-breath-cane-tripleflex-spazzolino-3200/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "fresh-breath-cane-tripleflex-spazzolino-3200p",
+        "name": "Tripleflex Spazzolino",
+        "path": "/fresh-breath-cane-tripleflex-spazzolino-3200/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3112",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3915",
+    "sku": "3915",
+    "gtin": "10065873",
+    "title": "Kit Spazzolino e Dentifricio",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-kit-spazzolino-dentifricio-cane-3915/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266290/beaphar-kit-spazzolono-e-dentifricio.jpg?v=637759371694370000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3915",
+        "sku": "3915",
+        "gtin": "10065873",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/beaphar-kit-spazzolino-dentifricio-cane-3915/p",
+        "price": {
+          "current": 9.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "beaphar-kit-spazzolino-dentifricio-cane-3915p",
+        "name": "Kit Spazzolino e Dentifricio",
+        "path": "/beaphar-kit-spazzolino-dentifricio-cane-3915/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3818",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "3943",
+    "sku": "3943",
+    "gtin": "10118209",
+    "title": "Cane Berry Fresh Oral Care Spray",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-cane-berry-fresh-oral-care-spray-118ml-3943/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280177/tropiclean-cane-berry-fresh-oral-care-spray.jpg?v=638114532416500000"
+    ],
+    "price": {
+      "current": 14.3,
+      "original": 14.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 119.16666666666667,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3943",
+        "sku": "3943",
+        "gtin": "10118209",
+        "title": "118ML",
+        "url": "https://www.arcaplanet.it/tropiclean-cane-berry-fresh-oral-care-spray-118ml-3943/p",
+        "price": {
+          "current": 14.3,
+          "original": 14.3,
+          "pricePerUnit": {
+            "value": 119.16666666666667,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "118ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-cane-berry-fresh-oral-care-spray-118ml-3943p",
+        "name": "Cane Berry Fresh Oral Care Spray",
+        "path": "/tropiclean-cane-berry-fresh-oral-care-spray-118ml-3943/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3846",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "4348",
+    "sku": "4348",
+    "gtin": "10065874",
+    "title": "Spray Alito Fresco",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-fresh-cane-spray-150ml-4348/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221443/beaphar-fresh-cane-spray.jpg?v=637454711382430000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 73.26666666666667,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4348",
+        "sku": "4348",
+        "gtin": "10065874",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/beaphar-fresh-cane-spray-150ml-4348/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 73.26666666666667,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "beaphar-fresh-cane-spray-150ml-4348p",
+        "name": "Spray Alito Fresco",
+        "path": "/beaphar-fresh-cane-spray-150ml-4348/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4237",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "4671",
+    "sku": "4671",
+    "gtin": "10129733",
+    "title": "Salviette Dito Monouso Pulizia Denti",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257296/29393.jpg?v=638756469846300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257297/29393--2-.jpg?v=638756469846430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257298/29393-3.jpg?v=638756469846430000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4671",
+        "sku": "4671",
+        "gtin": "10129733",
+        "title": "50 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671p",
+        "name": "Salviette Dito Monouso Pulizia Denti",
+        "path": "/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4552",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "9328",
+    "sku": "9328",
+    "gtin": "00043737",
+    "title": "dental gill's",
+    "brand": "GILL'S",
+    "url": "https://www.arcaplanet.it/gill-s-cane-dental-gills-100ml-9328/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/219667/gill-s-cane-dental-gills.jpg?v=637454692604170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/217013/https---www.arcaplanet.it-media-catalog-product--g-i-gill-s-dental-gill-s-croc213.jpg?v=637454584237570000"
+    ],
+    "price": {
+      "current": 5.3,
+      "original": 5.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 52.99999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9328",
+        "sku": "9328",
+        "gtin": "00043737",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/gill-s-cane-dental-gills-100ml-9328/p",
+        "price": {
+          "current": 5.3,
+          "original": 5.3,
+          "pricePerUnit": {
+            "value": 52.99999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "gill-s-cane-dental-gills-100ml-9328p",
+        "name": "dental gill's",
+        "path": "/gill-s-cane-dental-gills-100ml-9328/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9146",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "9756",
+    "sku": "9756",
+    "gtin": "10065125",
+    "title": "Cane Kit Pulizia Denti",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-cane-kit-pulizia-denti-9756/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221931/zolux-cane-kit-pulizia-denti.jpg?v=637454716891200000"
+    ],
+    "price": {
+      "current": 13.79,
+      "original": 13.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.79,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9756",
+        "sku": "9756",
+        "gtin": "10065125",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/zolux-cane-kit-pulizia-denti-9756/p",
+        "price": {
+          "current": 13.79,
+          "original": 13.79,
+          "pricePerUnit": {
+            "value": 13.79,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "zolux-cane-kit-pulizia-denti-9756p",
+        "name": "Cane Kit Pulizia Denti",
+        "path": "/zolux-cane-kit-pulizia-denti-9756/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9552",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "15308",
+    "sku": "15308",
+    "gtin": "10109620",
+    "title": "DentalPet Colluttorio Specifico per Cani e Gatti",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/dentalpet-dentifricio-specifico-per-cani-15308/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312767/DentalPet-Colluttorio-Specifico-per-Cani-e-Gatti.jpg?v=638693323696700000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 39
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15308",
+        "sku": "15308",
+        "gtin": "10109620",
+        "title": "50 ML",
+        "url": "https://www.arcaplanet.it/dentalpet-dentifricio-specifico-per-cani-15308/p",
+        "price": {
+          "current": 9.99,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "dentalpet-dentifricio-specifico-per-cani-15308p",
+        "name": "DentalPet Colluttorio Specifico per Cani e Gatti",
+        "path": "/dentalpet-dentifricio-specifico-per-cani-15308/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17445",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "16428",
+    "sku": "16428",
+    "gtin": "10155926",
+    "title": "Salviette Dental Wipes",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-salviette-dental-wipes-16428/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277909/tropiclean-salviette-dental-wipes.jpg?v=638055784431770000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16428",
+        "sku": "16428",
+        "gtin": "10155926",
+        "title": "50 PZ",
+        "url": "https://www.arcaplanet.it/tropiclean-salviette-dental-wipes-16428/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-salviette-dental-wipes-16428p",
+        "name": "Salviette Dental Wipes",
+        "path": "/tropiclean-salviette-dental-wipes-16428/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18557",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "16429",
+    "sku": "16429",
+    "gtin": "10155924",
+    "title": "Tropiclean Dog Fresh Mint Foam",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-dog-fresh-mint-foam-16429/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276948/tropiclean-dog-fresh-mint-foam.jpg?v=638041074002400000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16429",
+        "sku": "16429",
+        "gtin": "10155924",
+        "title": "133ML",
+        "url": "https://www.arcaplanet.it/tropiclean-dog-fresh-mint-foam-16429/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "133ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-dog-fresh-mint-foam-16429p",
+        "name": "Tropiclean Dog Fresh Mint Foam",
+        "path": "/tropiclean-dog-fresh-mint-foam-16429/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18558",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "16430",
+    "sku": "16430",
+    "gtin": "10155925",
+    "title": "Soluzione Igiene Dentale Tropiclean",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-soluzione-igiene-dentale-per-cani-e-gatti-16430/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278348/tropiclean-soluzione-dentale-per-cane.jpg?v=638071255659330000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16430",
+        "sku": "16430",
+        "gtin": "10155925",
+        "title": "236ML",
+        "url": "https://www.arcaplanet.it/tropiclean-soluzione-igiene-dentale-per-cani-e-gatti-16430/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "236ML",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-soluzione-igiene-dentale-per-cani-e-gatti-16430p",
+        "name": "Soluzione Igiene Dentale Tropiclean",
+        "path": "/tropiclean-soluzione-igiene-dentale-per-cani-e-gatti-16430/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18559",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "18398",
+    "sku": "18398",
+    "gtin": "10152384",
+    "title": "Take Care Salviette da Dito",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-salviette-da-dito-18398/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283704/69e0f9d3ee61ab14d83e433a17edaa7540c595c5_1577c02ba663370f720137121fdd157d2b80f9e7--1-.jpg?v=638168074491670000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18398",
+        "sku": "18398",
+        "gtin": "10152384",
+        "title": "50PZ",
+        "url": "https://www.arcaplanet.it/take-care-salviette-da-dito-18398/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-salviette-da-dito-18398p",
+        "name": "Take Care Salviette da Dito",
+        "path": "/take-care-salviette-da-dito-18398/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20516",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19399",
+    "sku": "19399",
+    "gtin": "10153009",
+    "title": "Take Care Spray Antiplacca",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spray-anti-placca-19399/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283709/b8d20a5a6fc1d9cc4aed5306fda151f35ffbe9aa_f184ab66d7b2cab8d32ba47673273260c5cddbb9--1-.jpg?v=638168138148600000"
+    ],
+    "price": {
+      "current": 6.29,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 314.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19399",
+        "sku": "19399",
+        "gtin": "10153009",
+        "title": "125ML",
+        "url": "https://www.arcaplanet.it/take-care-spray-anti-placca-19399/p",
+        "price": {
+          "current": 6.29,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 314.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "125ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-spray-anti-placca-19399p",
+        "name": "Take Care Spray Antiplacca",
+        "path": "/take-care-spray-anti-placca-19399/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21517",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19587",
+    "sku": "19587",
+    "gtin": "10150537",
+    "title": "Take Care Spazzolino da Dito in Silicone",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-proteggi-dita-in-silicone-19587/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283706/d5103e156e2ee8cbdcc498f5c7772be69b589027_4a4039404903a491800d04265b54557e7e50632f--1-.jpg?v=638168131619430000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 359.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19587",
+        "sku": "19587",
+        "gtin": "10150537",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-proteggi-dita-in-silicone-19587/p",
+        "price": {
+          "current": 7.19,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 359.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-proteggi-dita-in-silicone-19587p",
+        "name": "Take Care Spazzolino da Dito in Silicone",
+        "path": "/take-care-proteggi-dita-in-silicone-19587/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21705",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19588",
+    "sku": "19588",
+    "gtin": "10150538",
+    "title": "Take Care Spazzolino da Dito in Tessuto",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-antiplacca-da-dito-19588/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281921/b60101ac309b53cdd4bec474cdeedabe44010c3d_77e16bd29259f79af8efcc9a03ec8ba32d3fedd6--1-.jpg?v=638131894565530000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 8
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19588",
+        "sku": "19588",
+        "gtin": "10150538",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/take-care-antiplacca-da-dito-19588/p",
+        "price": {
+          "current": 10.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-antiplacca-da-dito-19588p",
+        "name": "Take Care Spazzolino da Dito in Tessuto",
+        "path": "/take-care-antiplacca-da-dito-19588/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21706",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19589",
+    "sku": "19589",
+    "gtin": "10150539",
+    "title": "Take Care Dentifricio per Cani",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-dentifricio-per-cani-19589/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283705/f08751a525cf961a2d37720f95d4ecee4bd263dc_e2e2c91121fcc7ecf6f573f0bedd8782e6b4616f--1-.jpg?v=638168128638500000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 53.89999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19589",
+        "sku": "19589",
+        "gtin": "10150539",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/take-care-dentifricio-per-cani-19589/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 53.89999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-dentifricio-per-cani-19589p",
+        "name": "Take Care Dentifricio per Cani",
+        "path": "/take-care-dentifricio-per-cani-19589/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21707",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19590",
+    "sku": "19590",
+    "gtin": "10150541",
+    "title": "Take Care Spazzolino per Cani",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzolino-per-cani-19590/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318373/a8c6f29a8f45de63378e8a160f37cfe3e0606e3e_1d66094e0a02b96b9047a2320a1fa46d27f13c94.jpg?v=638769546241800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318374/take-care-spazzolino-per-cani-10150541--3-.jpg.jpg?v=638769548756800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318375/take-care-spazzolino-per-cani-10150541--1-.jpg.jpg?v=638769548756800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318376/take-care-spazzolino-per-cani-10150541--2-.jpg.jpg?v=638769548756800000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 269.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19590",
+        "sku": "19590",
+        "gtin": "10150541",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-spazzolino-per-cani-19590/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 269.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-spazzolino-per-cani-19590p",
+        "name": "Take Care Spazzolino per Cani",
+        "path": "/take-care-spazzolino-per-cani-19590/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21708",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19591",
+    "sku": "19591",
+    "gtin": "10150542",
+    "title": "Take Care Dog Set per la Cura dei Denti",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-set-per-la-cura-dei-denti-19591/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283707/4d616c79ac53eac0c5fd5253c63fe8d7b5f0b050_2152ed20adfc4b10e593d75500623d8176e138b4--1-.jpg?v=638168133719900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318371/take-care-set-per-la-cura-dei-denti-10150542 -1-.jpg.jpg?v=638769542230100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318372/take-care-set-per-la-cura-dei-denti-10150542 -2-.jpg.jpg?v=638769542230230000"
+    ],
+    "price": {
+      "current": 10.79,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 539.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19591",
+        "sku": "19591",
+        "gtin": "10150542",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-set-per-la-cura-dei-denti-19591/p",
+        "price": {
+          "current": 10.79,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 539.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-set-per-la-cura-dei-denti-19591p",
+        "name": "Take Care Dog Set per la Cura dei Denti",
+        "path": "/take-care-set-per-la-cura-dei-denti-19591/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21709",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "19592",
+    "sku": "19592",
+    "gtin": "10150540",
+    "title": "Take Care Dog Gel Lipidico per Denti",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-gel-dentale-19592/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281922/6babb751f754cd8de2dade4e3ad15a07e21bfc41_1d4712b2f634096b46191551f3640116c071474c--1-.jpg?v=638131897242070000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 119.89999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 8
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19592",
+        "sku": "19592",
+        "gtin": "10150540",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/take-care-gel-dentale-19592/p",
+        "price": {
+          "current": 11.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 119.89999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-gel-dentale-19592p",
+        "name": "Take Care Dog Gel Lipidico per Denti",
+        "path": "/take-care-gel-dentale-19592/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21710",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "24002",
+    "sku": "24002",
+    "gtin": "10174071",
+    "title": "Restomyl Dentifricio Cane",
+    "brand": "RESTOMYL",
+    "url": "https://www.arcaplanet.it/restomyl-dentifricio-cane-24002/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302445/Restomyl-Dentifricio-Cane-10174071.jpg?v=638536146280030000"
+    ],
+    "price": {
+      "current": 11.88,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 594,
+        "unit": "none"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24002",
+        "sku": "24002",
+        "gtin": "10174071",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/restomyl-dentifricio-cane-24002/p",
+        "price": {
+          "current": 11.88,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 594,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "restomyl-dentifricio-cane-24002p",
+        "name": "Restomyl Dentifricio Cane",
+        "path": "/restomyl-dentifricio-cane-24002/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26013",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "24043",
+    "sku": "24043",
+    "gtin": "10171637",
+    "title": "Beaphar Dentifricio Cane",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-dentifricio-cane-24043/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303020/beaphar-dentifricio-cane-10171637.jpg?v=638538794508700000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 64.89999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "24043",
+        "sku": "24043",
+        "gtin": "10171637",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/beaphar-dentifricio-cane-24043/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 64.89999999999999,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "beaphar-dentifricio-cane-24043p",
+        "name": "Beaphar Dentifricio Cane",
+        "path": "/beaphar-dentifricio-cane-24043/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26054",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "25390",
+    "sku": "25390",
+    "gtin": "10177150",
+    "title": "Petsie Spazzolino Elettrico per Cane",
+    "brand": "PETSIE",
+    "url": "https://www.arcaplanet.it/spazzolino-elettrico-per-cane-25390/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313298/Spazzolino-Elettrico-per-Cane-10177150-1.jpg?v=638700207885500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313299/Spazzolino-Elettrico-per-Cane-10177150-2.jpg?v=638700207971530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313300/Spazzolino-Elettrico-per-Cane-10177150-3.jpg?v=638700208054300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313301/Spazzolino-Elettrico-per-Cane-10177150-4.jpg?v=638700208130300000"
+    ],
+    "price": {
+      "current": 64.99,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3249.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25390",
+        "sku": "25390",
+        "gtin": "10177150",
+        "title": "SMALL",
+        "url": "https://www.arcaplanet.it/spazzolino-elettrico-per-cane-25390/p",
+        "price": {
+          "current": 64.99,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 3249.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "spazzolino-elettrico-per-cane-25390p",
+        "name": "Petsie Spazzolino Elettrico per Cane",
+        "path": "/spazzolino-elettrico-per-cane-25390/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27401",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "25393",
+    "sku": "25393",
+    "gtin": "10177153",
+    "title": "Petsie Ricambio Spazzolino Elettrico per Cane",
+    "brand": "PETSIE",
+    "url": "https://www.arcaplanet.it/ricambio-spazzolino-elettrico-per-cane-25393/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313310/Petsie-Ricambio-Spazzolino-Elettrico-per-Cane-10177153.jpg?v=638700216202900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313311/Petsie-Ricambio-Spazzolino-Elettrico-per-Cane-10177153-1.jpg?v=638700216303070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313312/Petsie-Ricambio-Spazzolino-Elettrico-per-Cane-10177153-2.jpg?v=638700216412800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313313/Petsie-Ricambio-Spazzolino-Elettrico-per-Cane-10177153-3.jpg?v=638700216514430000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25393",
+        "sku": "25393",
+        "gtin": "10177153",
+        "title": "SMALL",
+        "url": "https://www.arcaplanet.it/ricambio-spazzolino-elettrico-per-cane-25393/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "ricambio-spazzolino-elettrico-per-cane-25393p",
+        "name": "Petsie Ricambio Spazzolino Elettrico per Cane",
+        "path": "/ricambio-spazzolino-elettrico-per-cane-25393/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27404",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  },
+  {
+    "id": "26819",
+    "sku": "26819",
+    "gtin": "10186745",
+    "title": "Take Care Salviette da Dito Monouso per Pulizia Denti",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-salviette-da-dito-monouso-per-pulizia-denti-26819/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318266/Take-Care-Salviette-da-Dito-Monouso-per-Pulizia-Denti-10186745.jpg.jpg?v=638768798902570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318267/Take-Care-Salviette-da-Dito-Monouso-per-Pulizia-Denti_10186745.jpg.jpg?v=638768798902570000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26819",
+        "sku": "26819",
+        "gtin": "10186745",
+        "title": "50 PZ",
+        "url": "https://www.arcaplanet.it/take-care-salviette-da-dito-monouso-per-pulizia-denti-26819/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-salviette-da-dito-monouso-per-pulizia-denti-26819p",
+        "name": "Take Care Salviette da Dito Monouso per Pulizia Denti",
+        "path": "/take-care-salviette-da-dito-monouso-per-pulizia-denti-26819/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28810",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:33:53.241Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/orale/"
+  }
+]

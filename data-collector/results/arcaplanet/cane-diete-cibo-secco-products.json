@@ -1,0 +1,3735 @@
+[
+  {
+    "id": "617",
+    "sku": "617",
+    "gtin": "10130266",
+    "title": "Royal Canin V-Diet Renal Small Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-small-617/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288291/_0005_C-RENAL_SD-PACKSHOT-B1-VETVIT19.jpg?v=638242486039600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254311/royal-canin-veterinary-diet-renal-cane-small-dosaggio.png?v=638759947756630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292310/post-smaltimento-rc-10130266.jpg?v=638759947756630000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 7.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.98,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "617",
+        "sku": "617",
+        "gtin": "10130266",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-small-617/p",
+        "price": {
+          "current": 6.99,
+          "original": 7.79,
+          "pricePerUnit": {
+            "value": 13.98,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-renal-small-617p",
+        "name": "Royal Canin V-Diet Renal Small Cane",
+        "path": "/royal-canin-veterinary-diet-cane-renal-small-617/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "574",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "10026",
+    "sku": "10026",
+    "gtin": "10056516",
+    "title": "Hill's Prescription Diet i/d Digestive Care Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-i-d-digestive-care-10026/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268694/hills-prescription-diet-i-d-cane-alimento-con-pollo.jpg?v=637818999457530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268695/hills-prescription-diet-i-d-cane-alimento-con-pollo-transizione.jpg?v=637818999622300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268696/hills-prescription-diet-i-d-cane-alimento-con-pollo-salute.jpg?v=637818999758630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268697/hills-prescription-diet-i-d-cane-alimento-con-pollo-razione.jpg?v=637818999900330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268698/hills-prescription-diet-i-d-cane-alimento-con-pollo-ingredienti.jpg?v=637819000014430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268699/hills-prescription-diet-i-d-cane-alimento-con-pollo-crocchette.jpg?v=637819000149400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268700/hills-prescription-diet-i-d-cane-alimento-con-pollo-come-aiuta.jpg?v=637819000275630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268701/hills-prescription-diet-i-d-cane-alimento-con-pollo-come-funziona.jpg?v=637819000392200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268702/hills-prescription-diet-i-d-cane-alimento-con-pollo-benefici.jpg?v=637819000506700000"
+    ],
+    "price": {
+      "current": 89,
+      "original": 120.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.416666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10026",
+        "sku": "10026",
+        "gtin": "10056516",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-i-d-digestive-care-10026/p",
+        "price": {
+          "current": 89,
+          "original": 120.99,
+          "pricePerUnit": {
+            "value": 7.416666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-i-d-digestive-care-10026p",
+        "name": "Hill's Prescription Diet i/d Digestive Care Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-i-d-digestive-care-10026/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1056",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "10024",
+    "sku": "10024",
+    "gtin": "10056460",
+    "title": "Hill's Prescription Diet c/d Urinary Care Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-c-d-multicare-urinary-care-10024/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267708/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-pack.jpg?v=637811454695730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267202/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-transizione.jpg?v=637807761062930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267203/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-salute.jpg?v=637807761218400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267204/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-razione.jpg?v=637807761375430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267205/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-crocchette.jpg?v=637807761522230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267206/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-come-aiuta.jpg?v=637807761703030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267207/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-come-funziona.jpg?v=637807761826770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267208/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-ingredienti.jpg?v=637807761972100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267209/hills-prescription-diet-c-d-multicare-alimento-cani-con-pollo-caratteristiche.jpg?v=637807762119330000"
+    ],
+    "price": {
+      "current": 82.99,
+      "original": 99.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.921601334445371,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10024",
+        "sku": "10024",
+        "gtin": "10056460",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-c-d-multicare-urinary-care-10024/p",
+        "price": {
+          "current": 82.99,
+          "original": 99.9,
+          "pricePerUnit": {
+            "value": 6.921601334445371,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-c-d-multicare-urinary-care-10024p",
+        "name": "Hill's Prescription Diet c/d Urinary Care Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-c-d-multicare-urinary-care-10024/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1818",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "10072",
+    "sku": "10072",
+    "gtin": "10061793",
+    "title": "Hill's Prescription Diet Metabolic Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-weight-management-10072/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267718/hill-s-prescription-diet-metabolic-cane-pollo-pack.jpg?v=637811460996700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267560/hill-s-prescription-diet-metabolic-cane-pollo-transizione.jpg?v=637811167663000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267561/hill-s-prescription-diet-metabolic-cane-pollo-preso.jpg?v=637811167808900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267564/hill-s-prescription-diet-metabolic-cane-pollo-come-aiuta.jpg?v=637811168508870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267565/hill-s-prescription-diet-metabolic-cane-pollo-come-funziona.jpg?v=637811168646500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267566/hill-s-prescription-diet-metabolic-cane-pollo-caratteristiche.jpg?v=637811168781070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267569/hill-s-prescription-diet-metabolic-cane-pollo-razione.jpg?v=637811170602600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267570/hill-s-prescription-diet-metabolic-cane-pollo-somministrazione.jpg?v=637811170730070000"
+    ],
+    "price": {
+      "current": 106.24,
+      "original": 124.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.860717264386988,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10072",
+        "sku": "10072",
+        "gtin": "10061793",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-weight-management-10072/p",
+        "price": {
+          "current": 106.24,
+          "original": 124.99,
+          "pricePerUnit": {
+            "value": 8.860717264386988,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-metabolic-weight-management-10072p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-metabolic-weight-management-10072/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5550",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "10027",
+    "sku": "10027",
+    "gtin": "10060144",
+    "title": "Hill's Prescription Diet i/d Digestive Care Low Fat Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-i-d-digestive-care-low-fat-10027/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304885/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--1-.jpg?v=638579461642600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304886/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--2-.jpg?v=638579461758700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304887/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--3-.jpg?v=638579461842470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304888/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--4-.jpg?v=638579461947170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304889/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--5-.jpg?v=638579462071470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304890/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--6-.jpg?v=638579462161570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304891/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--7-.jpg?v=638579462249030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304892/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--8-.jpg?v=638579462356900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304893/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--9-.jpg?v=638579462428230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304894/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--10-.jpg?v=638579462496430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304895/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--11-.jpg?v=638579462576400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304896/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--12-.jpg?v=638579462685000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304897/hill-s-prescription-diet-i-d-digestive-care-low-fat-alimento-secco-per-cani-10060144--13-.jpg?v=638579462766730000"
+    ],
+    "price": {
+      "current": 88.9,
+      "original": 122.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.408333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10027",
+        "sku": "10027",
+        "gtin": "10060144",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-i-d-digestive-care-low-fat-10027/p",
+        "price": {
+          "current": 88.9,
+          "original": 122.99,
+          "pricePerUnit": {
+            "value": 7.408333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-i-d-digestive-care-low-fat-10027p",
+        "name": "Hill's Prescription Diet i/d Digestive Care Low Fat Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-i-d-digestive-care-low-fat-10027/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5649",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "14920",
+    "sku": "14920",
+    "gtin": "10140668",
+    "title": "Hill's Prescription Diet r/d Weight Loss Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-r-d-weight-reduction-14920/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269503/hills-prescription-diet-r-d-alimento-cani-con-pollo.jpg?v=637826101913370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269504/hills-prescription-diet-r-d-alimento-cani-con-pollo-transizione.jpg?v=637826102233500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269506/hills-prescription-diet-r-d-alimento-cani-con-pollo-salute.jpg?v=637826102581800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269507/hills-prescription-diet-r-d-alimento-cani-con-pollo-razione.jpg?v=637826102708000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269508/hills-prescription-diet-r-d-alimento-cani-con-pollo-ingredienti.jpg?v=637826102852970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269509/hills-prescription-diet-r-d-alimento-cani-con-pollo-crocchette.jpg?v=637826102974970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269510/hills-prescription-diet-r-d-alimento-cani-con-pollo-come-aiuta.jpg?v=637826103127500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269511/hills-prescription-diet-r-d-alimento-cani-con-pollo-come-funziona.jpg?v=637826103274070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269512/hills-prescription-diet-r-d-alimento-cani-con-pollo-benefici.jpg?v=637826103401330000"
+    ],
+    "price": {
+      "current": 76.42,
+      "original": 89.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.642,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14920",
+        "sku": "14920",
+        "gtin": "10140668",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-r-d-weight-reduction-14920/p",
+        "price": {
+          "current": 76.42,
+          "original": 89.9,
+          "pricePerUnit": {
+            "value": 7.642,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-r-d-weight-reduction-14920p",
+        "name": "Hill's Prescription Diet r/d Weight Loss Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-r-d-weight-reduction-14920/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7109",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8791",
+    "sku": "8791",
+    "gtin": "00044025",
+    "title": "Royal Canin V-Diet Satiety Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-satiety-1-5kg-8791/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288235/_0003_C_SATIETY_B1_PACKSHOT_2019.jpg?v=638242308910070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255523/Satiety.jpg?v=637563147605200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292493/post-smaltimento-rc-00044025.jpg?v=638369346030330000"
+    ],
+    "price": {
+      "current": 96,
+      "original": 99.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.006672226855713,
+        "unit": "KG"
+      },
+      "discountPercentage": 4
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8791",
+        "sku": "8791",
+        "gtin": "00044025",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-satiety-1-5kg-8791/p",
+        "price": {
+          "current": 96,
+          "original": 99.9,
+          "pricePerUnit": {
+            "value": 8.006672226855713,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-satiety-1-5kg-8791p",
+        "name": "Royal Canin V-Diet Satiety Cane",
+        "path": "/royal-canin-veterinary-diet-cane-satiety-1-5kg-8791/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7162",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8864",
+    "sku": "8864",
+    "gtin": "00003621",
+    "title": "Royal Canin V-Diet Sensitivity Control Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-sensitivity-control-8864/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316939/_0003_D-DERMA-SENSCONT-PACKSHOT-B1.jpg?v=638760072096230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316940/dosaggio.jpg.jpg?v=638760072096400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316941/post-smaltimento-rc-00003621.jpg?v=638760072096530000"
+    ],
+    "price": {
+      "current": 102.85,
+      "original": 114.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.341184867951463,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8864",
+        "sku": "8864",
+        "gtin": "00003621",
+        "title": "14KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-sensitivity-control-8864/p",
+        "price": {
+          "current": 102.85,
+          "original": 114.99,
+          "pricePerUnit": {
+            "value": 7.341184867951463,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "14KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-sensitivity-control-8864p",
+        "name": "Royal Canin V-Diet Sensitivity Control Cane",
+        "path": "/royal-canin-veterinary-diet-cane-sensitivity-control-8864/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7163",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8801",
+    "sku": "8801",
+    "gtin": "10056301",
+    "title": "Royal Canin V-Diet Gastrointestinal Low Fat Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat-8801/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316967/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat.jpg?v=638760097305700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316968/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat.jpg?v=638760097305870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316969/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat-ds.jpg.jpg?v=638760097306330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316970/post-smaltimento-rc-10056301.jpg?v=638760097306500000"
+    ],
+    "price": {
+      "current": 94.99,
+      "original": 99.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.915833333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8801",
+        "sku": "8801",
+        "gtin": "10056301",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat-8801/p",
+        "price": {
+          "current": 94.99,
+          "original": 99.99,
+          "pricePerUnit": {
+            "value": 7.915833333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-gastrointestinal-low-fat-8801p",
+        "name": "Royal Canin V-Diet Gastrointestinal Low Fat Cane",
+        "path": "/royal-canin-veterinary-diet-cane-gastrointestinal-low-fat-8801/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7179",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "25156",
+    "sku": "25156",
+    "gtin": "10056307",
+    "title": "Royal Canin Hepatic Dog Alimento Dietetico Completo Per Cani Adulti",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-hepatic-25156/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309700/Royal-Canin-Hepatic-Dog-Alimento-Dietetico-Completo-Per-Cani-Adulti-10056307-1.jpg?v=638664176637500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309701/Royal-Canin-Hepatic-Dog-Alimento-Dietetico-Completo-Per-Cani-Adulti-10056307-2.jpg?v=638664176758400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309703/Royal-Canin-Hepatic-Dog-Alimento-Dietetico-Completo-Per-Cani-Adulti-10056307-3.jpg?v=638664177152070000"
+    ],
+    "price": {
+      "current": 104.99,
+      "original": 104.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.749166666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25156",
+        "sku": "25156",
+        "gtin": "10056307",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-hepatic-25156/p",
+        "price": {
+          "current": 104.99,
+          "original": 104.99,
+          "pricePerUnit": {
+            "value": 8.749166666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-hepatic-25156p",
+        "name": "Royal Canin Hepatic Dog Alimento Dietetico Completo Per Cani Adulti",
+        "path": "/royal-canin-veterinary-diet-cane-hepatic-25156/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7180",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "25162",
+    "sku": "25162",
+    "gtin": "10057504",
+    "title": "Royal Canin V-Diet Urinary Small Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-25162/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316961/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-10057504--1-.jpg.jpg?v=638760095026330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316962/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-ds.jpg.jpg?v=638760095026500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316963/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-10057504--2-.jpg.jpg?v=638760095026500000"
+    ],
+    "price": {
+      "current": 53.99,
+      "original": 53.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.4975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25162",
+        "sku": "25162",
+        "gtin": "10057504",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-25162/p",
+        "price": {
+          "current": 53.99,
+          "original": 53.99,
+          "pricePerUnit": {
+            "value": 13.4975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-25162p",
+        "name": "Royal Canin V-Diet Urinary Small Cane",
+        "path": "/royal-canin-veterinary-diet-cane-urinary-small-breed-1-5kg-25162/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7184",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "7639",
+    "sku": "7639",
+    "gtin": "10069280",
+    "title": "Farmina Vet Life Ultrahypoallergenic Cane",
+    "brand": "FARMINA",
+    "url": "https://www.arcaplanet.it/farmina-vet-life-cane-ultrahypo-2kg-7639/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297617/farmina-vet-life-cane-ultrahypo-2kg--10069280--1-.jpg?v=638473212910430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257087/farmina-vet-life-ultrahypoallergenic-dosaggio.jpg?v=637576363386300000"
+    ],
+    "price": {
+      "current": 31.35,
+      "original": 35.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.675,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7639",
+        "sku": "7639",
+        "gtin": "10069280",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/farmina-vet-life-cane-ultrahypo-2kg-7639/p",
+        "price": {
+          "current": 31.35,
+          "original": 35.99,
+          "pricePerUnit": {
+            "value": 15.675,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "farmina-vet-life-cane-ultrahypo-2kg-7639p",
+        "name": "Farmina Vet Life Ultrahypoallergenic Cane",
+        "path": "/farmina-vet-life-cane-ultrahypo-2kg-7639/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7472",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8840",
+    "sku": "8840",
+    "gtin": "10111979",
+    "title": "Royal Canin V-Diet Urinary S/O Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-8840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288268/_0005_D_URINARY_B1_PACKSHOT--1-.jpg?v=638242463964200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/246195/royal-canin-veterinary-diet-cane-urinary-s-o.jpg?v=637455029605400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255628/Urinary-S-O.jpg?v=637563452095330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292509/post-smaltimento-rc-10111979.jpg?v=638369354623970000"
+    ],
+    "price": {
+      "current": 94,
+      "original": 99.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.22521137586472,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8840",
+        "sku": "8840",
+        "gtin": "10111979",
+        "title": "13KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-urinary-8840/p",
+        "price": {
+          "current": 94,
+          "original": 99.9,
+          "pricePerUnit": {
+            "value": 7.22521137586472,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "13KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-urinary-8840p",
+        "name": "Royal Canin V-Diet Urinary S/O Cane",
+        "path": "/royal-canin-veterinary-diet-cane-urinary-8840/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7484",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8862",
+    "sku": "8862",
+    "gtin": "00003558",
+    "title": "Royal Canin V-Diet Hypoallergenic Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-hypoallergenic-8862/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288162/_0005_D-DERMA-HYPO-PACKSHOT-B1.jpg?v=638241437800970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250325/royal-canin-veterinary-diet-cane-hypoallergenic.jpg?v=637455065199730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255578/Hypoallergenic.jpg?v=637563365645500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292512/post-smaltimento-rc-00003558.jpg?v=638369357893700000"
+    ],
+    "price": {
+      "current": 105.4,
+      "original": 114.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.5231977159172025,
+        "unit": "KG"
+      },
+      "discountPercentage": 8
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8862",
+        "sku": "8862",
+        "gtin": "00003558",
+        "title": "14KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-hypoallergenic-8862/p",
+        "price": {
+          "current": 105.4,
+          "original": 114.99,
+          "pricePerUnit": {
+            "value": 7.5231977159172025,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "14KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-hypoallergenic-8862p",
+        "name": "Royal Canin V-Diet Hypoallergenic Cane",
+        "path": "/royal-canin-veterinary-diet-cane-hypoallergenic-8862/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7542",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8863",
+    "sku": "8863",
+    "gtin": "00003578",
+    "title": "Royal Canin V-Diet Renal Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-8863/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288286/_0002_C-RENAL-PACKSHOT-B1-VETVIT19.jpg?v=638242483342370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255590/Renal.jpg?v=637563376110900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292516/post-smaltimento-rc-00003578.jpg?v=638369360064370000"
+    ],
+    "price": {
+      "current": 94.99,
+      "original": 104.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.784999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "8863",
+        "sku": "8863",
+        "gtin": "00003578",
+        "title": "14KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-renal-8863/p",
+        "price": {
+          "current": 94.99,
+          "original": 104.99,
+          "pricePerUnit": {
+            "value": 6.784999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "14KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-renal-8863p",
+        "name": "Royal Canin V-Diet Renal Cane",
+        "path": "/royal-canin-veterinary-diet-cane-renal-8863/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7560",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8875",
+    "sku": "8875",
+    "gtin": "10129516",
+    "title": "Royal Canin V-Diet Gastrointestinal Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-gastrointestinal-8875/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250194/royal-canin-veterinary-diet-cane-gastrointestinal.jpg?v=637455063891070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253862/Tabella-royal-vdiet-gastrointestinal-secco-cane.png?v=637539169852530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292525/post-smaltimento-rc-10129516.jpg?v=638369363538870000"
+    ],
+    "price": {
+      "current": 104,
+      "original": 104.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.933333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 1
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8875",
+        "sku": "8875",
+        "gtin": "10129516",
+        "title": "15KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-gastrointestinal-8875/p",
+        "price": {
+          "current": 104,
+          "original": 104.99,
+          "pricePerUnit": {
+            "value": 6.933333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "15KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-gastrointestinal-8875p",
+        "name": "Royal Canin V-Diet Gastrointestinal Cane",
+        "path": "/royal-canin-veterinary-diet-cane-gastrointestinal-8875/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7569",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "611",
+    "sku": "611",
+    "gtin": "10079992",
+    "title": "Royal Canin V-Diet Anallergenic Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-anallergic-3kg-611/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288165/_0007_D-DERMA-ANA-PACKSHOT-B1.jpg?v=638241439560700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250338/royal-canin-veterinary-diet-cane-anallergic.jpg?v=637455065313230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255606/anallergenic.jpg?v=637563419999430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292305/post-smaltimento-rc-10079992.jpg?v=638368680623100000"
+    ],
+    "price": {
+      "current": 98.6,
+      "original": 104.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.325,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "611",
+        "sku": "611",
+        "gtin": "10079992",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-cane-anallergic-3kg-611/p",
+        "price": {
+          "current": 98.6,
+          "original": 104.99,
+          "pricePerUnit": {
+            "value": 12.325,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-cane-anallergic-3kg-611p",
+        "name": "Royal Canin V-Diet Anallergenic Cane",
+        "path": "/royal-canin-veterinary-diet-cane-anallergic-3kg-611/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7832",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8225",
+    "sku": "8225",
+    "gtin": "10059283",
+    "title": "Royal Canin V-Diet Hypoallergenic Small Cane",
+    "brand": "ROYAL CANIN",
+    "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hypoallergenic-small-cane-8225/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288164/_0004_D-DERMA-HYPO-SD-PACKSHOT-B1.jpg?v=638241438696300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250331/royal-canin-veterinary-diet-cane-hypoallergenic-small.jpg?v=637455065248570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250333/royal-canin-veterinary-diet-cane-hypoallergenic-small.jpg?v=637455065262200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255616/Hypoallergenic-small-dogs.jpg?v=637563426880100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292482/post-smaltimento-rc-10059283.jpg?v=638369340452600000"
+    ],
+    "price": {
+      "current": 46.74,
+      "original": 48.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.354285714285714,
+        "unit": "KG"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8225",
+        "sku": "8225",
+        "gtin": "10059283",
+        "title": "3.5KG",
+        "url": "https://www.arcaplanet.it/royal-canin-veterinary-diet-hypoallergenic-small-cane-8225/p",
+        "price": {
+          "current": 46.74,
+          "original": 48.99,
+          "pricePerUnit": {
+            "value": 13.354285714285714,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "royal-canin-veterinary-diet-hypoallergenic-small-cane-8225p",
+        "name": "Royal Canin V-Diet Hypoallergenic Small Cane",
+        "path": "/royal-canin-veterinary-diet-hypoallergenic-small-cane-8225/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8054",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8610",
+    "sku": "8610",
+    "gtin": "10057683",
+    "title": "Forza10 Dog Active Vet Diet Dermo",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-cane-active-line-dermo-8610/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304591/forza10-dog-active-vet-diet-dermo-10057683--1-.jpg?v=638575120892470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304592/forza10-dog-active-vet-diet-dermo-10057683--2-.jpg?v=638575121038100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304593/forza10-dog-active-vet-diet-dermo-10057683--3-.jpg?v=638575121122070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304594/forza10-dog-active-vet-diet-dermo-10057683--4-.jpg?v=638575121210370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304595/forza10-dog-active-vet-diet-dermo-10057683--5-.jpg?v=638575121296470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304596/forza10-dog-active-vet-diet-dermo-10057683--6-.jpg?v=638575121378200000"
+    ],
+    "price": {
+      "current": 57.99,
+      "original": 79.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.799,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8610",
+        "sku": "8610",
+        "gtin": "10057683",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/forza10-cane-active-line-dermo-8610/p",
+        "price": {
+          "current": 57.99,
+          "original": 79.99,
+          "pricePerUnit": {
+            "value": 5.799,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "forza10-cane-active-line-dermo-8610p",
+        "name": "Forza10 Dog Active Vet Diet Dermo",
+        "path": "/forza10-cane-active-line-dermo-8610/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8101",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8740",
+    "sku": "8740",
+    "gtin": "10067268",
+    "title": "Purina Pro Plan Veterinary Diets  En Gastroinestinal Cane",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-en-gastrointestinal-8740/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309417/10067268-1.jpg?v=638663124511900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309418/10067268-2.jpg?v=638663124676030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309419/10067268-3.jpg?v=638663125505430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309420/10067268-4.jpg?v=638663126014030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309421/10067268-5.jpg?v=638663126118730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309422/10067268-6.jpg?v=638663126264530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309423/10067268-7.jpg?v=638663126402970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309424/10067268-8.jpg?v=638663126634770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309425/10067268-9.jpg?v=638663126948900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309426/10067268-10.jpg?v=638663127117930000"
+    ],
+    "price": {
+      "current": 72.99,
+      "original": 99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.0825,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8740",
+        "sku": "8740",
+        "gtin": "10067268",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-en-gastrointestinal-8740/p",
+        "price": {
+          "current": 72.99,
+          "original": 99,
+          "pricePerUnit": {
+            "value": 6.0825,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-cane-en-gastrointestinal-8740p",
+        "name": "Purina Pro Plan Veterinary Diets  En Gastroinestinal Cane",
+        "path": "/purina-veterinary-diet-cane-en-gastrointestinal-8740/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8189",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8654",
+    "sku": "8654",
+    "gtin": "10067015",
+    "title": "Purina Pro Plan Veterinary Diets Hypoallergenic HA Cane",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-ha-hypoallergenic-8654/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309406/10067015-1.jpg?v=638659880672200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309407/10067015-2.jpg?v=638659880873470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309408/10067015-3.jpg?v=638659881245370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309409/10067015-4.jpg?v=638659881332900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309410/10067015-5.jpg?v=638659881424170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309411/10067015-6.jpg?v=638659881538070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309412/10067015-7.jpg?v=638659881726830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309413/10067015-8.jpg?v=638659881800670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309414/10067015-9.jpg?v=638659881924200000"
+    ],
+    "price": {
+      "current": 67.19,
+      "original": 85.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.108181818181818,
+        "unit": "KG"
+      },
+      "discountPercentage": 22
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8654",
+        "sku": "8654",
+        "gtin": "10067015",
+        "title": "11KG",
+        "url": "https://www.arcaplanet.it/purina-veterinary-diet-cane-ha-hypoallergenic-8654/p",
+        "price": {
+          "current": 67.19,
+          "original": 85.99,
+          "pricePerUnit": {
+            "value": 6.108181818181818,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "11KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "purina-veterinary-diet-cane-ha-hypoallergenic-8654p",
+        "name": "Purina Pro Plan Veterinary Diets Hypoallergenic HA Cane",
+        "path": "/purina-veterinary-diet-cane-ha-hypoallergenic-8654/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8481",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8743",
+    "sku": "8743",
+    "gtin": "10112477",
+    "title": "Exclusion Hypoallergenic Dog Medium&Large Maiale",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-8743/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304011/exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-10112477--1-.jpg?v=638563789251570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304012/exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-10112477--2-.jpg?v=638563789397430000"
+    ],
+    "price": {
+      "current": 90.99,
+      "original": 90.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.5825,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8743",
+        "sku": "8743",
+        "gtin": "10112477",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-8743/p",
+        "price": {
+          "current": 90.99,
+          "original": 90.99,
+          "pricePerUnit": {
+            "value": 7.5825,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-8743p",
+        "name": "Exclusion Hypoallergenic Dog Medium&Large Maiale",
+        "path": "/exclusion-hypoallergenic-con-maiale-e-piselli-medium-large-8743/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8569",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8744",
+    "sku": "8744",
+    "gtin": "10112478",
+    "title": "Exclusion Hypoallergenic Dog Medium&Large Pesce e Patate",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-8744/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304037/exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-10112478--1-.jpg?v=638563904539730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304038/exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-10112478--2-.jpg?v=638563904676830000"
+    ],
+    "price": {
+      "current": 90.99,
+      "original": 90.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.5825,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8744",
+        "sku": "8744",
+        "gtin": "10112478",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-8744/p",
+        "price": {
+          "current": 90.99,
+          "original": 90.99,
+          "pricePerUnit": {
+            "value": 7.5825,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-8744p",
+        "name": "Exclusion Hypoallergenic Dog Medium&Large Pesce e Patate",
+        "path": "/exclusion-hypoallergenic-con-pesce-e-patate-medium-adult-8744/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8570",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "14921",
+    "sku": "14921",
+    "gtin": "10140669",
+    "title": "Hill's Prescription Diet u/d Urinary Care Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-u-d-5kg-14921/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269494/hills-prescription-diet-u-d-alimento-per-cani.jpg?v=637826096854370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269495/hills-prescription-diet-u-d-alimento-per-cani-transizione.jpg?v=637826097048230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269496/hills-prescription-diet-u-d-alimento-per-cani-salute.jpg?v=637826097187200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269497/hills-prescription-diet-u-d-alimento-per-cani-razione.jpg?v=637826097363500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269498/hills-prescription-diet-u-d-alimento-per-cani-ingredienti.jpg?v=637826097500300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269499/hills-prescription-diet-u-d-alimento-per-cani-crocchette.jpg?v=637826097626870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269500/hills-prescription-diet-u-d-alimento-per-cani-come-aiuta.jpg?v=637826097788330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269501/hills-prescription-diet-u-d-alimento-per-cani-come-funziona.jpg?v=637826097916870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269502/hills-prescription-diet-u-d-alimento-per-cani-caratteristiche.jpg?v=637826098063100000"
+    ],
+    "price": {
+      "current": 77.9,
+      "original": 111.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.790000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14921",
+        "sku": "14921",
+        "gtin": "10140669",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-u-d-5kg-14921/p",
+        "price": {
+          "current": 77.9,
+          "original": 111.99,
+          "pricePerUnit": {
+            "value": 7.790000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-u-d-5kg-14921p",
+        "name": "Hill's Prescription Diet u/d Urinary Care Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-u-d-5kg-14921/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8576",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "8827",
+    "sku": "8827",
+    "gtin": "10067401",
+    "title": "Exclusion Intestinal Dog Medium&Large Maiale",
+    "brand": "EXCLUSION",
+    "url": "https://www.arcaplanet.it/exclusion-intestinal-con-maiale-e-riso-medium-large-8827/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/248417/exclusion-diet-cane-medium-e-large-intestinal-maiale.jpg?v=637466517840000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257077/exclusion-intestinal-dog-medium-large-maiale-riso-dosaggio.jpg?v=637576346500930000"
+    ],
+    "price": {
+      "current": 90.99,
+      "original": 90.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.5825,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8827",
+        "sku": "8827",
+        "gtin": "10067401",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/exclusion-intestinal-con-maiale-e-riso-medium-large-8827/p",
+        "price": {
+          "current": 90.99,
+          "original": 90.99,
+          "pricePerUnit": {
+            "value": 7.5825,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "exclusion-intestinal-con-maiale-e-riso-medium-large-8827p",
+        "name": "Exclusion Intestinal Dog Medium&Large Maiale",
+        "path": "/exclusion-intestinal-con-maiale-e-riso-medium-large-8827/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8653",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "10025",
+    "sku": "10025",
+    "gtin": "10120736",
+    "title": "Hill's Prescription Diet Gastrointestinal Biome Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-gastrointestinal-biome-10025/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267712/hills-prescription-diet-gastrointestinal-biome-cane-pollo-pack.jpg?v=637811457740830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267401/hills-prescription-diet-gastrointestinal-biome-cane-pollo-transizione.jpg?v=637810522010430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267402/hills-prescription-diet-gastrointestinal-biome-cane-pollo-salute.jpg?v=637810522143070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267403/hills-prescription-diet-gastrointestinal-biome-cane-pollo-razione.jpg?v=637810522277470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267404/hills-prescription-diet-gastrointestinal-biome-cane-pollo-ingredienti.jpg?v=637810522421700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267405/hills-prescription-diet-gastrointestinal-biome-cane-pollo-crocchette.jpg?v=637810522535970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267406/hills-prescription-diet-gastrointestinal-biome-cane-pollo-come-aiuta.jpg?v=637810522695530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267407/hills-prescription-diet-gastrointestinal-biome-cane-pollo-come-funziona.jpg?v=637810522820570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267408/hills-prescription-diet-gastrointestinal-biome-cane-pollo-intestino.jpg?v=637810522952900000"
+    ],
+    "price": {
+      "current": 74.99,
+      "original": 89.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.499,
+        "unit": "KG"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10025",
+        "sku": "10025",
+        "gtin": "10120736",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-gastrointestinal-biome-10025/p",
+        "price": {
+          "current": 74.99,
+          "original": 89.99,
+          "pricePerUnit": {
+            "value": 7.499,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-gastrointestinal-biome-10025p",
+        "name": "Hill's Prescription Diet Gastrointestinal Biome Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-gastrointestinal-biome-10025/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9220",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "9670",
+    "sku": "9670",
+    "gtin": "10067688",
+    "title": "Hill's Prescription Diet Metabolic + Mobility Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-mobility-9670/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267723/hills-prescription-diet-metabolic-mobility-alimento-per-cani-pollo-pack.jpg?v=637811462209000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267582/hills-prescription-diet-metabolic-mobility-alimento-per-cani-pollo-transizione.jpg?v=637811179802770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267583/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-gestione-.peso.jpg?v=637811179938100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267584/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-razione.jpg?v=637811180071400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267585/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-somministrazione.jpg?v=637811180188670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267586/hills-prescription-diet-metabolic-mobility-alimento-per-cani-pollo-ingredienti.jpg?v=637811180319600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267587/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-crocchette.jpg?v=637811180474930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267588/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-come-aiuta.jpg?v=637811180623300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267589/hills-prescription-diet-metabolic-mobility-alimento-cane-pollo-come-funziona.jpg?v=637811180736400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267590/hills-prescription-diet-metabolic-mobility-alimento-per-cani-pollo-caratteristiche.jpg?v=637811180860730000"
+    ],
+    "price": {
+      "current": 111.34,
+      "original": 130.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.2860717264387,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9670",
+        "sku": "9670",
+        "gtin": "10067688",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-metabolic-mobility-9670/p",
+        "price": {
+          "current": 111.34,
+          "original": 130.99,
+          "pricePerUnit": {
+            "value": 9.2860717264387,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-metabolic-mobility-9670p",
+        "name": "Hill's Prescription Diet Metabolic + Mobility Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-metabolic-mobility-9670/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9499",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "11946",
+    "sku": "11946",
+    "gtin": "10138319",
+    "title": "Hill's Prescription Diet Derm Complete Mini Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-derm-complete-skin-care-11946/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269154/hills-prescription-diet-derm-complete-mini-alimento-cani-pack.jpg?v=637823557465500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269155/hills-prescription-diet-derm-complete-mini-alimento-cani-transizione.jpg?v=637823557658830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269156/hills-prescription-diet-derm-complete-mini-alimento-cani-sensibilita.jpg?v=637823557787900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269157/hills-prescription-diet-derm-complete-mini-alimento-cani-razione.jpg?v=637823557922570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269158/hills-prescription-diet-derm-complete-mini-alimento-cani-ingredienti.jpg?v=637823558052470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269159/hills-prescription-diet-derm-complete-mini-alimento-cani-crocchette.jpg?v=637823558197900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269160/hills-prescription-diet-derm-complete-mini-alimento-cani-come-aiuta.jpg?v=637823558326300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269161/hills-prescription-diet-derm-complete-mini-alimento-cani-come-funziona.jpg?v=637823558454930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269162/hills-prescription-diet-derm-complete-mini-alimento-cani-benefici.jpg?v=637823558582730000"
+    ],
+    "price": {
+      "current": 57.9,
+      "original": 80.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11946",
+        "sku": "11946",
+        "gtin": "10138319",
+        "title": "6KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-derm-complete-skin-care-11946/p",
+        "price": {
+          "current": 57.9,
+          "original": 80.99,
+          "pricePerUnit": {
+            "value": 9.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-mini-derm-complete-skin-care-11946p",
+        "name": "Hill's Prescription Diet Derm Complete Mini Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-mini-derm-complete-skin-care-11946/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11958",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "25795",
+    "sku": "25795",
+    "gtin": "1000000000373",
+    "title": "Hill's Prescription Diet z/d Food Sensitivities Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-z-d-food-sensitivities-25795/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311733/hills-prescription-diet-z-d-alimento-per-cani-packx2.jpg?v=638682121236270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311734/hills-prescription-diet-z-d-alimento-per-cani-pack.png?v=638682121307900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311735/hills-prescription-diet-z-d-alimento-per-cani-transizione.jpg?v=638682121600500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311736/hills-prescription-diet-z-d-alimento-per-cani-razione.jpg?v=638682121712670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311737/hills-prescription-diet-z-d-alimento-per-cani-ingredienti.jpg?v=638682121805200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311738/hills-prescription-diet-z-d-alimento-per-cani-crocchette.jpg?v=638682121895300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311739/hills-prescription-diet-z-d-alimento-per-cani-come-aiuta.jpg?v=638682122008200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311740/hills-prescription-diet-z-d-alimento-per-cani-come-funzione.jpg?v=638682122112930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311741/hills-prescription-diet-z-d-alimento-per-cani-caratteristiche.jpg?v=638682122216830000"
+    ],
+    "price": {
+      "current": 164.99,
+      "original": 229.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.249500000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25795",
+        "sku": "25795",
+        "gtin": "1000000000373",
+        "title": "KIT 2x10KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-z-d-food-sensitivities-25795/p",
+        "price": {
+          "current": 164.99,
+          "original": 229.98,
+          "pricePerUnit": {
+            "value": 8.249500000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-z-d-food-sensitivities-25795p",
+        "name": "Hill's Prescription Diet z/d Food Sensitivities Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-z-d-food-sensitivities-25795/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14031",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "12724",
+    "sku": "12724",
+    "gtin": "10076033",
+    "title": "Hill's Prescription Diet z/d Food Sensitivies Mini Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-z-d-food-sensitivities-12724/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267729/hills-prescription-diet-z-d-food-sentivities-cane-mini-pack.jpg?v=637811467069430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267175/hills-prescription-diet-z-d-food-sentivities-cane-mini-transizione.jpg?v=637807711484500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267176/hills-prescription-diet-z-d-food-sentivities-cane-mini-sensibilita.jpg?v=637807711646200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267177/hills-prescription-diet-z-d-food-sentivities-cane-mini-razione.jpg?v=637807711792030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267178/hills-prescription-diet-z-d-food-sentivities-cane-mini-crocchette.jpg?v=637807711916930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267179/hills-prescription-diet-z-d-food-sentivities-cane-mini-come-aiuta.jpg?v=637807712059630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267180/hills-prescription-diet-z-d-food-sentivities-cane-mini-come-funziona.jpg?v=637807712202500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267181/hills-prescription-diet-z-d-food-sentivities-cane-mini-ingredienti.jpg?v=637807712350500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267182/hills-prescription-diet-z-d-food-sentivities-cane-mini-irritazioni.jpg?v=637807712477170000"
+    ],
+    "price": {
+      "current": 59.9,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.983333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 14
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12724",
+        "sku": "12724",
+        "gtin": "10076033",
+        "title": "6KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-z-d-food-sensitivities-12724/p",
+        "price": {
+          "current": 59.9,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 9.983333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-mini-z-d-food-sensitivities-12724p",
+        "name": "Hill's Prescription Diet z/d Food Sensitivies Mini Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-mini-z-d-food-sensitivities-12724/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14860",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "12725",
+    "sku": "12725",
+    "gtin": "10076502",
+    "title": "Hill's Prescription Diet Metabolic Mini Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-metabolic-pollo-12725/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267731/hills-pres-diet-metabolic-mini-pack.jpg?v=637811468178770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267220/hills-prescription-diet-metabolic-mini-cane-pollo-transizione.jpg?v=637807810921700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267221/hills-prescription-diet-metabolic-mini-cane-pollo-gestione-peso.jpg?v=637807811097770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267222/hills-prescription-diet-metabolic-mini-cane-pollo-razione.jpg?v=637807811485770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267223/hills-prescription-diet-metabolic-mini-cane-pollo-guida-alla-somministrazione.jpg?v=637807811639430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267224/hills-prescription-diet-metabolic-mini-cane-pollo-crocchette.jpg?v=637807811782930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267225/hills-prescription-diet-metabolic-mini-cane-pollo-come-aiuta.jpg?v=637807811917800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267226/hills-prescription-diet-metabolic-mini-cane-pollo-come-funziona.jpg?v=637807812044300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267227/hills-prescription-diet-metabolic-mini-cane-pollo-ingredienti.jpg?v=637807812251670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267228/hills-prescription-diet-metabolic-mini-cane-pollo-caratteristiche.jpg?v=637807812475400000"
+    ],
+    "price": {
+      "current": 55.24,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.206666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12725",
+        "sku": "12725",
+        "gtin": "10076502",
+        "title": "6KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-cane-mini-metabolic-pollo-12725/p",
+        "price": {
+          "current": 55.24,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 9.206666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-cane-mini-metabolic-pollo-12725p",
+        "name": "Hill's Prescription Diet Metabolic Mini Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-cane-mini-metabolic-pollo-12725/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14861",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "14005",
+    "sku": "14005",
+    "gtin": "10065491",
+    "title": "Forza10 Dog Active Vet Diet Intestinal Colon Fase 1",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-intestinal-colon-fase-1-cane-14005/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304648/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--1-.jpg?v=638575796153530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304649/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--2-.jpg?v=638763507141870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304650/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--3-.jpg?v=638763507141870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304651/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--4-.jpg?v=638763507141870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304652/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--5-.jpg?v=638763507141870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304653/forza10-dog-active-vet-diet-intestinal-colon-fase-1-10065491--6-.jpg?v=638763507141870000"
+    ],
+    "price": {
+      "current": 77.99,
+      "original": 112,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.7989999999999995,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14005",
+        "sku": "14005",
+        "gtin": "10065491",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/forza10-intestinal-colon-fase-1-cane-14005/p",
+        "price": {
+          "current": 77.99,
+          "original": 112,
+          "pricePerUnit": {
+            "value": 7.7989999999999995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "forza10-intestinal-colon-fase-1-cane-14005p",
+        "name": "Forza10 Dog Active Vet Diet Intestinal Colon Fase 1",
+        "path": "/forza10-intestinal-colon-fase-1-cane-14005/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16139",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "13999",
+    "sku": "13999",
+    "gtin": "10117353",
+    "title": "Forza10 Dog Active Vet Diet Intestinal Colon Fase 2",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/forza10-intestinal-colon-fase-2-cani-13999/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304686/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--1-.jpg?v=638575939255630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304675/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--2-.jpg?v=638575933602200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304676/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--3-.jpg?v=638575933886300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304677/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--4-.jpg?v=638575934126470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304678/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--5-.jpg?v=638575934274830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304679/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353--6-.jpg?v=638575934448400000"
+    ],
+    "price": {
+      "current": 61.99,
+      "original": 89.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.199,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13999",
+        "sku": "13999",
+        "gtin": "10117353",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/forza10-intestinal-colon-fase-2-cani-13999/p",
+        "price": {
+          "current": 61.99,
+          "original": 89.99,
+          "pricePerUnit": {
+            "value": 6.199,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "forza10-intestinal-colon-fase-2-cani-13999p",
+        "name": "Forza10 Dog Active Vet Diet Intestinal Colon Fase 2",
+        "path": "/forza10-intestinal-colon-fase-2-cani-13999/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16140",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "14725",
+    "sku": "14725",
+    "gtin": "10140446",
+    "title": "Hill's Prescription Diet Metabolic Alimento Secco per Cani con Agnello e Riso",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-metabolic-agnello-riso-14725/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267715/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-pack.jpg?v=637811459607700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267625/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-razione.jpg?v=637811216995070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267626/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-somministrazione.jpg?v=637811217131770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267627/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-ingredienti.jpg?v=637811217273100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267628/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-crocchette.jpg?v=637811217401900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267629/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-come-aiuta.jpg?v=637811217605100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267630/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-come-funziona.jpg?v=637811217724170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267631/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-caratteristiche.jpg?v=637811217856200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267632/hills-prescription-diet-metabolic-alimento-per-cani-agnello-riso-gestione-peso.jpg?v=637811218211600000"
+    ],
+    "price": {
+      "current": 91.79,
+      "original": 107.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.649166666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14725",
+        "sku": "14725",
+        "gtin": "10140446",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-metabolic-agnello-riso-14725/p",
+        "price": {
+          "current": 91.79,
+          "original": 107.99,
+          "pricePerUnit": {
+            "value": 7.649166666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-metabolic-agnello-riso-14725p",
+        "name": "Hill's Prescription Diet Metabolic Alimento Secco per Cani con Agnello e Riso",
+        "path": "/hills-prescription-diet-metabolic-agnello-riso-14725/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16862",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "15086",
+    "sku": "15086",
+    "gtin": "10140843",
+    "title": "Hill's Prescription Diet Gastrointestinal Biome Mini Alimento Secco per Cani",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hills-prescription-diet-gastrointestinal-biome-cane-mini-pollo-15086/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305124/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--1-.jpg?v=638581824738070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305125/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--2-.jpg?v=638581824856230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305126/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--3-.jpg?v=638581824932900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305127/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--4-.jpg?v=638581825040300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305128/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--5-.jpg?v=638581825132500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305129/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--6-.jpg?v=638581825336900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305130/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--7-.jpg?v=638581825521600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305131/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--8-.jpg?v=638581825624770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305132/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--9-.jpg?v=638581825725600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305133/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--10-.jpg?v=638581825882970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305134/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--11-.jpg?v=638581826055030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305135/hill-s-prescription-diet-gastrointestinal-biome-mini-alimento-secco-per-cani-10140843--12-.jpg?v=638581826140200000"
+    ],
+    "price": {
+      "current": 35.95,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.983333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 28
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15086",
+        "sku": "15086",
+        "gtin": "10140843",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/hills-prescription-diet-gastrointestinal-biome-cane-mini-pollo-15086/p",
+        "price": {
+          "current": 35.95,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 11.983333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hills-prescription-diet-gastrointestinal-biome-cane-mini-pollo-15086p",
+        "name": "Hill's Prescription Diet Gastrointestinal Biome Mini Alimento Secco per Cani",
+        "path": "/hills-prescription-diet-gastrointestinal-biome-cane-mini-pollo-15086/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17040",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "16365",
+    "sku": "16365",
+    "gtin": "10133068",
+    "title": "Advance Diets Dog Adult Atopic Medium Maxi Trota",
+    "brand": "ADVANCE",
+    "url": "https://www.arcaplanet.it/advance-diets-dog-adult-atopic-trota-16365/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317524/advance-diets-dog-adult-atopic-trota-10133068--1-.jpg.jpg?v=638762432082170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317525/advance-diets-dog-adult-atopic-trota-10133068--2-.jpg.jpg?v=638762432082170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317526/advance-diets-dog-adult-atopic-trota-10133068--3-.jpg.jpg?v=638762432082170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317527/advance-diets-dog-adult-atopic-trota-10133068--4-.jpg.jpg?v=638762432082170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317528/advance-diets-dog-adult-atopic-trota-10133068--5-.jpg.jpg?v=638762432082300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317529/advance-diets-dog-adult-atopic-trota-10133068--6-.jpg.jpg?v=638762432082300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317530/advance-diets-dog-adult-atopic-trota-10133068--7-.jpg.jpg?v=638762432082300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317531/advance-diets-dog-adult-atopic-trota-10133068--8-.jpg.jpg?v=638762432082300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317532/advance-diets-dog-adult-atopic-trota-10133068--9-.jpg.jpg?v=638762432082300000"
+    ],
+    "price": {
+      "current": 69.49,
+      "original": 103,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.786011656952539,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16365",
+        "sku": "16365",
+        "gtin": "10133068",
+        "title": "12KG",
+        "url": "https://www.arcaplanet.it/advance-diets-dog-adult-atopic-trota-16365/p",
+        "price": {
+          "current": 69.49,
+          "original": 103,
+          "pricePerUnit": {
+            "value": 5.786011656952539,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "advance-diets-dog-adult-atopic-trota-16365p",
+        "name": "Advance Diets Dog Adult Atopic Medium Maxi Trota",
+        "path": "/advance-diets-dog-adult-atopic-trota-16365/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18505",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "22855",
+    "sku": "22855",
+    "gtin": "10170438",
+    "title": "Hi Diet Dog Gastrointestinal Medium Large Breeds",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-gastrointestinal-medium-large-breeds-22855/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292100/Hi-Diet-Dog-Gastrintestinal-Medium-Large-10170438.jpg?v=638363250233230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294220/hi-diet-dog-gastrointestinal-large-10170438.jpg?v=638422014492230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294226/hi-diet-dog-gastrointestinal-large-10170438.jpg?v=638422019599000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301239/dosaggio-gastrointestinal-dog-10170438.jpg?v=638515311369700000"
+    ],
+    "price": {
+      "current": 62.99,
+      "original": 62.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.87375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22855",
+        "sku": "22855",
+        "gtin": "10170438",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-gastrointestinal-medium-large-breeds-22855/p",
+        "price": {
+          "current": 62.99,
+          "original": 62.99,
+          "pricePerUnit": {
+            "value": 7.87375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-gastrointestinal-medium-large-breeds-22855p",
+        "name": "Hi Diet Dog Gastrointestinal Medium Large Breeds",
+        "path": "/hi-diet-dog-gastrointestinal-medium-large-breeds-22855/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24873",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "22857",
+    "sku": "22857",
+    "gtin": "10170437",
+    "title": "Hi Diet Dog Hypoallergenic",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-22857/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292105/Hi-Diet-Dog-Hypoallergenic-10170437.jpg?v=638363264024070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293972/Hi-Diet-Dog-Hypoallergenic-10170437.jpg?v=638411762301300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294217/hi-diet-dog-hypoallergenic-10170437.jpg?v=638422013548800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301237/dosaggio-hypoallergenic-dog-10170437.jpg?v=638515309714730000"
+    ],
+    "price": {
+      "current": 64.99,
+      "original": 64.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.284285714285714,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22857",
+        "sku": "22857",
+        "gtin": "10170437",
+        "title": "7KG",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-hypoallergenic-22857/p",
+        "price": {
+          "current": 64.99,
+          "original": 64.99,
+          "pricePerUnit": {
+            "value": 9.284285714285714,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-hypoallergenic-22857p",
+        "name": "Hi Diet Dog Hypoallergenic",
+        "path": "/hi-diet-dog-hypoallergenic-22857/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24874",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "22859",
+    "sku": "22859",
+    "gtin": "10170439",
+    "title": "Hi Diet Dog Obesity",
+    "brand": "HI DIET",
+    "url": "https://www.arcaplanet.it/hi-diet-dog-obesity-22859/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292092/Hi-Diet-Dog-Obesity-10170439.jpg?v=638363212322970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293975/Hi-Diet-Dog-Obesity-10170439.jpg?v=638411763520600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294214/hi-diet-dog-obesity-10170439.jpg?v=638422012523870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301235/dosaggio-obesity-dog-10170439.jpg?v=638515308973800000"
+    ],
+    "price": {
+      "current": 57.99,
+      "original": 57.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.284285714285714,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22859",
+        "sku": "22859",
+        "gtin": "10170439",
+        "title": "7KG",
+        "url": "https://www.arcaplanet.it/hi-diet-dog-obesity-22859/p",
+        "price": {
+          "current": 57.99,
+          "original": 57.99,
+          "pricePerUnit": {
+            "value": 8.284285714285714,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "hi-diet-dog-obesity-22859p",
+        "name": "Hi Diet Dog Obesity",
+        "path": "/hi-diet-dog-obesity-22859/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24875",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  },
+  {
+    "id": "25793",
+    "sku": "25793",
+    "gtin": "1000000000371",
+    "title": "Kit Risparmio 2x10KG Forza10 Dog Active Vet Diet Intestinal Colon Fase 2",
+    "brand": "FORZA10",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x10kg-forza10-dog-active-vet-diet-intestinal-colon-fase-2-25793/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311717/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353x2.jpg?v=638682087778170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311718/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-1.png?v=638682087879000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311719/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-2.jpg?v=638682087968130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311720/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-3.jpg?v=638682088061200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311721/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-4.jpg?v=638682088153900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311722/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-5.jpg?v=638682088238700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311723/forza10-dog-active-vet-diet-intestinal-colon-fase-2-10117353-6.jpg?v=638682088340500000"
+    ],
+    "price": {
+      "current": 105.38,
+      "original": 179.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.269,
+        "unit": "KG"
+      },
+      "discountPercentage": 41
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25793",
+        "sku": "25793",
+        "gtin": "1000000000371",
+        "title": "2X10KG",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x10kg-forza10-dog-active-vet-diet-intestinal-colon-fase-2-25793/p",
+        "price": {
+          "current": 105.38,
+          "original": 179.98,
+          "pricePerUnit": {
+            "value": 5.269,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canediete-cibo-secco",
+        "name": "Diete Cibo Secco",
+        "path": "/cane/diete-cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x10kg-forza10-dog-active-vet-diet-intestinal-colon-fase-2-25793p",
+        "name": "Kit Risparmio 2x10KG Forza10 Dog Active Vet Diet Intestinal Colon Fase 2",
+        "path": "/kit-risparmio-2x10kg-forza10-dog-active-vet-diet-intestinal-colon-fase-2-25793/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:59.342Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/diete/cibo/secco/"
+  }
+]

@@ -1,0 +1,3885 @@
+[
+  {
+    "id": "9415",
+    "sku": "9415",
+    "gtin": "10109380",
+    "title": "Gioco Gatto Cannetta Bird",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gioco-gatto-cannetta-bird-cm-49x5-9415/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209730/YES--Gioco-Gatto-Cannetta-Bird.jpg?v=637413991001700000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9415",
+        "sku": "9415",
+        "gtin": "10109380",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes-gioco-gatto-cannetta-bird-cm-49x5-9415/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "yes-gioco-gatto-cannetta-bird-cm-49x5-9415p",
+        "name": "Gioco Gatto Cannetta Bird",
+        "path": "/yes-gioco-gatto-cannetta-bird-cm-49x5-9415/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "12781",
+    "sku": "12781",
+    "gtin": "10120395",
+    "title": "Camon Gioco Pesce",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-gatto-pesce-12781/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254872/Camon-GattI-Pesce.jpg?v=637557377624030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254873/Camon-Gatto-Pesce.jpg?v=637557377766270000"
+    ],
+    "price": {
+      "current": 4.95,
+      "original": 4.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12781",
+        "sku": "12781",
+        "gtin": "10120395",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-gatto-pesce-12781/p",
+        "price": {
+          "current": 4.95,
+          "original": 4.95,
+          "pricePerUnit": {
+            "value": 247.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-gioco-gatto-pesce-12781p",
+        "name": "Camon Gioco Pesce",
+        "path": "/camon-gioco-gatto-pesce-12781/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14917",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "12785",
+    "sku": "12785",
+    "gtin": "10138757",
+    "title": "Gioco per Gatto Topo Piume",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-sonaglio-piume-pz-2-12785/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254901/Giochi-per-gatto-topolini.jpg?v=637557398344930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254900/Gioco-gatto-topolino.jpg?v=637557398228730000"
+    ],
+    "price": {
+      "current": 3.6,
+      "original": 3.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 180,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12785",
+        "sku": "12785",
+        "gtin": "10138757",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-sonaglio-piume-pz-2-12785/p",
+        "price": {
+          "current": 3.6,
+          "original": 3.6,
+          "pricePerUnit": {
+            "value": 180,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-gioco-gatto-topo-sonaglio-piume-pz-2-12785p",
+        "name": "Gioco per Gatto Topo Piume",
+        "path": "/camon-gioco-gatto-topo-sonaglio-piume-pz-2-12785/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14921",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "12788",
+    "sku": "12788",
+    "gtin": "10138761",
+    "title": "Gioco Topo Denim per Gatto",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-denim-12788/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254877/Camon-Gioco-Topo-Denim.jpg?v=637557383185300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254878/Camon-Gioco-GATTO-Topo-Denim.jpg?v=637557383266370000"
+    ],
+    "price": {
+      "current": 3.4,
+      "original": 3.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 170,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12788",
+        "sku": "12788",
+        "gtin": "10138761",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-denim-12788/p",
+        "price": {
+          "current": 3.4,
+          "original": 3.4,
+          "pricePerUnit": {
+            "value": 170,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-gioco-gatto-topo-denim-12788p",
+        "name": "Gioco Topo Denim per Gatto",
+        "path": "/camon-gioco-gatto-topo-denim-12788/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14924",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "12789",
+    "sku": "12789",
+    "gtin": "10138762",
+    "title": "Camon Gioco Gatto Big Ears",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-big-ears-12789/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254875/Camon-Gioco-Gatto-Big-Ears.jpg?v=637557380136700000"
+    ],
+    "price": {
+      "current": 3.95,
+      "original": 3.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 197.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12789",
+        "sku": "12789",
+        "gtin": "10138762",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-gatto-topo-big-ears-12789/p",
+        "price": {
+          "current": 3.95,
+          "original": 3.95,
+          "pricePerUnit": {
+            "value": 197.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-gioco-gatto-topo-big-ears-12789p",
+        "name": "Camon Gioco Gatto Big Ears",
+        "path": "/camon-gioco-gatto-topo-big-ears-12789/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14925",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "13287",
+    "sku": "13287",
+    "gtin": "10135510",
+    "title": "Slimcat Pet Safe gioco gatto",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-slimcat-blu-13287/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258029/GIOCO-GATTO-SLIMCAT-BLU.jpg?v=637589960727730000"
+    ],
+    "price": {
+      "current": 11.69,
+      "original": 11.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 584.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13287",
+        "sku": "13287",
+        "gtin": "10135510",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-slimcat-blu-13287/p",
+        "price": {
+          "current": 11.69,
+          "original": 11.69,
+          "pricePerUnit": {
+            "value": 584.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochiintelligenza",
+        "name": "Intelligenza",
+        "path": "/gatto/accessori/giochi/intelligenza/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-slimcat-blu-13287p",
+        "name": "Slimcat Pet Safe gioco gatto",
+        "path": "/gioco-gatto-slimcat-blu-13287/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15425",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "13294",
+    "sku": "13294",
+    "gtin": "10139123",
+    "title": "PetSafe Multi Laser Toy",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-frolicat-multi-laser-13294/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258032/Laser-per-gatti.jpg?v=637589978072800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258033/laser.jpg?v=637589978153370000"
+    ],
+    "price": {
+      "current": 45.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13294",
+        "sku": "13294",
+        "gtin": "10139123",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-frolicat-multi-laser-13294/p",
+        "price": {
+          "current": 45.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 2299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochiintelligenza",
+        "name": "Intelligenza",
+        "path": "/gatto/accessori/giochi/intelligenza/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-frolicat-multi-laser-13294p",
+        "name": "PetSafe Multi Laser Toy",
+        "path": "/gioco-gatto-frolicat-multi-laser-13294/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15432",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "13943",
+    "sku": "13943",
+    "gtin": "00019903",
+    "title": "Tunnel Tubi gioco per gatto",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tunnel-tubi-gioco-per-gatto-13943/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265770/270472_PHO_PRO_CLIP_4305-6.jpg?v=637738850614230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265771/270470_PHO_PRO_CLIP_4305-4.jpg?v=637738850752800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265772/270469_PHO_PRO_CAT_4305-6.jpg?v=637738850852770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265773/270468_PHO_PRO_4305-1.jpg?v=637738850945900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265774/270473_PHO_PRO_DET_CLIP_4305-6.jpg?v=637738851128500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265775/270474_PHO_PRO_DET_CLIP_4305-7.jpg?v=637738851248230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265776/270475_PHO_PRO_DET_CLIP_4305-8.jpg?v=637738851344630000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13943",
+        "sku": "13943",
+        "gtin": "00019903",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tunnel-tubi-gioco-per-gatto-13943/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochitunnel",
+        "name": "Tunnel",
+        "path": "/gatto/accessori/giochi/tunnel/",
+        "level": 5
+      },
+      {
+        "id": "tunnel-tubi-gioco-per-gatto-13943p",
+        "name": "Tunnel Tubi gioco per gatto",
+        "path": "/tunnel-tubi-gioco-per-gatto-13943/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16081",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "14194",
+    "sku": "14194",
+    "gtin": "10140011",
+    "title": "Palla con Piume per Gatto",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-palla-con-piuma-per-gatto-14194/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265603/camon-palla-con-piuma-per-gatto-arancione.jpg?v=637732542143630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265604/camon-palla-con-piuma-per-gatto-grigia.jpg?v=637732542237330000"
+    ],
+    "price": {
+      "current": 2.8,
+      "original": 2.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 140,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14194",
+        "sku": "14194",
+        "gtin": "10140011",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-palla-con-piuma-per-gatto-14194/p",
+        "price": {
+          "current": 2.8,
+          "original": 2.8,
+          "pricePerUnit": {
+            "value": 140,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-palla-con-piuma-per-gatto-14194p",
+        "name": "Palla con Piume per Gatto",
+        "path": "/camon-palla-con-piuma-per-gatto-14194/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16331",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "14195",
+    "sku": "14195",
+    "gtin": "10140012",
+    "title": "Gioco Cuore con Sonaglio per Gatto",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-cuore-con-sonaglio-per-gatto-14195/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265605/camon-cuore-con-sonaglio-marrone.jpg?v=637732600029470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265606/camon-cuore-con-sonaglio-grigio.jpg?v=637732600140000000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 107.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14195",
+        "sku": "14195",
+        "gtin": "10140012",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-cuore-con-sonaglio-per-gatto-14195/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 107.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "camon-gioco-cuore-con-sonaglio-per-gatto-14195p",
+        "name": "Gioco Cuore con Sonaglio per Gatto",
+        "path": "/camon-gioco-cuore-con-sonaglio-per-gatto-14195/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16332",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "14701",
+    "sku": "14701",
+    "gtin": "10140424",
+    "title": "Candelisca Gatto Femmina Rosa",
+    "brand": "COLTIVIA",
+    "url": "https://www.arcaplanet.it/candelisca-gatto-femmina-rosa-14701/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273128/CANDELISCA-GATTO-FEMMINA-ROSA.jpg?v=637921701721900000"
+    ],
+    "price": {
+      "current": 5.75,
+      "original": 5.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 287.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14701",
+        "sku": "14701",
+        "gtin": "10140424",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/candelisca-gatto-femmina-rosa-14701/p",
+        "price": {
+          "current": 5.75,
+          "original": 5.75,
+          "pricePerUnit": {
+            "value": 287.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "candelisca-gatto-femmina-rosa-14701p",
+        "name": "Candelisca Gatto Femmina Rosa",
+        "path": "/candelisca-gatto-femmina-rosa-14701/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16838",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "14702",
+    "sku": "14702",
+    "gtin": "10140425",
+    "title": "Candelisca Gatto Maschio Azzurro",
+    "brand": "COLTIVIA",
+    "url": "https://www.arcaplanet.it/candelisca-gatto-maschio-azzurro-14702/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273129/CANDELISCA-GATTO-MASCHIO-AZZURRO.jpg?v=637921712069830000"
+    ],
+    "price": {
+      "current": 5.75,
+      "original": 5.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 287.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14702",
+        "sku": "14702",
+        "gtin": "10140425",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/candelisca-gatto-maschio-azzurro-14702/p",
+        "price": {
+          "current": 5.75,
+          "original": 5.75,
+          "pricePerUnit": {
+            "value": 287.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "candelisca-gatto-maschio-azzurro-14702p",
+        "name": "Candelisca Gatto Maschio Azzurro",
+        "path": "/candelisca-gatto-maschio-azzurro-14702/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16839",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15262",
+    "sku": "15262",
+    "gtin": "10139234",
+    "title": "Gioco per Gatti Euphoria Bacchetta con Silvervine",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-bacchetta-con-silvervine-15262/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272005/croci-euphoria-cannetta-con-silvervine.jpg?v=637896715726600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272006/croci-euphoria-gioco-per-gatto-con-silvervine.jpg?v=637896715836730000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15262",
+        "sku": "15262",
+        "gtin": "10139234",
+        "title": "CM.11",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-bacchetta-con-silvervine-15262/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.11"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-bacchetta-con-silvervine-15262p",
+        "name": "Gioco per Gatti Euphoria Bacchetta con Silvervine",
+        "path": "/croci-gioco-per-gatto-euphoria-bacchetta-con-silvervine-15262/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17399",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15263",
+    "sku": "15263",
+    "gtin": "10139235",
+    "title": "Gioco per Gatti Euphoria Piuma con Silvervine",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-piuma-con-silvervine-15263/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271992/croci-euphoria-bacchetta-silvervine.jpg?v=637896678260630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271993/croci-euphoria-piuma-pavone.jpg?v=637896678387870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271994/croci-euphoria-piuma-con-gatto.jpg?v=637896678517900000"
+    ],
+    "price": {
+      "current": 4.5,
+      "original": 4.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 225,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15263",
+        "sku": "15263",
+        "gtin": "10139235",
+        "title": "CM.12",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-piuma-con-silvervine-15263/p",
+        "price": {
+          "current": 4.5,
+          "original": 4.5,
+          "pricePerUnit": {
+            "value": 225,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.12"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-piuma-con-silvervine-15263p",
+        "name": "Gioco per Gatti Euphoria Piuma con Silvervine",
+        "path": "/croci-gioco-per-gatto-euphoria-piuma-con-silvervine-15263/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17400",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15264",
+    "sku": "15264",
+    "gtin": "10139236",
+    "title": "Gioco Gatto  Euphoria Palla Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-palla-catnip-15264/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271976/GIOCO-GATTO-EUPHORIA-PALLA-CATNIP.jpg?v=637896079269970000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15264",
+        "sku": "15264",
+        "gtin": "10139236",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-palla-catnip-15264/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-euphoria-palla-catnip-15264p",
+        "name": "Gioco Gatto  Euphoria Palla Catnip",
+        "path": "/gioco-gatto-euphoria-palla-catnip-15264/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17401",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15265",
+    "sku": "15265",
+    "gtin": "10139237",
+    "title": "Gioco per Gatti Euphoria Cat Face con Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-cat-face-con-catnip-15265/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271997/croci-euphoria-stick-cat-face-catnip.jpg?v=637896701194170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271998/croci-euphoria-con-catnip.jpg?v=637896701307170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271999/croci-euphoria-catnip-per-gatto.jpg?v=637896701428530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272000/croci-euphoria-gioco-per-gatto.jpg?v=637896701538600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272001/croci-euphoria-gioco-per-gatto-con-catnip.jpg?v=637896701642400000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15265",
+        "sku": "15265",
+        "gtin": "10139237",
+        "title": "CM.14",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-cat-face-con-catnip-15265/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.14"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-cat-face-con-catnip-15265p",
+        "name": "Gioco per Gatti Euphoria Cat Face con Catnip",
+        "path": "/croci-gioco-per-gatto-euphoria-cat-face-con-catnip-15265/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17402",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15266",
+    "sku": "15266",
+    "gtin": "10139238",
+    "title": "Gioco per Gatti Euphoria Stella con Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-con-catnip-15266/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271977/croci-euphoria-stick-catnip-stella.jpg?v=637896083416770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271978/croci-euphoria-stick-catnip-stella-per-gatti.jpg?v=637896083506170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271979/croci-euphoria-stick-catnip-stella-con-gatto.jpg?v=637896083609270000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15266",
+        "sku": "15266",
+        "gtin": "10139238",
+        "title": "CM.12",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-con-catnip-15266/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.12"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-con-catnip-15266p",
+        "name": "Gioco per Gatti Euphoria Stella con Catnip",
+        "path": "/croci-gioco-per-gatto-euphoria-con-catnip-15266/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17403",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.993Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15267",
+    "sku": "15267",
+    "gtin": "10139239",
+    "title": "Gioco Gatto Euphoria Stick Palla Silvervine",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-stick-palla-silvervine-15267/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271980/GIOCO-GATTO-EUPHORIA-STICK-PALLA-SILVERVINE-CM.12.jpg?v=637896642336670000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15267",
+        "sku": "15267",
+        "gtin": "10139239",
+        "title": "CM.12",
+        "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-stick-palla-silvervine-15267/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.12"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-euphoria-stick-palla-silvervine-15267p",
+        "name": "Gioco Gatto Euphoria Stick Palla Silvervine",
+        "path": "/gioco-gatto-euphoria-stick-palla-silvervine-15267/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17404",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15271",
+    "sku": "15271",
+    "gtin": "10139243",
+    "title": "Gioco per Gatti Euphoria Sfera con Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271983/croci-euphoria-sfera-con-palla-catnip.jpg?v=637896651824330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271984/croci-euphoria-sfera-con-palla-catnip-gioco.jpg?v=637896651974000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271985/croci-sfera-euphoria-catnip.jpg?v=637896652137730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271986/croci-gioco-per-gatto-euphoria.jpg?v=637896652298230000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15271",
+        "sku": "15271",
+        "gtin": "10139243",
+        "title": "CM.8",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+        "price": {
+          "current": 5.59,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.8"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271p",
+        "name": "Gioco per Gatti Euphoria Sfera con Catnip",
+        "path": "/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17408",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15272",
+    "sku": "15272",
+    "gtin": "10139244",
+    "title": "Bastoncini per Gatti Euphoria con Silvervine",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271987/croci-euphoria-stick-silvervine-5-pz.jpg?v=637896663247430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271988/croci-euphoria-stick-silvervine-gatto.jpg?v=637896663349100000"
+    ],
+    "price": {
+      "current": 1.84,
+      "original": 2.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 92,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15272",
+        "sku": "15272",
+        "gtin": "10139244",
+        "title": "5 PZ",
+        "url": "https://www.arcaplanet.it/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+        "price": {
+          "current": 1.84,
+          "original": 2.3,
+          "pricePerUnit": {
+            "value": 92,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272p",
+        "name": "Bastoncini per Gatti Euphoria con Silvervine",
+        "path": "/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17409",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15273",
+    "sku": "15273",
+    "gtin": "10139245",
+    "title": "Gioco per Gatti Euphoria Cuscini con Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-cuscini-con-catnip-15273/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272002/croci-euphoria-cuscini-con-catnip.jpg?v=637896707621100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272003/croci-euphoria-cuscini-con-catnip-gatto.jpg?v=637896707728630000"
+    ],
+    "price": {
+      "current": 5.7,
+      "original": 5.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 285,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15273",
+        "sku": "15273",
+        "gtin": "10139245",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-cuscini-con-catnip-15273/p",
+        "price": {
+          "current": 5.7,
+          "original": 5.7,
+          "pricePerUnit": {
+            "value": 285,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-cuscini-con-catnip-15273p",
+        "name": "Gioco per Gatti Euphoria Cuscini con Catnip",
+        "path": "/croci-gioco-per-gatto-euphoria-cuscini-con-catnip-15273/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17410",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15275",
+    "sku": "15275",
+    "gtin": "10139247",
+    "title": "Gioco Gatto Euphoria Cuore in Catnip 7CM",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-cuore-in-catnip-7cm-15275/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271996/GIOCO-GATTO-EUPHORIA-CUORE-IN-CATNIP-CM.7.jpg?v=637896689463300000"
+    ],
+    "price": {
+      "current": 3.84,
+      "original": 4.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 192,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15275",
+        "sku": "15275",
+        "gtin": "10139247",
+        "title": "CM.7",
+        "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-cuore-in-catnip-7cm-15275/p",
+        "price": {
+          "current": 3.84,
+          "original": 4.8,
+          "pricePerUnit": {
+            "value": 192,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.7"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-euphoria-cuore-in-catnip-7cm-15275p",
+        "name": "Gioco Gatto Euphoria Cuore in Catnip 7CM",
+        "path": "/gioco-gatto-euphoria-cuore-in-catnip-7cm-15275/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17412",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15349",
+    "sku": "15349",
+    "gtin": "10111958",
+    "title": "Gioco Gatto Bastoncini Con Pallina",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-bastoncini-con-pallina-15349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272889/ZOLUX-GIOCO-GATTO-BASTONCINI-CON-PALLINA.jpg?v=637914183137400000"
+    ],
+    "price": {
+      "current": 4.25,
+      "original": 4.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 212.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15349",
+        "sku": "15349",
+        "gtin": "10111958",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-bastoncini-con-pallina-15349/p",
+        "price": {
+          "current": 4.25,
+          "original": 4.25,
+          "pricePerUnit": {
+            "value": 212.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-bastoncini-con-pallina-15349p",
+        "name": "Gioco Gatto Bastoncini Con Pallina",
+        "path": "/gioco-gatto-bastoncini-con-pallina-15349/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15351",
+    "sku": "15351",
+    "gtin": "10111960",
+    "title": "Gioco Gatto Elastico Caramelle",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-elastico-caramelle-15351/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272890/ZOLUX-GIOCO-GATTO-ELASTICO-CARAMELLE.jpg?v=637914192329500000"
+    ],
+    "price": {
+      "current": 2.85,
+      "original": 2.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 142.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15351",
+        "sku": "15351",
+        "gtin": "10111960",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-elastico-caramelle-15351/p",
+        "price": {
+          "current": 2.85,
+          "original": 2.85,
+          "pricePerUnit": {
+            "value": 142.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-elastico-caramelle-15351p",
+        "name": "Gioco Gatto Elastico Caramelle",
+        "path": "/gioco-gatto-elastico-caramelle-15351/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17488",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15354",
+    "sku": "15354",
+    "gtin": "10111962",
+    "title": "Gioco Gatto Sisal Topini",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-sisal-topini-15354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272952/ZOLUX-GIOCO-GATTO-SISAL-TOPINI.jpg?v=637915920508070000"
+    ],
+    "price": {
+      "current": 4.59,
+      "original": 4.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 229.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15354",
+        "sku": "15354",
+        "gtin": "10111962",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-sisal-topini-15354/p",
+        "price": {
+          "current": 4.59,
+          "original": 4.59,
+          "pricePerUnit": {
+            "value": 229.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-sisal-topini-15354p",
+        "name": "Gioco Gatto Sisal Topini",
+        "path": "/gioco-gatto-sisal-topini-15354/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17491",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15356",
+    "sku": "15356",
+    "gtin": "10140628",
+    "title": "Gioco Gatto Ethicat Foglia Topo",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-foglia-topo-15356/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272950/ZOLUX-GIOCO-GATTO-ETHICAT-FOGLIA-TOPO.jpg?v=637915904166430000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15356",
+        "sku": "15356",
+        "gtin": "10140628",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-foglia-topo-15356/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-foglia-topo-15356p",
+        "name": "Gioco Gatto Ethicat Foglia Topo",
+        "path": "/gioco-gatto-ethicat-foglia-topo-15356/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17493",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15357",
+    "sku": "15357",
+    "gtin": "10140629",
+    "title": "Gioco Gatto Ethicat Foglia Gufo",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-foglia-gufo-15357/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272945/ZOLUX-GIOCO-GATTO-ETHICAT-FOGLIA-GUFO.jpg?v=637915879939500000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15357",
+        "sku": "15357",
+        "gtin": "10140629",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-foglia-gufo-15357/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-foglia-gufo-15357p",
+        "name": "Gioco Gatto Ethicat Foglia Gufo",
+        "path": "/gioco-gatto-ethicat-foglia-gufo-15357/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17494",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15359",
+    "sku": "15359",
+    "gtin": "10140631",
+    "title": "Gioco Gatto Ethicat Canna Foglio Gufo",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-canna-foglio-gufo-15359/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272926/ZOLUX-GIOCO-GATTO-ETHICAT-CANNA-FOGLIO-GUFO.jpg?v=637915783115000000"
+    ],
+    "price": {
+      "current": 4.55,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 227.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15359",
+        "sku": "15359",
+        "gtin": "10140631",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-canna-foglio-gufo-15359/p",
+        "price": {
+          "current": 4.55,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 227.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-canna-foglio-gufo-15359p",
+        "name": "Gioco Gatto Ethicat Canna Foglio Gufo",
+        "path": "/gioco-gatto-ethicat-canna-foglio-gufo-15359/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17496",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15360",
+    "sku": "15360",
+    "gtin": "10140632",
+    "title": "Gioco Gatto Ethicat Fiore Palla",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-fiore-palla-15360/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272931/ZOLUX-GIOCO-GATTO-ETHICAT-FIORE-PALLA.jpg?v=637915846532430000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15360",
+        "sku": "15360",
+        "gtin": "10140632",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-fiore-palla-15360/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-fiore-palla-15360p",
+        "name": "Gioco Gatto Ethicat Fiore Palla",
+        "path": "/gioco-gatto-ethicat-fiore-palla-15360/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17497",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15363",
+    "sku": "15363",
+    "gtin": "10140635",
+    "title": "Gioco Gatto Ethicat Canna Fiore Piramide",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-canna-fiore-piramide-15363/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272921/ZOLUX-GIOCO-GATTO-ETHICAT-CANNA-FIORE-PIRAMIDE.jpg?v=637914918840800000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15363",
+        "sku": "15363",
+        "gtin": "10140635",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-canna-fiore-piramide-15363/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-canna-fiore-piramide-15363p",
+        "name": "Gioco Gatto Ethicat Canna Fiore Piramide",
+        "path": "/gioco-gatto-ethicat-canna-fiore-piramide-15363/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17500",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15364",
+    "sku": "15364",
+    "gtin": "10140636",
+    "title": "Gioco Gatto Ethicat Cartone Ovale",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-ovale-15364/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272929/ZOLUX-GIOCO-GATTO-ETHICAT-CARTONE-OVALE.jpg?v=637915832316170000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 112.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15364",
+        "sku": "15364",
+        "gtin": "10140636",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-ovale-15364/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.25,
+          "pricePerUnit": {
+            "value": 112.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-cartone-ovale-15364p",
+        "name": "Gioco Gatto Ethicat Cartone Ovale",
+        "path": "/gioco-gatto-ethicat-cartone-ovale-15364/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17501",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15365",
+    "sku": "15365",
+    "gtin": "10140637",
+    "title": "Gioco Gatto Ethicat Cartone Disco",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-disco-15365/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272927/ZOLUX-GIOCO-GATTO-ETHICAT-CARTONE-DISCO.jpg?v=637915827037800000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 112.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15365",
+        "sku": "15365",
+        "gtin": "10140637",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-disco-15365/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.25,
+          "pricePerUnit": {
+            "value": 112.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-cartone-disco-15365p",
+        "name": "Gioco Gatto Ethicat Cartone Disco",
+        "path": "/gioco-gatto-ethicat-cartone-disco-15365/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17502",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15366",
+    "sku": "15366",
+    "gtin": "10140638",
+    "title": "Gioco Gatto Ethicat Cartone Palla",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-palla-15366/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272930/ZOLUX-GIOCO-GATTO-ETHICAT-CARTONE-PALLA.jpg?v=637915840977630000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 112.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15366",
+        "sku": "15366",
+        "gtin": "10140638",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-ethicat-cartone-palla-15366/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.25,
+          "pricePerUnit": {
+            "value": 112.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-ethicat-cartone-palla-15366p",
+        "name": "Gioco Gatto Ethicat Cartone Palla",
+        "path": "/gioco-gatto-ethicat-cartone-palla-15366/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17503",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15455",
+    "sku": "15455",
+    "gtin": "10060862",
+    "title": "Gioco Gatto Topo Per Stipiti Porte",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/gioco-gatto-topo--per-stipiti-porte-15455/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273003/TX-GIOCO-GATTO-TOPO-PER-STIPITI-DI-PORTE-CM.8---19.jpg?v=637919129776830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279139/trixie-gioco-gatto-topo.jpg?v=638101524896630000"
+    ],
+    "price": {
+      "current": 3.6,
+      "original": 3.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 180,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15455",
+        "sku": "15455",
+        "gtin": "10060862",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-topo--per-stipiti-porte-15455/p",
+        "price": {
+          "current": 3.6,
+          "original": 3.6,
+          "pricePerUnit": {
+            "value": 180,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-topo--per-stipiti-porte-15455p",
+        "name": "Gioco Gatto Topo Per Stipiti Porte",
+        "path": "/gioco-gatto-topo--per-stipiti-porte-15455/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17592",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15468",
+    "sku": "15468",
+    "gtin": "10069188",
+    "title": "Gioco Topolino Peluche Con Catnip",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/gioco-topolino-peluche-15468/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273005/TX-GIOCO-TOPOLINO-PELUCHE-CM.11.jpg?v=637919134846070000"
+    ],
+    "price": {
+      "current": 5.1,
+      "original": 5.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 254.99999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15468",
+        "sku": "15468",
+        "gtin": "10069188",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-topolino-peluche-15468/p",
+        "price": {
+          "current": 5.1,
+          "original": 5.1,
+          "pricePerUnit": {
+            "value": 254.99999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "gioco-topolino-peluche-15468p",
+        "name": "Gioco Topolino Peluche Con Catnip",
+        "path": "/gioco-topolino-peluche-15468/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17605",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15472",
+    "sku": "15472",
+    "gtin": "10139436",
+    "title": "Gioco Gatto Canna Da Pesca Con Pesce CM.42",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273114/LOVEDI-GIOCO-GATTO-CANNA-DA-PESCA-CON-PESCE-CM.42.jpg?v=637921027967030000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15472",
+        "sku": "15472",
+        "gtin": "10139436",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472p",
+        "name": "Gioco Gatto Canna Da Pesca Con Pesce CM.42",
+        "path": "/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17609",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "15491",
+    "sku": "15491",
+    "gtin": "10077191",
+    "title": "Gioco Bacchetta per Gatto con Topini",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273144/croci-gioco-gatto-topini.jpg?v=637921882035730000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15491",
+        "sku": "15491",
+        "gtin": "10077191",
+        "title": "CM.40",
+        "url": "https://www.arcaplanet.it/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 3.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.40"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-bacchetta-per-gatto-con-topini-15491p",
+        "name": "Gioco Bacchetta per Gatto con Topini",
+        "path": "/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17628",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "16221",
+    "sku": "16221",
+    "gtin": "10155734",
+    "title": "Gioco per Gatti Animali Assortiti con Catnip Elefante Giraffa Leone",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gioco-per-gatto-animali-assortiti-con-catnip-elefante-giraffa-leone-16221/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279457/camon-gioco-per-gatto-animali-assortiti-con-catnip-elefante.jpg?v=638107672912230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279458/camon-gioco-per-gatto-animali-assortiti-con-catnip-giraffa.jpg?v=638107673012000000"
+    ],
+    "price": {
+      "current": 3.25,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 162.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16221",
+        "sku": "16221",
+        "gtin": "10155734",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-gioco-per-gatto-animali-assortiti-con-catnip-elefante-giraffa-leone-16221/p",
+        "price": {
+          "current": 3.25,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 162.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "camon-gioco-per-gatto-animali-assortiti-con-catnip-elefante-giraffa-leone-16221p",
+        "name": "Gioco per Gatti Animali Assortiti con Catnip Elefante Giraffa Leone",
+        "path": "/camon-gioco-per-gatto-animali-assortiti-con-catnip-elefante-giraffa-leone-16221/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "18358",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "17488",
+    "sku": "17488",
+    "gtin": "10149227",
+    "title": "Gioco Gatto Pallina Piume",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/gioco-gatto-pallina-piume-17488/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285122/1270566.jpg?v=638192326625500000"
+    ],
+    "price": {
+      "current": 0.58,
+      "original": 1.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.999999999999996,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17488",
+        "sku": "17488",
+        "gtin": "10149227",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-pallina-piume-17488/p",
+        "price": {
+          "current": 0.58,
+          "original": 1.15,
+          "pricePerUnit": {
+            "value": 28.999999999999996,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-pallina-piume-17488p",
+        "name": "Gioco Gatto Pallina Piume",
+        "path": "/gioco-gatto-pallina-piume-17488/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "19606",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  },
+  {
+    "id": "19234",
+    "sku": "19234",
+    "gtin": "10153501",
+    "title": "Anione Gioco per Gatto Carota",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-gioco-per-gatto-carota-19234/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284699/1337053-416x197--1-.jpg?v=638186153395530000"
+    ],
+    "price": {
+      "current": 1,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19234",
+        "sku": "19234",
+        "gtin": "10153501",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-gioco-per-gatto-carota-19234/p",
+        "price": {
+          "current": 1,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 50,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipeluches",
+        "name": "Peluches",
+        "path": "/gatto/accessori/giochi/peluches/",
+        "level": 5
+      },
+      {
+        "id": "anione-gioco-per-gatto-carota-19234p",
+        "name": "Anione Gioco per Gatto Carota",
+        "path": "/anione-gioco-per-gatto-carota-19234/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21352",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:47:47.994Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/giochi/"
+  }
+]

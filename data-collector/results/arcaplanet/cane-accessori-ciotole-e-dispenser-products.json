@@ -1,0 +1,4146 @@
+[
+  {
+    "id": "2585",
+    "sku": "2585",
+    "gtin": "10121064",
+    "title": "Ciotola Pieghevole con Gancio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254547/lovedi-ciotola-pieghevole-arancione.jpg?v=637552782746270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254548/lovedi-ciotola-pieghevole-cane-che-beve.jpg?v=637552782839200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254549/lovedi-ciotola-pieghevole-verde.jpg?v=637552782930400000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2585",
+        "sku": "2585",
+        "gtin": "10121064",
+        "title": "237ML",
+        "url": "https://www.arcaplanet.it/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "237ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-ciotola-pieghevole-con-gancio-cane-2585p",
+        "name": "Ciotola Pieghevole con Gancio",
+        "path": "/lovedi-ciotola-pieghevole-con-gancio-cane-2585/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2504",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.758Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "3796",
+    "sku": "3796",
+    "gtin": "10112008",
+    "title": "Ciotola Foodie Bianco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-ciotola-foodie-cane-gatto-bianco-3796/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254511/lovedi-ciotola-foodie-bianco-200ml.jpg?v=637552153905000000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3796",
+        "sku": "3796",
+        "gtin": "10112008",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-ciotola-foodie-cane-gatto-bianco-3796/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-ciotola-foodie-cane-gatto-bianco-3796p",
+        "name": "Ciotola Foodie Bianco",
+        "path": "/lovedi-ciotola-foodie-cane-gatto-bianco-3796/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4151",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.758Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "3019",
+    "sku": "3019",
+    "gtin": "10112489",
+    "title": "Borraccia da Viaggio",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-borraccia-da-viaggio-cane-e-gatto-3019/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227335/borraccia-viaggio-cane-gatto-small.jpg?v=637454792093970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250961/borraccia-viaggio-cane-gatto-small.jpg?v=637455071704400000"
+    ],
+    "price": {
+      "current": 5.29,
+      "original": 5.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 264.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3019",
+        "sku": "3019",
+        "gtin": "10112489",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/ferplast-borraccia-da-viaggio-cane-e-gatto-3019/p",
+        "price": {
+          "current": 5.29,
+          "original": 5.29,
+          "pricePerUnit": {
+            "value": 264.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserdispenser-acqua",
+        "name": "Dispenser Acqua",
+        "path": "/cane/accessori/ciotole-e-dispenser/dispenser-acqua/",
+        "level": 5
+      },
+      {
+        "id": "ferplast-borraccia-da-viaggio-cane-e-gatto-3019p",
+        "name": "Borraccia da Viaggio",
+        "path": "/ferplast-borraccia-da-viaggio-cane-e-gatto-3019/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4446",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.760Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "6267",
+    "sku": "6267",
+    "gtin": "10111238",
+    "title": "Ciotola Ceramica Petrolio Pets Home",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225475/trixie-cane-ciotola-ceramica-pets-home-petrolio.jpg?v=637454752810870000"
+    ],
+    "price": {
+      "current": 5,
+      "original": 6.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 250,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6267",
+        "sku": "6267",
+        "gtin": "10111238",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+        "price": {
+          "current": 5,
+          "original": 6.25,
+          "pricePerUnit": {
+            "value": 250,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-ciotola-ceramica-pets-home-petrolio-6267p",
+        "name": "Ciotola Ceramica Petrolio Pets Home",
+        "path": "/trixie-cane-ciotola-ceramica-pets-home-petrolio-6267/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6113",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.761Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "6269",
+    "sku": "6269",
+    "gtin": "10111241",
+    "title": "Ciotola Ceramica Tortora",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225483/trixie-cane-ciotola-ceramica-pets-home-tortora.jpg?v=637454752884830000"
+    ],
+    "price": {
+      "current": 6.25,
+      "original": 6.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 312.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6269",
+        "sku": "6269",
+        "gtin": "10111241",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+        "price": {
+          "current": 6.25,
+          "original": 6.25,
+          "pricePerUnit": {
+            "value": 312.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-cane-ciotola-ceramica-pets-home-tortora-6269p",
+        "name": "Ciotola Ceramica Tortora",
+        "path": "/trixie-cane-ciotola-ceramica-pets-home-tortora-6269/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6115",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.761Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "6827",
+    "sku": "6827",
+    "gtin": "10109715",
+    "title": "Ciotola Piccola Pod",
+    "brand": "HING",
+    "url": "https://www.arcaplanet.it/hing-pod-cane-ciotola-s-6827/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297368/hing-pod-cane-ciotola-s-10109715--1-.jpg?v=638467145899270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297369/hing-pod-cane-ciotola-s-10109715--2-.jpg?v=638467146750400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297370/hing-pod-cane-ciotola-s-10109715--3-.jpg?v=638467146861100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297371/hing-pod-cane-ciotola-s-10109715--4-.jpg?v=638467146945930000"
+    ],
+    "price": {
+      "current": 5.95,
+      "original": 11.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 297.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6827",
+        "sku": "6827",
+        "gtin": "10109715",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/hing-pod-cane-ciotola-s-6827/p",
+        "price": {
+          "current": 5.95,
+          "original": 11.9,
+          "pricePerUnit": {
+            "value": 297.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "hing-pod-cane-ciotola-s-6827p",
+        "name": "Ciotola Piccola Pod",
+        "path": "/hing-pod-cane-ciotola-s-6827/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "6668",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "7482",
+    "sku": "7482",
+    "gtin": "10109708",
+    "title": "Ciotola Grande Pod",
+    "brand": "HING",
+    "url": "https://www.arcaplanet.it/hing-pod-cane-ciotola-l-7482/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/246357/hing-pod-cane-ciotola-l.jpg?v=638748649903630000"
+    ],
+    "price": {
+      "current": 7.45,
+      "original": 14.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 372.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7482",
+        "sku": "7482",
+        "gtin": "10109708",
+        "title": "ARANCIONE",
+        "url": "https://www.arcaplanet.it/hing-pod-cane-ciotola-l-7482/p",
+        "price": {
+          "current": 7.45,
+          "original": 14.9,
+          "pricePerUnit": {
+            "value": 372.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ARANCIONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "hing-pod-cane-ciotola-l-7482p",
+        "name": "Ciotola Grande Pod",
+        "path": "/hing-pod-cane-ciotola-l-7482/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "7317",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9084",
+    "sku": "9084",
+    "gtin": "10112025",
+    "title": "Distributore Crocchette Summer Blu",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-cane-dispenser-cibo-summer-blu-9084/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280924/yes-cane-dispenser-cibo-summer-blu.jpg?v=638121418247770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250829/yes-cane-dispenser-cibo-summer-blu.jpg?v=637455070462530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280925/yes-cane-dispenser-cibo-summer-blu-crocchette.jpg?v=638121418360730000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9084",
+        "sku": "9084",
+        "gtin": "10112025",
+        "title": "1.5L",
+        "url": "https://www.arcaplanet.it/yes-cane-dispenser-cibo-summer-blu-9084/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.5L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserdistributori-cibo",
+        "name": "Distributori Cibo",
+        "path": "/cane/accessori/ciotole-e-dispenser/distributori-cibo/",
+        "level": 5
+      },
+      {
+        "id": "yes-cane-dispenser-cibo-summer-blu-9084p",
+        "name": "Distributore Crocchette Summer Blu",
+        "path": "/yes-cane-dispenser-cibo-summer-blu-9084/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8906",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9096",
+    "sku": "9096",
+    "gtin": "10130004",
+    "title": "Paletta Per Crocchette Cane",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-cane-paletta-per-crocchette-verde-9096/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227406/yes-cane-paletta-per-crocchette-verde.jpg?v=637454792748200000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9096",
+        "sku": "9096",
+        "gtin": "10130004",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/yes-cane-paletta-per-crocchette-verde-9096/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes-cane-paletta-per-crocchette-verde-9096p",
+        "name": "Paletta Per Crocchette Cane",
+        "path": "/yes-cane-paletta-per-crocchette-verde-9096/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8919",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9130",
+    "sku": "9130",
+    "gtin": "10110648",
+    "title": "Yes! Gnammy Ciotola in Acciaio 20CM",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227039/yes-gnammy-cane-ciotola-acciaio-1900ml.jpg?v=637454789096030000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9130",
+        "sku": "9130",
+        "gtin": "10110648",
+        "title": "1900ML",
+        "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.9L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130p",
+        "name": "Yes! Gnammy Ciotola in Acciaio 20CM",
+        "path": "/yes--gnammy-cane-ciotola-acciaio-1900ml-cm--20-9130/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8952",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9133",
+    "sku": "9133",
+    "gtin": "10110650",
+    "title": "Yes! Gnammy Ciotola in Acciaio 28CM",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-4750ml-cm--28-9133/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227041/yes-gnammy-cane-ciotola-acciaio-4750ml.jpg?v=637454789113900000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9133",
+        "sku": "9133",
+        "gtin": "10110650",
+        "title": "4750ML",
+        "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-4750ml-cm--28-9133/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "4.75L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--gnammy-cane-ciotola-acciaio-4750ml-cm--28-9133p",
+        "name": "Yes! Gnammy Ciotola in Acciaio 28CM",
+        "path": "/yes--gnammy-cane-ciotola-acciaio-4750ml-cm--28-9133/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8955",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9136",
+    "sku": "9136",
+    "gtin": "10110647",
+    "title": "Yes! Gnammy Ciotola in Acciaio 16CM",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-950ml-cm--16-9136/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227038/yes-gnammy-cane-ciotola-acciaio-950ml.jpg?v=637454789082300000"
+    ],
+    "price": {
+      "current": 3.75,
+      "original": 3.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 187.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9136",
+        "sku": "9136",
+        "gtin": "10110647",
+        "title": "950ML",
+        "url": "https://www.arcaplanet.it/yes--gnammy-cane-ciotola-acciaio-950ml-cm--16-9136/p",
+        "price": {
+          "current": 3.75,
+          "original": 3.75,
+          "pricePerUnit": {
+            "value": 187.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "950ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--gnammy-cane-ciotola-acciaio-950ml-cm--16-9136p",
+        "name": "Yes! Gnammy Ciotola in Acciaio 16CM",
+        "path": "/yes--gnammy-cane-ciotola-acciaio-950ml-cm--16-9136/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8958",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9137",
+    "sku": "9137",
+    "gtin": "10110078",
+    "title": "Ciotola Gnammy Cane Antiscivolo Blu",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gnammy-cane-ciotola-con-antiscivolo-blu-9137/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280126/gnammy-ciotola-blu1.jpg?v=638114504254300000"
+    ],
+    "price": {
+      "current": 3.69,
+      "original": 3.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 184.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9137",
+        "sku": "9137",
+        "gtin": "10110078",
+        "title": "650ML",
+        "url": "https://www.arcaplanet.it/yes-gnammy-cane-ciotola-con-antiscivolo-blu-9137/p",
+        "price": {
+          "current": 3.69,
+          "original": 3.69,
+          "pricePerUnit": {
+            "value": 184.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "650ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes-gnammy-cane-ciotola-con-antiscivolo-blu-9137p",
+        "name": "Ciotola Gnammy Cane Antiscivolo Blu",
+        "path": "/yes-gnammy-cane-ciotola-con-antiscivolo-blu-9137/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8961",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9169",
+    "sku": "9169",
+    "gtin": "10110656",
+    "title": "Ciotola per Cane Gnammy in Acciaio Antiscivolo",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-gnammy-cane-ciotola-in-acciao-con-antiscivolo-9169/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227035/yes-gnammy-cane-ciotola-in-acciao-con-antiscivolo.jpg?v=637454789051830000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9169",
+        "sku": "9169",
+        "gtin": "10110656",
+        "title": "2.8L",
+        "url": "https://www.arcaplanet.it/yes-gnammy-cane-ciotola-in-acciao-con-antiscivolo-9169/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "2.8L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes-gnammy-cane-ciotola-in-acciao-con-antiscivolo-9169p",
+        "name": "Ciotola per Cane Gnammy in Acciaio Antiscivolo",
+        "path": "/yes-gnammy-cane-ciotola-in-acciao-con-antiscivolo-9169/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8992",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9184",
+    "sku": "9184",
+    "gtin": "10110271",
+    "title": "Abbeveratoio Misty Cane",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-misty-cane-abbeveratoio-9184/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227044/yes-misty-cane-abbeveratoio.jpg?v=637454789188230000"
+    ],
+    "price": {
+      "current": 31.99,
+      "original": 31.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9184",
+        "sku": "9184",
+        "gtin": "10110271",
+        "title": "11L",
+        "url": "https://www.arcaplanet.it/yes-misty-cane-abbeveratoio-9184/p",
+        "price": {
+          "current": 31.99,
+          "original": 31.99,
+          "pricePerUnit": {
+            "value": 1599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "11L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserdispenser-acqua",
+        "name": "Dispenser Acqua",
+        "path": "/cane/accessori/ciotole-e-dispenser/dispenser-acqua/",
+        "level": 5
+      },
+      {
+        "id": "yes-misty-cane-abbeveratoio-9184p",
+        "name": "Abbeveratoio Misty Cane",
+        "path": "/yes-misty-cane-abbeveratoio-9184/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9005",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "9190",
+    "sku": "9190",
+    "gtin": "10110662",
+    "title": "Alzaciotole Stand Up Duplex",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/205473/Alzaciotole-Yes--Stand-Up-Duplex-20-cm.jpg?v=637413928610230000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9190",
+        "sku": "9190",
+        "gtin": "10110662",
+        "title": "CM.20",
+        "url": "https://www.arcaplanet.it/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.20"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "yes--stand-up-cane-alzaciotole-duplex-cm--20-9190p",
+        "name": "Alzaciotole Stand Up Duplex",
+        "path": "/yes--stand-up-cane-alzaciotole-duplex-cm--20-9190/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9010",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "13057",
+    "sku": "13057",
+    "gtin": "00044126",
+    "title": "Borsa porta Snack",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271099/trixie-borsa-porta-snack-grigia.jpg?v=637862228322630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271100/trixie-borsa-porta-snack-rosa.jpg?v=637862228434700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271102/trixie-borsa-porta-snack-verde.jpg?v=637862372582600000"
+    ],
+    "price": {
+      "current": 4.55,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 227.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13057",
+        "sku": "13057",
+        "gtin": "00044126",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+        "price": {
+          "current": 4.55,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 227.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "borsa-porta-snack-13057p",
+        "name": "Borsa porta Snack",
+        "path": "/borsa-porta-snack-13057/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "13871",
+    "sku": "13871",
+    "gtin": "10139689",
+    "title": "Sottociotola Onde Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-sottociotola-onde-13871/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266440/trixie-sottociotola-onde-grigio.jpg?v=637769032234130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266454/trixie-sottociotola-onde.jpg?v=638756445424770000"
+    ],
+    "price": {
+      "current": 3.95,
+      "original": 3.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 197.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13871",
+        "sku": "13871",
+        "gtin": "10139689",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-sottociotola-onde-13871/p",
+        "price": {
+          "current": 3.95,
+          "original": 3.95,
+          "pricePerUnit": {
+            "value": 197.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-sottociotola-onde-13871p",
+        "name": "Sottociotola Onde Grigio",
+        "path": "/trixie-sottociotola-onde-13871/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16008",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "14171",
+    "sku": "14171",
+    "gtin": "10139970",
+    "title": "Bidone Porta Crocchette Happy Kibble",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265647/yes-bidone-porta-crocchette-happy-kibble-s.jpg?v=637734284037100000"
+    ],
+    "price": {
+      "current": 21.49,
+      "original": 21.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1074.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "14171",
+        "sku": "14171",
+        "gtin": "10139970",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "price": {
+          "current": 21.49,
+          "original": 21.49,
+          "pricePerUnit": {
+            "value": 1074.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "yes-bidone-porta-crocchette-happy-kibble-14171p",
+        "name": "Bidone Porta Crocchette Happy Kibble",
+        "path": "/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16308",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "15210",
+    "sku": "15210",
+    "gtin": "10140998",
+    "title": "Ciotola Doppia Jungle",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-ciotola-doppia-jungle-15210/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276811/lovedi-ciotola-jungle-doppia.jpg?v=638040135641800000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.400000000000002,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15210",
+        "sku": "15210",
+        "gtin": "10140998",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/lovedi-ciotola-doppia-jungle-15210/p",
+        "price": {
+          "current": 7.49,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 21.400000000000002,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-ciotola-doppia-jungle-15210p",
+        "name": "Ciotola Doppia Jungle",
+        "path": "/lovedi-ciotola-doppia-jungle-15210/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17347",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "15697",
+    "sku": "15697",
+    "gtin": "10141223",
+    "title": "Ciotola Pieghevole in Silicone Blu",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276489/pet-around-you-ciotola-pieghevole-blu.jpg?v=638034173855230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276490/pet-around-you-ciotola-pieghevole-blu-view.jpg?v=638034173930770000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15697",
+        "sku": "15697",
+        "gtin": "10141223",
+        "title": "750ML",
+        "url": "https://www.arcaplanet.it/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "750ML",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-ciotola-pieghevole-in-silicone-blu-15697p",
+        "name": "Ciotola Pieghevole in Silicone Blu",
+        "path": "/pet-around-you-ciotola-pieghevole-in-silicone-blu-15697/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17834",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "16288",
+    "sku": "16288",
+    "gtin": "10155800",
+    "title": "Ciotola Modern Bianca",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276599/luna-e-teo-ciotola-modern-bianca.jpg?v=638034341429300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276600/luna-e-teo-ciotola-modern-bianca-view.jpg?v=638034341796100000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16288",
+        "sku": "16288",
+        "gtin": "10155800",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-bianca-16288p",
+        "name": "Ciotola Modern Bianca",
+        "path": "/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18426",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "16291",
+    "sku": "16291",
+    "gtin": "10155801",
+    "title": "Ciotola Modern Azzurra",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276595/luna-e-teo-ciotola-modern-azzurra.jpg?v=638034309577730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276605/luna-e-teo-ciotola-modern-azzurra-view.jpg?v=638034346231900000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16291",
+        "sku": "16291",
+        "gtin": "10155801",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-azzurra-16291p",
+        "name": "Ciotola Modern Azzurra",
+        "path": "/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18429",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "16287",
+    "sku": "16287",
+    "gtin": "10155796",
+    "title": "Ciotola Modern Rosa",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-rosa-16287/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276608/luna-e-teo-ciotola-modern-rosa.jpg?v=638034354716100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276609/luna-e-teo-ciotola-modern-rosa-view.jpg?v=638034354830170000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.702702702702705,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16287",
+        "sku": "16287",
+        "gtin": "10155796",
+        "title": "370ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-rosa-16287/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 29.702702702702705,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "370ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-rosa-16287p",
+        "name": "Ciotola Modern Rosa",
+        "path": "/luna-e-teo-ciotola-modern-rosa-16287/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18432",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "17989",
+    "sku": "17989",
+    "gtin": "10149248",
+    "title": "Fit and Fun Ciotola in Plastica Azzurra",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-ciotola-in-plastica-blu-17989/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281353/7c7092b605ce0643be722ac1b28ed7c45cd1b5b8_234a043cc89b2869a9e59d2a2c3bbbe1386cd5eb--1-.jpg?v=638127600290700000"
+    ],
+    "price": {
+      "current": 7.39,
+      "original": 7.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 369.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17989",
+        "sku": "17989",
+        "gtin": "10149248",
+        "title": "2200ML",
+        "url": "https://www.arcaplanet.it/fit-and-fun-ciotola-in-plastica-blu-17989/p",
+        "price": {
+          "current": 7.39,
+          "original": 7.39,
+          "pricePerUnit": {
+            "value": 369.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BLU"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-ciotola-in-plastica-blu-17989p",
+        "name": "Fit and Fun Ciotola in Plastica Azzurra",
+        "path": "/fit-and-fun-ciotola-in-plastica-blu-17989/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20107",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18065",
+    "sku": "18065",
+    "gtin": "10154607",
+    "title": "Anione Tappetino Sottociotola Nero",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-nero-18065/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283483/5536646ae15abcff114aee7630fe910fdfe41856_ab1192c10581c1cfa620dde18ca74b3acb607acf.jpg?v=638164518988100000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18065",
+        "sku": "18065",
+        "gtin": "10154607",
+        "title": "60X40CM",
+        "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-nero-18065/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-tappetino-sottociotola-nero-18065p",
+        "name": "Anione Tappetino Sottociotola Nero",
+        "path": "/anione-tappetino-sottociotola-nero-18065/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20183",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18076",
+    "sku": "18076",
+    "gtin": "10149835",
+    "title": "Anione Ciotola Feeder Nera",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-feeder-nera-18076/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283479/ff844991bb9ae0880b6866fe9a7f058a41f9434a_58cb4b01d73d31f55e04446d22de2c701e3ec0dd--1-.jpg?v=638164511244200000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18076",
+        "sku": "18076",
+        "gtin": "10149835",
+        "title": "700ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-feeder-nera-18076/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "NERO",
+            "Volume (L)": "700ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-feeder-nera-18076p",
+        "name": "Anione Ciotola Feeder Nera",
+        "path": "/anione-ciotola-feeder-nera-18076/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18318",
+    "sku": "18318",
+    "gtin": "10148827",
+    "title": "Dogs Creek Ciotola Trail Silicone Blu",
+    "brand": "DOGS CREEK",
+    "url": "https://www.arcaplanet.it/dogs-creek-ciotola-trail-silicone-blu-18318/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284203/dogs-creek-ciotola-trail-silicone-blu.jpg?v=638174923039270000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18318",
+        "sku": "18318",
+        "gtin": "10148827",
+        "title": "2L",
+        "url": "https://www.arcaplanet.it/dogs-creek-ciotola-trail-silicone-blu-18318/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BLU",
+            "Volume (L)": "2L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "dogs-creek-ciotola-trail-silicone-blu-18318p",
+        "name": "Dogs Creek Ciotola Trail Silicone Blu",
+        "path": "/dogs-creek-ciotola-trail-silicone-blu-18318/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18476",
+    "sku": "18476",
+    "gtin": "10148519",
+    "title": "More Ciotola in Acciaio Inox Royal",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-ciotola-in-acciaio-inox-royal-18476/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284258/7ac5181594a636c5cf5d1e03aaab262874188933_824c8173c07254d7e42073a289f3846f856ef6f4--1-.jpg?v=638175814689100000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.685714285714287,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18476",
+        "sku": "18476",
+        "gtin": "10148519",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/more-ciotola-in-acciaio-inox-royal-18476/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 25.685714285714287,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "more-ciotola-in-acciaio-inox-royal-18476p",
+        "name": "More Ciotola in Acciaio Inox Royal",
+        "path": "/more-ciotola-in-acciaio-inox-royal-18476/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20594",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18653",
+    "sku": "18653",
+    "gtin": "10146783",
+    "title": "Anione Ciotola in Acciaio Inox",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-18653/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284132/76c0c71a9f256f4c0492574b1c73c4c6e66f8f9e_c7b697e52b05ba76b1a1e3e28c9ca1994a897a20--1-.jpg?v=638174191513800000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18653",
+        "sku": "18653",
+        "gtin": "10146783",
+        "title": "700ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-18653/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "700ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-inox-18653p",
+        "name": "Anione Ciotola in Acciaio Inox",
+        "path": "/anione-ciotola-in-acciaio-inox-18653/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20785",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18745",
+    "sku": "18745",
+    "gtin": "10146765",
+    "title": "Anione Ciotola in Acciaio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-18745/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284133/2adfca9d5eaca65b709eec4c3b0968bf0ea24434_e60923e7b61d4883b7c6c3f0029005fb0d9ba086--1-.jpg?v=638174194767970000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18745",
+        "sku": "18745",
+        "gtin": "10146765",
+        "title": "1200ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-18745/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.2L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-18745p",
+        "name": "Anione Ciotola in Acciaio",
+        "path": "/anione-ciotola-in-acciaio-18745/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20863",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.762Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "18807",
+    "sku": "18807",
+    "gtin": "10150606",
+    "title": "Naturally Good Ciotola in Ceramica 700ML",
+    "brand": "NATURALLY GOOD",
+    "url": "https://www.arcaplanet.it/naturally-good-ciotola-in-ceramica-700ml-18807/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283855/009d5e06fbc0180f34b0c4022ae57973138a99a5_83c2c390b3e2b86cd08fa066cb05a06bc175bc66--1-.jpg?v=638170578376270000"
+    ],
+    "price": {
+      "current": 7,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18807",
+        "sku": "18807",
+        "gtin": "10150606",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/naturally-good-ciotola-in-ceramica-700ml-18807/p",
+        "price": {
+          "current": 7,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 10,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BLU",
+            "Volume (L)": "700ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "naturally-good-ciotola-in-ceramica-700ml-18807p",
+        "name": "Naturally Good Ciotola in Ceramica 700ML",
+        "path": "/naturally-good-ciotola-in-ceramica-700ml-18807/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20925",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19034",
+    "sku": "19034",
+    "gtin": "10154608",
+    "title": "Anione Tappetino Sottociotola",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-19034/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283485/7fa07731c7e578c1c3790d3c51c6c7df654eb8b3_4aa0343aa70e31ffcf49f16b6d08d5b281b82449.jpg?v=638164521230970000"
+    ],
+    "price": {
+      "current": 3.59,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 179.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19034",
+        "sku": "19034",
+        "gtin": "10154608",
+        "title": "44X30CM",
+        "url": "https://www.arcaplanet.it/anione-tappetino-sottociotola-19034/p",
+        "price": {
+          "current": 3.59,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 179.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-tappetino-sottociotola-19034p",
+        "name": "Anione Tappetino Sottociotola",
+        "path": "/anione-tappetino-sottociotola-19034/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19042",
+    "sku": "19042",
+    "gtin": "10154622",
+    "title": "Anione Cucchiaio in Alluminio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-cucchiaio-in-alluminio-19042/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284126/2b576b9ca372c423dbc246dfa95e8d68ed2dabc4_846e1cc14290766ac3c4cfb19420568fef824140.jpg?v=638174184478900000"
+    ],
+    "price": {
+      "current": 3.59,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 179.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19042",
+        "sku": "19042",
+        "gtin": "10154622",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-cucchiaio-in-alluminio-19042/p",
+        "price": {
+          "current": 3.59,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 179.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "anione-cucchiaio-in-alluminio-19042p",
+        "name": "Anione Cucchiaio in Alluminio",
+        "path": "/anione-cucchiaio-in-alluminio-19042/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21160",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19032",
+    "sku": "19032",
+    "gtin": "10154610",
+    "title": "Anione Ciotola in Acciaio Inox Enjoy",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285887/6fb92c7221d63574639f8635ffad4991c681260b_b30342d7a8d703bf2c97125c39f0395463bbc736.jpg?v=638200136580470000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19032",
+        "sku": "19032",
+        "gtin": "10154610",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-inox-enjoy-19032p",
+        "name": "Anione Ciotola in Acciaio Inox Enjoy",
+        "path": "/anione-ciotola-in-acciaio-inox-enjoy-19032/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19035",
+    "sku": "19035",
+    "gtin": "10154611",
+    "title": "Anione Ciotola in Acciaio Inox a Pois",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285890/c731bd13de32050fe8e4e9191eb79b741f8a722a_b737cb17f88c49ff8d6b1554fa251ce11c1bebbb.jpg?v=638200140016200000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19035",
+        "sku": "19035",
+        "gtin": "10154611",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-acciaio-inox-a-pois-19035p",
+        "name": "Anione Ciotola in Acciaio Inox a Pois",
+        "path": "/anione-ciotola-in-acciaio-inox-a-pois-19035/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21198",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19466",
+    "sku": "19466",
+    "gtin": "10152953",
+    "title": "Anione Ciotola in Ceramica Rosa con Corona",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285885/e391eec99f1f2b4ee2f9578f0a8d956479812ec4_1fddea517145ae65dc21f5c9869e23ae9fa7cc77--1-.jpg?v=638200116003600000"
+    ],
+    "price": {
+      "current": 4.94,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 247.00000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19466",
+        "sku": "19466",
+        "gtin": "10152953",
+        "title": "350ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+        "price": {
+          "current": 4.94,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 247.00000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSA",
+            "Volume (L)": "350ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-ceramica-rosa-con-corona-19466p",
+        "name": "Anione Ciotola in Ceramica Rosa con Corona",
+        "path": "/anione-ciotola-in-ceramica-rosa-con-corona-19466/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19649",
+    "sku": "19649",
+    "gtin": "10143679",
+    "title": "Anione Ciotola Antigoccia",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-antigoccia-19649/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283487/cb3f1c8696cf04169473d9f68518cca05dc80b7e_e47085aa12a33464ea7f70070dbb7cb9b6e43df1--1-.jpg?v=638164526463630000"
+    ],
+    "price": {
+      "current": 14.39,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 719.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19649",
+        "sku": "19649",
+        "gtin": "10143679",
+        "title": "1400ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-antigoccia-19649/p",
+        "price": {
+          "current": 14.39,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 719.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1.4L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-antigoccia-19649p",
+        "name": "Anione Ciotola Antigoccia",
+        "path": "/anione-ciotola-antigoccia-19649/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21767",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19887",
+    "sku": "19887",
+    "gtin": "10160921",
+    "title": "Ciotola K2 in Silicone con Dissuasore",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/ciotola-per-cane-k2-in-silicone-con-dissuasore-19887/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277715/ciotola-per-cane-k2-in-silicone-con-dissuasore.jpg?v=638048951980400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277716/ciotola-per-cane-k2-in-silicone-con-dissuasore1.jpg?v=638048952067330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277717/ciotola-per-cane-k2-in-silicone-con-dissuasore2.jpg?v=638048952249700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277718/ciotola-per-cane-k2-in-silicone-con-dissuasore3.jpg?v=638048952384500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277719/ciotola-per-cane-k2-in-silicone-con-dissuasore4.jpg?v=638048952469570000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 30.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19887",
+        "sku": "19887",
+        "gtin": "10160921",
+        "title": "2000ML",
+        "url": "https://www.arcaplanet.it/ciotola-per-cane-k2-in-silicone-con-dissuasore-19887/p",
+        "price": {
+          "current": 28.99,
+          "original": 30.49,
+          "pricePerUnit": {
+            "value": 1449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "ciotola-per-cane-k2-in-silicone-con-dissuasore-19887p",
+        "name": "Ciotola K2 in Silicone con Dissuasore",
+        "path": "/ciotola-per-cane-k2-in-silicone-con-dissuasore-19887/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22005",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  },
+  {
+    "id": "19972",
+    "sku": "19972",
+    "gtin": "10161040",
+    "title": "Cup Ciotola in Polipropilene Acquamare",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/cup-ciotola-in-polipropilene-acquamare-19972/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281735/ciotola_acquamare.jpg?v=638130864750670000"
+    ],
+    "price": {
+      "current": 28.8,
+      "original": 31.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1440,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19972",
+        "sku": "19972",
+        "gtin": "10161040",
+        "title": "2500ML",
+        "url": "https://www.arcaplanet.it/cup-ciotola-in-polipropilene-acquamare-19972/p",
+        "price": {
+          "current": 28.8,
+          "original": 31.99,
+          "pricePerUnit": {
+            "value": 1440,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ACQUAMARINA",
+            "Volume (L)": "2500ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "cup-ciotola-in-polipropilene-acquamare-19972p",
+        "name": "Cup Ciotola in Polipropilene Acquamare",
+        "path": "/cup-ciotola-in-polipropilene-acquamare-19972/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22090",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:32:08.763Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/ciotole/e/dispenser/"
+  }
+]

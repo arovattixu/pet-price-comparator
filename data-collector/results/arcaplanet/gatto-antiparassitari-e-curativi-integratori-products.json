@@ -1,0 +1,4249 @@
+[
+  {
+    "id": "1170",
+    "sku": "1170",
+    "gtin": "00001239",
+    "title": "Ribes Pet Mangime Complementare Per Cani E Gatti 30 Perle",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/nbf-ribes-pet-cane-30-perle-30-1170/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/245869/nbf-ribes-pet-cane-30-perle.jpg?v=637455026391700000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 35.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1170",
+        "sku": "1170",
+        "gtin": "00001239",
+        "title": "30 PERLE",
+        "url": "https://www.arcaplanet.it/nbf-ribes-pet-cane-30-perle-30-1170/p",
+        "price": {
+          "current": 29.99,
+          "original": 35.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "nbf-ribes-pet-cane-30-perle-30-1170p",
+        "name": "Ribes Pet Mangime Complementare Per Cani E Gatti 30 Perle",
+        "path": "/nbf-ribes-pet-cane-30-perle-30-1170/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1127",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "3854",
+    "sku": "3854",
+    "gtin": "10078902",
+    "title": "Florentero Act Compresse Appetibile",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/candioli-florentero-act-cane-3854/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307154/florentero-act-120-compresse.jpg?v=638634518181700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270679/florentero-act-120-compresse.jpg?v=637852656022370000"
+    ],
+    "price": {
+      "current": 69.99,
+      "original": 80.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3499.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 14
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3854",
+        "sku": "3854",
+        "gtin": "10078902",
+        "title": "120CP",
+        "url": "https://www.arcaplanet.it/candioli-florentero-act-cane-3854/p",
+        "price": {
+          "current": 69.99,
+          "original": 80.99,
+          "pricePerUnit": {
+            "value": 3499.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "candioli-florentero-act-cane-3854p",
+        "name": "Florentero Act Compresse Appetibile",
+        "path": "/candioli-florentero-act-cane-3854/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1134",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "1410",
+    "sku": "1410",
+    "gtin": "10067094",
+    "title": "Direne Alimento Complementare Cani e Gatti",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/drn-cane-direne-32-cp-1410/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221885/drn-cane-direne-32-cp.jpg?v=637454716338830000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1410",
+        "sku": "1410",
+        "gtin": "10067094",
+        "title": "32CP",
+        "url": "https://www.arcaplanet.it/drn-cane-direne-32-cp-1410/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "drn-cane-direne-32-cp-1410p",
+        "name": "Direne Alimento Complementare Cani e Gatti",
+        "path": "/drn-cane-direne-32-cp-1410/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1364",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "1566",
+    "sku": "1566",
+    "gtin": "00031070",
+    "title": "Epato 1500 Plus Cane",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/epato-1500-plus-cane-1566/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220893/drn-cane-epato-1500-32-cp.jpg?v=637454705191030000"
+    ],
+    "price": {
+      "current": 37.49,
+      "original": 37.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1874.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1566",
+        "sku": "1566",
+        "gtin": "00031070",
+        "title": "32CP",
+        "url": "https://www.arcaplanet.it/epato-1500-plus-cane-1566/p",
+        "price": {
+          "current": 37.49,
+          "original": 37.49,
+          "pricePerUnit": {
+            "value": 1874.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "epato-1500-plus-cane-1566p",
+        "name": "Epato 1500 Plus Cane",
+        "path": "/epato-1500-plus-cane-1566/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1520",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "2510",
+    "sku": "2510",
+    "gtin": "10128949",
+    "title": "TotaBi Alimento Complementare per Cani",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/totabi-cane-32-compresse-32-cpr-2510/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209133/Totabi-32-compresse-per-cani.jpg?v=637413982684230000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 17.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2510",
+        "sku": "2510",
+        "gtin": "10128949",
+        "title": "32CP",
+        "url": "https://www.arcaplanet.it/totabi-cane-32-compresse-32-cpr-2510/p",
+        "price": {
+          "current": 14.99,
+          "original": 17.69,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "totabi-cane-32-compresse-32-cpr-2510p",
+        "name": "TotaBi Alimento Complementare per Cani",
+        "path": "/totabi-cane-32-compresse-32-cpr-2510/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2430",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "3437",
+    "sku": "3437",
+    "gtin": "10077210",
+    "title": "Renal P Mangime Complementare Per Cani e Gatti",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/renal-p-cane-e-gatto-70g-3437/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223101/renal-p-cane-e-gatto.jpg?v=637454728530230000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 19.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 8
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3437",
+        "sku": "3437",
+        "gtin": "10077210",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/renal-p-cane-e-gatto-70g-3437/p",
+        "price": {
+          "current": 17.99,
+          "original": 19.49,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "renal-p-cane-e-gatto-70g-3437p",
+        "name": "Renal P Mangime Complementare Per Cani e Gatti",
+        "path": "/renal-p-cane-e-gatto-70g-3437/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3344",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "3678",
+    "sku": "3678",
+    "gtin": "10077406",
+    "title": "FibraSol GG Mangime Complementare in Polvere",
+    "brand": "TREBIFARMA",
+    "url": "https://www.arcaplanet.it/fibrasol-gg-cane-e-gatto-100g-3678/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252121/fibrasol-gg-cane-e-gatto.jpg?v=637455083135600000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 219.89999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3678",
+        "sku": "3678",
+        "gtin": "10077406",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/fibrasol-gg-cane-e-gatto-100g-3678/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 219.89999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "fibrasol-gg-cane-e-gatto-100g-3678p",
+        "name": "FibraSol GG Mangime Complementare in Polvere",
+        "path": "/fibrasol-gg-cane-e-gatto-100g-3678/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3582",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "5979",
+    "sku": "5979",
+    "gtin": "10068507",
+    "title": "Barf Olio Di Salmone per Cani e Gatti",
+    "brand": "DRCLAUDERS BARF",
+    "url": "https://www.arcaplanet.it/barf-olio-di-salmone-5979/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222573/barf-cane-integratore-olio-di-salmone.jpg?v=637454723447370000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 63.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5979",
+        "sku": "5979",
+        "gtin": "10068507",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/barf-olio-di-salmone-5979/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 63.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "barf-olio-di-salmone-5979p",
+        "name": "Barf Olio Di Salmone per Cani e Gatti",
+        "path": "/barf-olio-di-salmone-5979/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5832",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "4890",
+    "sku": "4890",
+    "gtin": "10110304",
+    "title": "Necon Salmoil Ricetta 1 Alimento Cani e Gatti",
+    "brand": "SALMOIL",
+    "url": "https://www.arcaplanet.it/necon-salmoil-ricetta-1-alimento-per-cani-e-gatti-4890/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208562/Ricetta-1-Salmoil-500ml.jpg?v=637413974513270000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 63.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4890",
+        "sku": "4890",
+        "gtin": "10110304",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/necon-salmoil-ricetta-1-alimento-per-cani-e-gatti-4890/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 63.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "necon-salmoil-ricetta-1-alimento-per-cani-e-gatti-4890p",
+        "name": "Necon Salmoil Ricetta 1 Alimento Cani e Gatti",
+        "path": "/necon-salmoil-ricetta-1-alimento-per-cani-e-gatti-4890/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6860",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "9358",
+    "sku": "9358",
+    "gtin": "10067297",
+    "title": "DRN Enteromicro Compresse",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/drn-enteromicro-cat-dog-32-cp-9358/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221882/drn-enteromicro-cat-dog-32-cp.jpg?v=637454716297630000"
+    ],
+    "price": {
+      "current": 28.49,
+      "original": 28.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1424.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9358",
+        "sku": "9358",
+        "gtin": "10067297",
+        "title": "32CP",
+        "url": "https://www.arcaplanet.it/drn-enteromicro-cat-dog-32-cp-9358/p",
+        "price": {
+          "current": 28.49,
+          "original": 28.49,
+          "pricePerUnit": {
+            "value": 1424.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "drn-enteromicro-cat-dog-32-cp-9358p",
+        "name": "DRN Enteromicro Compresse",
+        "path": "/drn-enteromicro-cat-dog-32-cp-9358/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9176",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "9359",
+    "sku": "9359",
+    "gtin": "10067298",
+    "title": "Enteromicro Pasta Alimento Complementare",
+    "brand": "DRN",
+    "url": "https://www.arcaplanet.it/drn-enteromicro-pasta-ml-15-cat-dog-9359/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306444/drn-enteromicro-pasta-ml-15-cat-dog.jpg?v=638616678841230000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 18.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 949.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9359",
+        "sku": "9359",
+        "gtin": "10067298",
+        "title": "15ML",
+        "url": "https://www.arcaplanet.it/drn-enteromicro-pasta-ml-15-cat-dog-9359/p",
+        "price": {
+          "current": 18.99,
+          "original": 18.99,
+          "pricePerUnit": {
+            "value": 949.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "15ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "drn-enteromicro-pasta-ml-15-cat-dog-9359p",
+        "name": "Enteromicro Pasta Alimento Complementare",
+        "path": "/drn-enteromicro-pasta-ml-15-cat-dog-9359/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9177",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "1399",
+    "sku": "1399",
+    "gtin": "00000644",
+    "title": "Omega Pet Perle Mangime Complementare",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/omega-pet-60-perle-1399/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221133/omega-pet-60-perle.jpg?v=637454708031670000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 35.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1399",
+        "sku": "1399",
+        "gtin": "00000644",
+        "title": "60 PERLE",
+        "url": "https://www.arcaplanet.it/omega-pet-60-perle-1399/p",
+        "price": {
+          "current": 29.99,
+          "original": 35.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "omega-pet-60-perle-1399p",
+        "name": "Omega Pet Perle Mangime Complementare",
+        "path": "/omega-pet-60-perle-1399/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9389",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "178",
+    "sku": "178",
+    "gtin": "10118550",
+    "title": "Essential Gatto Adult Alimento Complementare",
+    "brand": "ESSENTIAL",
+    "url": "https://www.arcaplanet.it/essential-gatto-gr-150-adult-178/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206341/Essential-gatto-adulto-150g.jpg?v=637413940415330000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.93333333333334,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "178",
+        "sku": "178",
+        "gtin": "10118550",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/essential-gatto-gr-150-adult-178/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 99.93333333333334,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "essential-gatto-gr-150-adult-178p",
+        "name": "Essential Gatto Adult Alimento Complementare",
+        "path": "/essential-gatto-gr-150-adult-178/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11233",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14349",
+    "sku": "14349",
+    "gtin": "10140165",
+    "title": "Urys Caps Mangime Complementare",
+    "brand": "INNOVET",
+    "url": "https://www.arcaplanet.it/urys-caps-cane-gatto-tratto-urinario-14349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310028/urys-caps-mangime-complementare-10140165--1-.jpg?v=638666692938200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310029/urys-caps-mangime-complementare-10140165--2-.jpg?v=638666693038100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310030/urys-caps-mangime-complementare-10140165--3-.jpg?v=638666693126930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310031/urys-caps-mangime-complementare-10140165--4-.jpg?v=638666693200900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310032/urys-caps-mangime-complementare-10140165--5-.jpg?v=638666693271030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310033/urys-caps-mangime-complementare-10140165--6-.jpg?v=638666693348830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310034/urys-caps-mangime-complementare-10140165--7-.jpg?v=638666693431300000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 26.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14349",
+        "sku": "14349",
+        "gtin": "10140165",
+        "title": "30CP",
+        "url": "https://www.arcaplanet.it/urys-caps-cane-gatto-tratto-urinario-14349/p",
+        "price": {
+          "current": 21.99,
+          "original": 26.49,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "urys-caps-cane-gatto-tratto-urinario-14349p",
+        "name": "Urys Caps Mangime Complementare",
+        "path": "/urys-caps-cane-gatto-tratto-urinario-14349/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16486",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14352",
+    "sku": "14352",
+    "gtin": "00000897",
+    "title": "VMP pasta per Gatto Pfizer",
+    "brand": "ZOETIS",
+    "url": "https://www.arcaplanet.it/vmp-pasta-per-gatto-pfizer-14352/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266550/00000897-VMP-PASTA-GATTI-PFIZER.jpg?v=637780332386800000"
+    ],
+    "price": {
+      "current": 26.99,
+      "original": 30.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 539.8,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14352",
+        "sku": "14352",
+        "gtin": "00000897",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/vmp-pasta-per-gatto-pfizer-14352/p",
+        "price": {
+          "current": 26.99,
+          "original": 30.49,
+          "pricePerUnit": {
+            "value": 539.8,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "vmp-pasta-per-gatto-pfizer-14352p",
+        "name": "VMP pasta per Gatto Pfizer",
+        "path": "/vmp-pasta-per-gatto-pfizer-14352/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16489",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14354",
+    "sku": "14354",
+    "gtin": "10070609",
+    "title": "Redonyl Ultra Mangime Complementare",
+    "brand": "INNOVET",
+    "url": "https://www.arcaplanet.it/redonyl-ultra-60-capsule-14354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309923/redonyl-ultra-mangime-complementare-10070609--1-.jpg?v=638665830802800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309924/redonyl-ultra-mangime-complementare-10070609--2-.jpg?v=638665830988170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309925/redonyl-ultra-mangime-complementare-10070609--3-.jpg?v=638665831071830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309926/redonyl-ultra-mangime-complementare-10070609--4-.jpg?v=638665831164100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309927/redonyl-ultra-mangime-complementare-10070609--5-.jpg?v=638665831242830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309928/redonyl-ultra-mangime-complementare-10070609--6-.jpg?v=638665831338100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309929/redonyl-ultra-mangime-complementare-10070609--7-.jpg?v=638665831405230000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1949.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14354",
+        "sku": "14354",
+        "gtin": "10070609",
+        "title": "150MG",
+        "url": "https://www.arcaplanet.it/redonyl-ultra-60-capsule-14354/p",
+        "price": {
+          "current": 38.99,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 1949.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "redonyl-ultra-60-capsule-14354p",
+        "name": "Redonyl Ultra Mangime Complementare",
+        "path": "/redonyl-ultra-60-capsule-14354/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16492",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14371",
+    "sku": "14371",
+    "gtin": "10109664",
+    "title": "Hypermix Crema Gel 30ml",
+    "brand": "HYPERMIX",
+    "url": "https://www.arcaplanet.it/hypermix-crema-gel-30-ml-14371/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266557/10109664-Hypermix_crema_gel_tubo_30_ml.jpg?v=637780948769470000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 17.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 43.300000000000004,
+        "unit": "none"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14371",
+        "sku": "14371",
+        "gtin": "10109664",
+        "title": "30ML",
+        "url": "https://www.arcaplanet.it/hypermix-crema-gel-30-ml-14371/p",
+        "price": {
+          "current": 12.99,
+          "original": 17.19,
+          "pricePerUnit": {
+            "value": 43.300000000000004,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "30ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "hypermix-crema-gel-30-ml-14371p",
+        "name": "Hypermix Crema Gel 30ml",
+        "path": "/hypermix-crema-gel-30-ml-14371/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16508",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14382",
+    "sku": "14382",
+    "gtin": "10138889",
+    "title": "Nucron Mangime Complementare Cani e Gatti",
+    "brand": "AURORA",
+    "url": "https://www.arcaplanet.it/nucron-30-compresse-14382/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266566/10138889-Nucron-30-compresse.jpg?v=637781004488200000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 23.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14382",
+        "sku": "14382",
+        "gtin": "10138889",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/nucron-30-compresse-14382/p",
+        "price": {
+          "current": 20.99,
+          "original": 23.49,
+          "pricePerUnit": {
+            "value": 1049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "nucron-30-compresse-14382p",
+        "name": "Nucron Mangime Complementare Cani e Gatti",
+        "path": "/nucron-30-compresse-14382/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16519",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14383",
+    "sku": "14383",
+    "gtin": "10138890",
+    "title": "Nucron Pasta Mangime Complementare Per Cani E Gatti",
+    "brand": "AURORA",
+    "url": "https://www.arcaplanet.it/nucron-pasta-30-gr-14383/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266582/10138891-Nucron-pasta-30-gr.jpg?v=637782663496630000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14383",
+        "sku": "14383",
+        "gtin": "10138890",
+        "title": "15G",
+        "url": "https://www.arcaplanet.it/nucron-pasta-30-gr-14383/p",
+        "price": {
+          "current": 13.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "nucron-pasta-30-gr-14383p",
+        "name": "Nucron Pasta Mangime Complementare Per Cani E Gatti",
+        "path": "/nucron-pasta-30-gr-14383/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16521",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14500",
+    "sku": "14500",
+    "gtin": "10140283",
+    "title": "Purina Pro Plan Fortiflora Feline Probiotic",
+    "brand": "PURINA PRO PLAN",
+    "url": "https://www.arcaplanet.it/purina-pro-plan-fortiflora-feline-probiotics-7x1g-14500/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281292/purina-pro-plan-fortiflora-feline-probiotics.jpg?v=638127561624570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276240/PT02.jpg?v=638031746139570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276241/PT03.jpg?v=638031746233100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276242/PT04.jpg?v=638031746387270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281294/purina-pro-plan-fortiflora-feline-probiotics1.jpg?v=638127561740130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281295/purina-pro-plan-fortiflora-feline-probiotics2.jpg?v=638127561860700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281297/purina-pro-plan-fortiflora-feline-probiotics3.jpg?v=638127562082630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281298/purina-pro-plan-fortiflora-feline-probiotics4.jpg?v=638127562248100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281299/purina-pro-plan-fortiflora-feline-probiotics5.jpg?v=638127562368530000"
+    ],
+    "price": {
+      "current": 10.19,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 509.49999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14500",
+        "sku": "14500",
+        "gtin": "10140283",
+        "title": "7X1G",
+        "url": "https://www.arcaplanet.it/purina-pro-plan-fortiflora-feline-probiotics-7x1g-14500/p",
+        "price": {
+          "current": 10.19,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 509.49999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "purina-pro-plan-fortiflora-feline-probiotics-7x1g-14500p",
+        "name": "Purina Pro Plan Fortiflora Feline Probiotic",
+        "path": "/purina-pro-plan-fortiflora-feline-probiotics-7x1g-14500/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16637",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "14949",
+    "sku": "14949",
+    "gtin": "10120608",
+    "title": "Restomyl Dentalcroc Alimento Complementare per Gatti",
+    "brand": "RESTOMYL",
+    "url": "https://www.arcaplanet.it/restomyl-dentalcroc-gatto-14949/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278118/restomyl-dentalcroc-gatto.jpg?v=638064562324430000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14949",
+        "sku": "14949",
+        "gtin": "10120608",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/restomyl-dentalcroc-gatto-14949/p",
+        "price": {
+          "current": 13.99,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "restomyl-dentalcroc-gatto-14949p",
+        "name": "Restomyl Dentalcroc Alimento Complementare per Gatti",
+        "path": "/restomyl-dentalcroc-gatto-14949/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17086",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "15307",
+    "sku": "15307",
+    "gtin": "10138888",
+    "title": "Cortipet Gocce Mangime Complementare",
+    "brand": "AURORA",
+    "url": "https://www.arcaplanet.it/cortipet-50ml-15307/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272804/CORTIPET-50-ML.jpg?v=637913178067300000"
+    ],
+    "price": {
+      "current": 18.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 379.79999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15307",
+        "sku": "15307",
+        "gtin": "10138888",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/cortipet-50ml-15307/p",
+        "price": {
+          "current": 18.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 379.79999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "50ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cortipet-50ml-15307p",
+        "name": "Cortipet Gocce Mangime Complementare",
+        "path": "/cortipet-50ml-15307/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17444",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "15315",
+    "sku": "15315",
+    "gtin": "10109636",
+    "title": "Immunovet Phyto Mangime Complementare",
+    "brand": "TREBIFARMA",
+    "url": "https://www.arcaplanet.it/immunovet-phyto-pasta-30g-15315/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272834/IMMUNOVET-PHYTO-PASTA-30-GR.jpg?v=637913920818800000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.6666666666666,
+        "unit": "none"
+      },
+      "discountPercentage": 4
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15315",
+        "sku": "15315",
+        "gtin": "10109636",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/immunovet-phyto-pasta-30g-15315/p",
+        "price": {
+          "current": 23.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 799.6666666666666,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "immunovet-phyto-pasta-30g-15315p",
+        "name": "Immunovet Phyto Mangime Complementare",
+        "path": "/immunovet-phyto-pasta-30g-15315/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17452",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "15319",
+    "sku": "15319",
+    "gtin": "00000643",
+    "title": "Omega Pet Mangime Alimentare",
+    "brand": "NBF LANES",
+    "url": "https://www.arcaplanet.it/omega-pet-ml100-15319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272768/OMEGA-PET-ML.100.jpg?v=637910753282670000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 36.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15319",
+        "sku": "15319",
+        "gtin": "00000643",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/omega-pet-ml100-15319/p",
+        "price": {
+          "current": 27.99,
+          "original": 36.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "omega-pet-ml100-15319p",
+        "name": "Omega Pet Mangime Alimentare",
+        "path": "/omega-pet-ml100-15319/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17456",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "16222",
+    "sku": "16222",
+    "gtin": "10055801",
+    "title": "CystoCure Forte Mangime Complementare per Cani e Gatti",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/candioli-cystocure-forte-30-compresse-16222/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309375/cystocure-forte-mangime-complementare-per-cani-e-gatti-10055801.jpg?v=638659792883300000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 24.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16222",
+        "sku": "16222",
+        "gtin": "10055801",
+        "title": "30CP",
+        "url": "https://www.arcaplanet.it/candioli-cystocure-forte-30-compresse-16222/p",
+        "price": {
+          "current": 21.99,
+          "original": 24.49,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "candioli-cystocure-forte-30-compresse-16222p",
+        "name": "CystoCure Forte Mangime Complementare per Cani e Gatti",
+        "path": "/candioli-cystocure-forte-30-compresse-16222/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18359",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "18757",
+    "sku": "18757",
+    "gtin": "10145948",
+    "title": "MultiFit Crema Multivitaminica Erbagatta",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-crema-multivitaminica-erbagatta-18757/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286491/f730bc8ece2c074115507e8dc79d87cec12e3af0_973199c0ef88a2c46e9278314f14ce950b2e2c10.jpg?v=638209656771170000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18757",
+        "sku": "18757",
+        "gtin": "10145948",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-crema-multivitaminica-erbagatta-18757/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "multifit-crema-multivitaminica-erbagatta-18757p",
+        "name": "MultiFit Crema Multivitaminica Erbagatta",
+        "path": "/multifit-crema-multivitaminica-erbagatta-18757/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20875",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "20003",
+    "sku": "20003",
+    "gtin": "10119112",
+    "title": "Bolo Via Mangime Complementare per Gatti",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/bolo-via-40g-20003/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309381/bolo-via-mangime-complementare-per-gatti-10119112--1-.jpg?v=638659815225070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309382/bolo-via-mangime-complementare-per-gatti-10119112--2-.jpg?v=638659815447170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309383/bolo-via-mangime-complementare-per-gatti-10119112--3-.jpg?v=638659815539130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309384/bolo-via-mangime-complementare-per-gatti-10119112--4-.jpg?v=638659815634600000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20003",
+        "sku": "20003",
+        "gtin": "10119112",
+        "title": "40G",
+        "url": "https://www.arcaplanet.it/bolo-via-40g-20003/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "bolo-via-40g-20003p",
+        "name": "Bolo Via Mangime Complementare per Gatti",
+        "path": "/bolo-via-40g-20003/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22121",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "23175",
+    "sku": "23175",
+    "gtin": "10173139",
+    "title": "Drontal Cat Compresse",
+    "brand": "DRONTAL",
+    "url": "https://www.arcaplanet.it/drontal-cat-compresse-23175/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294176/Drontal-Cat-Compresse-10173139.jpg?v=638421172523770000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23175",
+        "sku": "23175",
+        "gtin": "10173139",
+        "title": "2CP",
+        "url": "https://www.arcaplanet.it/drontal-cat-compresse-23175/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 1099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "drontal-cat-compresse-23175p",
+        "name": "Drontal Cat Compresse",
+        "path": "/drontal-cat-compresse-23175/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25184",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "23755",
+    "sku": "23755",
+    "gtin": "10173765",
+    "title": "Candioli Herpless Plus Facile 30 Soft Chews",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/candioli-herpless-plus-facile-30-soft-chews--23755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/300085/candioli-herpless-plus-facile-30-soft-chews-10173765.jpg?v=638491143220200000"
+    ],
+    "price": {
+      "current": 17.37,
+      "original": 19.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 289.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23755",
+        "sku": "23755",
+        "gtin": "10173765",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/candioli-herpless-plus-facile-30-soft-chews--23755/p",
+        "price": {
+          "current": 17.37,
+          "original": 19.3,
+          "pricePerUnit": {
+            "value": 289.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "candioli-herpless-plus-facile-30-soft-chews--23755p",
+        "name": "Candioli Herpless Plus Facile 30 Soft Chews",
+        "path": "/candioli-herpless-plus-facile-30-soft-chews--23755/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25766",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "23864",
+    "sku": "23864",
+    "gtin": "10173937",
+    "title": "Alevica Dog&Cat Compresse",
+    "brand": "CIAM",
+    "url": "https://www.arcaplanet.it/alevica-dog-cat-compresse-23864/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302440/alevica-dog-cat-compresse-10173937.jpg?v=638536066368600000"
+    ],
+    "price": {
+      "current": 35.91,
+      "original": 40.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1795.4999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23864",
+        "sku": "23864",
+        "gtin": "10173937",
+        "title": "40CP",
+        "url": "https://www.arcaplanet.it/alevica-dog-cat-compresse-23864/p",
+        "price": {
+          "current": 35.91,
+          "original": 40.99,
+          "pricePerUnit": {
+            "value": 1795.4999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "alevica-dog-cat-compresse-23864p",
+        "name": "Alevica Dog&Cat Compresse",
+        "path": "/alevica-dog-cat-compresse-23864/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25875",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "23866",
+    "sku": "23866",
+    "gtin": "10173939",
+    "title": "Gastrovom Dog&Cat Digestione",
+    "brand": "CIAM",
+    "url": "https://www.arcaplanet.it/gastrovom-dog-cat-integratore-digestione-23866/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302444/gastrovom-dog-cat-integratore-digestione-10173939.jpg?v=638536135332900000"
+    ],
+    "price": {
+      "current": 21.06,
+      "original": 24.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1053,
+        "unit": "none"
+      },
+      "discountPercentage": 14
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23866",
+        "sku": "23866",
+        "gtin": "10173939",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/gastrovom-dog-cat-integratore-digestione-23866/p",
+        "price": {
+          "current": 21.06,
+          "original": 24.49,
+          "pricePerUnit": {
+            "value": 1053,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "gastrovom-dog-cat-integratore-digestione-23866p",
+        "name": "Gastrovom Dog&Cat Digestione",
+        "path": "/gastrovom-dog-cat-integratore-digestione-23866/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25877",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "23976",
+    "sku": "23976",
+    "gtin": "10174040",
+    "title": "Lanes Reuteral Gocce Gatto",
+    "brand": "CIAM",
+    "url": "https://www.arcaplanet.it/lanes-reuteral-gocce-gatto-23976/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316815/lanes-reuteral-gocce-gatto-10174040.jpg.jpg?v=638759920286200000"
+    ],
+    "price": {
+      "current": 20.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1049.5,
+        "unit": "none"
+      },
+      "discountPercentage": 16
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23976",
+        "sku": "23976",
+        "gtin": "10174040",
+        "title": "10ML",
+        "url": "https://www.arcaplanet.it/lanes-reuteral-gocce-gatto-23976/p",
+        "price": {
+          "current": 20.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1049.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "lanes-reuteral-gocce-gatto-23976p",
+        "name": "Lanes Reuteral Gocce Gatto",
+        "path": "/lanes-reuteral-gocce-gatto-23976/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25987",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24218",
+    "sku": "24218",
+    "gtin": "10174368",
+    "title": "Youact Entero Mangime Complementare per Cani e Gatti",
+    "brand": "MSD ANIMAL HEALTH",
+    "url": "https://www.arcaplanet.it/youact-entero-mangime-complementare-per-cani-e-gatti-24218/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303683/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--1-.jpg?v=638555131006030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303684/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--2-.jpg?v=638555131079600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303685/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--3-.jpg?v=638555131163030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303686/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--4-.jpg?v=638555131339400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303687/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--5-.jpg?v=638555131454900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303688/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--6-.jpg?v=638555131538600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303689/youact-entero-mangime-complementare-per-cani-e-gatti-10174368--7-.jpg?v=638555131678230000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 36.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24218",
+        "sku": "24218",
+        "gtin": "10174368",
+        "title": "30 BUSTINE",
+        "url": "https://www.arcaplanet.it/youact-entero-mangime-complementare-per-cani-e-gatti-24218/p",
+        "price": {
+          "current": 27.99,
+          "original": 36.49,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "youact-entero-mangime-complementare-per-cani-e-gatti-24218p",
+        "name": "Youact Entero Mangime Complementare per Cani e Gatti",
+        "path": "/youact-entero-mangime-complementare-per-cani-e-gatti-24218/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26229",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24830",
+    "sku": "24830",
+    "gtin": "10176770",
+    "title": "Fibor Mangime Complementare",
+    "brand": "VET BROS",
+    "url": "https://www.arcaplanet.it/fibor-mangime-complementare-24830/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307827/Fibor-Mangime-Complementare.jpg?v=638642245961970000"
+    ],
+    "price": {
+      "current": 36.99,
+      "original": 36.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1849.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24830",
+        "sku": "24830",
+        "gtin": "10176770",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/fibor-mangime-complementare-24830/p",
+        "price": {
+          "current": 36.99,
+          "original": 36.99,
+          "pricePerUnit": {
+            "value": 1849.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "fibor-mangime-complementare-24830p",
+        "name": "Fibor Mangime Complementare",
+        "path": "/fibor-mangime-complementare-24830/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26841",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24835",
+    "sku": "24835",
+    "gtin": "10176773",
+    "title": "Gastrik Pet Mangime Complementare per Cani",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/gastrik-pet-mangime-complementare-per-cani-24835/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306555/gastrik-pet-mangime-complementare-per-cani-10176773.jpg?v=638621788203700000"
+    ],
+    "price": {
+      "current": 18.9,
+      "original": 18.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 944.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24835",
+        "sku": "24835",
+        "gtin": "10176773",
+        "title": "30CP",
+        "url": "https://www.arcaplanet.it/gastrik-pet-mangime-complementare-per-cani-24835/p",
+        "price": {
+          "current": 18.9,
+          "original": 18.9,
+          "pricePerUnit": {
+            "value": 944.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "gastrik-pet-mangime-complementare-per-cani-24835p",
+        "name": "Gastrik Pet Mangime Complementare per Cani",
+        "path": "/gastrik-pet-mangime-complementare-per-cani-24835/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26846",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24840",
+    "sku": "24840",
+    "gtin": "10176778",
+    "title": "Glutamax Advanced Mangime Complementare Dietetico per Cani",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/glutamax-advanced-mangime-complementare-dietetico-per-cani-24840/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306556/glutamax-advanced-mangime-complementare-dietetico-per-cani-10176778.jpg?v=638621800218500000"
+    ],
+    "price": {
+      "current": 27.4,
+      "original": 27.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1370,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24840",
+        "sku": "24840",
+        "gtin": "10176778",
+        "title": "30CP",
+        "url": "https://www.arcaplanet.it/glutamax-advanced-mangime-complementare-dietetico-per-cani-24840/p",
+        "price": {
+          "current": 27.4,
+          "original": 27.4,
+          "pricePerUnit": {
+            "value": 1370,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "glutamax-advanced-mangime-complementare-dietetico-per-cani-24840p",
+        "name": "Glutamax Advanced Mangime Complementare Dietetico per Cani",
+        "path": "/glutamax-advanced-mangime-complementare-dietetico-per-cani-24840/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26851",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24846",
+    "sku": "24846",
+    "gtin": "10176810",
+    "title": "Herpless Plus Mangime Complementare per Gatti",
+    "brand": "CANDIOLI",
+    "url": "https://www.arcaplanet.it/herpless-plus-mangime-complementare-per-gatti-24846/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306557/herpless-plus-mangime-complementare-per-gatti-10176810.jpg?v=638621813754400000"
+    ],
+    "price": {
+      "current": 17.9,
+      "original": 17.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 894.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24846",
+        "sku": "24846",
+        "gtin": "10176810",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/herpless-plus-mangime-complementare-per-gatti-24846/p",
+        "price": {
+          "current": 17.9,
+          "original": 17.9,
+          "pricePerUnit": {
+            "value": 894.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "herpless-plus-mangime-complementare-per-gatti-24846p",
+        "name": "Herpless Plus Mangime Complementare per Gatti",
+        "path": "/herpless-plus-mangime-complementare-per-gatti-24846/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26857",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24871",
+    "sku": "24871",
+    "gtin": "10176664",
+    "title": "Nefrina Mangime Complementare Flacone",
+    "brand": "BUONA PET",
+    "url": "https://www.arcaplanet.it/nefrina-mangime-complementare-flacone-24871/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306602/Nefrina-Mangime-Complementare-Flacone-10176664.jpg?v=638623393114330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306698/Nefrina-Mangime-Complementare-Flacone-10176664-.jpg?v=638627734360730000"
+    ],
+    "price": {
+      "current": 26.99,
+      "original": 26.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24871",
+        "sku": "24871",
+        "gtin": "10176664",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/nefrina-mangime-complementare-flacone-24871/p",
+        "price": {
+          "current": 26.99,
+          "original": 26.99,
+          "pricePerUnit": {
+            "value": 1349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "nefrina-mangime-complementare-flacone-24871p",
+        "name": "Nefrina Mangime Complementare Flacone",
+        "path": "/nefrina-mangime-complementare-flacone-24871/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26882",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24909",
+    "sku": "24909",
+    "gtin": "10176691",
+    "title": "Restomyl Dentalcroc",
+    "brand": "INNOVET",
+    "url": "https://www.arcaplanet.it/restomyl-dentalcroc-24909/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307057/restomyl-dentalcroc-10176691--1-.jpg?v=638629510272900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307058/restomyl-dentalcroc-10176691--2-.jpg?v=638629510568100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307059/restomyl-dentalcroc-10176691--3-.jpg?v=638629510729430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307060/restomyl-dentalcroc-10176691--4-.jpg?v=638629510866930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307061/restomyl-dentalcroc-10176691--5-.jpg?v=638629510955770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307062/restomyl-dentalcroc-10176691--6-.jpg?v=638629511060800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307063/restomyl-dentalcroc-10176691--7-.jpg?v=638629511236400000"
+    ],
+    "price": {
+      "current": 18.79,
+      "original": 18.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 939.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24909",
+        "sku": "24909",
+        "gtin": "10176691",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/restomyl-dentalcroc-24909/p",
+        "price": {
+          "current": 18.79,
+          "original": 18.79,
+          "pricePerUnit": {
+            "value": 939.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "restomyl-dentalcroc-24909p",
+        "name": "Restomyl Dentalcroc",
+        "path": "/restomyl-dentalcroc-24909/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26920",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  },
+  {
+    "id": "24939",
+    "sku": "24939",
+    "gtin": "10176671",
+    "title": "Tussina Mangime Complementare Flacone",
+    "brand": "BUONA PET",
+    "url": "https://www.arcaplanet.it/tussina-mangime-complementare-flacone-24939/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306692/Tussina-Mangime-Complementare-Flacone-10176671-.jpg?v=638627726477100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306606/Tussina-Mangime-Complementare-Flacone-10176671.jpg?v=638623458065170000"
+    ],
+    "price": {
+      "current": 23.69,
+      "original": 23.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1184.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24939",
+        "sku": "24939",
+        "gtin": "10176671",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/tussina-mangime-complementare-flacone-24939/p",
+        "price": {
+          "current": 23.69,
+          "original": 23.69,
+          "pricePerUnit": {
+            "value": 1184.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/gatto/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiintegratori",
+        "name": "Integratori",
+        "path": "/cane/antiparassitari-e-curativi/integratori/",
+        "level": 4
+      },
+      {
+        "id": "tussina-mangime-complementare-flacone-24939p",
+        "name": "Tussina Mangime Complementare Flacone",
+        "path": "/tussina-mangime-complementare-flacone-24939/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26950",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:42:56.163Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/antiparassitari/e/curativi/integratori/"
+  }
+]

@@ -1,0 +1,1122 @@
+[
+  {
+    "source": "arcaplanet",
+    "sourceId": "6783",
+    "name": "POLLO E PESCE AZZURO",
+    "brand": "NEXT",
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-cat-sterilised-vaschetta-multipack-12x85g-6783",
+    "imageUrl": "",
+    "description": "",
+    "sku": "6783",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-cat-sterilised-vaschetta-multipack-12x85g-6783",
+      "vtexId": "6783"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2011",
+    "name": "TACCHINO",
+    "brand": "NATURAL TRAINER",
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "discountPercentage": 36
+    },
+    "url": "https://www.arcaplanet.it/natural-trainer-kitten-busta-multipack-12x85g-2011",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2011",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "natural-trainer-kitten-busta-multipack-12x85g-2011",
+      "vtexId": "2011"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "20703",
+    "name": "TONNO",
+    "brand": "VIRTUS",
+    "price": {
+      "current": 7.5,
+      "original": 7.5,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/virtus-cat-natural-busta-multipack-6x70g-20703",
+    "imageUrl": "",
+    "description": "",
+    "sku": "20703",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "virtus-cat-natural-busta-multipack-6x70g-20703",
+      "vtexId": "20703"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "8426",
+    "name": "MIX CARNE E PESCE",
+    "brand": "GOURMET",
+    "price": {
+      "current": 34.99,
+      "original": 46.9,
+      "currency": "EUR",
+      "discountPercentage": 25
+    },
+    "url": "https://www.arcaplanet.it/gourmet-perle-gatto-multipack-60x85g-8426",
+    "imageUrl": "",
+    "description": "",
+    "sku": "8426",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-perle-gatto-multipack-60x85g-8426",
+      "vtexId": "8426"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "10360",
+    "name": "TONNETTO CON SALMONE",
+    "brand": "SCHESIR",
+    "price": {
+      "current": 7.19,
+      "original": 8.34,
+      "currency": "EUR",
+      "discountPercentage": 14
+    },
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-multipack-6x85g-10360",
+    "imageUrl": "",
+    "description": "",
+    "sku": "10360",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "schesir-cat-busta-multipack-6x85g-10360",
+      "vtexId": "10360"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "6463",
+    "name": "POLLO",
+    "brand": "PETREET",
+    "price": {
+      "current": 7.19,
+      "original": 7.19,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463",
+    "imageUrl": "",
+    "description": "",
+    "sku": "6463",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463",
+      "vtexId": "6463"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "9828",
+    "name": "PROSCIUTTO",
+    "brand": "STUZZY",
+    "price": {
+      "current": 0.62,
+      "original": 0.62,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/stuzzy-cat-pate-vaschetta-100g-9828",
+    "imageUrl": "",
+    "description": "",
+    "sku": "9828",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "stuzzy-cat-pate-vaschetta-100g-9828",
+      "vtexId": "9828"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "5804",
+    "name": "MANZO",
+    "brand": "ALMO NATURE",
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/almo-nature-cat-daily-lattina-400g-5804",
+    "imageUrl": "",
+    "description": "",
+    "sku": "5804",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "almo-nature-cat-daily-lattina-400g-5804",
+      "vtexId": "5804"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "23548",
+    "name": "TONNO GAMBERETTI SALMONE ALICI",
+    "brand": "NEXT",
+    "price": {
+      "current": 23.75,
+      "original": 23.75,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-cat-busta-multipack-24x70g-23548",
+    "imageUrl": "",
+    "description": "",
+    "sku": "23548",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-cat-busta-multipack-24x70g-23548",
+      "vtexId": "23548"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "5827",
+    "name": "POLLO",
+    "brand": "EXPECIAL",
+    "price": {
+      "current": 1.1,
+      "original": 1.1,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/expecial-cat-pate-lattina-400g-5827",
+    "imageUrl": "",
+    "description": "",
+    "sku": "5827",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "expecial-cat-pate-lattina-400g-5827",
+      "vtexId": "5827"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "1389",
+    "name": "TONNO ROSA CON FAGIOLINI",
+    "brand": "PETREET",
+    "price": {
+      "current": 7.95,
+      "original": 7.95,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-lattina-multipack-6x70g-1389",
+    "imageUrl": "",
+    "description": "",
+    "sku": "1389",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "petreet-natura-cat-lattina-multipack-6x70g-1389",
+      "vtexId": "1389"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2455",
+    "name": "POLLO DELICATO",
+    "brand": "GOURMET",
+    "price": {
+      "current": 0.69,
+      "original": 0.69,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/gourmet-gold-mousse-lattina-85g-2455",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2455",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-gold-mousse-lattina-85g-2455",
+      "vtexId": "2455"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "4136",
+    "name": "TONNO CON PESCE BIANCO",
+    "brand": "NEXT",
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-24x150g-4136",
+    "imageUrl": "",
+    "description": "",
+    "sku": "4136",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-natural-cat-lattina-multipack-24x150g-4136",
+      "vtexId": "4136"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "15885",
+    "name": "MIX DI CARNE",
+    "brand": "PREMIERE",
+    "price": {
+      "current": 1.58,
+      "original": 2.1,
+      "currency": "EUR",
+      "discountPercentage": 25
+    },
+    "url": "https://www.arcaplanet.it/premiere-meat-menu-per-gatti-adulti-400g-15885",
+    "imageUrl": "",
+    "description": "",
+    "sku": "15885",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "premiere-meat-menu-per-gatti-adulti-400g-15885",
+      "vtexId": "15885"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "22441",
+    "name": "MIX CARNE E PESCE",
+    "brand": "EXPECIAL",
+    "price": {
+      "current": 48.99,
+      "original": 48.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/expecial-cat-bocconcini-jelly-multipack-96x100g-22441",
+    "imageUrl": "",
+    "description": "",
+    "sku": "22441",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "expecial-cat-bocconcini-jelly-multipack-96x100g-22441",
+      "vtexId": "22441"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "13796",
+    "name": "MIX CARNE E PESCE",
+    "brand": "MONGE",
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796",
+    "imageUrl": "",
+    "description": "",
+    "sku": "13796",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796",
+      "vtexId": "13796"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2086",
+    "name": "TONNETTO CON AFFETTATO DI POLLO",
+    "brand": "SCHESIR",
+    "price": {
+      "current": 1.39,
+      "original": 1.39,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-85g-2086",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2086",
+    "stockStatus": "OUT_OF_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "schesir-cat-busta-85g-2086",
+      "vtexId": "2086"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "8326",
+    "name": "MIX CARNE",
+    "brand": "GOURMET",
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326",
+    "imageUrl": "",
+    "description": "",
+    "sku": "8326",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326",
+      "vtexId": "8326"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2199",
+    "name": "PROSCIUTTO",
+    "brand": "STUZZY",
+    "price": {
+      "current": 1.05,
+      "original": 1.39,
+      "currency": "EUR",
+      "discountPercentage": 24
+    },
+    "url": "https://www.arcaplanet.it/stuzzy-cat-monoprotein-busta-85g-2199",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2199",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "stuzzy-cat-monoprotein-busta-85g-2199",
+      "vtexId": "2199"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2009",
+    "name": "MANZO",
+    "brand": "NATURAL TRAINER",
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "discountPercentage": 36
+    },
+    "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-busta-85g-2009",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2009",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "natural-trainer-gatto-sterilised-busta-85g-2009",
+      "vtexId": "2009"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "6783",
+    "name": "POLLO E PESCE AZZURO",
+    "brand": "NEXT",
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-cat-sterilised-vaschetta-multipack-12x85g-6783",
+    "imageUrl": "",
+    "description": "",
+    "sku": "6783",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-cat-sterilised-vaschetta-multipack-12x85g-6783",
+      "vtexId": "6783"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2011",
+    "name": "TACCHINO",
+    "brand": "NATURAL TRAINER",
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "discountPercentage": 36
+    },
+    "url": "https://www.arcaplanet.it/natural-trainer-kitten-busta-multipack-12x85g-2011",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2011",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "natural-trainer-kitten-busta-multipack-12x85g-2011",
+      "vtexId": "2011"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "20703",
+    "name": "TONNO",
+    "brand": "VIRTUS",
+    "price": {
+      "current": 7.5,
+      "original": 7.5,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/virtus-cat-natural-busta-multipack-6x70g-20703",
+    "imageUrl": "",
+    "description": "",
+    "sku": "20703",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "virtus-cat-natural-busta-multipack-6x70g-20703",
+      "vtexId": "20703"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "8426",
+    "name": "MIX CARNE E PESCE",
+    "brand": "GOURMET",
+    "price": {
+      "current": 34.99,
+      "original": 46.9,
+      "currency": "EUR",
+      "discountPercentage": 25
+    },
+    "url": "https://www.arcaplanet.it/gourmet-perle-gatto-multipack-60x85g-8426",
+    "imageUrl": "",
+    "description": "",
+    "sku": "8426",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-perle-gatto-multipack-60x85g-8426",
+      "vtexId": "8426"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "10360",
+    "name": "TONNETTO CON SALMONE",
+    "brand": "SCHESIR",
+    "price": {
+      "current": 7.19,
+      "original": 8.34,
+      "currency": "EUR",
+      "discountPercentage": 14
+    },
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-multipack-6x85g-10360",
+    "imageUrl": "",
+    "description": "",
+    "sku": "10360",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "schesir-cat-busta-multipack-6x85g-10360",
+      "vtexId": "10360"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "6463",
+    "name": "POLLO",
+    "brand": "PETREET",
+    "price": {
+      "current": 7.19,
+      "original": 7.19,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463",
+    "imageUrl": "",
+    "description": "",
+    "sku": "6463",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "petreet-natura-cat-le-vellutate-lattina-multipack-6x70g-6463",
+      "vtexId": "6463"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "9828",
+    "name": "PROSCIUTTO",
+    "brand": "STUZZY",
+    "price": {
+      "current": 0.62,
+      "original": 0.62,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/stuzzy-cat-pate-vaschetta-100g-9828",
+    "imageUrl": "",
+    "description": "",
+    "sku": "9828",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "stuzzy-cat-pate-vaschetta-100g-9828",
+      "vtexId": "9828"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "5804",
+    "name": "MANZO",
+    "brand": "ALMO NATURE",
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/almo-nature-cat-daily-lattina-400g-5804",
+    "imageUrl": "",
+    "description": "",
+    "sku": "5804",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "almo-nature-cat-daily-lattina-400g-5804",
+      "vtexId": "5804"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "23548",
+    "name": "TONNO GAMBERETTI SALMONE ALICI",
+    "brand": "NEXT",
+    "price": {
+      "current": 23.75,
+      "original": 23.75,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-cat-busta-multipack-24x70g-23548",
+    "imageUrl": "",
+    "description": "",
+    "sku": "23548",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-cat-busta-multipack-24x70g-23548",
+      "vtexId": "23548"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "5827",
+    "name": "POLLO",
+    "brand": "EXPECIAL",
+    "price": {
+      "current": 1.1,
+      "original": 1.1,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/expecial-cat-pate-lattina-400g-5827",
+    "imageUrl": "",
+    "description": "",
+    "sku": "5827",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "expecial-cat-pate-lattina-400g-5827",
+      "vtexId": "5827"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "1389",
+    "name": "TONNO ROSA CON FAGIOLINI",
+    "brand": "PETREET",
+    "price": {
+      "current": 7.95,
+      "original": 7.95,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/petreet-natura-cat-lattina-multipack-6x70g-1389",
+    "imageUrl": "",
+    "description": "",
+    "sku": "1389",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "petreet-natura-cat-lattina-multipack-6x70g-1389",
+      "vtexId": "1389"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2455",
+    "name": "POLLO DELICATO",
+    "brand": "GOURMET",
+    "price": {
+      "current": 0.69,
+      "original": 0.69,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/gourmet-gold-mousse-lattina-85g-2455",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2455",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-gold-mousse-lattina-85g-2455",
+      "vtexId": "2455"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "4136",
+    "name": "TONNO CON PESCE BIANCO",
+    "brand": "NEXT",
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-24x150g-4136",
+    "imageUrl": "",
+    "description": "",
+    "sku": "4136",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "next-natural-cat-lattina-multipack-24x150g-4136",
+      "vtexId": "4136"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "15885",
+    "name": "MIX DI CARNE",
+    "brand": "PREMIERE",
+    "price": {
+      "current": 1.58,
+      "original": 2.1,
+      "currency": "EUR",
+      "discountPercentage": 25
+    },
+    "url": "https://www.arcaplanet.it/premiere-meat-menu-per-gatti-adulti-400g-15885",
+    "imageUrl": "",
+    "description": "",
+    "sku": "15885",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "premiere-meat-menu-per-gatti-adulti-400g-15885",
+      "vtexId": "15885"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "22441",
+    "name": "MIX CARNE E PESCE",
+    "brand": "EXPECIAL",
+    "price": {
+      "current": 48.99,
+      "original": 48.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/expecial-cat-bocconcini-jelly-multipack-96x100g-22441",
+    "imageUrl": "",
+    "description": "",
+    "sku": "22441",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "expecial-cat-bocconcini-jelly-multipack-96x100g-22441",
+      "vtexId": "22441"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "13796",
+    "name": "MIX CARNE E PESCE",
+    "brand": "MONGE",
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796",
+    "imageUrl": "",
+    "description": "",
+    "sku": "13796",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "monge-grill-sterilised-multipack-vitello-galletto-trota-per-gatto-12x85-g-13796",
+      "vtexId": "13796"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2086",
+    "name": "TONNETTO CON AFFETTATO DI POLLO",
+    "brand": "SCHESIR",
+    "price": {
+      "current": 1.39,
+      "original": 1.39,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/schesir-cat-busta-85g-2086",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2086",
+    "stockStatus": "OUT_OF_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "schesir-cat-busta-85g-2086",
+      "vtexId": "2086"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "8326",
+    "name": "MIX CARNE",
+    "brand": "GOURMET",
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "discountPercentage": 0
+    },
+    "url": "https://www.arcaplanet.it/gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326",
+    "imageUrl": "",
+    "description": "",
+    "sku": "8326",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "gourmet-gold-gatto-mix-tortini-con-verdure-multipack-48x85g-8326",
+      "vtexId": "8326"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2199",
+    "name": "PROSCIUTTO",
+    "brand": "STUZZY",
+    "price": {
+      "current": 1.05,
+      "original": 1.39,
+      "currency": "EUR",
+      "discountPercentage": 24
+    },
+    "url": "https://www.arcaplanet.it/stuzzy-cat-monoprotein-busta-85g-2199",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2199",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "stuzzy-cat-monoprotein-busta-85g-2199",
+      "vtexId": "2199"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  },
+  {
+    "source": "arcaplanet",
+    "sourceId": "2009",
+    "name": "MANZO",
+    "brand": "NATURAL TRAINER",
+    "price": {
+      "current": 0.83,
+      "original": 1.29,
+      "currency": "EUR",
+      "discountPercentage": 36
+    },
+    "url": "https://www.arcaplanet.it/natural-trainer-gatto-sterilised-busta-85g-2009",
+    "imageUrl": "",
+    "description": "",
+    "sku": "2009",
+    "stockStatus": "IN_STOCK",
+    "categories": [
+      {
+        "path": "gatto/cibo-umido"
+      }
+    ],
+    "metadata": {
+      "categoryPath": "gatto/cibo-umido",
+      "slug": "natural-trainer-gatto-sterilised-busta-85g-2009",
+      "vtexId": "2009"
+    },
+    "lastUpdated": "2025-03-22T14:51:45.779Z"
+  }
+]

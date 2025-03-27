@@ -1,0 +1,462 @@
+[
+  {
+    "id": "481",
+    "sku": "481",
+    "gtin": "10130076",
+    "title": "Next Cat Busta Multipack 6x70G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cat-busta-multipack-6x70g-481/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272359/NEXT_ADULT_Busta_TONNO-CON-SALMONE_Piramide_3D.jpg?v=637903818363500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272360/6x70g.jpg?v=637903818455030000"
+    ],
+    "price": {
+      "current": 5.94,
+      "original": 5.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.142857142857144,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "481",
+        "sku": "481",
+        "gtin": "10130076",
+        "title": "TONNO CON SALMONE",
+        "url": "https://www.arcaplanet.it/next-cat-busta-multipack-6x70g-481/p",
+        "price": {
+          "current": 5.94,
+          "original": 5.94,
+          "pricePerUnit": {
+            "value": 14.142857142857144,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-cat-busta-multipack-6x70g-481p",
+        "name": "Next Cat Busta Multipack 6x70G",
+        "path": "/next-cat-busta-multipack-6x70g-481/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "423",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:26:06.548Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "459",
+    "sku": "459",
+    "gtin": "10130089",
+    "title": "Next Natural Cat Lattina Multipack 4x150G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-4x150g-459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272066/Next-Cat-Natural-Tonno-4x150G.jpg?v=637898387619200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272067/bollino-4x150.jpg?v=637898387750730000"
+    ],
+    "price": {
+      "current": 7.96,
+      "original": 7.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.266666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "459",
+        "sku": "459",
+        "gtin": "10130089",
+        "title": "TONNO",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-4x150g-459/p",
+        "price": {
+          "current": 7.96,
+          "original": 7.96,
+          "pricePerUnit": {
+            "value": 13.266666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4X150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-4x150g-459p",
+        "name": "Next Natural Cat Lattina Multipack 4x150G",
+        "path": "/next-natural-cat-lattina-multipack-4x150g-459/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "427",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:26:06.548Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "5094",
+    "sku": "5094",
+    "gtin": "10109456",
+    "title": "Next Natural Cat Lattina Multipack 6x50G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x50g-5094/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208060/Next-Multipack-Tonnetto-6x50g-gatto.jpg?v=637413966272270000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.96666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5094",
+        "sku": "5094",
+        "gtin": "10109456",
+        "title": "TONNETTO",
+        "url": "https://www.arcaplanet.it/next-natural-cat-lattina-multipack-6x50g-5094/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 19.96666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-cat-lattina-multipack-6x50g-5094p",
+        "name": "Next Natural Cat Lattina Multipack 6x50G",
+        "path": "/next-natural-cat-lattina-multipack-6x50g-5094/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12870",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:26:06.548Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "14601",
+    "sku": "14601",
+    "gtin": "10140331",
+    "title": "Felix Le Ghiottonerie Cat Busta Multipack 80x85G",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314638/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-main.jpg?v=638730460708200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314639/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-1.jpg?v=638730460816000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314640/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-2.jpg?v=638730460922230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314641/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-3.jpg?v=638730461062000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314642/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-4.jpg?v=638730461157100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314643/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-5.jpg?v=638730461244930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314644/Felix-Le-Ghiottonerie-Cat-Busta-Multipack-80x85G-10140331-6.jpg?v=638730461336070000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.410294117647059,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14601",
+        "sku": "14601",
+        "gtin": "10140331",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+        "price": {
+          "current": 29.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 4.410294117647059,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "80X85G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "felix-le-ghiottonerie-multipack-80x85g-14601p",
+        "name": "Felix Le Ghiottonerie Cat Busta Multipack 80x85G",
+        "path": "/felix-le-ghiottonerie-multipack-80x85g-14601/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16738",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:26:06.548Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  },
+  {
+    "id": "25301",
+    "sku": "25301",
+    "gtin": "1000000000080",
+    "title": "Kit Risparmio 160X85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308182/felix-le-ghiottonerie-multipack-80x85g_10140331_x2_result.jpg?v=638648449737230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308166/Kit-Risparmio-160X85G-Felix-Cat-Ghiottonerie.jpg?v=638648412141600000"
+    ],
+    "price": {
+      "current": 54.9,
+      "original": 79.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.9214285714285713,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25301",
+        "sku": "25301",
+        "gtin": "1000000000080",
+        "title": "MIX CARNE E PESCE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+        "price": {
+          "current": 54.9,
+          "original": 79.98,
+          "pricePerUnit": {
+            "value": 3.9214285714285713,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattocibo-umido",
+        "name": "Cibo Umido",
+        "path": "/gatto/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-160x85g-felix-cat-ghiottonerie-25301p",
+        "name": "Kit Risparmio 160X85G Felix Cat Ghiottonerie Multipack Mix di Gusti",
+        "path": "/kit-risparmio-160x85g-felix-cat-ghiottonerie-25301/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27312",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:26:06.548Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    }
+  }
+]

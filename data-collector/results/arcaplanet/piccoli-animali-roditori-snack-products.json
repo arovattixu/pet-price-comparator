@@ -1,0 +1,3700 @@
+[
+  {
+    "id": "701",
+    "sku": "701",
+    "gtin": "10112087",
+    "title": "Vitakraft Vita Verde Bastoncini",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-verde-bastoncini-200g-701/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263978/22469-Vita-Verde-bastoncini.jpg?v=637696271928570000"
+    ],
+    "price": {
+      "current": 3.3,
+      "original": 3.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.499999999999996,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "701",
+        "sku": "701",
+        "gtin": "10112087",
+        "title": "200G",
+        "url": "https://www.arcaplanet.it/vitakraft-verde-bastoncini-200g-701/p",
+        "price": {
+          "current": 3.3,
+          "original": 3.3,
+          "pricePerUnit": {
+            "value": 16.499999999999996,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "200G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-verde-bastoncini-200g-701p",
+        "name": "Vitakraft Vita Verde Bastoncini",
+        "path": "/vitakraft-verde-bastoncini-200g-701/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "659",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "703",
+    "sku": "703",
+    "gtin": "10112088",
+    "title": "Vitakraft Vita Verde Fruit Mix",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-verde-fruit-mix-200g-703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263979/22472-Vita-Verde-Fruit-Mix-200g.jpg?v=637696278528030000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.95,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "703",
+        "sku": "703",
+        "gtin": "10112088",
+        "title": "200G",
+        "url": "https://www.arcaplanet.it/vitakraft-verde-fruit-mix-200g-703/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 19.95,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "200G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-verde-fruit-mix-200g-703p",
+        "name": "Vitakraft Vita Verde Fruit Mix",
+        "path": "/vitakraft-verde-fruit-mix-200g-703/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "661",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "1338",
+    "sku": "1338",
+    "gtin": "00004859",
+    "title": "Vitakraft Mcgreen Conigli Nani",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-mcgreen-conigli-nani-50g-1338/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221379/vitakraft-mcgreen-conigli-nani.jpg?v=637454710749000000"
+    ],
+    "price": {
+      "current": 2.35,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 47,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1338",
+        "sku": "1338",
+        "gtin": "00004859",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/vitakraft-mcgreen-conigli-nani-50g-1338/p",
+        "price": {
+          "current": 2.35,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 47,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-mcgreen-conigli-nani-50g-1338p",
+        "name": "Vitakraft Mcgreen Conigli Nani",
+        "path": "/vitakraft-mcgreen-conigli-nani-50g-1338/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1292",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "1387",
+    "sku": "1387",
+    "gtin": "00004740",
+    "title": "Vitakraft Roditori Carotties Lecc Carota",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-roditori-carotties-lecc-carota-50g-1387/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221352/vitakraft-roditori-carotties-lecc-carota.jpg?v=637454710406630000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 2.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 55.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1387",
+        "sku": "1387",
+        "gtin": "00004740",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/vitakraft-roditori-carotties-lecc-carota-50g-1387/p",
+        "price": {
+          "current": 2.79,
+          "original": 2.79,
+          "pricePerUnit": {
+            "value": 55.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-roditori-carotties-lecc-carota-50g-1387p",
+        "name": "Vitakraft Roditori Carotties Lecc Carota",
+        "path": "/vitakraft-roditori-carotties-lecc-carota-50g-1387/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1341",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "1927",
+    "sku": "1927",
+    "gtin": "00004519",
+    "title": "Vitakraft Bisquiti Roditori 4 Pezzi Sesamo",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-bisquiti-roditori-4-pezzi-sesamo-42pz-1927/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221350/vitakraft-bisquiti-roditori-4-pezzi-sesamo.jpg?v=637454710384100000"
+    ],
+    "price": {
+      "current": 2.95,
+      "original": 2.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 147.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1927",
+        "sku": "1927",
+        "gtin": "00004519",
+        "title": "4 PZ",
+        "url": "https://www.arcaplanet.it/vitakraft-bisquiti-roditori-4-pezzi-sesamo-42pz-1927/p",
+        "price": {
+          "current": 2.95,
+          "original": 2.95,
+          "pricePerUnit": {
+            "value": 147.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "4 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-bisquiti-roditori-4-pezzi-sesamo-42pz-1927p",
+        "name": "Vitakraft Bisquiti Roditori 4 Pezzi Sesamo",
+        "path": "/vitakraft-bisquiti-roditori-4-pezzi-sesamo-42pz-1927/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1856",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "3649",
+    "sku": "3649",
+    "gtin": "00004718",
+    "title": "Vitakraft Conigli Nani Kracker Verdure",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-verdure-112g-3649/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221381/vitakraft-conigli-nani-kracker-verdure.jpg?v=637454710772770000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.545454545454547,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3649",
+        "sku": "3649",
+        "gtin": "00004718",
+        "title": "112G",
+        "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-verdure-112g-3649/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 28.545454545454547,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "112G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-conigli-nani-kracker-verdure-112g-3649p",
+        "name": "Vitakraft Conigli Nani Kracker Verdure",
+        "path": "/vitakraft-conigli-nani-kracker-verdure-112g-3649/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3553",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "3650",
+    "sku": "3650",
+    "gtin": "00004762",
+    "title": "Vitakraft Roditori Kracker Frutta Per Criceti",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-roditori-kracker-frutta-per-criceti-3650/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221353/vitakraft-roditori-kracker-frutta-per-criceti.jpg?v=637454710413370000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 157,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3650",
+        "sku": "3650",
+        "gtin": "00004762",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/vitakraft-roditori-kracker-frutta-per-criceti-3650/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 157,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-roditori-kracker-frutta-per-criceti-3650p",
+        "name": "Vitakraft Roditori Kracker Frutta Per Criceti",
+        "path": "/vitakraft-roditori-kracker-frutta-per-criceti-3650/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3554",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "3715",
+    "sku": "3715",
+    "gtin": "00004712",
+    "title": "Vitakraft Conigli Nani Kracker Frutti Di Bosco",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-frutti-di-bosco-112g-3715/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221383/vitakraft-conigli-nani-kracker-frutti-di-bosco.jpg?v=637454710787630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/236007/vitakraft-conigli-nani-kracker-frutti-di-bosco.jpg?v=637454941941700000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.545454545454547,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3715",
+        "sku": "3715",
+        "gtin": "00004712",
+        "title": "112G",
+        "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-frutti-di-bosco-112g-3715/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 28.545454545454547,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "112G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-conigli-nani-kracker-frutti-di-bosco-112g-3715p",
+        "name": "Vitakraft Conigli Nani Kracker Frutti Di Bosco",
+        "path": "/vitakraft-conigli-nani-kracker-frutti-di-bosco-112g-3715/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3618",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "3724",
+    "sku": "3724",
+    "gtin": "00004719",
+    "title": "Vitakraft Conigli Nani Kracker Miele",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-miele-112g-3724/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221382/vitakraft-conigli-nani-kracker-miele.jpg?v=637454710779500000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.545454545454547,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3724",
+        "sku": "3724",
+        "gtin": "00004719",
+        "title": "112G",
+        "url": "https://www.arcaplanet.it/vitakraft-conigli-nani-kracker-miele-112g-3724/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 28.545454545454547,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "112G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-conigli-nani-kracker-miele-112g-3724p",
+        "name": "Vitakraft Conigli Nani Kracker Miele",
+        "path": "/vitakraft-conigli-nani-kracker-miele-112g-3724/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3627",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "6439",
+    "sku": "6439",
+    "gtin": "00004556",
+    "title": "Vitakraft Roditori Grun Rollis",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-roditori-grun-rollis-500g-6439/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221347/vitakraft-roditori-grun-rollis.jpg?v=637454710350100000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 4.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.98,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6439",
+        "sku": "6439",
+        "gtin": "00004556",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/vitakraft-roditori-grun-rollis-500g-6439/p",
+        "price": {
+          "current": 2.99,
+          "original": 4.19,
+          "pricePerUnit": {
+            "value": 5.98,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-roditori-grun-rollis-500g-6439p",
+        "name": "Vitakraft Roditori Grun Rollis",
+        "path": "/vitakraft-roditori-grun-rollis-500g-6439/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6283",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "11706",
+    "sku": "11706",
+    "gtin": "00008825",
+    "title": "Biscuit Aarrot 30g Roditori",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/biscuit-carrot-gr-30-roditori-11706/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221367/biscuit-carrot-gr-30-roditori.jpg?v=637454710617630000"
+    ],
+    "price": {
+      "current": 1.25,
+      "original": 1.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 41.66666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11706",
+        "sku": "11706",
+        "gtin": "00008825",
+        "title": "30G",
+        "url": "https://www.arcaplanet.it/biscuit-carrot-gr-30-roditori-11706/p",
+        "price": {
+          "current": 1.25,
+          "original": 1.25,
+          "pricePerUnit": {
+            "value": 41.66666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "30G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "biscuit-carrot-gr-30-roditori-11706p",
+        "name": "Biscuit Aarrot 30g Roditori",
+        "path": "/biscuit-carrot-gr-30-roditori-11706/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11734",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "1945",
+    "sku": "1945",
+    "gtin": "10063253",
+    "title": "Vitakraft Roditori Drops Barbabietola",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vita-roditori-drops-rapa-rossa-gr75--1945/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221356/vitakraft-roditori-drops-prezzemolo.jpg?v=637454710436700000"
+    ],
+    "price": {
+      "current": 2.6,
+      "original": 2.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 32.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1945",
+        "sku": "1945",
+        "gtin": "10063253",
+        "title": "75G",
+        "url": "https://www.arcaplanet.it/vita-roditori-drops-rapa-rossa-gr75--1945/p",
+        "price": {
+          "current": 2.6,
+          "original": 2.6,
+          "pricePerUnit": {
+            "value": 32.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "75G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vita-roditori-drops-rapa-rossa-gr75--1945p",
+        "name": "Vitakraft Roditori Drops Barbabietola",
+        "path": "/vita-roditori-drops-rapa-rossa-gr75--1945/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13974",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "12636",
+    "sku": "12636",
+    "gtin": "10083045",
+    "title": "Trixie Pannocchie di Mais",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-pannocchie-mais-gr-250-12636/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295559/Trixie-Pannocchie-di-Mais-10083045.jpg?v=638442856166200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295560/Trixie-Pannocchie-di-Mais-10083045..jpg?v=638442856293530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295561/Trixie-Pannocchie-di-Mais-10083045.jpg?v=638442856402070000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.96,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12636",
+        "sku": "12636",
+        "gtin": "10083045",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/tx-pannocchie-mais-gr-250-12636/p",
+        "price": {
+          "current": 4.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 19.96,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "tx-pannocchie-mais-gr-250-12636p",
+        "name": "Trixie Pannocchie di Mais",
+        "path": "/tx-pannocchie-mais-gr-250-12636/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14772",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "12637",
+    "sku": "12637",
+    "gtin": "10138648",
+    "title": "Bastoncini Vimini Roditori",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-bastoncini-in-vimini-roditori-cm-18-pz-20-12637/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257861/Bastoncini-per-conigli-snack-da-rosicchiare.jpg?v=637588283563470000"
+    ],
+    "price": {
+      "current": 3.95,
+      "original": 3.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 197.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12637",
+        "sku": "12637",
+        "gtin": "10138648",
+        "title": "CM.18",
+        "url": "https://www.arcaplanet.it/tx-bastoncini-in-vimini-roditori-cm-18-pz-20-12637/p",
+        "price": {
+          "current": 3.95,
+          "original": 3.95,
+          "pricePerUnit": {
+            "value": 197.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.18"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "tx-bastoncini-in-vimini-roditori-cm-18-pz-20-12637p",
+        "name": "Bastoncini Vimini Roditori",
+        "path": "/tx-bastoncini-in-vimini-roditori-cm-18-pz-20-12637/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14773",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "12638",
+    "sku": "12638",
+    "gtin": "10138651",
+    "title": "Camole Farina Essiccate Roditore",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/tx-camole-farina-essicate-roditori-gr-70-12638/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257898/180016_PHO_PRO_CLIP_60792-1.jpg?v=637588307545570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257899/239449_PHO_PRO_CLIP_60796-1.jpg?v=637588307812500000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 70,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12638",
+        "sku": "12638",
+        "gtin": "10138651",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/tx-camole-farina-essicate-roditori-gr-70-12638/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 70,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "tx-camole-farina-essicate-roditori-gr-70-12638p",
+        "name": "Camole Farina Essiccate Roditore",
+        "path": "/tx-camole-farina-essicate-roditori-gr-70-12638/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14774",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "14692",
+    "sku": "14692",
+    "gtin": "00004853",
+    "title": "Vitakraft Snack Kracker Multi-Vitamin per Conigli Nani",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-snack-kracker-multi-vitamin-per-conigli-nani-14692/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270299/vitakraft-kracher-multivitamin-conigli.jpg?v=637846640437730000"
+    ],
+    "price": {
+      "current": 3.14,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 157,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14692",
+        "sku": "14692",
+        "gtin": "00004853",
+        "title": "112G",
+        "url": "https://www.arcaplanet.it/vitakraft-snack-kracker-multi-vitamin-per-conigli-nani-14692/p",
+        "price": {
+          "current": 3.14,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 157,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "112G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-snack-kracker-multi-vitamin-per-conigli-nani-14692p",
+        "name": "Vitakraft Snack Kracker Multi-Vitamin per Conigli Nani",
+        "path": "/vitakraft-snack-kracker-multi-vitamin-per-conigli-nani-14692/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16829",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16589",
+    "sku": "16589",
+    "gtin": "10148239",
+    "title": "Real Nature Snack per Roditori alle Erbe 100G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-snack-per-roditori-erbe-di-campagna-16589/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318029/real-nature-snack-per-roditori-erbe-di-campagna-10148239.jpg.jpg?v=638767620637300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318030/real-nature-snack-per-roditori-.jpg?v=638767620637430000"
+    ],
+    "price": {
+      "current": 2.97,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.7,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16589",
+        "sku": "16589",
+        "gtin": "10148239",
+        "title": "ERBE DI CAMPAGNA",
+        "url": "https://www.arcaplanet.it/real-nature-snack-per-roditori-erbe-di-campagna-16589/p",
+        "price": {
+          "current": 2.97,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 29.7,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-snack-per-roditori-erbe-di-campagna-16589p",
+        "name": "Real Nature Snack per Roditori alle Erbe 100G",
+        "path": "/real-nature-snack-per-roditori-erbe-di-campagna-16589/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18710",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16838",
+    "sku": "16838",
+    "gtin": "10148718",
+    "title": "MultiFit Fieno Roditori Tunnel Willow",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-fieno-roditori-tunnel-willow-16838/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286759/1262362.jpg?v=638215556311900000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 339.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16838",
+        "sku": "16838",
+        "gtin": "10148718",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/multifit-fieno-roditori-tunnel-willow-16838/p",
+        "price": {
+          "current": 6.79,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 339.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-fieno-roditori-tunnel-willow-16838p",
+        "name": "MultiFit Fieno Roditori Tunnel Willow",
+        "path": "/multifit-fieno-roditori-tunnel-willow-16838/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18956",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16866",
+    "sku": "16866",
+    "gtin": "10153891",
+    "title": "MultiFit Snack per Roditori DIppers Carote",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dippers-carote-16866/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282691/1341674--1-.jpg?v=638152514417930000"
+    ],
+    "price": {
+      "current": 1.69,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 84.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16866",
+        "sku": "16866",
+        "gtin": "10153891",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dippers-carote-16866/p",
+        "price": {
+          "current": 1.69,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 84.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-dippers-carote-16866p",
+        "name": "MultiFit Snack per Roditori DIppers Carote",
+        "path": "/multifit-snack-per-roditori-dippers-carote-16866/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18984",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16868",
+    "sku": "16868",
+    "gtin": "10153893",
+    "title": "MultiFit Snack per Roditori 2PZ",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-2pz-16868/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282692/1341676--1-.jpg?v=638152518308800000"
+    ],
+    "price": {
+      "current": 1.69,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 84.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16868",
+        "sku": "16868",
+        "gtin": "10153893",
+        "title": "MELA/FARRO",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-2pz-16868/p",
+        "price": {
+          "current": 1.69,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 84.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-2pz-16868p",
+        "name": "MultiFit Snack per Roditori 2PZ",
+        "path": "/multifit-snack-per-roditori-2pz-16868/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18986",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17282",
+    "sku": "17282",
+    "gtin": "10142411",
+    "title": "MultiFit Snack per Roditori 120G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-120g-17282/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284843/9e55013a389f4fd8cb0cdc316a34e8e577c0eb4b_1009729__en_IE__ajis--1-.jpg?v=638188038700300000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17282",
+        "sku": "17282",
+        "gtin": "10142411",
+        "title": "GRANO",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-120g-17282/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 17.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "120G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-120g-17282p",
+        "name": "MultiFit Snack per Roditori 120G",
+        "path": "/multifit-snack-per-roditori-120g-17282/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19400",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17318",
+    "sku": "17318",
+    "gtin": "10142519",
+    "title": "MultiFit Snack per Roditori con Frutta e Verdura",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-con-frutta-e-verdura-17318/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282857/1012111-1-416x708--1-.jpg?v=638155910378630000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17318",
+        "sku": "17318",
+        "gtin": "10142519",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-con-frutta-e-verdura-17318/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-con-frutta-e-verdura-17318p",
+        "name": "MultiFit Snack per Roditori con Frutta e Verdura",
+        "path": "/multifit-snack-per-roditori-con-frutta-e-verdura-17318/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17521",
+    "sku": "17521",
+    "gtin": "10145794",
+    "title": "MultiFit Snack per Roditori alle Erbe di Giardino Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-giardino-senza-cereali-17521/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282865/1202415_3D--1-.jpg?v=638155944967000000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17521",
+        "sku": "17521",
+        "gtin": "10145794",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-giardino-senza-cereali-17521/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-alle-erbe-di-giardino-senza-cereali-17521p",
+        "name": "MultiFit Snack per Roditori alle Erbe di Giardino Senza Cereali",
+        "path": "/multifit-snack-per-roditori-alle-erbe-di-giardino-senza-cereali-17521/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19639",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17531",
+    "sku": "17531",
+    "gtin": "10145791",
+    "title": "MultiFit Snack per Roditori alle Erbe di Prato",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-prato-17531/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282863/1202412_3D--1-.jpg?v=638155935101500000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17531",
+        "sku": "17531",
+        "gtin": "10145791",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-prato-17531/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-alle-erbe-di-prato-17531p",
+        "name": "MultiFit Snack per Roditori alle Erbe di Prato",
+        "path": "/multifit-snack-per-roditori-alle-erbe-di-prato-17531/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19649",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17533",
+    "sku": "17533",
+    "gtin": "10145793",
+    "title": "MultiFit Snack per Roditori Senza Cereali alle Ortiche",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-alle-ortiche-17533/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283215/1202414_3D--1-.jpg?v=638161215866630000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.285714285714285,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17533",
+        "sku": "17533",
+        "gtin": "10145793",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-alle-ortiche-17533/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 36.285714285714285,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-senza-cereali-alle-ortiche-17533p",
+        "name": "MultiFit Snack per Roditori Senza Cereali alle Ortiche",
+        "path": "/multifit-snack-per-roditori-senza-cereali-alle-ortiche-17533/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19651",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16704",
+    "sku": "16704",
+    "gtin": "10147504",
+    "title": "MultiFit Snack per Roditori Dente di Leone Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dente-di-leone-senza-cereali-16704/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282862/26127ba8d88fabb07ace8d8c40100053e8514cc9_f82dc812bb49dae2412c991172d85ec873a2437f--1-.jpg?v=638155927720130000"
+    ],
+    "price": {
+      "current": 5.09,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.96666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16704",
+        "sku": "16704",
+        "gtin": "10147504",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dente-di-leone-senza-cereali-16704/p",
+        "price": {
+          "current": 5.09,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 16.96666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-dente-di-leone-senza-cereali-16704p",
+        "name": "MultiFit Snack per Roditori Dente di Leone Senza Cereali",
+        "path": "/multifit-snack-per-roditori-dente-di-leone-senza-cereali-16704/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19996",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "17972",
+    "sku": "17972",
+    "gtin": "10150024",
+    "title": "MultiFit Snack per Roditori alle Carote Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-carote-senza-cereali-17972/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282873/1277816_LWP_1.jpg?v=638156022974300000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.222222222222225,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17972",
+        "sku": "17972",
+        "gtin": "10150024",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-carote-senza-cereali-17972/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 28.222222222222225,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-alle-carote-senza-cereali-17972p",
+        "name": "MultiFit Snack per Roditori alle Carote Senza Cereali",
+        "path": "/multifit-snack-per-roditori-alle-carote-senza-cereali-17972/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20090",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18047",
+    "sku": "18047",
+    "gtin": "10149119",
+    "title": "MultiFit Anelli di Piselli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-anelli-di-piselli-18047/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282869/1268017_LWP_1.jpg?v=638155958277200000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.933333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18047",
+        "sku": "18047",
+        "gtin": "10149119",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/multifit-anelli-di-piselli-18047/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 16.933333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-anelli-di-piselli-18047p",
+        "name": "MultiFit Anelli di Piselli",
+        "path": "/multifit-anelli-di-piselli-18047/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20165",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18049",
+    "sku": "18049",
+    "gtin": "10149120",
+    "title": "MultiFit Snack per Roditori alle Erbe di Camomilla",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-camomilla-18049/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282870/1268018_LWP_1.jpg?v=638155963392900000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18049",
+        "sku": "18049",
+        "gtin": "10149120",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-alle-erbe-di-camomilla-18049/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-alle-erbe-di-camomilla-18049p",
+        "name": "MultiFit Snack per Roditori alle Erbe di Camomilla",
+        "path": "/multifit-snack-per-roditori-alle-erbe-di-camomilla-18049/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20167",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18112",
+    "sku": "18112",
+    "gtin": "10153892",
+    "title": "MultiFit Snack per Roditori Dippers ai Frutti di Bosco",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dippers-ai-frutti-di-bosco-18112/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283237/1341675_1.jpg?v=638161281593300000"
+    ],
+    "price": {
+      "current": 1.86,
+      "original": 2.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 93,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18112",
+        "sku": "18112",
+        "gtin": "10153892",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dippers-ai-frutti-di-bosco-18112/p",
+        "price": {
+          "current": 1.86,
+          "original": 2.19,
+          "pricePerUnit": {
+            "value": 93,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-dippers-ai-frutti-di-bosco-18112p",
+        "name": "MultiFit Snack per Roditori Dippers ai Frutti di Bosco",
+        "path": "/multifit-snack-per-roditori-dippers-ai-frutti-di-bosco-18112/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20230",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18135",
+    "sku": "18135",
+    "gtin": "10148241",
+    "title": "MultiFit Snack Fiocchi di Piselli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-fiocchi-di-piselli-18135/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282685/1255790_LWP_1.jpg?v=638152483481300000"
+    ],
+    "price": {
+      "current": 4.04,
+      "original": 4.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.04,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18135",
+        "sku": "18135",
+        "gtin": "10148241",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-snack-fiocchi-di-piselli-18135/p",
+        "price": {
+          "current": 4.04,
+          "original": 4.75,
+          "pricePerUnit": {
+            "value": 4.04,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-fiocchi-di-piselli-18135p",
+        "name": "MultiFit Snack Fiocchi di Piselli",
+        "path": "/multifit-snack-fiocchi-di-piselli-18135/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18403",
+    "sku": "18403",
+    "gtin": "10147531",
+    "title": "MultiFit Snack per Roditori Drops Mix Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-drops-mix-senza-cereali-18403/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283221/1238273.jpg?v=638161233102670000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.142857142857142,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18403",
+        "sku": "18403",
+        "gtin": "10147531",
+        "title": "CAROTE",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-drops-mix-senza-cereali-18403/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 15.142857142857142,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "140G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-drops-mix-senza-cereali-18403p",
+        "name": "MultiFit Snack per Roditori Drops Mix Senza Cereali",
+        "path": "/multifit-snack-per-roditori-drops-mix-senza-cereali-18403/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20650",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18541",
+    "sku": "18541",
+    "gtin": "10147532",
+    "title": "MultiFit Sticks per Roditori al Prezzemolo Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sticks-per-roditori-al-prezzemolo-senza-cereali-18541/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282868/b52c55d661c779c13aa041edf60e451c15cd3969_1655245bfdbb29a386e3a7161659cf4b6f7e05dd.jpg?v=638155953467070000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.4,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18541",
+        "sku": "18541",
+        "gtin": "10147532",
+        "title": "2X50G",
+        "url": "https://www.arcaplanet.it/multifit-sticks-per-roditori-al-prezzemolo-senza-cereali-18541/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 25.4,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2X40G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sticks-per-roditori-al-prezzemolo-senza-cereali-18541p",
+        "name": "MultiFit Sticks per Roditori al Prezzemolo Senza Cereali",
+        "path": "/multifit-sticks-per-roditori-al-prezzemolo-senza-cereali-18541/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20659",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18708",
+    "sku": "18708",
+    "gtin": "10151445",
+    "title": "MultiFit Snack per Roditori Senza Cereali  6PZ",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-6pz-18708/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283231/1302142_LWP_1.jpg?v=638161267592800000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.272727272727273,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18708",
+        "sku": "18708",
+        "gtin": "10151445",
+        "title": "BARBABIETOLA",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-6pz-18708/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 19.272727272727273,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "6 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-senza-cereali-6pz-18708p",
+        "name": "MultiFit Snack per Roditori Senza Cereali  6PZ",
+        "path": "/multifit-snack-per-roditori-senza-cereali-6pz-18708/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20850",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "18930",
+    "sku": "18930",
+    "gtin": "10151236",
+    "title": "MultiFit Campana di Fieno Dente di Leone",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-campana-di-fieno-dente-di-leone-18930/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283229/1298125_1.jpg?v=638161258941870000"
+    ],
+    "price": {
+      "current": 2.97,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.846153846153847,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18930",
+        "sku": "18930",
+        "gtin": "10151236",
+        "title": "125G",
+        "url": "https://www.arcaplanet.it/multifit-campana-di-fieno-dente-di-leone-18930/p",
+        "price": {
+          "current": 2.97,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 22.846153846153847,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "125G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-campana-di-fieno-dente-di-leone-18930p",
+        "name": "MultiFit Campana di Fieno Dente di Leone",
+        "path": "/multifit-campana-di-fieno-dente-di-leone-18930/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21048",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "19635",
+    "sku": "19635",
+    "gtin": "10143402",
+    "title": "MultiFit Snack per Roditori Dente di Leone",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dente-di-leone-19635/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282859/5c0e8ca026b2b256bc7384de99a5269401770008_1080065__de_DE__MultiFit_L__wenzahnwurzeln_main.jpg?v=638155917314430000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19635",
+        "sku": "19635",
+        "gtin": "10143402",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-dente-di-leone-19635/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 50.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-dente-di-leone-19635p",
+        "name": "MultiFit Snack per Roditori Dente di Leone",
+        "path": "/multifit-snack-per-roditori-dente-di-leone-19635/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21753",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "19706",
+    "sku": "19706",
+    "gtin": "10142130",
+    "title": "MultiFit Chips di Carote",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-chips-di-carote-19706/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282853/1005414-1-416x708--1-.jpg?v=638155888031370000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.900000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19706",
+        "sku": "19706",
+        "gtin": "10142130",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-chips-di-carote-19706/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 29.900000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-chips-di-carote-19706p",
+        "name": "MultiFit Chips di Carote",
+        "path": "/multifit-chips-di-carote-19706/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21824",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "16779",
+    "sku": "16779",
+    "gtin": "10150074",
+    "title": "MultiFit Snack per Roditori 500G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-500g-16779/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283226/1278151--1-.jpg?v=638161251944730000"
+    ],
+    "price": {
+      "current": 2.71,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.42,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16779",
+        "sku": "16779",
+        "gtin": "10150074",
+        "title": "GREEN LOOPS",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-500g-16779/p",
+        "price": {
+          "current": 2.71,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 5.42,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-500g-16779p",
+        "name": "MultiFit Snack per Roditori 500G",
+        "path": "/multifit-snack-per-roditori-500g-16779/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21857",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "20124",
+    "sku": "20124",
+    "gtin": "10127525",
+    "title": "Jr Farm Snack Roditori Erbe Miste",
+    "brand": "JR FARM",
+    "url": "https://www.arcaplanet.it/jr-farm-snack-roditori-erbe-miste-20124/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286773/20124.jpg?v=638215776914200000"
+    ],
+    "price": {
+      "current": 3.55,
+      "original": 3.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 35.49999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20124",
+        "sku": "20124",
+        "gtin": "10127525",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/jr-farm-snack-roditori-erbe-miste-20124/p",
+        "price": {
+          "current": 3.55,
+          "original": 3.55,
+          "pricePerUnit": {
+            "value": 35.49999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "jr-farm-snack-roditori-erbe-miste-20124p",
+        "name": "Jr Farm Snack Roditori Erbe Miste",
+        "path": "/jr-farm-snack-roditori-erbe-miste-20124/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22242",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  },
+  {
+    "id": "20135",
+    "sku": "20135",
+    "gtin": "10137652",
+    "title": "Versele Laga Snack per Roditori Complete 50G",
+    "brand": "VERSELE LAGA",
+    "url": "https://www.arcaplanet.it/versele-laga-snack-per-roditori-complete-50g-20135/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286682/1013491-416x498--1-.jpg?v=638212236459570000"
+    ],
+    "price": {
+      "current": 2.55,
+      "original": 2.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50.99999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20135",
+        "sku": "20135",
+        "gtin": "10137652",
+        "title": "ERBE",
+        "url": "https://www.arcaplanet.it/versele-laga-snack-per-roditori-complete-50g-20135/p",
+        "price": {
+          "current": 2.55,
+          "original": 2.55,
+          "pricePerUnit": {
+            "value": 50.99999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorisnack",
+        "name": "Snack",
+        "path": "/piccoli-animali/roditori/snack/",
+        "level": 4
+      },
+      {
+        "id": "versele-laga-snack-per-roditori-complete-50g-20135p",
+        "name": "Versele Laga Snack per Roditori Complete 50G",
+        "path": "/versele-laga-snack-per-roditori-complete-50g-20135/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22253",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:05:24.191Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/snack/"
+  }
+]

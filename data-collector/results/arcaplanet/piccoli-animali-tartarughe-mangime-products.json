@@ -1,0 +1,1975 @@
+[
+  {
+    "id": "1056",
+    "sku": "1056",
+    "gtin": "10109103",
+    "title": "Expecial Tartarughe Gammarus",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-tartarughe-gammarus-40g-1056/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225112/expecial-tartarughe-gammarus.jpg?v=637454749546430000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 122.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1056",
+        "sku": "1056",
+        "gtin": "10109103",
+        "title": "40G",
+        "url": "https://www.arcaplanet.it/expecial-tartarughe-gammarus-40g-1056/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 122.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "40G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-tartarughe-gammarus-40g-1056p",
+        "name": "Expecial Tartarughe Gammarus",
+        "path": "/expecial-tartarughe-gammarus-40g-1056/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "1013",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "2895",
+    "sku": "2895",
+    "gtin": "00035543",
+    "title": "Vitakraft Mangime per Rettili Carnivori",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-acquariologia-mang-turtle-rett-carn-mixed-mixed-2895/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295562/vitakraft-mangime-per-rettili-carnivori-00035543.jpg?v=638443001633700000"
+    ],
+    "price": {
+      "current": 3.35,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 167.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "2895",
+        "sku": "2895",
+        "gtin": "00035543",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/vitakraft-acquariologia-mang-turtle-rett-carn-mixed-mixed-2895/p",
+        "price": {
+          "current": 3.35,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 167.5,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-acquariologia-mang-turtle-rett-carn-mixed-mixed-2895p",
+        "name": "Vitakraft Mangime per Rettili Carnivori",
+        "path": "/vitakraft-acquariologia-mang-turtle-rett-carn-mixed-mixed-2895/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "2813",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "3716",
+    "sku": "3716",
+    "gtin": "00019723",
+    "title": "Vitakraft Mangime per Rettili Erbivori",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-acquariologia-turtle-tart-terr-e-rett-erb-3716/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295628/vitakraft-mangime-per-rettili-erbivori-00019723.jpg?v=638445597401170000"
+    ],
+    "price": {
+      "current": 3.22,
+      "original": 4.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 161,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "3716",
+        "sku": "3716",
+        "gtin": "00019723",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/vitakraft-acquariologia-turtle-tart-terr-e-rett-erb-3716/p",
+        "price": {
+          "current": 3.22,
+          "original": 4.6,
+          "pricePerUnit": {
+            "value": 161,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-acquariologia-turtle-tart-terr-e-rett-erb-3716p",
+        "name": "Vitakraft Mangime per Rettili Erbivori",
+        "path": "/vitakraft-acquariologia-turtle-tart-terr-e-rett-erb-3716/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3619",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "4255",
+    "sku": "4255",
+    "gtin": "10109104",
+    "title": "Expecial Tartarughe Gamberi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-tartarughe-gamberi-140g-4255/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225111/expecial-tartarughe-gamberi.jpg?v=637454749534370000"
+    ],
+    "price": {
+      "current": 10.9,
+      "original": 10.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 77.85714285714285,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4255",
+        "sku": "4255",
+        "gtin": "10109104",
+        "title": "140G",
+        "url": "https://www.arcaplanet.it/expecial-tartarughe-gamberi-140g-4255/p",
+        "price": {
+          "current": 10.9,
+          "original": 10.9,
+          "pricePerUnit": {
+            "value": 77.85714285714285,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "140G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-tartarughe-gamberi-140g-4255p",
+        "name": "Expecial Tartarughe Gamberi",
+        "path": "/expecial-tartarughe-gamberi-140g-4255/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4145",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "4912",
+    "sku": "4912",
+    "gtin": "10109105",
+    "title": "Expecial Tartarughe Pesciolini Essiccati",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-tartarughe-pesciolini-essiccati-230g-4912/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225114/expecial-tartarughe-pesciolini-essiccati.jpg?v=637454749558600000"
+    ],
+    "price": {
+      "current": 8.5,
+      "original": 8.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.95652173913043,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4912",
+        "sku": "4912",
+        "gtin": "10109105",
+        "title": "230G",
+        "url": "https://www.arcaplanet.it/expecial-tartarughe-pesciolini-essiccati-230g-4912/p",
+        "price": {
+          "current": 8.5,
+          "original": 8.5,
+          "pricePerUnit": {
+            "value": 36.95652173913043,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "230G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-tartarughe-pesciolini-essiccati-230g-4912p",
+        "name": "Expecial Tartarughe Pesciolini Essiccati",
+        "path": "/expecial-tartarughe-pesciolini-essiccati-230g-4912/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4793",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "5303",
+    "sku": "5303",
+    "gtin": "10109106",
+    "title": "Expecial Tartarughe Bastoncini",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-tartarughe-bastoncini-250g-5303/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225115/expecial-tartarughe-bastoncini.jpg?v=637454749564400000"
+    ],
+    "price": {
+      "current": 10.9,
+      "original": 10.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 43.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5303",
+        "sku": "5303",
+        "gtin": "10109106",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/expecial-tartarughe-bastoncini-250g-5303/p",
+        "price": {
+          "current": 10.9,
+          "original": 10.9,
+          "pricePerUnit": {
+            "value": 43.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-tartarughe-bastoncini-250g-5303p",
+        "name": "Expecial Tartarughe Bastoncini",
+        "path": "/expecial-tartarughe-bastoncini-250g-5303/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5176",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "6457",
+    "sku": "6457",
+    "gtin": "00035517",
+    "title": "Mangime Tartarughe Omnivore Granuli",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-turtle-pellets-acquariologia-turtle-pellets-10pz-100ml-6457/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295629/vitakraft-mangime-per-rettili-omivori-00035517.jpg?v=638445618499700000"
+    ],
+    "price": {
+      "current": 11.19,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.19,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6457",
+        "sku": "6457",
+        "gtin": "00035517",
+        "title": "1L",
+        "url": "https://www.arcaplanet.it/vitakraft-turtle-pellets-acquariologia-turtle-pellets-10pz-100ml-6457/p",
+        "price": {
+          "current": 11.19,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 11.19,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-turtle-pellets-acquariologia-turtle-pellets-10pz-100ml-6457p",
+        "name": "Mangime Tartarughe Omnivore Granuli",
+        "path": "/vitakraft-turtle-pellets-acquariologia-turtle-pellets-10pz-100ml-6457/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6301",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "11829",
+    "sku": "11829",
+    "gtin": "10045608",
+    "title": "Tetra Reptomin Energy",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/reptomin-energy-ml-100-pz144-11829/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225216/reptomin-energy-ml-100-pz144.jpg?v=637454750537730000"
+    ],
+    "price": {
+      "current": 2.23,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.299999999999997,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11829",
+        "sku": "11829",
+        "gtin": "10045608",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/reptomin-energy-ml-100-pz144-11829/p",
+        "price": {
+          "current": 2.23,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 22.299999999999997,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "reptomin-energy-ml-100-pz144-11829p",
+        "name": "Tetra Reptomin Energy",
+        "path": "/reptomin-energy-ml-100-pz144-11829/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11855",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "12503",
+    "sku": "12503",
+    "gtin": "00004453",
+    "title": "Tetra Gammarus",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-gammarus-gr10-100-ml-12503/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254465/Gammarus-Tetra-mangime-tartarughe.jpg?v=637551959869600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254466/Gammarus.jpg?v=637551960014200000"
+    ],
+    "price": {
+      "current": 1.81,
+      "original": 2.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 90.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12503",
+        "sku": "12503",
+        "gtin": "00004453",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/tetra-gammarus-gr10-100-ml-12503/p",
+        "price": {
+          "current": 1.81,
+          "original": 2.59,
+          "pricePerUnit": {
+            "value": 90.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-gammarus-gr10-100-ml-12503p",
+        "name": "Tetra Gammarus",
+        "path": "/tetra-gammarus-gr10-100-ml-12503/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14634",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "12954",
+    "sku": "12954",
+    "gtin": "10137804",
+    "title": "Natural Box Turtle Food",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/food-natural-box-turtlepellet-gr-283-12954/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258875/food-natural-box-turtle-pellet-283-g.jpg?v=637600296116370000"
+    ],
+    "price": {
+      "current": 6.29,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.46428571428571,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "12954",
+        "sku": "12954",
+        "gtin": "10137804",
+        "title": "283G",
+        "url": "https://www.arcaplanet.it/food-natural-box-turtlepellet-gr-283-12954/p",
+        "price": {
+          "current": 6.29,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 22.46428571428571,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "283G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "food-natural-box-turtlepellet-gr-283-12954p",
+        "name": "Natural Box Turtle Food",
+        "path": "/food-natural-box-turtlepellet-gr-283-12954/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15091",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "12959",
+    "sku": "12959",
+    "gtin": "10072398",
+    "title": "Amtra Gammarus 1000ml",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-gammarus-ml-1000-12959/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258756/amtra-gammarus-1000-ml.jpg?v=637598633209700000"
+    ],
+    "price": {
+      "current": 12.49,
+      "original": 12.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.49,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "12959",
+        "sku": "12959",
+        "gtin": "10072398",
+        "title": "1L",
+        "url": "https://www.arcaplanet.it/amtra-gammarus-ml-1000-12959/p",
+        "price": {
+          "current": 12.49,
+          "original": 12.49,
+          "pricePerUnit": {
+            "value": 12.49,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "amtra-gammarus-ml-1000-12959p",
+        "name": "Amtra Gammarus 1000ml",
+        "path": "/amtra-gammarus-ml-1000-12959/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15096",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "15426",
+    "sku": "15426",
+    "gtin": "00004436",
+    "title": "Mangime per Tartarughe di Terra",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-mangime-per-tartarughe-di-terra-15426/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272728/tetra-tortoise.jpg?v=637910467343100000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 8.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 66.55555555555556,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15426",
+        "sku": "15426",
+        "gtin": "00004436",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/tetra-mangime-per-tartarughe-di-terra-15426/p",
+        "price": {
+          "current": 5.99,
+          "original": 8.55,
+          "pricePerUnit": {
+            "value": 66.55555555555556,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "500ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "tetra-mangime-per-tartarughe-di-terra-15426p",
+        "name": "Mangime per Tartarughe di Terra",
+        "path": "/tetra-mangime-per-tartarughe-di-terra-15426/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17563",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "16620",
+    "sku": "16620",
+    "gtin": "10143262",
+    "title": "MultiFit Pellet per Tartarughe",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-pellet-per-tartarughe-16620/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282849/e4a7cc8c30ec54463e4fdbfdc839f869af1a1bfb_f06fd80616132c0ecab1391718ffb87f3c65be7f--1-.jpg?v=638155873901370000"
+    ],
+    "price": {
+      "current": 8.39,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.39,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16620",
+        "sku": "16620",
+        "gtin": "10143262",
+        "title": "1LT",
+        "url": "https://www.arcaplanet.it/multifit-pellet-per-tartarughe-16620/p",
+        "price": {
+          "current": 8.39,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 8.39,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-pellet-per-tartarughe-16620p",
+        "name": "MultiFit Pellet per Tartarughe",
+        "path": "/multifit-pellet-per-tartarughe-16620/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18740",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "16906",
+    "sku": "16906",
+    "gtin": "10141996",
+    "title": "MultiFit Mangime per Tartarughe Naturale",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-tartarughe-naturale-16906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283371/f17170525f33042b68fc0a90278c9791d7fec70e_6b4df689b727b1db59029be378e13beaecd2b6b8--1-.jpg?v=638162881876700000"
+    ],
+    "price": {
+      "current": 7.73,
+      "original": 11.05,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.73,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16906",
+        "sku": "16906",
+        "gtin": "10141996",
+        "title": "1L",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-tartarughe-naturale-16906/p",
+        "price": {
+          "current": 7.73,
+          "original": 11.05,
+          "pricePerUnit": {
+            "value": 7.73,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-tartarughe-naturale-16906p",
+        "name": "MultiFit Mangime per Tartarughe Naturale",
+        "path": "/multifit-mangime-per-tartarughe-naturale-16906/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21736",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "19786",
+    "sku": "19786",
+    "gtin": "10143261",
+    "title": "MultiFit Sticks per Tartarughe",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sticks-per-tartarughe-19786/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283374/136b638c7655e2f267811f2d0448fdaacc6cefcc_6dac2b28ed700924644f2d2373a6df4cd602d949--1-.jpg?v=638162927106900000"
+    ],
+    "price": {
+      "current": 8.43,
+      "original": 12.05,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.43,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19786",
+        "sku": "19786",
+        "gtin": "10143261",
+        "title": "1LT",
+        "url": "https://www.arcaplanet.it/multifit-sticks-per-tartarughe-19786/p",
+        "price": {
+          "current": 8.43,
+          "original": 12.05,
+          "pricePerUnit": {
+            "value": 8.43,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sticks-per-tartarughe-19786p",
+        "name": "MultiFit Sticks per Tartarughe",
+        "path": "/multifit-sticks-per-tartarughe-19786/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21904",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22453",
+    "sku": "22453",
+    "gtin": "10170026",
+    "title": "In The Nature Tartarughe Onnivore Stick",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-onnivore-stick-22453/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291774/In-The-Nature-Tartarughe-Onnivore-Stick-10170026.jpg?v=638354672007500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291775/In-The-Nature-Tartarughe-Onnivore-Stick-10170026..jpg?v=638354675960600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291777/In-The-Nature-Tartarughe-Onnivore-Stick-10170026.jpg?v=638354676045630000"
+    ],
+    "price": {
+      "current": 3.59,
+      "original": 3.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 51.28571428571428,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22453",
+        "sku": "22453",
+        "gtin": "10170026",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-onnivore-stick-22453/p",
+        "price": {
+          "current": 3.59,
+          "original": 3.59,
+          "pricePerUnit": {
+            "value": 51.28571428571428,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-onnivore-stick-22453p",
+        "name": "In The Nature Tartarughe Onnivore Stick",
+        "path": "/in-the-nature-tartarughe-onnivore-stick-22453/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24510",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22455",
+    "sku": "22455",
+    "gtin": "10170030",
+    "title": "In The Nature Tartarughe Mix Pesciolini e Gamberi",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-mix-pesciolini-gamberi-22455/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291787/In-The-Nature-Tartarughe-Mix-Pesciolini-e-Gamberi-10170030.jpg?v=638354734850100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291788/In-The-Nature-Tartarughe-Mix-Pesciolini-e-Gamberi-10170030..jpg?v=638354735138070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291789/In-The-Nature-Tartarughe-Mix-Pesciolini-e-Gamberi-10170030.jpg?v=638354735228770000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 63.26666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22455",
+        "sku": "22455",
+        "gtin": "10170030",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-mix-pesciolini-gamberi-22455/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.49,
+          "pricePerUnit": {
+            "value": 63.26666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-mix-pesciolini-gamberi-22455p",
+        "name": "In The Nature Tartarughe Mix Pesciolini e Gamberi",
+        "path": "/in-the-nature-tartarughe-mix-pesciolini-gamberi-22455/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24512",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22454",
+    "sku": "22454",
+    "gtin": "10170029",
+    "title": "In The Nature Tartarughe Mini Gamberetti",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-mini-gamberetti-22454/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291784/In-The-Nature-Tartarughe-Onnivore-Gamberetti-10170029.jpg?v=638354713933200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291785/In-The-Nature-Tartarughe-Onnivore-Gamberetti-10170029..jpg?v=638354714141030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291786/In-The-Nature-Tartarughe-Onnivore-Gamberetti-10170029.jpg?v=638354714281900000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 59.93333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22454",
+        "sku": "22454",
+        "gtin": "10170029",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-mini-gamberetti-22454/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 59.93333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-mini-gamberetti-22454p",
+        "name": "In The Nature Tartarughe Mini Gamberetti",
+        "path": "/in-the-nature-tartarughe-mini-gamberetti-22454/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24513",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22458",
+    "sku": "22458",
+    "gtin": "10170031",
+    "title": "In The Nature Tartarughe Terrestri Stick",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-terrestri-stick-22458/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291790/In-The-Nature-Tartarughe-Terrestri-Stick-10170031.jpg?v=638354783372770000"
+    ],
+    "price": {
+      "current": 13.59,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.650000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22458",
+        "sku": "22458",
+        "gtin": "10170031",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-terrestri-stick-22458/p",
+        "price": {
+          "current": 13.59,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 22.650000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-terrestri-stick-22458p",
+        "name": "In The Nature Tartarughe Terrestri Stick",
+        "path": "/in-the-nature-tartarughe-terrestri-stick-22458/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24515",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22459",
+    "sku": "22459",
+    "gtin": "10170025",
+    "title": "In The Nature Tartarughe Carnivore Fiocchi",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-carnivore-fiocchi-22459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291773/In-The-Nature-Tartarughe-Carnivore-Fiocchi-10170025.jpg?v=638354633699800000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 69.89999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22459",
+        "sku": "22459",
+        "gtin": "10170025",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-carnivore-fiocchi-22459/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 69.89999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-carnivore-fiocchi-22459p",
+        "name": "In The Nature Tartarughe Carnivore Fiocchi",
+        "path": "/in-the-nature-tartarughe-carnivore-fiocchi-22459/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24516",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  },
+  {
+    "id": "22460",
+    "sku": "22460",
+    "gtin": "10170024",
+    "title": "In The Nature Tartarughe Junior Stick",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-junior-stick-22460/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291770/In-The-Nature-Tartarughe-Junior-Stick-10170024.jpg?v=638354597989200000"
+    ],
+    "price": {
+      "current": 2.49,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 83.00000000000001,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22460",
+        "sku": "22460",
+        "gtin": "10170024",
+        "title": "28G",
+        "url": "https://www.arcaplanet.it/in-the-nature-tartarughe-junior-stick-22460/p",
+        "price": {
+          "current": 2.49,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 83.00000000000001,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalitartarughe",
+        "name": "Tartarughe",
+        "path": "/piccoli-animali/tartarughe/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalitartarughemangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/tartarughe/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-tartarughe-junior-stick-22460p",
+        "name": "In The Nature Tartarughe Junior Stick",
+        "path": "/in-the-nature-tartarughe-junior-stick-22460/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24517",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:19:26.592Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/tartarughe/mangime/"
+  }
+]

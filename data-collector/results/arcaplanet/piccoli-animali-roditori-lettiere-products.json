@@ -1,0 +1,3378 @@
+[
+  {
+    "id": "6781",
+    "sku": "6781",
+    "gtin": "10110299",
+    "title": "Expecial Lettiera Abete Lemon",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-lettiera-abete-lemon-piccoli-animali-6781/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206404/Expecial-lettiera-piccoli-animali-Abete-Lemon.jpg?v=637413941361970000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.99,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6781",
+        "sku": "6781",
+        "gtin": "10110299",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/expecial-lettiera-abete-lemon-piccoli-animali-6781/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 2.99,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "expecial-lettiera-abete-lemon-piccoli-animali-6781p",
+        "name": "Expecial Lettiera Abete Lemon",
+        "path": "/expecial-lettiera-abete-lemon-piccoli-animali-6781/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6622",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "6862",
+    "sku": "6862",
+    "gtin": "10110297",
+    "title": "Expecial Lettiera Abete Classic",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-lettiera-abete-classic-piccoli-animali-lettiera-6862/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254338/expecial-lettiera-abete-classic-1kg.jpg?v=637547718543300000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.99,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6862",
+        "sku": "6862",
+        "gtin": "10110297",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/expecial-lettiera-abete-classic-piccoli-animali-lettiera-6862/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 2.99,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "expecial-lettiera-abete-classic-piccoli-animali-lettiera-6862p",
+        "name": "Expecial Lettiera Abete Classic",
+        "path": "/expecial-lettiera-abete-classic-piccoli-animali-lettiera-6862/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6703",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "7044",
+    "sku": "7044",
+    "gtin": "00004552",
+    "title": "Vitakraft Sandy Sabbia Chinchilla",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-uccelli-sandy-sabbia-chinchilla-kg-1-7044/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280654/vitakraft-sabbia-sandy-per-cincilla.jpg?v=638116228242300000"
+    ],
+    "price": {
+      "current": 5.6,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6,
+        "unit": "litro"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7044",
+        "sku": "7044",
+        "gtin": "00004552",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/vitakraft-uccelli-sandy-sabbia-chinchilla-kg-1-7044/p",
+        "price": {
+          "current": 5.6,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 5.6,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-uccelli-sandy-sabbia-chinchilla-kg-1-7044p",
+        "name": "Vitakraft Sandy Sabbia Chinchilla",
+        "path": "/vitakraft-uccelli-sandy-sabbia-chinchilla-kg-1-7044/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6884",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "8243",
+    "sku": "8243",
+    "gtin": "10129317",
+    "title": "Expecial Piccoli Animali Lettiera Paglia",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-piccoli-animali-lettiera-paglia-4kg-8243/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206403/Expecial-lettiera-in-paglia-piccoli-animali-4kg.jpg?v=637413941332400000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.2475,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8243",
+        "sku": "8243",
+        "gtin": "10129317",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/expecial-piccoli-animali-lettiera-paglia-4kg-8243/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 2.2475,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "expecial-piccoli-animali-lettiera-paglia-4kg-8243p",
+        "name": "Expecial Piccoli Animali Lettiera Paglia",
+        "path": "/expecial-piccoli-animali-lettiera-paglia-4kg-8243/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8070",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "8319",
+    "sku": "8319",
+    "gtin": "10110301",
+    "title": "Expecial Mais Lemon Piccoli Animali Lettiera",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-mais-lemon-piccoli-animali-lettiera-10l-8319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/206405/Expecial-Mais-Lemon-lettiera-vegetale-per-piccoli-animali-10-l.jpg?v=637413941373870000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1001001001001,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "8319",
+        "sku": "8319",
+        "gtin": "10110301",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/expecial-mais-lemon-piccoli-animali-lettiera-10l-8319/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 1.1001001001001,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "expecial-mais-lemon-piccoli-animali-lettiera-10l-8319p",
+        "name": "Expecial Mais Lemon Piccoli Animali Lettiera",
+        "path": "/expecial-mais-lemon-piccoli-animali-lettiera-10l-8319/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8146",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "9553",
+    "sku": "9553",
+    "gtin": "10065758",
+    "title": "Cincilla' Sabbia Poof Blue Cloud",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-cincilla--sabbia-poof-blue-cloud-1-136kg-9553/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221397/oxbow-cincilla--sabbia-poof-blue-cloud.jpg?v=637454710927400000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.640350877192983,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "9553",
+        "sku": "9553",
+        "gtin": "10065758",
+        "title": "1.136KG",
+        "url": "https://www.arcaplanet.it/oxbow-cincilla--sabbia-poof-blue-cloud-1-136kg-9553/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 9.640350877192983,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-cincilla--sabbia-poof-blue-cloud-1-136kg-9553p",
+        "name": "Cincilla' Sabbia Poof Blue Cloud",
+        "path": "/oxbow-cincilla--sabbia-poof-blue-cloud-1-136kg-9553/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "11810",
+    "sku": "11810",
+    "gtin": "00008716",
+    "title": "Woody Litter 10 lt",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/woody-litter-lt--10-11810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252608/padovan-woody-litter-vlmr3.jpg?v=637477065376870000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.7219827586206897,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11810",
+        "sku": "11810",
+        "gtin": "00008716",
+        "title": "10L",
+        "url": "https://www.arcaplanet.it/woody-litter-lt--10-11810/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 1.7219827586206897,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "woody-litter-lt--10-11810p",
+        "name": "Woody Litter 10 lt",
+        "path": "/woody-litter-lt--10-11810/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11836",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "12023",
+    "sku": "12023",
+    "gtin": "00008718",
+    "title": "Padovan sandy litter",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/sandy-litter-kg-4-padovan-12023/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284497/sandy-litter-kg-4-padovan.jpg?v=638181768534100000"
+    ],
+    "price": {
+      "current": 4.15,
+      "original": 4.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.0401002506265664,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12023",
+        "sku": "12023",
+        "gtin": "00008718",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/sandy-litter-kg-4-padovan-12023/p",
+        "price": {
+          "current": 4.15,
+          "original": 4.15,
+          "pricePerUnit": {
+            "value": 1.0401002506265664,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "sandy-litter-kg-4-padovan-12023p",
+        "name": "Padovan sandy litter",
+        "path": "/sandy-litter-kg-4-padovan-12023/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13379",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "14153",
+    "sku": "14153",
+    "gtin": "10139967",
+    "title": "Vegetal Clean Corn",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-vegetal-clean-corn-14153/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268977/vitakraft-lettiera-vegetale-8l.jpg?v=637822617023400000"
+    ],
+    "price": {
+      "current": 9.1,
+      "original": 9.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.1403508771929824,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14153",
+        "sku": "14153",
+        "gtin": "10139967",
+        "title": "8L",
+        "url": "https://www.arcaplanet.it/vitakraft-vegetal-clean-corn-14153/p",
+        "price": {
+          "current": 9.1,
+          "original": 9.1,
+          "pricePerUnit": {
+            "value": 1.1403508771929824,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-vegetal-clean-corn-14153p",
+        "name": "Vegetal Clean Corn",
+        "path": "/vitakraft-vegetal-clean-corn-14153/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16290",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16432",
+    "sku": "16432",
+    "gtin": "10142110",
+    "title": "Fit and Fun Lettiera Roditori Truciolo in Legno",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-truciolo-in-legno-16432/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286820/cf9cda18d08f3e2d2b58c06806d11ae18f9ed177_d3ac99bc0be17e98dc961345e6dfa15831728e3e--1-.jpg?v=638217213176070000"
+    ],
+    "price": {
+      "current": 5.09,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.08497495826377295,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16432",
+        "sku": "16432",
+        "gtin": "10142110",
+        "title": "60L",
+        "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-truciolo-in-legno-16432/p",
+        "price": {
+          "current": 5.09,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 0.08497495826377295,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditorilettierevegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/roditori/lettiere/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-lettiera-truciolo-in-legno-16432p",
+        "name": "Fit and Fun Lettiera Roditori Truciolo in Legno",
+        "path": "/fit-and-fun-lettiera-truciolo-in-legno-16432/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18561",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16486",
+    "sku": "16486",
+    "gtin": "10141972",
+    "title": "MultiFit Lettiera Pellet in Paglia",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-pellet-in-paglia-16486/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284748/multifit-lettiera-pellet-in-paglia-24kg.jpg?v=638186975273470000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.7055647840531561,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16486",
+        "sku": "16486",
+        "gtin": "10141972",
+        "title": "24KG",
+        "url": "https://www.arcaplanet.it/lettiera-pellet-in-paglia-16486/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 0.7055647840531561,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-pellet-in-paglia-16486p",
+        "name": "MultiFit Lettiera Pellet in Paglia",
+        "path": "/lettiera-pellet-in-paglia-16486/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18612",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16523",
+    "sku": "16523",
+    "gtin": "10142058",
+    "title": "Lettiera Truciolo Legno",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-truciolo-legno-16523/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281045/a70ea6859053702df103caa9a775d11be0c45156_fb9aa28a31464384243577b5ae541e06b1d2a331--1-.jpg?v=638124179629270000"
+    ],
+    "price": {
+      "current": 5.09,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.09346309217774514,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16523",
+        "sku": "16523",
+        "gtin": "10142058",
+        "title": "56L",
+        "url": "https://www.arcaplanet.it/lettiera-truciolo-legno-16523/p",
+        "price": {
+          "current": 5.09,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 0.09346309217774514,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "57ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-truciolo-legno-16523p",
+        "name": "Lettiera Truciolo Legno",
+        "path": "/lettiera-truciolo-legno-16523/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18646",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.306Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16561",
+    "sku": "16561",
+    "gtin": "10142117",
+    "title": "MultiFit Lettiera in Legno Naturale",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-in-legno-naturale-20l-16561/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278853/multifit-lettiera-legno-naturale.jpg?v=638094727359730000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2263636363636363,
+        "unit": "litro"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16561",
+        "sku": "16561",
+        "gtin": "10142117",
+        "title": "11KG",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-in-legno-naturale-20l-16561/p",
+        "price": {
+          "current": 13.49,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 1.2263636363636363,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "11KG",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-in-legno-naturale-20l-16561p",
+        "name": "MultiFit Lettiera in Legno Naturale",
+        "path": "/multifit-lettiera-in-legno-naturale-20l-16561/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18684",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16577",
+    "sku": "16577",
+    "gtin": "10142171",
+    "title": "Lettiera Pellet Legno",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-pellet-legno-16577/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281047/97d47ce0fdb4d9427eb3388c0d1da2bc7902daf3_d4288ae7ea20a35044726466a7a16e4e9f877777--1-.jpg?v=638124183208730000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.043181818181818,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16577",
+        "sku": "16577",
+        "gtin": "10142171",
+        "title": "4.4KG",
+        "url": "https://www.arcaplanet.it/lettiera-pellet-legno-16577/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 2.043181818181818,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-pellet-legno-16577p",
+        "name": "Lettiera Pellet Legno",
+        "path": "/lettiera-pellet-legno-16577/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18698",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16622",
+    "sku": "16622",
+    "gtin": "10142293",
+    "title": "Lettiera Fibra Canapa",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-fibra-canapa-16622/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281048/ebc9d2567aaf6618db149f5372c7b27669495588_0ff26ace65d7cb8e001eb843f59047ebc887c493.jpg?v=638124185177300000"
+    ],
+    "price": {
+      "current": 11.04,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.36544190665342596,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16622",
+        "sku": "16622",
+        "gtin": "10142293",
+        "title": "30L",
+        "url": "https://www.arcaplanet.it/lettiera-fibra-canapa-16622/p",
+        "price": {
+          "current": 11.04,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 0.36544190665342596,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-fibra-canapa-16622p",
+        "name": "Lettiera Fibra Canapa",
+        "path": "/lettiera-fibra-canapa-16622/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18742",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16578",
+    "sku": "16578",
+    "gtin": "10142572",
+    "title": "Fit and Fun Lettiera Roditori in Paglia Naturale",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-in-paglia-naturale-16578/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286633/e4d85e182d660ab7164e416097c6db95418814b0_5ef424fa6a62a6aae697703e6480d406c46768cf--1-.jpg?v=638211349151330000"
+    ],
+    "price": {
+      "current": 10.19,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.5475,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16578",
+        "sku": "16578",
+        "gtin": "10142572",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/fit-and-fun-lettiera-in-paglia-naturale-16578/p",
+        "price": {
+          "current": 10.19,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 2.5475,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-lettiera-in-paglia-naturale-16578p",
+        "name": "Fit and Fun Lettiera Roditori in Paglia Naturale",
+        "path": "/fit-and-fun-lettiera-in-paglia-naturale-16578/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18777",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16660",
+    "sku": "16660",
+    "gtin": "10142555",
+    "title": "Lettiera Paglia Naturale",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-paglia-naturale-16660/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281051/c38f3fe6750b24d01364d8b3e7ce9dd376e6d839_bc4ace51677f9dca1f21c42d345e3d2c6170184b--2-.jpg?v=638124191932430000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.993333333333333,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16660",
+        "sku": "16660",
+        "gtin": "10142555",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/lettiera-paglia-naturale-16660/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 5.993333333333333,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-paglia-naturale-16660p",
+        "name": "Lettiera Paglia Naturale",
+        "path": "/lettiera-paglia-naturale-16660/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18780",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16705",
+    "sku": "16705",
+    "gtin": "10150440",
+    "title": "Real Nature Lettiera Roditori Mix Erbe Foresta",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-mix-erbe-foresta-16705/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281431/real-nature-lettiera-roditori-mix-erbe-foresta-500g.jpg?v=638128263630930000"
+    ],
+    "price": {
+      "current": 6.39,
+      "original": 6.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.78,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16705",
+        "sku": "16705",
+        "gtin": "10150440",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-mix-erbe-foresta-16705/p",
+        "price": {
+          "current": 6.39,
+          "original": 6.39,
+          "pricePerUnit": {
+            "value": 12.78,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditorilettierevegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/roditori/lettiere/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "real-nature-lettiera-roditori-mix-erbe-foresta-16705p",
+        "name": "Real Nature Lettiera Roditori Mix Erbe Foresta",
+        "path": "/real-nature-lettiera-roditori-mix-erbe-foresta-16705/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18823",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16711",
+    "sku": "16711",
+    "gtin": "10151779",
+    "title": "Real Nature Lettiera Roditori Paglia Supersoft",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-supersoft-16711/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318018/real-nature-lettiera-roditori-paglia-supersoft-10151779.jpg.jpg?v=638766988476570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318019/real-nature-lettiera-roditori-paglia-supersoft-8kg.jpg?v=638766988476730000"
+    ],
+    "price": {
+      "current": 12.89,
+      "original": 12.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6092384519350813,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16711",
+        "sku": "16711",
+        "gtin": "10151779",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-supersoft-16711/p",
+        "price": {
+          "current": 12.89,
+          "original": 12.89,
+          "pricePerUnit": {
+            "value": 1.6092384519350813,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-lettiera-roditori-paglia-supersoft-16711p",
+        "name": "Real Nature Lettiera Roditori Paglia Supersoft",
+        "path": "/real-nature-lettiera-roditori-paglia-supersoft-16711/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18829",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16591",
+    "sku": "16591",
+    "gtin": "10150426",
+    "title": "Lettiera Legno di Faggio",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-legno-di-faggio-16591/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281054/059a43cd762af12be2a8d354a8854b2603b1a01b_9cd4a70873e0854130f7157ecc47a966fd323fae--1-.jpg?v=638124197205830000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.749,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16591",
+        "sku": "16591",
+        "gtin": "10150426",
+        "title": "2.4KG",
+        "url": "https://www.arcaplanet.it/lettiera-legno-di-faggio-16591/p",
+        "price": {
+          "current": 7.49,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 0.749,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "2.4KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-legno-di-faggio-16591p",
+        "name": "Lettiera Legno di Faggio",
+        "path": "/lettiera-legno-di-faggio-16591/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18964",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16878",
+    "sku": "16878",
+    "gtin": "10152973",
+    "title": "Lettiera per Roditori Plus",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/lettiera-per-roditori-plus-16878/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281055/77c621a52658354af1f78bbe37fe4c05fdb5958c_d0dd4e6e2806bec2d45678687fb3580d1eb29560--1-.jpg?v=638124200312070000"
+    ],
+    "price": {
+      "current": 6.2,
+      "original": 7.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.066666666666667,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16878",
+        "sku": "16878",
+        "gtin": "10152973",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/lettiera-per-roditori-plus-16878/p",
+        "price": {
+          "current": 6.2,
+          "original": 7.29,
+          "pricePerUnit": {
+            "value": 2.066666666666667,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-per-roditori-plus-16878p",
+        "name": "Lettiera per Roditori Plus",
+        "path": "/lettiera-per-roditori-plus-16878/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18996",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16901",
+    "sku": "16901",
+    "gtin": "10141491",
+    "title": "MultiFit Lettiera per Roditori Heather Park",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-heather-park-16901/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281279/934d848f8cd8df6bd77dc3f6bdf567937464388c_5e3d81ce9d8ebf8a8185d968fc07d8c97ee666d8.jpg?v=638127496415430000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.82,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16901",
+        "sku": "16901",
+        "gtin": "10141491",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-heather-park-16901/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 3.82,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-per-roditori-heather-park-16901p",
+        "name": "MultiFit Lettiera per Roditori Heather Park",
+        "path": "/multifit-lettiera-per-roditori-heather-park-16901/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19019",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16904",
+    "sku": "16904",
+    "gtin": "10141492",
+    "title": "MultiFit Lettiera per Roditori Foresta",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-foresta-16904/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281280/5593644c880022cf3e3ff1bd1866331586d5e2cc_9d62805c2249b287960094586c857ab04419449c--1-.jpg?v=638127499367970000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.38276553106212424,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16904",
+        "sku": "16904",
+        "gtin": "10141492",
+        "title": "10LT",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-foresta-16904/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 0.38276553106212424,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-per-roditori-foresta-16904p",
+        "name": "MultiFit Lettiera per Roditori Foresta",
+        "path": "/multifit-lettiera-per-roditori-foresta-16904/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19022",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16934",
+    "sku": "16934",
+    "gtin": "10141490",
+    "title": "MultiFit Lettiera per Roditori Giardino delle Erbe",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-giardino-delle-erbe-16934/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281278/1a955799da938840e41b0d066dbdb000d09a8223_1c16fa48a25fa25bbe31cb2d65ad69d02026f5c7--1-.jpg?v=638127492854870000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.38276553106212424,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16934",
+        "sku": "16934",
+        "gtin": "10141490",
+        "title": "10LT",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-giardino-delle-erbe-16934/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 0.38276553106212424,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "10L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-per-roditori-giardino-delle-erbe-16934p",
+        "name": "MultiFit Lettiera per Roditori Giardino delle Erbe",
+        "path": "/multifit-lettiera-per-roditori-giardino-delle-erbe-16934/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19052",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17011",
+    "sku": "17011",
+    "gtin": "10148517",
+    "title": "Real Nature Lettiera Roditori Pellet Farro",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-pellet-farro-17011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318027/real-nature-lettiera-roditori-pellet-farro-10148517.jpg.jpg?v=638767593094500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318028/real-nature-lettiera-roditori-pellet-farro-8kg.jpg?v=638767593094730000"
+    ],
+    "price": {
+      "current": 12.89,
+      "original": 12.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.6092384519350813,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17011",
+        "sku": "17011",
+        "gtin": "10148517",
+        "title": "8KG",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-pellet-farro-17011/p",
+        "price": {
+          "current": 12.89,
+          "original": 12.89,
+          "pricePerUnit": {
+            "value": 1.6092384519350813,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-lettiera-roditori-pellet-farro-17011p",
+        "name": "Real Nature Lettiera Roditori Pellet Farro",
+        "path": "/real-nature-lettiera-roditori-pellet-farro-17011/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19129",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17027",
+    "sku": "17027",
+    "gtin": "10142298",
+    "title": "Fibre di Canapa",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-in-fibre-di-canapa-17027/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276719/MultiFit-Lettiera-in-Fibre-di-Canapa-.jpg?v=638036089271930000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 2.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 55.8,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17027",
+        "sku": "17027",
+        "gtin": "10142298",
+        "title": "50GR",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-in-fibre-di-canapa-17027/p",
+        "price": {
+          "current": 2.79,
+          "original": 2.79,
+          "pricePerUnit": {
+            "value": 55.8,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-in-fibre-di-canapa-17027p",
+        "name": "Fibre di Canapa",
+        "path": "/multifit-lettiera-in-fibre-di-canapa-17027/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19145",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17310",
+    "sku": "17310",
+    "gtin": "10142596",
+    "title": "MultiFit Lettiera per Roditori Forest Land",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-forest-land-17310/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281277/603699c5758aff75781ed8d15707ee1f013e8ec8_709804d24a51c698503eedb26e2f03f49097fc96.jpg?v=638127490036070000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.6001001001001001,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17310",
+        "sku": "17310",
+        "gtin": "10142596",
+        "title": "20LT",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-forest-land-17310/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 0.6001001001001001,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "20L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-per-roditori-forest-land-17310p",
+        "name": "MultiFit Lettiera per Roditori Forest Land",
+        "path": "/multifit-lettiera-per-roditori-forest-land-17310/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19428",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17327",
+    "sku": "17327",
+    "gtin": "10143248",
+    "title": "MulitiFit Lettiera per Roditori in Cotone",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/mulitifit-lettiera-per-roditori-in-cotone-17327/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281276/809c497bb23692e0bc42bab2d9e6cc53251907e6_f3c4da47da0fd4851676160b4fd760e636674040--1-.jpg?v=638127487289270000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.45056403450564037,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17327",
+        "sku": "17327",
+        "gtin": "10143248",
+        "title": "15LT",
+        "url": "https://www.arcaplanet.it/mulitifit-lettiera-per-roditori-in-cotone-17327/p",
+        "price": {
+          "current": 6.79,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 0.45056403450564037,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "15L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "mulitifit-lettiera-per-roditori-in-cotone-17327p",
+        "name": "MulitiFit Lettiera per Roditori in Cotone",
+        "path": "/mulitifit-lettiera-per-roditori-in-cotone-17327/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19445",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17333",
+    "sku": "17333",
+    "gtin": "10151601",
+    "title": "MultiFit Lettiera per Roditori Asia Garden",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-asia-garden-17333/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281275/b01e29490887c0c2e1c670bd5438cbe21b73ffe7_a31b7903eb4e23b994b9dbeeb469e1defef5f61c--1-.jpg?v=638127482964870000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.252631578947369,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17333",
+        "sku": "17333",
+        "gtin": "10151601",
+        "title": "950G",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-roditori-asia-garden-17333/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 5.252631578947369,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "950G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-lettiera-per-roditori-asia-garden-17333p",
+        "name": "MultiFit Lettiera per Roditori Asia Garden",
+        "path": "/multifit-lettiera-per-roditori-asia-garden-17333/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19451",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "17501",
+    "sku": "17501",
+    "gtin": "10152991",
+    "title": "Real Nature Lettiera Roditori Paglia Corta",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-corta-17501/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281428/real-nature-lettiera-roditori-paglia-corta-1kg.jpg?v=638128246114970000"
+    ],
+    "price": {
+      "current": 7.45,
+      "original": 7.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.45,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17501",
+        "sku": "17501",
+        "gtin": "10152991",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-corta-17501/p",
+        "price": {
+          "current": 7.45,
+          "original": 7.45,
+          "pricePerUnit": {
+            "value": 7.45,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "activeSubscriptions": "primo-test-autoship"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-lettiera-roditori-paglia-corta-17501p",
+        "name": "Real Nature Lettiera Roditori Paglia Corta",
+        "path": "/real-nature-lettiera-roditori-paglia-corta-17501/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19619",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16621",
+    "sku": "16621",
+    "gtin": "10142678",
+    "title": "MultiFit Sabbia per Chinchilla",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-chinchilla-16621/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281285/6cda1d21a5996373ca65eb4ad818712f16e2faec_25fe5f0f5ce89cf9ef348f1531797bf2dd4c44f4.jpg?v=638127509493930000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.998,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16621",
+        "sku": "16621",
+        "gtin": "10142678",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-chinchilla-16621/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 2.998,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sabbia-per-chinchilla-16621p",
+        "name": "MultiFit Sabbia per Chinchilla",
+        "path": "/multifit-sabbia-per-chinchilla-16621/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19775",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "16773",
+    "sku": "16773",
+    "gtin": "10148508",
+    "title": "Real Nature Lettiera Roditori Paglia Dorata",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-dorata-16773/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281430/real-nature-lettiera-roditori-paglia-dorata-1kg.jpg?v=638128257075530000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.79,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16773",
+        "sku": "16773",
+        "gtin": "10148508",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-paglia-dorata-16773/p",
+        "price": {
+          "current": 6.79,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 6.79,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-lettiera-roditori-paglia-dorata-16773p",
+        "name": "Real Nature Lettiera Roditori Paglia Dorata",
+        "path": "/real-nature-lettiera-roditori-paglia-dorata-16773/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20044",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "19825",
+    "sku": "19825",
+    "gtin": "10150080",
+    "title": "Real Nature Lettiera Roditori Lino",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-lino-19825/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281434/real-nature-lettiera-roditori-lino-30l.jpg?v=638128296174270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281435/real-nature-lettiera-roditori-lino-30l.jpg?v=638767604865630000"
+    ],
+    "price": {
+      "current": 13.59,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.450447464368578,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "19825",
+        "sku": "19825",
+        "gtin": "10150080",
+        "title": "30L",
+        "url": "https://www.arcaplanet.it/real-nature-lettiera-roditori-lino-19825/p",
+        "price": {
+          "current": 13.59,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 0.450447464368578,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "30L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-lettiera-roditori-lino-19825p",
+        "name": "Real Nature Lettiera Roditori Lino",
+        "path": "/real-nature-lettiera-roditori-lino-19825/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21943",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "20687",
+    "sku": "20687",
+    "gtin": "10166273",
+    "title": "Feeling Good Lettiera per Roditori Fiocchi",
+    "brand": "FEELING GOOD",
+    "url": "https://www.arcaplanet.it/feeling-good-lettiera-per-roditori-fiocchi-20687/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284419/FELLING-GOOD-FIOCCHI-DI-CARTA--1-.jpg?v=638179383762430000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.737499999999999,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20687",
+        "sku": "20687",
+        "gtin": "10166273",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/feeling-good-lettiera-per-roditori-fiocchi-20687/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 8.737499999999999,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "feeling-good-lettiera-per-roditori-fiocchi-20687p",
+        "name": "Feeling Good Lettiera per Roditori Fiocchi",
+        "path": "/feeling-good-lettiera-per-roditori-fiocchi-20687/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22805",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "21891",
+    "sku": "21891",
+    "gtin": "10154807",
+    "title": "MultiFit Sabbia per Roditori",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-roditori-21891/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288093/c1596ec11f647ddd74a6999a551bf2b200104b68_7a07c0c722b54ec304617a29e3802b0cbcb97b19--1-.jpg?v=638240617986530000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21891",
+        "sku": "21891",
+        "gtin": "10154807",
+        "title": "8LT",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-roditori-21891/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "8L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "multifit-sabbia-per-roditori-21891p",
+        "name": "MultiFit Sabbia per Roditori",
+        "path": "/multifit-sabbia-per-roditori-21891/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23979",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  },
+  {
+    "id": "23529",
+    "sku": "23529",
+    "gtin": "10058925",
+    "title": "Zolux Lettiera Chambiose",
+    "brand": "ZOLUX",
+    "url": "https://www.arcaplanet.it/zolux-lettiera-chambiose-23529/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/297350/Zolux-Lettiera-Chambiose-10058925.jpg?v=638467035751400000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.99,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23529",
+        "sku": "23529",
+        "gtin": "10058925",
+        "title": "10LT",
+        "url": "https://www.arcaplanet.it/zolux-lettiera-chambiose-23529/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 4.99,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorilettiere",
+        "name": "Lettiere",
+        "path": "/piccoli-animali/roditori/lettiere/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliroditorilettierevegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/roditori/lettiere/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "zolux-lettiera-chambiose-23529p",
+        "name": "Zolux Lettiera Chambiose",
+        "path": "/zolux-lettiera-chambiose-23529/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25540",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:06:18.307Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/lettiere/"
+  }
+]

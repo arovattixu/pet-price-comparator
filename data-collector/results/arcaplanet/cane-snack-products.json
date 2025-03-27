@@ -1,0 +1,3815 @@
+[
+  {
+    "id": "870",
+    "sku": "870",
+    "gtin": "10118186",
+    "title": "Hi Duck Dog Pure Fillet",
+    "brand": "HI DUCK",
+    "url": "https://www.arcaplanet.it/hi-duck-dog-pure-fillet-anatra-25g-870/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252481/filetti-cane-HI-DUCK-25g_tr.jpg?v=637467372512300000"
+    ],
+    "price": {
+      "current": 1.69,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 56.333333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "870",
+        "sku": "870",
+        "gtin": "10118186",
+        "title": "25G",
+        "url": "https://www.arcaplanet.it/hi-duck-dog-pure-fillet-anatra-25g-870/p",
+        "price": {
+          "current": 1.69,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 56.333333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "ANATRA",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "hi-duck-dog-pure-fillet-anatra-25g-870p",
+        "name": "Hi Duck Dog Pure Fillet",
+        "path": "/hi-duck-dog-pure-fillet-anatra-25g-870/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "828",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "1863",
+    "sku": "1863",
+    "gtin": "10078579",
+    "title": "Hi Chicken Snack Dog Bastoncini Arrotolati con Pollo 70G",
+    "brand": "HI CHICKEN",
+    "url": "https://www.arcaplanet.it/hi-chicken-cane-snack-bastoncini-pollo-70g-1863/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225222/hi-chicken-cane-snack-bastoncini-pollo.jpg?v=637454750597930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270098/hi-chicken-dog-bastoncini-arrotolati-con-pollo-componenti-analitici-.jpg?v=637842248466030000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42.714285714285715,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1863",
+        "sku": "1863",
+        "gtin": "10078579",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/hi-chicken-cane-snack-bastoncini-pollo-70g-1863/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 42.714285714285715,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-chicken-cane-snack-bastoncini-pollo-70g-1863p",
+        "name": "Hi Chicken Snack Dog Bastoncini Arrotolati con Pollo 70G",
+        "path": "/hi-chicken-cane-snack-bastoncini-pollo-70g-1863/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "1792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "1864",
+    "sku": "1864",
+    "gtin": "10078577",
+    "title": "Hi Fish Snack Dog Bastoncini Arrotolati con Pesce 70G",
+    "brand": "HI FISH",
+    "url": "https://www.arcaplanet.it/hi-fish-cane-snack-bastoncini-pesce-70g-1864/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225219/hi-fish-cane-snack-bastoncini-pesce.jpg?v=637454750567470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270058/hi-fish-dog-bastoncini-arrotolati-al-pesce-componenti-analitici.jpg?v=637841420344630000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42.714285714285715,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1864",
+        "sku": "1864",
+        "gtin": "10078577",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/hi-fish-cane-snack-bastoncini-pesce-70g-1864/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 42.714285714285715,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-fish-cane-snack-bastoncini-pesce-70g-1864p",
+        "name": "Hi Fish Snack Dog Bastoncini Arrotolati con Pesce 70G",
+        "path": "/hi-fish-cane-snack-bastoncini-pesce-70g-1864/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "1793",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "1865",
+    "sku": "1865",
+    "gtin": "10078578",
+    "title": "Hi Duck Snack Bastoncini con Anatra",
+    "brand": "HI DUCK",
+    "url": "https://www.arcaplanet.it/hi-duck-cane-snack-bastoncini-anatra-1865/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225223/hi-duck-cane-snack-bastoncini-anatra.jpg?v=637454750605930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270076/hi-duck-dog-bastoncini-arrotolati-con-anatra-componenti-analitici-.jpg?v=637841483003400000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42.714285714285715,
+        "unit": "KG"
+      },
+      "discountPercentage": 4
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1865",
+        "sku": "1865",
+        "gtin": "10078578",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/hi-duck-cane-snack-bastoncini-anatra-1865/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.1,
+          "pricePerUnit": {
+            "value": 42.714285714285715,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "70G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-duck-cane-snack-bastoncini-anatra-1865p",
+        "name": "Hi Duck Snack Bastoncini con Anatra",
+        "path": "/hi-duck-cane-snack-bastoncini-anatra-1865/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "1794",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "2605",
+    "sku": "2605",
+    "gtin": "10112462",
+    "title": "Wolly's Ranch Orecchie Di Bue",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-cane-orecchie-di-bue-3pz-2605/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209696/Wollys-Ranch-snack-cane-Orecchie-di-Bue.jpg?v=637413990401230000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2605",
+        "sku": "2605",
+        "gtin": "10112462",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/wollys-ranch-cane-orecchie-di-bue-3pz-2605/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-cane-orecchie-di-bue-3pz-2605p",
+        "name": "Wolly's Ranch Orecchie Di Bue",
+        "path": "/wollys-ranch-cane-orecchie-di-bue-3pz-2605/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2523",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "3553",
+    "sku": "3553",
+    "gtin": "10077379",
+    "title": "Hi Duck Snack Dog Filetti di Anatra",
+    "brand": "HI DUCK",
+    "url": "https://www.arcaplanet.it/hi-duck-cane-snack-filetti-anatra-100g-3553/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223308/hi-duck-cane-snack-filetti-anatra.jpg?v=637454730672270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270080/hi-duck-dog-filetti-di-anatra-componenti-analitici.jpg?v=637841576537300000"
+    ],
+    "price": {
+      "current": 4.1,
+      "original": 4.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 40.99999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3553",
+        "sku": "3553",
+        "gtin": "10077379",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/hi-duck-cane-snack-filetti-anatra-100g-3553/p",
+        "price": {
+          "current": 4.1,
+          "original": 4.1,
+          "pricePerUnit": {
+            "value": 40.99999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "hi-duck-cane-snack-filetti-anatra-100g-3553p",
+        "name": "Hi Duck Snack Dog Filetti di Anatra",
+        "path": "/hi-duck-cane-snack-filetti-anatra-100g-3553/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3458",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "3818",
+    "sku": "3818",
+    "gtin": "10112461",
+    "title": "Wollys Ranch Cane Pelle Di Testa",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-cane-pelle-di-testa-5pzx12cm-3818/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227083/wollys-ranch-cane-pelle-di-testa.jpg?v=637454789524170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250241/wollys-ranch-cane-pelle-di-testa.jpg?v=637455064319730000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3818",
+        "sku": "3818",
+        "gtin": "10112461",
+        "title": "5PZ",
+        "url": "https://www.arcaplanet.it/wollys-ranch-cane-pelle-di-testa-5pzx12cm-3818/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-cane-pelle-di-testa-5pzx12cm-3818p",
+        "name": "Wollys Ranch Cane Pelle Di Testa",
+        "path": "/wollys-ranch-cane-pelle-di-testa-5pzx12cm-3818/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3721",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "4291",
+    "sku": "4291",
+    "gtin": "10112463",
+    "title": "Wollys Ranch Cane Zampe di Gallina",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-cane-zampe-di-gallina-200g-4291/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209699/Wollys-Ranch-snack-cane-Zampe-di-Gallina-200g.jpg?v=637413990422530000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.95,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4291",
+        "sku": "4291",
+        "gtin": "10112463",
+        "title": "200G",
+        "url": "https://www.arcaplanet.it/wollys-ranch-cane-zampe-di-gallina-200g-4291/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 24.95,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "200G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-cane-zampe-di-gallina-200g-4291p",
+        "name": "Wollys Ranch Cane Zampe di Gallina",
+        "path": "/wollys-ranch-cane-zampe-di-gallina-200g-4291/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4181",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "4650",
+    "sku": "4650",
+    "gtin": "10129036",
+    "title": "In The Nature Bio Biscotti Carota e Zucca",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-carota-e-zucca-4650/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249811/in-the-nature-bio-cane-biscotti-biscotti-carota-e-zucca.jpg?v=637455060196070000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4650",
+        "sku": "4650",
+        "gtin": "10129036",
+        "title": "210G",
+        "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-carota-e-zucca-4650/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 19,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "210G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-biscotti-bio-per-cani-carota-e-zucca-4650p",
+        "name": "In The Nature Bio Biscotti Carota e Zucca",
+        "path": "/in-the-nature-biscotti-bio-per-cani-carota-e-zucca-4650/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4531",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "4653",
+    "sku": "4653",
+    "gtin": "10129034",
+    "title": "In The Nature Bio Biscotti Mela 210G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-alla-mela-4653/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249785/in-the-nature-bio-cane-biscotti-biscotti-meka.jpg?v=637455059896500000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4653",
+        "sku": "4653",
+        "gtin": "10129034",
+        "title": "210G",
+        "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-alla-mela-4653/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 19,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "210G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-biscotti-bio-per-cani-alla-mela-4653p",
+        "name": "In The Nature Bio Biscotti Mela 210G",
+        "path": "/in-the-nature-biscotti-bio-per-cani-alla-mela-4653/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4534",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "4654",
+    "sku": "4654",
+    "gtin": "10129032",
+    "title": "In The Nature Bio Biscotti ai Mirtilli 210G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-ai-mirtilli-4654/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249791/in-the-nature-bio-cane-biscotti-biscotti-mirilli.jpg?v=637455059962100000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4654",
+        "sku": "4654",
+        "gtin": "10129032",
+        "title": "210G",
+        "url": "https://www.arcaplanet.it/in-the-nature-biscotti-bio-per-cani-ai-mirtilli-4654/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 19,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "210G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-biscotti-bio-per-cani-ai-mirtilli-4654p",
+        "name": "In The Nature Bio Biscotti ai Mirtilli 210G",
+        "path": "/in-the-nature-biscotti-bio-per-cani-ai-mirtilli-4654/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4535",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "5288",
+    "sku": "5288",
+    "gtin": "10078085",
+    "title": "Expecial You Snack Dog Biscotti ai Frutti di Bosco 300G",
+    "brand": "EXPECIAL YOU",
+    "url": "https://www.arcaplanet.it/expecial-you-cane-biscotti-frutti-di-bosco-300g-5288/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/235675/expecial-you-cane-biscotti-frutti-di-bosco.jpg?v=637472525190030000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.3,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5288",
+        "sku": "5288",
+        "gtin": "10078085",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/expecial-you-cane-biscotti-frutti-di-bosco-300g-5288/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 13.3,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "expecial-you-cane-biscotti-frutti-di-bosco-300g-5288p",
+        "name": "Expecial You Snack Dog Biscotti ai Frutti di Bosco 300G",
+        "path": "/expecial-you-cane-biscotti-frutti-di-bosco-300g-5288/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5161",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "5317",
+    "sku": "5317",
+    "gtin": "10118994",
+    "title": "Hi Chicken Snack Dog Bastoncini Arrotolati con Pollo 350G",
+    "brand": "HI CHICKEN",
+    "url": "https://www.arcaplanet.it/hi-chicken-cane-snack-bastoncini-pollo-350g-5317/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253670/Bastoncini-per-cani-Hi-chicken-pollo-350g.jpg?v=637528634693800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270103/hi-chicken-dog-bastoncini-arrotolati-con-pollo-componenti-analitici-350-g.jpg?v=637842283418230000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42.82857142857143,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5317",
+        "sku": "5317",
+        "gtin": "10118994",
+        "title": "350G",
+        "url": "https://www.arcaplanet.it/hi-chicken-cane-snack-bastoncini-pollo-350g-5317/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 42.82857142857143,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "350G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-chicken-cane-snack-bastoncini-pollo-350g-5317p",
+        "name": "Hi Chicken Snack Dog Bastoncini Arrotolati con Pollo 350G",
+        "path": "/hi-chicken-cane-snack-bastoncini-pollo-350g-5317/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5189",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "5327",
+    "sku": "5327",
+    "gtin": "10078083",
+    "title": "Expecial You Snack Dog Biscotti alla Mela 300G",
+    "brand": "EXPECIAL YOU",
+    "url": "https://www.arcaplanet.it/expecial-you-cane-biscotti-mela-300g-5327/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223646/expecial-you-cane-biscotti-mela.jpg?v=637454734361200000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.3,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5327",
+        "sku": "5327",
+        "gtin": "10078083",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/expecial-you-cane-biscotti-mela-300g-5327/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 13.3,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "expecial-you-cane-biscotti-mela-300g-5327p",
+        "name": "Expecial You Snack Dog Biscotti alla Mela 300G",
+        "path": "/expecial-you-cane-biscotti-mela-300g-5327/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5199",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "5716",
+    "sku": "5716",
+    "gtin": "10121092",
+    "title": "Next Dog Dental Stick 28 Pezzi",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cane-dental-stick-pz-21-7-5716/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226904/next-cane-dental-stick-multipack.jpg?v=637454787799130000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.75,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5716",
+        "sku": "5716",
+        "gtin": "10121092",
+        "title": "MINI",
+        "url": "https://www.arcaplanet.it/next-cane-dental-stick-pz-21-7-5716/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 14.75,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "next-cane-dental-stick-pz-21-7-5716p",
+        "name": "Next Dog Dental Stick 28 Pezzi",
+        "path": "/next-cane-dental-stick-pz-21-7-5716/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5570",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "6667",
+    "sku": "6667",
+    "gtin": "10121095",
+    "title": "Next Dog Dental Stick 56 Pezzi",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-cane-dental-stick-pz-56-6667/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249905/next-cane-dental-stick-multipack.jpg?v=637455061130570000"
+    ],
+    "price": {
+      "current": 12.2,
+      "original": 12.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.863636363636363,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6667",
+        "sku": "6667",
+        "gtin": "10121095",
+        "title": "MINI",
+        "url": "https://www.arcaplanet.it/next-cane-dental-stick-pz-56-6667/p",
+        "price": {
+          "current": 12.2,
+          "original": 12.2,
+          "pricePerUnit": {
+            "value": 13.863636363636363,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "next-cane-dental-stick-pz-56-6667p",
+        "name": "Next Dog Dental Stick 56 Pezzi",
+        "path": "/next-cane-dental-stick-pz-56-6667/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6509",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "7915",
+    "sku": "7915",
+    "gtin": "10129556",
+    "title": "Pedigree Dentastix Snack Igiene Orale Cane 105pz",
+    "brand": "PEDIGREE",
+    "url": "https://www.arcaplanet.it/pedigree-dentastix-cane-105-multipack-large-7915/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284156/pedigree-dentastix-medium-main.jpg?v=638174869086130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284157/pedigree-dentastix-medium-2.jpg?v=638174869186170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284158/pedigree-dentastix-medium-3.jpg?v=638174869298730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284159/pedigree-dentastix-medium-4.jpg?v=638174869421670000"
+    ],
+    "price": {
+      "current": 35.49,
+      "original": 35.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.144444444444444,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7915",
+        "sku": "7915",
+        "gtin": "10129556",
+        "title": "MEDIUM",
+        "url": "https://www.arcaplanet.it/pedigree-dentastix-cane-105-multipack-large-7915/p",
+        "price": {
+          "current": 35.49,
+          "original": 35.49,
+          "pricePerUnit": {
+            "value": 13.144444444444444,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "pedigree-dentastix-cane-105-multipack-large-7915p",
+        "name": "Pedigree Dentastix Snack Igiene Orale Cane 105pz",
+        "path": "/pedigree-dentastix-cane-105-multipack-large-7915/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7745",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "11107",
+    "sku": "11107",
+    "gtin": "10130903",
+    "title": "Hi Beef Snack Dog Bastoncini di Bufalo 225G",
+    "brand": "HI BEEF",
+    "url": "https://www.arcaplanet.it/hi-beef-snack-dog-gr-225-munchy-sticks-bufalo-11107/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/263771/hi-beef-buffalo-munchy-sticks.jpg?v=637691307419430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270118/hi-beef-bastoncini-di-bufalo-componenti-analitici.jpg?v=637842496987030000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.590909090909092,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11107",
+        "sku": "11107",
+        "gtin": "10130903",
+        "title": "225G",
+        "url": "https://www.arcaplanet.it/hi-beef-snack-dog-gr-225-munchy-sticks-bufalo-11107/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 13.590909090909092,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "225G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-beef-snack-dog-gr-225-munchy-sticks-bufalo-11107p",
+        "name": "Hi Beef Snack Dog Bastoncini di Bufalo 225G",
+        "path": "/hi-beef-snack-dog-gr-225-munchy-sticks-bufalo-11107/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10701",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "6428",
+    "sku": "6428",
+    "gtin": "00035368",
+    "title": "Pedigree Biscrock Biscotti Secchi Cane Biscrock 500G",
+    "brand": "PEDIGREE",
+    "url": "https://www.arcaplanet.it/ped-multi-biscrok-gr-500-pz-12-6428/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257498/35368-Biscrok-500g.jpg?v=637581393571770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285447/B005FVA03Q.PT01.jpg?v=638197393652330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285448/B005FVA03Q.PT02.jpg?v=638197393732900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285449/B005FVA03Q.PT04.jpg?v=638197393810230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285450/B005FVA03Q.PT05.jpg?v=638197393878100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285451/B005FVA03Q.PT06.jpg?v=638197393954970000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.292682926829269,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6428",
+        "sku": "6428",
+        "gtin": "00035368",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/ped-multi-biscrok-gr-500-pz-12-6428/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 7.292682926829269,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "ped-multi-biscrok-gr-500-pz-12-6428p",
+        "name": "Pedigree Biscrock Biscotti Secchi Cane Biscrock 500G",
+        "path": "/ped-multi-biscrok-gr-500-pz-12-6428/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11491",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "12447",
+    "sku": "12447",
+    "gtin": "10130414",
+    "title": "Hi Pork Snack Dog Biscotti al Maiale 250G",
+    "brand": "HI PORK",
+    "url": "https://www.arcaplanet.it/hi-pork-cane-biscotti-maiale-12447/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253667/biscotti-hi-pork-per-cane.jpg?v=637528613947700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270044/hi-pork-biscotti-al-maiale-componenti-analitici.jpg?v=637841376783030000"
+    ],
+    "price": {
+      "current": 3.7,
+      "original": 3.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12447",
+        "sku": "12447",
+        "gtin": "10130414",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/hi-pork-cane-biscotti-maiale-12447/p",
+        "price": {
+          "current": 3.7,
+          "original": 3.7,
+          "pricePerUnit": {
+            "value": 14.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "hi-pork-cane-biscotti-maiale-12447p",
+        "name": "Hi Pork Snack Dog Biscotti al Maiale 250G",
+        "path": "/hi-pork-cane-biscotti-maiale-12447/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14306",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "13047",
+    "sku": "13047",
+    "gtin": "10138961",
+    "title": "Wolly's Ranch Osso di Prosciutto Grande",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-dog-corno-daino-medium-13047/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260413/wollys-ranch-osso-grande-prosciutto.jpg?v=637613299679130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260414/wollys-ranch-osso-grande-prosciutto-300gr.jpg?v=637613299819530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260415/wollys-ranch-osso-grande-prosciutto-dettaglio.jpg?v=637613299953130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307265/Wolly-s-Ranch-Osso-di-Prosciutto.jpg?v=638636296980230000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.966666666666669,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13047",
+        "sku": "13047",
+        "gtin": "10138961",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/wollys-ranch-dog-corno-daino-medium-13047/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 9.966666666666669,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "300G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-dog-corno-daino-medium-13047p",
+        "name": "Wolly's Ranch Osso di Prosciutto Grande",
+        "path": "/wollys-ranch-dog-corno-daino-medium-13047/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14472",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "1069",
+    "sku": "1069",
+    "gtin": "10129769",
+    "title": "Wollys Ranch Corno di Cervo",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-dog-corno-di-cervo-small-1069/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251445/wollys-ranch-cane-corno-di-cervo.jpg?v=637455076078900000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1069",
+        "sku": "1069",
+        "gtin": "10129769",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/wollys-ranch-dog-corno-di-cervo-small-1069/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-dog-corno-di-cervo-small-1069p",
+        "name": "Wollys Ranch Corno di Cervo",
+        "path": "/wollys-ranch-dog-corno-di-cervo-small-1069/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14474",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.558Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "12557",
+    "sku": "12557",
+    "gtin": "10138460",
+    "title": "Hi Beef Snack Dog Osso di Bufalo Medium",
+    "brand": "HI BEEF",
+    "url": "https://www.arcaplanet.it/hi-beef-snack-dog-osso-di-bufalo-medium-12557/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264179/hi-beef-snack-dog-osso-bufalo-1pz-medium-60g.jpg?v=637704953665470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270150/hi-beef-snack-dog-osso-di-bufalo-medium-60-g-componenti-analitici-.jpg?v=637842542274600000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.166666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "12557",
+        "sku": "12557",
+        "gtin": "10138460",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/hi-beef-snack-dog-osso-di-bufalo-medium-12557/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 33.166666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-beef-snack-dog-osso-di-bufalo-medium-12557p",
+        "name": "Hi Beef Snack Dog Osso di Bufalo Medium",
+        "path": "/hi-beef-snack-dog-osso-di-bufalo-medium-12557/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14688",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "12559",
+    "sku": "12559",
+    "gtin": "10138462",
+    "title": "Hi Beef Snack Dog Osso di Bufalo Large",
+    "brand": "HI BEEF",
+    "url": "https://www.arcaplanet.it/hi-beef-snack-dog-osso-bufalo-large-12559/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262292/hi-beef-snack-dog-osso-bufalo-110-gr.jpg?v=637667084825570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270162/hi-beef-dog-ossi-di-bufalo-large-110g.jpg?v=637842548530000000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.27272727272727,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12559",
+        "sku": "12559",
+        "gtin": "10138462",
+        "title": "110G",
+        "url": "https://www.arcaplanet.it/hi-beef-snack-dog-osso-bufalo-large-12559/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 36.27272727272727,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "110G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "hi-beef-snack-dog-osso-bufalo-large-12559p",
+        "name": "Hi Beef Snack Dog Osso di Bufalo Large",
+        "path": "/hi-beef-snack-dog-osso-bufalo-large-12559/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14690",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "13041",
+    "sku": "13041",
+    "gtin": "10138955",
+    "title": "Wolly's Ranch Ginocchio di Maiale",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-dog-ginocchio-di-maiale-13041/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260427/wollys-ranch-ginocchio-maiale.jpg?v=637613324976370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260428/wollys-ranch-ginocchio-maiale-150gr.jpg?v=637613325090130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307284/Wolly-s-Ranch-Ginocchio-di-Maiale--2-.jpg?v=638636497167500000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13.266666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13041",
+        "sku": "13041",
+        "gtin": "10138955",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/wollys-ranch-dog-ginocchio-di-maiale-13041/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 13.266666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-dog-ginocchio-di-maiale-13041p",
+        "name": "Wolly's Ranch Ginocchio di Maiale",
+        "path": "/wollys-ranch-dog-ginocchio-di-maiale-13041/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15178",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "13043",
+    "sku": "13043",
+    "gtin": "10138958",
+    "title": "Wolly's Ranch Orecchie di Bovino",
+    "brand": "WOLLYS RANCH",
+    "url": "https://www.arcaplanet.it/wollys-ranch-dog-orecchie-di-bovino-13043/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260372/wollys-ranch-dog-orecchie-di-bovino.jpg?v=637612673860470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260373/wollys-ranch-dog-orecchie-di-bovino-componenti-analitici.jpg?v=637612673971970000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 116.33333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13043",
+        "sku": "13043",
+        "gtin": "10138958",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/wollys-ranch-dog-orecchie-di-bovino-13043/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 116.33333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "wollys-ranch-dog-orecchie-di-bovino-13043p",
+        "name": "Wolly's Ranch Orecchie di Bovino",
+        "path": "/wollys-ranch-dog-orecchie-di-bovino-13043/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15180",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14617",
+    "sku": "14617",
+    "gtin": "10140357",
+    "title": "In The Nature Dog Biscotti Mela",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-dog-biscotti-mela-500g-14617/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271662/in-the-nature-biscotti-mela.jpg?v=637877946592700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270199/in-the-nature-dog-biscotti-mela-500g.jpg?v=637844251004430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271786/in-the-nature-dog-biscotti-mela.jpg?v=637883980286130000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.98,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14617",
+        "sku": "14617",
+        "gtin": "10140357",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/in-the-nature-dog-biscotti-mela-500g-14617/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 10.98,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackbiscotti",
+        "name": "Biscotti",
+        "path": "/cane/snack/biscotti/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-dog-biscotti-mela-500g-14617p",
+        "name": "In The Nature Dog Biscotti Mela",
+        "path": "/in-the-nature-dog-biscotti-mela-500g-14617/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16754",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14798",
+    "sku": "14798",
+    "gtin": "10140518",
+    "title": "Virtus Dog Snack Soft Trota con Aneto 150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-snack-soft-trota-con-aneto-14798/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272100/Virtus-Snack_soft_trota.jpg?v=637898433700870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272102/virtus-snack-dog-soft-trota-componenti-analitici.jpg?v=637898433845500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272104/virtus-snack-dog-soft-trota-razione-giornaliera.jpg?v=637898433966070000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14798",
+        "sku": "14798",
+        "gtin": "10140518",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/virtus-dog-snack-soft-trota-con-aneto-14798/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 21.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-snack-soft-trota-con-aneto-14798p",
+        "name": "Virtus Dog Snack Soft Trota con Aneto 150G",
+        "path": "/virtus-dog-snack-soft-trota-con-aneto-14798/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16935",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14799",
+    "sku": "14799",
+    "gtin": "10140522",
+    "title": "Virtus Dog Crunchy Snack con Agnello 150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-crunchy-snack-agnello-14799/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269932/virtus-snack-crunchy-agnello-150g.jpg?v=637840530747800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269934/virtus-snack-crunchy-agnello-150g-componenti-analitici.jpg?v=637840530941500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269987/virtus-snack-crunchy-agnello-150g-razione.jpg?v=637840708881170000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14799",
+        "sku": "14799",
+        "gtin": "10140522",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/virtus-dog-crunchy-snack-agnello-14799/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 21.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-crunchy-snack-agnello-14799p",
+        "name": "Virtus Dog Crunchy Snack con Agnello 150G",
+        "path": "/virtus-dog-crunchy-snack-agnello-14799/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16936",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.559Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14803",
+    "sku": "14803",
+    "gtin": "10140520",
+    "title": "Virtus Dog Snack Soft Salmone con Timo 150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-snack-soft-salmone-con-timo-14803/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272114/Virtus-Snack_soft_salmone.jpg?v=637898455711770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272115/virtus-snack-dog-soft-salmone-componenti-analitici.jpg?v=637898455834470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272116/virtus-snack-dog-soft-razione-giornaliera.jpg?v=637898455932600000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14803",
+        "sku": "14803",
+        "gtin": "10140520",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/virtus-dog-snack-soft-salmone-con-timo-14803/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 21.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-snack-soft-salmone-con-timo-14803p",
+        "name": "Virtus Dog Snack Soft Salmone con Timo 150G",
+        "path": "/virtus-dog-snack-soft-salmone-con-timo-14803/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16940",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14804",
+    "sku": "14804",
+    "gtin": "10140523",
+    "title": "Virtus Dog Crunchy Snack con Anatra 150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-crunchy-snack-anatra-14804/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269942/virtus-snack-crunchy-anatra-150g.jpg?v=637840567716800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269986/virtus-snack-crunchy-anatra-150g-razione.jpg?v=637840695880300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283379/bollino-natural-antioxidants.jpg?v=638162987275270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283383/natural-holistic-ingredients.jpg?v=638162988370100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283385/bollino-vitamins-and-minerals.jpg?v=638162989071200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283386/virtus-dog-snack.jpg?v=638162989917270000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.266666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14804",
+        "sku": "14804",
+        "gtin": "10140523",
+        "title": "150G",
+        "url": "https://www.arcaplanet.it/virtus-dog-crunchy-snack-anatra-14804/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 21.266666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-crunchy-snack-anatra-14804p",
+        "name": "Virtus Dog Crunchy Snack con Anatra 150G",
+        "path": "/virtus-dog-crunchy-snack-anatra-14804/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16941",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "14814",
+    "sku": "14814",
+    "gtin": "10140534",
+    "title": "Edgard & Cooper Snack Doggy Dental Mela Eucalipto",
+    "brand": "EDGARD COOPER",
+    "url": "https://www.arcaplanet.it/edgard-cooper-snack-cane-dental-mela-eucalipto-14814/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269175/edgard-cooper-snack-dog-dental-large-breed-mela-eucalipto-front.jpg?v=637823589846100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268613/edgard-cooper-snack-dog-dental-large-breed-mela-eucalipto-lifestyle.jpg?v=637818280967530000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.958333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14814",
+        "sku": "14814",
+        "gtin": "10140534",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/edgard-cooper-snack-cane-dental-mela-eucalipto-14814/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 24.958333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "edgard-cooper-snack-cane-dental-mela-eucalipto-14814p",
+        "name": "Edgard & Cooper Snack Doggy Dental Mela Eucalipto",
+        "path": "/edgard-cooper-snack-cane-dental-mela-eucalipto-14814/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16951",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "15234",
+    "sku": "15234",
+    "gtin": "10141023",
+    "title": "Befortis Dog Snack Soft Hypoallergenic 100G",
+    "brand": "BEFORTIS",
+    "url": "https://www.arcaplanet.it/befortis-dog-snack-soft-hypoallergenic-15234/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276468/befortis-dog-snack-soft-hypoallergenic.jpg?v=638034102348030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276469/befortis-dog-snack-soft-hypoallergenic-razione.jpg?v=638034102443830000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.900000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15234",
+        "sku": "15234",
+        "gtin": "10141023",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/befortis-dog-snack-soft-hypoallergenic-15234/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 29.900000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnacksnack-diete",
+        "name": "Snack Diete",
+        "path": "/cane/snack/snack-diete/",
+        "level": 4
+      },
+      {
+        "id": "befortis-dog-snack-soft-hypoallergenic-15234p",
+        "name": "Befortis Dog Snack Soft Hypoallergenic 100G",
+        "path": "/befortis-dog-snack-soft-hypoallergenic-15234/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "16519",
+    "sku": "16519",
+    "gtin": "10146203",
+    "title": "MultiFit Native Filetti Petto d'Anatra Cane",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-native-filetti-petto-d-anatra-16519/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281112/ce0061ee8e29ee80cf80aea6c6299c1645311101_41297e293285a49d8881777849dbd210d52eff54.jpg?v=638125789696730000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.653333333333332,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16519",
+        "sku": "16519",
+        "gtin": "10146203",
+        "title": "750G",
+        "url": "https://www.arcaplanet.it/multifit-native-filetti-petto-d-anatra-16519/p",
+        "price": {
+          "current": 16.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 22.653333333333332,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "750G",
+            "Flavour": "MANZO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "multifit-native-filetti-petto-d-anatra-16519p",
+        "name": "MultiFit Native Filetti Petto d'Anatra Cane",
+        "path": "/multifit-native-filetti-petto-d-anatra-16519/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18642",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "16625",
+    "sku": "16625",
+    "gtin": "10148315",
+    "title": "Real Nature Wilderness Dog Freeze Dried Snack 100G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-snack-dog-pure-dried-100g-16625/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280813/c24e79d50bfac448b2ab9c853d3eec0d16e543a8_2d1a712c8670a0f18361d41a10f3bb308a1c31c4.jpg?v=638119819294330000"
+    ],
+    "price": {
+      "current": 5.09,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16625",
+        "sku": "16625",
+        "gtin": "10148315",
+        "title": "ANATRA",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-snack-dog-pure-dried-100g-16625/p",
+        "price": {
+          "current": 5.09,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 50.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G",
+            "Flavour": "ANATRA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackliofilizzato",
+        "name": "Liofilizzato",
+        "path": "/cane/snack/liofilizzato/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-wilderness-snack-dog-pure-dried-100g-16625p",
+        "name": "Real Nature Wilderness Dog Freeze Dried Snack 100G",
+        "path": "/real-nature-wilderness-snack-dog-pure-dried-100g-16625/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18895",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "17668",
+    "sku": "17668",
+    "gtin": "10142102",
+    "title": "Fit and Fun Dog Osso Pressato",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-osso-pressato-17668/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279166/a3ed38c9d38bdd9494c605a86d484b6ba4bebbd8_7e2d360156369056664232cd2213e14447b3015c.jpg?v=638101660034430000"
+    ],
+    "price": {
+      "current": 4.92,
+      "original": 5.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.181818181818182,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17668",
+        "sku": "17668",
+        "gtin": "10142102",
+        "title": "440G",
+        "url": "https://www.arcaplanet.it/fit-and-fun-osso-pressato-17668/p",
+        "price": {
+          "current": 4.92,
+          "original": 5.79,
+          "pricePerUnit": {
+            "value": 11.181818181818182,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "440G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnackmasticativi",
+        "name": "Masticativi",
+        "path": "/cane/snack/masticativi/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-osso-pressato-17668p",
+        "name": "Fit and Fun Dog Osso Pressato",
+        "path": "/fit-and-fun-osso-pressato-17668/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19475",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "18671",
+    "sku": "18671",
+    "gtin": "10146935",
+    "title": "Premiere Dog Meat Snack Strips 4x250G",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-snack-dog-snack-it-strips-250gx4-18671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316232/premiere-dog-meat-snack-strips-250gx4-10146935--3-.jpg.jpg?v=638751262084800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316233/premiere-dog-meat-snack-strips-250gx4-10146935--4-.jpg.jpg?v=638751262084800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316234/premiere-dog-meat-snack-strips-250gx4-10146935--2-.jpg.jpg?v=638751262084800000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18671",
+        "sku": "18671",
+        "gtin": "10146935",
+        "title": "ANATRA",
+        "url": "https://www.arcaplanet.it/premiere-snack-dog-snack-it-strips-250gx4-18671/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 24.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G",
+            "Flavour": "ANATRA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "premiere-snack-dog-snack-it-strips-250gx4-18671p",
+        "name": "Premiere Dog Meat Snack Strips 4x250G",
+        "path": "/premiere-snack-dog-snack-it-strips-250gx4-18671/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20792",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "22103",
+    "sku": "22103",
+    "gtin": "10169536",
+    "title": "Pedigree Dentastix Multipack Large 42PZ",
+    "brand": "PEDIGREE",
+    "url": "https://www.arcaplanet.it/pedigree-dentastix-multipack-large-42pz-22103/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288697/LARGE-1.jpg?v=638266637071630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288698/LARGE-3.jpg?v=638266637173200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288699/LARGE-2.jpg?v=638266637261730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288700/LARGE-4.jpg?v=638266637346170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288701/LARGE-5.jpg?v=638266637421530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288702/LARGE-6.jpg?v=638266637498600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288703/LARGE-7.jpg?v=638266637580400000"
+    ],
+    "price": {
+      "current": 21.99,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 15.165517241379309,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22103",
+        "sku": "22103",
+        "gtin": "10169536",
+        "title": "LARGE",
+        "url": "https://www.arcaplanet.it/pedigree-dentastix-multipack-large-42pz-22103/p",
+        "price": {
+          "current": 21.99,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 15.165517241379309,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "pedigree-dentastix-multipack-large-42pz-22103p",
+        "name": "Pedigree Dentastix Multipack Large 42PZ",
+        "path": "/pedigree-dentastix-multipack-large-42pz-22103/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24185",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "24024",
+    "sku": "24024",
+    "gtin": "10174118",
+    "title": "Hill's Hypoallergenic Dog Treats",
+    "brand": "HILLS",
+    "url": "https://www.arcaplanet.it/hill-s-hypoallergenic-dog-treats-24024/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302526/hill-s-hypoallergenic-dog-treats-10174118--1-.jpg?v=638536961342230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302527/hill-s-hypoallergenic-dog-treats-10174118--2-.jpg?v=638536961433430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302528/hill-s-hypoallergenic-dog-treats-10174118--3-.jpg?v=638536961520730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302529/hill-s-hypoallergenic-dog-treats-10174118--4-.jpg?v=638536961609230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302530/hill-s-hypoallergenic-dog-treats-10174118--5-.jpg?v=638536961703930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302531/hill-s-hypoallergenic-dog-treats-10174118--6-.jpg?v=638536961786230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302532/hill-s-hypoallergenic-dog-treats-10174118--7-.jpg?v=638536961865930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302533/hill-s-hypoallergenic-dog-treats-10174118--8-.jpg?v=638536961934470000"
+    ],
+    "price": {
+      "current": 6.29,
+      "original": 6.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.45,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24024",
+        "sku": "24024",
+        "gtin": "10174118",
+        "title": "200G",
+        "url": "https://www.arcaplanet.it/hill-s-hypoallergenic-dog-treats-24024/p",
+        "price": {
+          "current": 6.29,
+          "original": 6.29,
+          "pricePerUnit": {
+            "value": 31.45,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "canesnacksnack-diete",
+        "name": "Snack Diete",
+        "path": "/cane/snack/snack-diete/",
+        "level": 4
+      },
+      {
+        "id": "hill-s-hypoallergenic-dog-treats-24024p",
+        "name": "Hill's Hypoallergenic Dog Treats",
+        "path": "/hill-s-hypoallergenic-dog-treats-24024/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26035",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  },
+  {
+    "id": "25992",
+    "sku": "25992",
+    "gtin": "1000000000440",
+    "title": "Kit Risparmio 2x500G Hi Duck Dog Snack Filetti",
+    "brand": "HI DUCK",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-25992/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312222/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-1000000000440--1-.jpg?v=638687442444000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312223/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-1000000000440--2-.jpg?v=638687442531670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312224/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-1000000000440--3-.jpg?v=638687442613800000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 29.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.99,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25992",
+        "sku": "25992",
+        "gtin": "1000000000440",
+        "title": "ANATRA",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-25992/p",
+        "price": {
+          "current": 25.99,
+          "original": 29.98,
+          "pricePerUnit": {
+            "value": 25.99,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canesnack",
+        "name": "Snack",
+        "path": "/cane/snack/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x500g-hi-duck-dog-snack-filetti-25992p",
+        "name": "Kit Risparmio 2x500G Hi Duck Dog Snack Filetti",
+        "path": "/kit-risparmio-2x500g-hi-duck-dog-snack-filetti-25992/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27983",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:28:07.560Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/snack/"
+  }
+]

@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "505",
+    "sku": "505",
+    "gtin": "10129534",
+    "title": "Supplemento Alimentare Cat No Plaque",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-care-supplemento-alimentare-no-plaque-70g-505/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255371/perfect-care-cat-no-plaque.jpg?v=637559939728000000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 142.7142857142857,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "505",
+        "sku": "505",
+        "gtin": "10129534",
+        "title": "70G",
+        "url": "https://www.arcaplanet.it/perfect-care-supplemento-alimentare-no-plaque-70g-505/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 142.7142857142857,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigieneorale",
+        "name": "Orale",
+        "path": "/gatto/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "perfect-care-supplemento-alimentare-no-plaque-70g-505p",
+        "name": "Supplemento Alimentare Cat No Plaque",
+        "path": "/perfect-care-supplemento-alimentare-no-plaque-70g-505/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "463",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "4877",
+    "sku": "4877",
+    "gtin": "10079320",
+    "title": "Perfect Probiotic Deodorante Lettiera Gatto",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-probiotic-gatto-deodorante-lettiera-250ml-4877/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225196/perfect-probiotic-gatto-deodorante-lettiera.jpg?v=637454750347230000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.96,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4877",
+        "sku": "4877",
+        "gtin": "10079320",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-probiotic-gatto-deodorante-lettiera-250ml-4877/p",
+        "price": {
+          "current": 7.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 31.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-probiotic-gatto-deodorante-lettiera-250ml-4877p",
+        "name": "Perfect Probiotic Deodorante Lettiera Gatto",
+        "path": "/perfect-probiotic-gatto-deodorante-lettiera-250ml-4877/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4758",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "5022",
+    "sku": "5022",
+    "gtin": "10112072",
+    "title": "Lovedì Disodorante Lettiera Mughetto",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-mughetto-300g-5022/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207624/Lovedi-Deodorante-Lettiera-al-Mughetto.jpg?v=637413959465000000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.633333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5022",
+        "sku": "5022",
+        "gtin": "10112072",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-mughetto-300g-5022/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 16.633333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-disodorante-lettiera-mughetto-300g-5022p",
+        "name": "Lovedì Disodorante Lettiera Mughetto",
+        "path": "/lovedi-disodorante-lettiera-mughetto-300g-5022/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4901",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "5298",
+    "sku": "5298",
+    "gtin": "10112073",
+    "title": "Lovedì Disodorante Lettiera Sandalo",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-sandalo-300g-5298/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207625/Lovedi-Deodorante-Lettiera-al-Sandalo.jpg?v=637413959472700000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.633333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5298",
+        "sku": "5298",
+        "gtin": "10112073",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-sandalo-300g-5298/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 16.633333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-disodorante-lettiera-sandalo-300g-5298p",
+        "name": "Lovedì Disodorante Lettiera Sandalo",
+        "path": "/lovedi-disodorante-lettiera-sandalo-300g-5298/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5171",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "5316",
+    "sku": "5316",
+    "gtin": "10111827",
+    "title": "Lovedì Disodorante Lettiera Talco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-talco-300g-5316/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207626/Lovedi-Deodorante-Lettiera-Talco-300g.jpg?v=637413959479230000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 16.633333333333336,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5316",
+        "sku": "5316",
+        "gtin": "10111827",
+        "title": "300G",
+        "url": "https://www.arcaplanet.it/lovedi-disodorante-lettiera-talco-300g-5316/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 16.633333333333336,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-disodorante-lettiera-talco-300g-5316p",
+        "name": "Lovedì Disodorante Lettiera Talco",
+        "path": "/lovedi-disodorante-lettiera-talco-300g-5316/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5188",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "5978",
+    "sku": "5978",
+    "gtin": "10110742",
+    "title": "Inodorina Salviette Funzionali per Gatto",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-salviette-funzionali-per-gatto-5978/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303865/Inodorina-Salviette-Funzionali-per-Gatto-10110742.jpg?v=638557650791900000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 224.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5978",
+        "sku": "5978",
+        "gtin": "10110742",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/inodorina-salviette-funzionali-per-gatto-5978/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 224.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienesalviette",
+        "name": "Salviette",
+        "path": "/gatto/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-salviette-funzionali-per-gatto-5978p",
+        "name": "Inodorina Salviette Funzionali per Gatto",
+        "path": "/inodorina-salviette-funzionali-per-gatto-5978/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5831",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "6011",
+    "sku": "6011",
+    "gtin": "10063346",
+    "title": "Inodorina Deo Lettiera Talco",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-gatto-deodorante-lettiera-talco-320-ml-6011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207309/Inodrina-Deo-lettiera-Talco-1000ml.jpg?v=637413954114230000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.99,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6011",
+        "sku": "6011",
+        "gtin": "10063346",
+        "title": "320G",
+        "url": "https://www.arcaplanet.it/inodorina-gatto-deodorante-lettiera-talco-320-ml-6011/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 4.99,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-gatto-deodorante-lettiera-talco-320-ml-6011p",
+        "name": "Inodorina Deo Lettiera Talco",
+        "path": "/inodorina-gatto-deodorante-lettiera-talco-320-ml-6011/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5863",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "12322",
+    "sku": "12322",
+    "gtin": "10110154",
+    "title": "Lozione Detergente Bio per Gatto",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-lozione-detergente-bio-gatto-100ml-12322/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273107/perfect-lozione-detergente-bio-per-gatto.jpg?v=637920932992600000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12322",
+        "sku": "12322",
+        "gtin": "10110154",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/perfect-lozione-detergente-bio-gatto-100ml-12322/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/gatto/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-lozione-detergente-bio-gatto-100ml-12322p",
+        "name": "Lozione Detergente Bio per Gatto",
+        "path": "/perfect-lozione-detergente-bio-gatto-100ml-12322/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13732",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "10009",
+    "sku": "10009",
+    "gtin": "10118992",
+    "title": "Perfect Deo Lettiera Minerale",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-deodorante-lettiera-minerale-10009/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286927/perfect-deo-lettiera-minerale.jpg?v=638219038825830000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.98,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10009",
+        "sku": "10009",
+        "gtin": "10118992",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/perfect-deodorante-lettiera-minerale-10009/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 11.98,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-deodorante-lettiera-minerale-10009p",
+        "name": "Perfect Deo Lettiera Minerale",
+        "path": "/perfect-deodorante-lettiera-minerale-10009/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13998",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "15181",
+    "sku": "15181",
+    "gtin": "10129150",
+    "title": "Tropiclean Waterless Cat Shampoo",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropiclean-waterless-cat-shampoo-15181/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273387/TROPICLEAN-WATERLESS-CAT-SHAMPOO-ML.220.jpg?v=637934008097000000"
+    ],
+    "price": {
+      "current": 15.19,
+      "original": 15.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 759.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15181",
+        "sku": "15181",
+        "gtin": "10129150",
+        "title": "220ML",
+        "url": "https://www.arcaplanet.it/tropiclean-waterless-cat-shampoo-15181/p",
+        "price": {
+          "current": 15.19,
+          "original": 15.19,
+          "pricePerUnit": {
+            "value": 759.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/gatto/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "tropiclean-waterless-cat-shampoo-15181p",
+        "name": "Tropiclean Waterless Cat Shampoo",
+        "path": "/tropiclean-waterless-cat-shampoo-15181/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17318",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "15182",
+    "sku": "15182",
+    "gtin": "10128957",
+    "title": "Tropliclean Cat Clean Teeth Gel",
+    "brand": "TROPICLEAN",
+    "url": "https://www.arcaplanet.it/tropliclean-cat-clean-teeth-gel-15182/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273383/TROPICLEAN-CAT-CLEAN-TEETH-GEL-ML.59.jpg?v=637933927925130000"
+    ],
+    "price": {
+      "current": 15.7,
+      "original": 15.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 261.6666666666667,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "15182",
+        "sku": "15182",
+        "gtin": "10128957",
+        "title": "59ML",
+        "url": "https://www.arcaplanet.it/tropliclean-cat-clean-teeth-gel-15182/p",
+        "price": {
+          "current": 15.7,
+          "original": 15.7,
+          "pricePerUnit": {
+            "value": 261.6666666666667,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigieneorale",
+        "name": "Orale",
+        "path": "/gatto/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "tropliclean-cat-clean-teeth-gel-15182p",
+        "name": "Tropliclean Cat Clean Teeth Gel",
+        "path": "/tropliclean-cat-clean-teeth-gel-15182/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17319",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "15370",
+    "sku": "15370",
+    "gtin": "10120689",
+    "title": "Shampoo per Gatto Neutro",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-gatto-neutro-15370/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273382/shampoo-per-gatto-neutro.jpg?v=637933853285600000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15370",
+        "sku": "15370",
+        "gtin": "10120689",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-gatto-neutro-15370/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 29.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/gatto/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-gatto-neutro-15370p",
+        "name": "Shampoo per Gatto Neutro",
+        "path": "/lovedi-shampoo-per-gatto-neutro-15370/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17507",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "17412",
+    "sku": "17412",
+    "gtin": "10146039",
+    "title": "MultiFit Deodorante per gatto 750G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-deodorante-per-gatto-750g-17412/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282710/75529a568ab9f4c6879477f7fee1458657517318_70dfc5ec2602114ff764e702937a3364cf1804e9--1-.jpg?v=638152608167530000"
+    ],
+    "price": {
+      "current": 7.64,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.186666666666666,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17412",
+        "sku": "17412",
+        "gtin": "10146039",
+        "title": "SETA PURA",
+        "url": "https://www.arcaplanet.it/multifit-deodorante-per-gatto-750g-17412/p",
+        "price": {
+          "current": 7.64,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 10.186666666666666,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "multifit-deodorante-per-gatto-750g-17412p",
+        "name": "MultiFit Deodorante per gatto 750G",
+        "path": "/multifit-deodorante-per-gatto-750g-17412/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "19658",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "18137",
+    "sku": "18137",
+    "gtin": "10148515",
+    "title": "Premiere Cat Deodorante Pearls Citronella",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-cat-deodorante-pearls-citronella-18137/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283685/a277b71142c0147396b01375c7d0bcbfce9ddd7a_419b5499ba6d59a6c0d4d591f1a3e102d99a6a5f--1-.jpg?v=638168013942000000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 39.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18137",
+        "sku": "18137",
+        "gtin": "10148515",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/premiere-cat-deodorante-pearls-citronella-18137/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 39.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "premiere-cat-deodorante-pearls-citronella-18137p",
+        "name": "Premiere Cat Deodorante Pearls Citronella",
+        "path": "/premiere-cat-deodorante-pearls-citronella-18137/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20255",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "18142",
+    "sku": "18142",
+    "gtin": "10148514",
+    "title": "Premiere Cat Deodorante Pearls Borotalco",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-cat-deodorante-pearls-borotalco-18142/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283684/75739fe831f4c1db243733bd7cdbcac9aa2d3262_de9241d95515a303ffe9b4d01011201015ea5629--1-.jpg?v=638168011990370000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 39.96,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18142",
+        "sku": "18142",
+        "gtin": "10148514",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/premiere-cat-deodorante-pearls-borotalco-18142/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 39.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "premiere-cat-deodorante-pearls-borotalco-18142p",
+        "name": "Premiere Cat Deodorante Pearls Borotalco",
+        "path": "/premiere-cat-deodorante-pearls-borotalco-18142/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20260",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "18508",
+    "sku": "18508",
+    "gtin": "10152821",
+    "title": "Premiere Cat Deodorante Pearls Fresh",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-deodorante-pearls-fresh-18508/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283702/0218a06c12e0feaec45b57a1933fa0a632827ba6_d6b48a9ea482eaf7d0164453d6b91fc13cc34963--1-.jpg?v=638168069049070000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18508",
+        "sku": "18508",
+        "gtin": "10152821",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/premiere-deodorante-pearls-fresh-18508/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "premiere-deodorante-pearls-fresh-18508p",
+        "name": "Premiere Cat Deodorante Pearls Fresh",
+        "path": "/premiere-deodorante-pearls-fresh-18508/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20626",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "18875",
+    "sku": "18875",
+    "gtin": "10150425",
+    "title": "Premiere Cat Deodorante Pearls Mystic Flow",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-cat-dedoroante-pearls-mystic-flow-18875/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283686/b546ab07cb96b6909367bb28866f5a0900ecb842_064901eba404faa2bd91ed632199595632dcc221--1-.jpg?v=638168017023370000"
+    ],
+    "price": {
+      "current": 5,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 250,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18875",
+        "sku": "18875",
+        "gtin": "10150425",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/premiere-cat-dedoroante-pearls-mystic-flow-18875/p",
+        "price": {
+          "current": 5,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 250,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "premiere-cat-dedoroante-pearls-mystic-flow-18875p",
+        "name": "Premiere Cat Deodorante Pearls Mystic Flow",
+        "path": "/premiere-cat-dedoroante-pearls-mystic-flow-18875/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20993",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "19271",
+    "sku": "19271",
+    "gtin": "10150424",
+    "title": "Premiere Cat Deodorante Pearls Vaniglia",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-deodorante-pearls-vaniglia-19271/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283687/05586e1b2a41d9b9d21d969aff27bdac28936334_cf146c6d5c40f1bd6baa901c955257d274818c30--1-.jpg?v=638168019107330000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19271",
+        "sku": "19271",
+        "gtin": "10150424",
+        "title": "250G",
+        "url": "https://www.arcaplanet.it/premiere-deodorante-pearls-vaniglia-19271/p",
+        "price": {
+          "current": 8.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "premiere-deodorante-pearls-vaniglia-19271p",
+        "name": "Premiere Cat Deodorante Pearls Vaniglia",
+        "path": "/premiere-deodorante-pearls-vaniglia-19271/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21389",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "21067",
+    "sku": "21067",
+    "gtin": "10168710",
+    "title": "Perfect Hygiene Deodorante per Lettiere al Talco",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-deodorante-per-lettiere-al-talco-21067/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287525/Perfect_igienizzante-lettiere_talco_10168710--2-.jpg?v=638230270371200000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.98,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21067",
+        "sku": "21067",
+        "gtin": "10168710",
+        "title": "500ML",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-deodorante-per-lettiere-al-talco-21067/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 11.98,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-deodorante-per-lettiere-al-talco-21067p",
+        "name": "Perfect Hygiene Deodorante per Lettiere al Talco",
+        "path": "/perfect-hygiene-deodorante-per-lettiere-al-talco-21067/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23158",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  },
+  {
+    "id": "23380",
+    "sku": "23380",
+    "gtin": "10173331",
+    "title": "Lovedì Disodorante Per Lettiera 1L",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-disodorante-per-lettiera-1l-23380/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295566/lovedi-disodorante-per-lettiera-1l-10173331.jpg?v=638445394377530000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.99,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23380",
+        "sku": "23380",
+        "gtin": "10173331",
+        "title": "TALCO",
+        "url": "https://www.arcaplanet.it/lovedi-disodorante-per-lettiera-1l-23380/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 7.99,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoigiene",
+        "name": "Igiene",
+        "path": "/gatto/igiene/",
+        "level": 3
+      },
+      {
+        "id": "gattoigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/gatto/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-disodorante-per-lettiera-1l-23380p",
+        "name": "Lovedì Disodorante Per Lettiera 1L",
+        "path": "/lovedi-disodorante-per-lettiera-1l-23380/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25391",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:52:18.910Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/igiene/"
+  }
+]

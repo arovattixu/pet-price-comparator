@@ -1,0 +1,14 @@
+# Crontab per data-collector
+# Per installarlo esegui: crontab crontab.txt
+
+# Pianifica l'aggiornamento dei dati ogni giorno alle 2:00 AM
+0 2 * * * cd /Users/angelorovattixu/compare_app_paw/data-collector && node scripts/import-prices-batch.js >> logs/import-batch.log 2>&1
+
+# Esegui lo scraping ogni giorno alle 1:00 AM
+0 1 * * * cd /Users/angelorovattixu/compare_app_paw/data-collector && node collect.js >> logs/collect.log 2>&1
+
+# Popola i prodotti simili ogni giorno alle 4:00 AM
+0 4 * * * cd /Users/angelorovattixu/compare_app_paw/data-collector && node scripts/populate-similar-products.js >> logs/populate-similar.log 2>&1
+
+# Verifica lo stato del database ogni 12 ore
+0 */12 * * * cd /Users/angelorovattixu/compare_app_paw/data-collector && node scripts/check-import-status.js >> logs/status.log 2>&1 

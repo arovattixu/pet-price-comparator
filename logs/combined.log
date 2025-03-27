@@ -1,0 +1,13 @@
+2025-03-23T18:37:09.340Z info: Inizializzato scraper Arcaplanet (VTEX) con Puppeteer:
+    - URL Base: https://www.arcaplanet.it
+    - URL API: https://www.arcaplanet.it/api/graphql
+    - Paginazione: abilitata
+    - Pagine massime: 2
+    - Prodotti per pagina: 20
+    - Tentativi: 3
+    - Pausa tra pagine: 2000ms
+    - Pausa tra richieste: 3000ms
+    - Debug: attivato
+    - Usa Puppeteer: sì
+    - Headless: sì
+    - Proxy: non configurato

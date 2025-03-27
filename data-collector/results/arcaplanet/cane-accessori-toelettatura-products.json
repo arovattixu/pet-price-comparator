@@ -1,0 +1,4164 @@
+[
+  {
+    "id": "511",
+    "sku": "511",
+    "gtin": "10129059",
+    "title": "Cardatore per Cani Perfect Grooming",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-511/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253310/cardatore-large.jpg?v=637513990342030000"
+    ],
+    "price": {
+      "current": 16.49,
+      "original": 16.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 824.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "511",
+        "sku": "511",
+        "gtin": "10129059",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-511/p",
+        "price": {
+          "current": 16.49,
+          "original": 16.49,
+          "pricePerUnit": {
+            "value": 824.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/cane/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-cardatore-511p",
+        "name": "Cardatore per Cani Perfect Grooming",
+        "path": "/perfect-grooming-cane-cardatore-511/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "469",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "3755",
+    "sku": "3755",
+    "gtin": "10130011",
+    "title": "Spazzola Adesiva Antizanzare 60 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254393/lovedi-spazzola-adesiva-antizanzare-60-strati-cane.jpg?v=637550221850500000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 345,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3755",
+        "sku": "3755",
+        "gtin": "10130011",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/gatto/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755p",
+        "name": "Spazzola Adesiva Antizanzare 60 Strappi",
+        "path": "/lovedi-spazzola-adesiva-antizanzare-60-strappi-cane-3755/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3658",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "3819",
+    "sku": "3819",
+    "gtin": "10129079",
+    "title": "Spazzola Doppia per Cani",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-spazzola-doppia-3819/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253313/spazzola-doppia-small.jpg?v=637514025355200000"
+    ],
+    "price": {
+      "current": 16.9,
+      "original": 16.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 844.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3819",
+        "sku": "3819",
+        "gtin": "10129079",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-spazzola-doppia-3819/p",
+        "price": {
+          "current": 16.9,
+          "original": 16.9,
+          "pricePerUnit": {
+            "value": 844.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-spazzola-doppia-3819p",
+        "name": "Spazzola Doppia per Cani",
+        "path": "/perfect-grooming-cane-spazzola-doppia-3819/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3722",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "2618",
+    "sku": "2618",
+    "gtin": "10129057",
+    "title": "Perfect Cardatore Arrotondato per Cani",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-arrotondato-2618/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280283/perfect-grooming-cane-cardatore-arrotondato.jpg?v=638114645284630000"
+    ],
+    "price": {
+      "current": 12.49,
+      "original": 12.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 624.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2618",
+        "sku": "2618",
+        "gtin": "10129057",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-cardatore-arrotondato-2618/p",
+        "price": {
+          "current": 12.49,
+          "original": 12.49,
+          "pricePerUnit": {
+            "value": 624.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/cane/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-cardatore-arrotondato-2618p",
+        "name": "Perfect Cardatore Arrotondato per Cani",
+        "path": "/perfect-grooming-cane-cardatore-arrotondato-2618/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3751",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "4240",
+    "sku": "4240",
+    "gtin": "10130009",
+    "title": "Spazzola Adesiva Antiacaro 60 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antiacaro-60-strappi-cane-4240/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254389/lovedi-spazzola-adesiva-antiacaro-60-strappi.jpg?v=637550209749770000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 345,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4240",
+        "sku": "4240",
+        "gtin": "10130009",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antiacaro-60-strappi-cane-4240/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-antiacaro-60-strappi-cane-4240p",
+        "name": "Spazzola Adesiva Antiacaro 60 Strappi",
+        "path": "/lovedi-spazzola-adesiva-antiacaro-60-strappi-cane-4240/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4131",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "4241",
+    "sku": "4241",
+    "gtin": "10130010",
+    "title": "Lovedì Spazzola Adesiva Antibatterica 60 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254392/lovedi-spazzola-adesiva-antibatterica-60-stappi-cane.jpg?v=637550216776870000"
+    ],
+    "price": {
+      "current": 6.3,
+      "original": 6.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 315,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4241",
+        "sku": "4241",
+        "gtin": "10130010",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+        "price": {
+          "current": 6.3,
+          "original": 6.3,
+          "pricePerUnit": {
+            "value": 315,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241p",
+        "name": "Lovedì Spazzola Adesiva Antibatterica 60 Strappi",
+        "path": "/lovedi-spazzola-adesiva-antibatterica-60-strappi-cane-4241/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4132",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "4248",
+    "sku": "4248",
+    "gtin": "10129063",
+    "title": "Deshedder Spazzola per Cani",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-deshedder-4248/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280366/perfect-grooming-cane-deshedder.jpg?v=638115339773400000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4248",
+        "sku": "4248",
+        "gtin": "10129063",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-deshedder-4248/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-deshedder-4248p",
+        "name": "Deshedder Spazzola per Cani",
+        "path": "/perfect-grooming-cane-deshedder-4248/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4138",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "2556",
+    "sku": "2556",
+    "gtin": "10129086",
+    "title": "Tagliaunghie per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-cane-tagliaunghie-2556/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280377/perfect-grooming-cane-tagliaunghie-m.jpg?v=638115346840230000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2556",
+        "sku": "2556",
+        "gtin": "10129086",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/perfect-grooming-cane-tagliaunghie-2556/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/cane/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-cane-tagliaunghie-2556p",
+        "name": "Tagliaunghie per Cane",
+        "path": "/perfect-grooming-cane-tagliaunghie-2556/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4165",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "4315",
+    "sku": "4315",
+    "gtin": "10058723",
+    "title": "Spazzola Furminator per Cane a Pelo Corto",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-corto-4315/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296921/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-1.jpg?v=638457696049930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296922/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-2.jpg?v=638457696204470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296923/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-3.jpg?v=638457696301600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296924/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-4.jpg?v=638457696494900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296925/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-5.jpg?v=638457696678170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296926/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-6.jpg?v=638457696936430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296927/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-7.jpg?v=638457697118400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296928/Spazzola-Furminator-per-Cane-a-Pelo-Corto-10058723-8.jpg?v=638457697294970000"
+    ],
+    "price": {
+      "current": 24.14,
+      "original": 34.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1207,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4315",
+        "sku": "4315",
+        "gtin": "10058723",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-corto-4315/p",
+        "price": {
+          "current": 24.14,
+          "original": 34.49,
+          "pricePerUnit": {
+            "value": 1207,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "furminator-cane-a-pelo-corto-4315p",
+        "name": "Spazzola Furminator per Cane a Pelo Corto",
+        "path": "/furminator-cane-a-pelo-corto-4315/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5285",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "5420",
+    "sku": "5420",
+    "gtin": "10058726",
+    "title": "Spazzola Furminator per Cane a Pelo Lungo",
+    "brand": "FURMINATOR",
+    "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-lungo-5420/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296975/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-1.jpg?v=638458285446570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296976/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-2.jpg?v=638458285542700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296977/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-3.jpg?v=638458285637700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296978/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-4.jpg?v=638458285806400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296979/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-5.jpg?v=638458285964000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296980/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-6.jpg?v=638458286059400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296981/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-7.jpg?v=638458286144900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296982/Spazzola-Furminator-per-Cane-a-Pelo-Lungo-10058726-8.jpg?v=638458286253900000"
+    ],
+    "price": {
+      "current": 32.19,
+      "original": 45.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1609.4999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5420",
+        "sku": "5420",
+        "gtin": "10058726",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/furminator-cane-a-pelo-lungo-5420/p",
+        "price": {
+          "current": 32.19,
+          "original": 45.99,
+          "pricePerUnit": {
+            "value": 1609.4999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "furminator-cane-a-pelo-lungo-5420p",
+        "name": "Spazzola Furminator per Cane a Pelo Lungo",
+        "path": "/furminator-cane-a-pelo-lungo-5420/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5341",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "4292",
+    "sku": "4292",
+    "gtin": "10129070",
+    "title": "Guanto Toglipelo per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-guanto-toglipelo-grooming-4292/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266580/perfect-guanto-toglipelo-grooming-pack.jpg?v=637782647329830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266581/perfect-guanto-toglipelo-grooming.jpg?v=637782647414800000"
+    ],
+    "price": {
+      "current": 11.99,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4292",
+        "sku": "4292",
+        "gtin": "10129070",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/perfect-guanto-toglipelo-grooming-4292/p",
+        "price": {
+          "current": 11.99,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaguanti",
+        "name": "Guanti",
+        "path": "/cane/accessori/toelettatura/guanti/",
+        "level": 5
+      },
+      {
+        "id": "perfect-guanto-toglipelo-grooming-4292p",
+        "name": "Guanto Toglipelo per Cane",
+        "path": "/perfect-guanto-toglipelo-grooming-4292/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14608",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "513",
+    "sku": "513",
+    "gtin": "10129076",
+    "title": "Spazzola per Cani",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-grooming-spazzola-dog-513/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253305/SPAZZOLA-L.jpg?v=637511416302170000"
+    ],
+    "price": {
+      "current": 16.9,
+      "original": 16.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 844.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "513",
+        "sku": "513",
+        "gtin": "10129076",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/perfect-grooming-spazzola-dog-513/p",
+        "price": {
+          "current": 16.9,
+          "original": 16.9,
+          "pricePerUnit": {
+            "value": 844.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "perfect-grooming-spazzola-dog-513p",
+        "name": "Spazzola per Cani",
+        "path": "/perfect-grooming-spazzola-dog-513/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14610",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "12936",
+    "sku": "12936",
+    "gtin": "10138885",
+    "title": "Tagliaunghie Nail Grinder",
+    "brand": "MOSER",
+    "url": "https://www.arcaplanet.it/tagliaunghie-moser-nail-grinder-12936/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257633/tagliaunghie-moser1.jpg?v=637584077664000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257634/tagliaunghie-moser2.jpg?v=637584077722330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257635/tagliaunghie-moser3.jpg?v=637584077811500000"
+    ],
+    "price": {
+      "current": 31.99,
+      "original": 31.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1599.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12936",
+        "sku": "12936",
+        "gtin": "10138885",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tagliaunghie-moser-nail-grinder-12936/p",
+        "price": {
+          "current": 31.99,
+          "original": 31.99,
+          "pricePerUnit": {
+            "value": 1599.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/cane/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "tagliaunghie-moser-nail-grinder-12936p",
+        "name": "Tagliaunghie Nail Grinder",
+        "path": "/tagliaunghie-moser-nail-grinder-12936/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15073",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "13027",
+    "sku": "13027",
+    "gtin": "10138949",
+    "title": "Trixie Lima Unghie",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-lima-unghie-13027/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254805/trixie-taglia-unghie.jpg?v=637556452264870000"
+    ],
+    "price": {
+      "current": 25.1,
+      "original": 25.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1255,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13027",
+        "sku": "13027",
+        "gtin": "10138949",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-lima-unghie-13027/p",
+        "price": {
+          "current": 25.1,
+          "original": 25.1,
+          "pricePerUnit": {
+            "value": 1255,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/cane/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "trixie-lima-unghie-13027p",
+        "name": "Trixie Lima Unghie",
+        "path": "/trixie-lima-unghie-13027/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15165",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "14087",
+    "sku": "14087",
+    "gtin": "10139904",
+    "title": "Accappatoio per cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/accappatoio-per-cane-asciugamano-pelo-bagnato-14087/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265364/PHO_PRO_DOG_CLIP_23571-23572-23573-23574-23575-1_-SALL_-APRKU_-V1.jpg?v=637727417205300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265369/guida-taglia-cappottini.jpg?v=637727422586030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265377/cane-piccolo-bagnato-con-asciugamano.jpg?v=637727463588570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265380/Accappatoio-Tg.-S.jpg?v=637727464383530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265382/cane-bagnato-accappatoio.jpg?v=637727464755900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265386/asciuga-mani-per-cane.jpg?v=637727465225470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265387/Asciugamano.jpg?v=637727465387030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265388/Accappatoio-per-cane.jpg?v=637727465566900000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14087",
+        "sku": "14087",
+        "gtin": "10139904",
+        "title": "40CM",
+        "url": "https://www.arcaplanet.it/accappatoio-per-cane-asciugamano-pelo-bagnato-14087/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.40"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaaccappatoi",
+        "name": "Accappatoi",
+        "path": "/cane/accessori/toelettatura/accappatoi/",
+        "level": 5
+      },
+      {
+        "id": "accappatoio-per-cane-asciugamano-pelo-bagnato-14087p",
+        "name": "Accappatoio per cane",
+        "path": "/accappatoio-per-cane-asciugamano-pelo-bagnato-14087/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16237",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "16159",
+    "sku": "16159",
+    "gtin": "10155678",
+    "title": "Guanto in Microfibra",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-guanto-microfibra-16159/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278245/lovedi-guanto-in-microfibra.jpg?v=638066096958800000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 4.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 209.50000000000003,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16159",
+        "sku": "16159",
+        "gtin": "10155678",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-guanto-microfibra-16159/p",
+        "price": {
+          "current": 4.19,
+          "original": 4.19,
+          "pricePerUnit": {
+            "value": 209.50000000000003,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaguanti",
+        "name": "Guanti",
+        "path": "/cane/accessori/toelettatura/guanti/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-guanto-microfibra-16159p",
+        "name": "Guanto in Microfibra",
+        "path": "/lovedi-guanto-microfibra-16159/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18296",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18349",
+    "sku": "18349",
+    "gtin": "10153497",
+    "title": "Take Care Rimuovi Peli Block",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-rimuovi-peli-block-18349/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280776/1e5c3b87d863588060b3b7b6b5d334b3e788c684_72ef8cecf9b5414ff5cee2d0e43a5d1e67b9b5f2--1-.jpg?v=638118969940030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318301/take-care-rimuovi-peli-block-10153497.jpg.jpg?v=638769408241600000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18349",
+        "sku": "18349",
+        "gtin": "10153497",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/take-care-rimuovi-peli-block-18349/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-rimuovi-peli-block-18349p",
+        "name": "Take Care Rimuovi Peli Block",
+        "path": "/take-care-rimuovi-peli-block-18349/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20467",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18465",
+    "sku": "18465",
+    "gtin": "10151107",
+    "title": "Fit and Fun Pettine Anti Pulci",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-pettine-anti-pulci-18465/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285146/978506d5885895bd106eca4a5f6d8889230e6463_756313fb851d0088190f08034c076aa4c6bf421f.jpg?v=638193117489800000"
+    ],
+    "price": {
+      "current": 1,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18465",
+        "sku": "18465",
+        "gtin": "10151107",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-pettine-anti-pulci-18465/p",
+        "price": {
+          "current": 1,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 50,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturapettini",
+        "name": "Pettini",
+        "path": "/cane/accessori/toelettatura/pettini/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-pettine-anti-pulci-18465p",
+        "name": "Fit and Fun Pettine Anti Pulci",
+        "path": "/fit-and-fun-pettine-anti-pulci-18465/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20583",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18974",
+    "sku": "18974",
+    "gtin": "10151108",
+    "title": "Fit and Fun Pulisci Spazzola",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-pulisci-spazzola-18974/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285147/02ffb1a7a5da2364dfeab5dccef9d6cbe229dea1_b5ce4435b7d28d5288ab337df652559a0e38b0b2--1-.jpg?v=638193119393400000"
+    ],
+    "price": {
+      "current": 0.5,
+      "original": 0.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25,
+        "unit": "none"
+      },
+      "discountPercentage": 49
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18974",
+        "sku": "18974",
+        "gtin": "10151108",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-pulisci-spazzola-18974/p",
+        "price": {
+          "current": 0.5,
+          "original": 0.99,
+          "pricePerUnit": {
+            "value": 25,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-pulisci-spazzola-18974p",
+        "name": "Fit and Fun Pulisci Spazzola",
+        "path": "/fit-and-fun-pulisci-spazzola-18974/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21092",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18980",
+    "sku": "18980",
+    "gtin": "10151086",
+    "title": "Tagliaunghie",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/tagliaunghie-18980/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285136/1296577.jpg?v=638193099902300000"
+    ],
+    "price": {
+      "current": 5.5,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 275,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18980",
+        "sku": "18980",
+        "gtin": "10151086",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/tagliaunghie-18980/p",
+        "price": {
+          "current": 5.5,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 275,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/cane/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "tagliaunghie-18980p",
+        "name": "Tagliaunghie",
+        "path": "/tagliaunghie-18980/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21098",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18983",
+    "sku": "18983",
+    "gtin": "10151073",
+    "title": "Take Care Spazzola Morbida",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-morbida-18983/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285035/f20605caeb9235c17742d5f1aa7d6630315f54c3_cf058b7cfd2a1c7dbb9eb03edd0b6a96360fb1ce.jpg?v=638191487593170000"
+    ],
+    "price": {
+      "current": 13.49,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 674.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18983",
+        "sku": "18983",
+        "gtin": "10151073",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-morbida-18983/p",
+        "price": {
+          "current": 13.49,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 674.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "M"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-morbida-18983p",
+        "name": "Take Care Spazzola Morbida",
+        "path": "/take-care-spazzola-morbida-18983/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21101",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18984",
+    "sku": "18984",
+    "gtin": "10151083",
+    "title": "Take Care Forbici per Occhi & Orecchie",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-forbici-per-occhi---orecchie-18984/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285517/9f2055c8a24cc729a42ef0a787d2dba57d2faccb_eebaaa9256c49e6a621e13092c1280bceccac643.jpg?v=638197432892930000"
+    ],
+    "price": {
+      "current": 14.49,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 724.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18984",
+        "sku": "18984",
+        "gtin": "10151083",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-forbici-per-occhi---orecchie-18984/p",
+        "price": {
+          "current": 14.49,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 724.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaforbici",
+        "name": "Forbici",
+        "path": "/cane/accessori/toelettatura/forbici/",
+        "level": 5
+      },
+      {
+        "id": "take-care-forbici-per-occhi---orecchie-18984p",
+        "name": "Take Care Forbici per Occhi & Orecchie",
+        "path": "/take-care-forbici-per-occhi---orecchie-18984/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21102",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18989",
+    "sku": "18989",
+    "gtin": "10151084",
+    "title": "Take Care Forbici per Sfoltire",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/forbici-per-sfoltire-18989/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285134/1296575.jpg?v=638193091182400000"
+    ],
+    "price": {
+      "current": 14.49,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 724.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18989",
+        "sku": "18989",
+        "gtin": "10151084",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/forbici-per-sfoltire-18989/p",
+        "price": {
+          "current": 14.49,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 724.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaforbici",
+        "name": "Forbici",
+        "path": "/cane/accessori/toelettatura/forbici/",
+        "level": 5
+      },
+      {
+        "id": "forbici-per-sfoltire-18989p",
+        "name": "Take Care Forbici per Sfoltire",
+        "path": "/forbici-per-sfoltire-18989/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21107",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18990",
+    "sku": "18990",
+    "gtin": "10151085",
+    "title": "Rastrello Sottopelo",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/rastrello-sottopelo-18990/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285135/1296576.jpg?v=638193095380970000"
+    ],
+    "price": {
+      "current": 5.75,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 287.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18990",
+        "sku": "18990",
+        "gtin": "10151085",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/rastrello-sottopelo-18990/p",
+        "price": {
+          "current": 5.75,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 287.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "rastrello-sottopelo-18990p",
+        "name": "Rastrello Sottopelo",
+        "path": "/rastrello-sottopelo-18990/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21108",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18993",
+    "sku": "18993",
+    "gtin": "10151109",
+    "title": "Fit and Fun Spazzola per Cane",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-spazzola-per-cane-18993/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285148/28cfca381c3262e0be5edb55fd5e9a437a348884_07af2147fb95fe60790721f7a33296edf806c00c.jpg?v=638193121293270000"
+    ],
+    "price": {
+      "current": 1.5,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 75,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18993",
+        "sku": "18993",
+        "gtin": "10151109",
+        "title": "19CM",
+        "url": "https://www.arcaplanet.it/fit-and-fun-spazzola-per-cane-18993/p",
+        "price": {
+          "current": 1.5,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-spazzola-per-cane-18993p",
+        "name": "Fit and Fun Spazzola per Cane",
+        "path": "/fit-and-fun-spazzola-per-cane-18993/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21111",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "19025",
+    "sku": "19025",
+    "gtin": "10151058",
+    "title": "Take Care Pettine Anti Pulci",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-pettine-anti-pulci-19025/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285028/1364b51d9be0c32d96d19becc1c9266b3a1b0993_234768b5bd8a22d3b0e6196647911507bb5a71f7--1-.jpg?v=638191468166170000"
+    ],
+    "price": {
+      "current": 3.5,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 175,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19025",
+        "sku": "19025",
+        "gtin": "10151058",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-pettine-anti-pulci-19025/p",
+        "price": {
+          "current": 3.5,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturapettini",
+        "name": "Pettini",
+        "path": "/cane/accessori/toelettatura/pettini/",
+        "level": 5
+      },
+      {
+        "id": "take-care-pettine-anti-pulci-19025p",
+        "name": "Take Care Pettine Anti Pulci",
+        "path": "/take-care-pettine-anti-pulci-19025/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21143",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "19026",
+    "sku": "19026",
+    "gtin": "10151059",
+    "title": "Take Care Tagliaunghie",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-tagliaunghie-19026/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285029/73bd6a223134f6eba5e587c24c111fec03e47e11_5b64c5d6b07cbb3bf0dc514278739f5a9254a0e7--1-.jpg?v=638191473492970000"
+    ],
+    "price": {
+      "current": 4,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 200,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19026",
+        "sku": "19026",
+        "gtin": "10151059",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/take-care-tagliaunghie-19026/p",
+        "price": {
+          "current": 4,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 200,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturatagliaunghie",
+        "name": "Tagliaunghie",
+        "path": "/cane/accessori/toelettatura/tagliaunghie/",
+        "level": 5
+      },
+      {
+        "id": "take-care-tagliaunghie-19026p",
+        "name": "Take Care Tagliaunghie",
+        "path": "/take-care-tagliaunghie-19026/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21144",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18978",
+    "sku": "18978",
+    "gtin": "10151072",
+    "title": "Take Care Spazzola Sottopelo",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-sottopelo-18978/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285034/7847c11503edead9c5d9792e3e105b1bca92efb8_e8b34586d46a110e4675cfe504e25f5ee816fb9a.jpg?v=638191485194170000"
+    ],
+    "price": {
+      "current": 6.75,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 337.5,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18978",
+        "sku": "18978",
+        "gtin": "10151072",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-sottopelo-18978/p",
+        "price": {
+          "current": 6.75,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 337.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-sottopelo-18978p",
+        "name": "Take Care Spazzola Sottopelo",
+        "path": "/take-care-spazzola-sottopelo-18978/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21151",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "19076",
+    "sku": "19076",
+    "gtin": "10151044",
+    "title": "Take Care Spazzola Pro Ionic",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-pro-ionic-19076/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284899/b11b953fcd903769eb0612922045d22362c3134f_34d47a2cfba8e1dedecff5ead92676bda28be22e--1-.jpg?v=638188885106970000"
+    ],
+    "price": {
+      "current": 9,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 450,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19076",
+        "sku": "19076",
+        "gtin": "10151044",
+        "title": "25MM",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-pro-ionic-19076/p",
+        "price": {
+          "current": 9,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 450,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-pro-ionic-19076p",
+        "name": "Take Care Spazzola Pro Ionic",
+        "path": "/take-care-spazzola-pro-ionic-19076/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "19542",
+    "sku": "19542",
+    "gtin": "10151040",
+    "title": "Take Care Spazzola in Legno",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-in-legno-19542/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284897/82398cf5074662730084dd6b4d1cada4daa2e6ed_b6f31ba1faa9cb43f464c1e307846a01f1c59ea6.jpg?v=638188881053000000"
+    ],
+    "price": {
+      "current": 7,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 350,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19542",
+        "sku": "19542",
+        "gtin": "10151040",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-in-legno-19542/p",
+        "price": {
+          "current": 7,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 350,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-in-legno-19542p",
+        "name": "Take Care Spazzola in Legno",
+        "path": "/take-care-spazzola-in-legno-19542/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21660",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "19543",
+    "sku": "19543",
+    "gtin": "10151057",
+    "title": "Take Care Pettine con Denti Arrotondati",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-pettine-con-denti-arrotondati-19543/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285027/49389043c08b0f6d195a8a0dd4bb4cce7302e69b_f6b513c231ce39fb045954d684753155bf1934c0--1-.jpg?v=638191466442930000"
+    ],
+    "price": {
+      "current": 5,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 250,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19543",
+        "sku": "19543",
+        "gtin": "10151057",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/take-care-pettine-con-denti-arrotondati-19543/p",
+        "price": {
+          "current": 5,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 250,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturapettini",
+        "name": "Pettini",
+        "path": "/cane/accessori/toelettatura/pettini/",
+        "level": 5
+      },
+      {
+        "id": "take-care-pettine-con-denti-arrotondati-19543p",
+        "name": "Take Care Pettine con Denti Arrotondati",
+        "path": "/take-care-pettine-con-denti-arrotondati-19543/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21661",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "18886",
+    "sku": "18886",
+    "gtin": "10151077",
+    "title": "Take Care Spazzola Morbida Ovale 2in1",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-spazzola-morbida-ovale-2in1-18886/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285039/f996e9a253c58f2fbec5c8f6b509ed3a829cfa5d_0e92c47ce0957404f580fc382f0aa50caa50fec2.jpg?v=638191491702600000"
+    ],
+    "price": {
+      "current": 14.49,
+      "original": 14.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 724.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "18886",
+        "sku": "18886",
+        "gtin": "10151077",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/take-care-spazzola-morbida-ovale-2in1-18886/p",
+        "price": {
+          "current": 14.49,
+          "original": 14.49,
+          "pricePerUnit": {
+            "value": 724.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "L"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "take-care-spazzola-morbida-ovale-2in1-18886p",
+        "name": "Take Care Spazzola Morbida Ovale 2in1",
+        "path": "/take-care-spazzola-morbida-ovale-2in1-18886/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21663",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "20686",
+    "sku": "20686",
+    "gtin": "10166229",
+    "title": "Pettine Pulci per Cuccioli Baby Collection",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pettine-pulci-per-cuccioli-baby-collection-20686/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280525/lovedi-pettine-pulci-per-cuccioli-baby-collection.jpg?v=638115458001770000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20686",
+        "sku": "20686",
+        "gtin": "10166229",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-pettine-pulci-per-cuccioli-baby-collection-20686/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturapettini",
+        "name": "Pettini",
+        "path": "/cane/accessori/toelettatura/pettini/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-pettine-pulci-per-cuccioli-baby-collection-20686p",
+        "name": "Pettine Pulci per Cuccioli Baby Collection",
+        "path": "/lovedi-pettine-pulci-per-cuccioli-baby-collection-20686/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22804",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "20688",
+    "sku": "20688",
+    "gtin": "10166228",
+    "title": "Spazzola Bi-setole per Cuccioli  Baby Collection",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280512/lovedi-spazzola-bisetole-per-cucciolo-baby-collection.jpg?v=638115451621930000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20688",
+        "sku": "20688",
+        "gtin": "10166228",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688p",
+        "name": "Spazzola Bi-setole per Cuccioli  Baby Collection",
+        "path": "/lovedi-spazzola-bisetole-per-cucciolo-baby-collection-20688/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22806",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "20689",
+    "sku": "20689",
+    "gtin": "10166226",
+    "title": "Cardatore Morbido per Cuccioli Baby Collection",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cardatore-morbido-per-cuccioli-baby-collection-20689/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280419/lovedi-cardatore-morbido-per-cuccioli-baby-collection.jpg?v=638115368389100000"
+    ],
+    "price": {
+      "current": 11.49,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 574.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20689",
+        "sku": "20689",
+        "gtin": "10166226",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-cardatore-morbido-per-cuccioli-baby-collection-20689/p",
+        "price": {
+          "current": 11.49,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 574.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XS",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/cane/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-cardatore-morbido-per-cuccioli-baby-collection-20689p",
+        "name": "Cardatore Morbido per Cuccioli Baby Collection",
+        "path": "/lovedi-cardatore-morbido-per-cuccioli-baby-collection-20689/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22807",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "20701",
+    "sku": "20701",
+    "gtin": "10166288",
+    "title": "Spazzola Adesiva 50 Strappi",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-50-strappi-20701/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287836/Basic1.jpg?v=638235383728130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287837/Basic2WBG.jpg?v=638235383880500000"
+    ],
+    "price": {
+      "current": 2.6,
+      "original": 2.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 130,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20701",
+        "sku": "20701",
+        "gtin": "10166288",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-adesiva-50-strappi-20701/p",
+        "price": {
+          "current": 2.6,
+          "original": 2.6,
+          "pricePerUnit": {
+            "value": 130,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/cane/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-adesiva-50-strappi-20701p",
+        "name": "Spazzola Adesiva 50 Strappi",
+        "path": "/lovedi-spazzola-adesiva-50-strappi-20701/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22818",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "22931",
+    "sku": "22931",
+    "gtin": "10170514",
+    "title": "Moser Tagliaunghie per Cane",
+    "brand": "MOSER",
+    "url": "https://www.arcaplanet.it/moser-tagliaunghie-per-cane-22931/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292781/Moser-Tagliaunghie-per-Cane-10170514.jpg?v=638373844700200000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22931",
+        "sku": "22931",
+        "gtin": "10170514",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/moser-tagliaunghie-per-cane-22931/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaforbici",
+        "name": "Forbici",
+        "path": "/cane/accessori/toelettatura/forbici/",
+        "level": 5
+      },
+      {
+        "id": "moser-tagliaunghie-per-cane-22931p",
+        "name": "Moser Tagliaunghie per Cane",
+        "path": "/moser-tagliaunghie-per-cane-22931/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24940",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "22942",
+    "sku": "22942",
+    "gtin": "10170508",
+    "title": "Moser Spazzola Cardatrice Premium",
+    "brand": "MOSER",
+    "url": "https://www.arcaplanet.it/moser-spazzola-cardatrice-premium-22942/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292795/Moser-Spazzola-Cardatrice-Premium-a-Doppio-Lato-10170508.jpg?v=638374554185200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292796/Moser-Spazzola-Cardatrice-Premium-a-Doppio-Lato-10170508.jpg?v=638374554703230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292797/Moser-Spazzola-Cardatrice-Premium-a-Doppio-Lato-10170508.jpg?v=638374554782730000"
+    ],
+    "price": {
+      "current": 16.99,
+      "original": 16.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 849.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22942",
+        "sku": "22942",
+        "gtin": "10170508",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/moser-spazzola-cardatrice-premium-22942/p",
+        "price": {
+          "current": 16.99,
+          "original": 16.99,
+          "pricePerUnit": {
+            "value": 849.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturacardatori",
+        "name": "Cardatori",
+        "path": "/cane/accessori/toelettatura/cardatori/",
+        "level": 5
+      },
+      {
+        "id": "moser-spazzola-cardatrice-premium-22942p",
+        "name": "Moser Spazzola Cardatrice Premium",
+        "path": "/moser-spazzola-cardatrice-premium-22942/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "24951",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "23434",
+    "sku": "23434",
+    "gtin": "10173391",
+    "title": "Vileda Pet Pro Panno in Microfibra",
+    "brand": "VILEDA",
+    "url": "https://www.arcaplanet.it/vileda-pet-pro-panno-in-microfibra--23434/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296688/vileda-pet-pro-panno-in-microfibra-10173391.jpg?v=638455072019600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295755/vileda-pet-pro-panno-in-microfibra-10173391--1-.jpg?v=638447293376900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295756/vileda-pet-pro-panno-in-microfibra-10173391--2-.jpg?v=638447293471170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295757/vileda-pet-pro-panno-in-microfibra-10173391--3-.jpg?v=638447293755400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295758/vileda-pet-pro-panno-in-microfibra-10173391--4-.jpg?v=638447293877270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295759/vileda-pet-pro-panno-in-microfibra-10173391--5-.jpg?v=638447297524670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295760/vileda-pet-pro-panno-in-microfibra-10173391--6-.jpg?v=638447297643070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/295761/vileda-pet-pro-panno-in-microfibra-10173391--7-.jpg?v=638447297750600000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 269.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23434",
+        "sku": "23434",
+        "gtin": "10173391",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/vileda-pet-pro-panno-in-microfibra--23434/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 269.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaaccappatoi",
+        "name": "Accappatoi",
+        "path": "/cane/accessori/toelettatura/accappatoi/",
+        "level": 5
+      },
+      {
+        "id": "vileda-pet-pro-panno-in-microfibra--23434p",
+        "name": "Vileda Pet Pro Panno in Microfibra",
+        "path": "/vileda-pet-pro-panno-in-microfibra--23434/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25445",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  },
+  {
+    "id": "25442",
+    "sku": "25442",
+    "gtin": "10175709",
+    "title": "Perfect Rullo Rimuovi Peli",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-rullo-rimuovi-peli-25442/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314148/Perfect-Rullo-Rimuovi-Peli-10175709-1.jpg?v=638720317641870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/314149/Perfect-Rullo-Rimuovi-Peli-10175709-2.jpg?v=638720317784330000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25442",
+        "sku": "25442",
+        "gtin": "10175709",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/perfect-rullo-rimuovi-peli-25442/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/cane/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoritoelettaturaspazzole-adesive",
+        "name": "Spazzole Adesive",
+        "path": "/cane/accessori/toelettatura/spazzole-adesive/",
+        "level": 5
+      },
+      {
+        "id": "perfect-rullo-rimuovi-peli-25442p",
+        "name": "Perfect Rullo Rimuovi Peli",
+        "path": "/perfect-rullo-rimuovi-peli-25442/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "27453",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:34:12.427Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/accessori/toelettatura/"
+  }
+]

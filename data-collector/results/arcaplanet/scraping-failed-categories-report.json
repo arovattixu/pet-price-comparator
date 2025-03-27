@@ -1,0 +1,64 @@
+{
+  "totalProducts": 418,
+  "categories": {
+    "cane/accessori/ciotole-e-dispenser": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/igiene/manto-e-cute": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "cane/igiene/orale": {
+      "status": "success",
+      "productsCount": 34
+    },
+    "cane/igiene/portasacchetti": {
+      "status": "success",
+      "productsCount": 23
+    },
+    "cane/antiparassitari-e-curativi/integratori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/sabbie/agglomerante": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/sabbie/assorbente": {
+      "status": "success",
+      "productsCount": 27
+    },
+    "gatto/sabbie/vegetale": {
+      "status": "success",
+      "productsCount": 29
+    },
+    "gatto/sabbie/silicio": {
+      "status": "success",
+      "productsCount": 11
+    },
+    "gatto/accessori/ciotole-e-dispenser": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/accessori/cucce-e-lettini": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "gatto/toilette-e-accessori/palette": {
+      "status": "success",
+      "productsCount": 14
+    },
+    "gatto/antiparassitari-e-curativi/integratori": {
+      "status": "success",
+      "productsCount": 40
+    },
+    "piccoli-animali/rettili/mangime": {
+      "status": "failed",
+      "error": "Nessun prodotto recuperato con entrambi gli approcci"
+    }
+  },
+  "startTime": "2025-03-23T21:31:22.871Z",
+  "endTime": "2025-03-23T21:43:54.470Z",
+  "elapsedSeconds": 752
+}

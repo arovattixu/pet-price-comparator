@@ -1,0 +1,4091 @@
+[
+  {
+    "id": "1122",
+    "sku": "1122",
+    "gtin": "10130261",
+    "title": "Lovedì Filtri di Ricambio Fontana Niagara Ocean",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-filtri-ricambio-fontana-ocean-gatto-pz-2-1122/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254463/lovedi-filtri-fontana-ocean-niagara-2pz.jpg?v=637551957330300000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1122",
+        "sku": "1122",
+        "gtin": "10130261",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/lovedi-filtri-ricambio-fontana-ocean-gatto-pz-2-1122/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserricambi",
+        "name": "Ricambi",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ricambi/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-filtri-ricambio-fontana-ocean-gatto-pz-2-1122p",
+        "name": "Lovedì Filtri di Ricambio Fontana Niagara Ocean",
+        "path": "/lovedi-filtri-ricambio-fontana-ocean-gatto-pz-2-1122/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1079",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "1266",
+    "sku": "1266",
+    "gtin": "10057367",
+    "title": "KONG Naturals Catnip Spray",
+    "brand": "KONG",
+    "url": "https://www.arcaplanet.it/kong-catnip-spray-gatto-1266/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255920/Naturals-Catnip-Spray-002.jpg?v=637565213308770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255921/Naturals-Catnip-Spray-001.jpg?v=637565213436000000"
+    ],
+    "price": {
+      "current": 8.54,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 426.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1266",
+        "sku": "1266",
+        "gtin": "10057367",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/kong-catnip-spray-gatto-1266/p",
+        "price": {
+          "current": 8.54,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 426.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "kong-catnip-spray-gatto-1266p",
+        "name": "KONG Naturals Catnip Spray",
+        "path": "/kong-catnip-spray-gatto-1266/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1223",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "4483",
+    "sku": "4483",
+    "gtin": "10069068",
+    "title": "Camon Gioco Topino Peluche Coda Corda",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-gatto-gioco-topino-peluche-coda-corda-cm-7-4483/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223638/camon-gatto-gioco-topino-peluche-coda-corda.jpg?v=637454734256430000"
+    ],
+    "price": {
+      "current": 2.6,
+      "original": 2.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 130,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4483",
+        "sku": "4483",
+        "gtin": "10069068",
+        "title": "CM.7",
+        "url": "https://www.arcaplanet.it/camon-gatto-gioco-topino-peluche-coda-corda-cm-7-4483/p",
+        "price": {
+          "current": 2.6,
+          "original": 2.6,
+          "pricePerUnit": {
+            "value": 130,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.7"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipeluches",
+        "name": "Peluches",
+        "path": "/gatto/accessori/giochi/peluches/",
+        "level": 5
+      },
+      {
+        "id": "camon-gatto-gioco-topino-peluche-coda-corda-cm-7-4483p",
+        "name": "Camon Gioco Topino Peluche Coda Corda",
+        "path": "/camon-gatto-gioco-topino-peluche-coda-corda-cm-7-4483/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "9417",
+    "sku": "9417",
+    "gtin": "10110644",
+    "title": "Cuccia Amaca per Calorifero",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes--gatto-cuccia-per-calorifero-48x30x26-9417/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209724/YES--Cuccia-per-gatti-da-calorifero-Jane.jpg?v=637413990927830000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9417",
+        "sku": "9417",
+        "gtin": "10110644",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/yes--gatto-cuccia-per-calorifero-48x30x26-9417/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/gatto/accessori/cucce-e-lettini/",
+        "level": 4
+      },
+      {
+        "id": "yes--gatto-cuccia-per-calorifero-48x30x26-9417p",
+        "name": "Cuccia Amaca per Calorifero",
+        "path": "/yes--gatto-cuccia-per-calorifero-48x30x26-9417/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9235",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "13057",
+    "sku": "13057",
+    "gtin": "00044126",
+    "title": "Borsa porta Snack",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271099/trixie-borsa-porta-snack-grigia.jpg?v=637862228322630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271100/trixie-borsa-porta-snack-rosa.jpg?v=637862228434700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271102/trixie-borsa-porta-snack-verde.jpg?v=637862372582600000"
+    ],
+    "price": {
+      "current": 4.55,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 227.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13057",
+        "sku": "13057",
+        "gtin": "00044126",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/borsa-porta-snack-13057/p",
+        "price": {
+          "current": 4.55,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 227.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "borsa-porta-snack-13057p",
+        "name": "Borsa porta Snack",
+        "path": "/borsa-porta-snack-13057/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "13872",
+    "sku": "13872",
+    "gtin": "10139690",
+    "title": "Sottociotola Gattone",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-sottociotola-gattone-13872/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266456/trixie-sottociotola-gattone-grigio.jpg?v=637769972539270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266457/trixie-sottociotola-gattone.jpg?v=637769972695400000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13872",
+        "sku": "13872",
+        "gtin": "10139690",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-sottociotola-gattone-13872/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispensersottociotole",
+        "name": "Sottociotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/sottociotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-sottociotola-gattone-13872p",
+        "name": "Sottociotola Gattone",
+        "path": "/trixie-sottociotola-gattone-13872/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16009",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "13873",
+    "sku": "13873",
+    "gtin": "10139692",
+    "title": "Ciotola in Ceramica Grigia",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-ciotola-ceramica-grigia-250ml-13873/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266458/trixie-ciotola-ceramica-grigio-250ml.jpg?v=637769995987900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266459/trixie-ciotola-ceramica-grigio-250ml-13cm.jpg?v=637769996111200000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 274.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13873",
+        "sku": "13873",
+        "gtin": "10139692",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/trixie-ciotola-ceramica-grigia-250ml-13873/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 274.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-ciotola-ceramica-grigia-250ml-13873p",
+        "name": "Ciotola in Ceramica Grigia",
+        "path": "/trixie-ciotola-ceramica-grigia-250ml-13873/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16010",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "13874",
+    "sku": "13874",
+    "gtin": "10139693",
+    "title": "Ciotola in Ceramica Rialzata Ciclamino",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-ciotola-per-gatto-ceramica-rialzata-ciclamino-13874/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270453/trixie-ciotola-in-ceramica-ciclamino.jpg?v=637848357231200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270454/trixie-ciotola-in-ceramica-colore-ciclamino.jpg?v=637848357350530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270455/trixie-ciotola-in-ceramica-ciclamino-profilo.jpg?v=637848357820930000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13874",
+        "sku": "13874",
+        "gtin": "10139693",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/trixie-ciotola-per-gatto-ceramica-rialzata-ciclamino-13874/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-ciotola-per-gatto-ceramica-rialzata-ciclamino-13874p",
+        "name": "Ciotola in Ceramica Rialzata Ciclamino",
+        "path": "/trixie-ciotola-per-gatto-ceramica-rialzata-ciclamino-13874/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16011",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "13876",
+    "sku": "13876",
+    "gtin": "10139707",
+    "title": "Ciotola Slow Feed",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-ciotola-slow-feed-13876/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265820/trixie-ciotola-in-ceramica-slow-feed-bianca.jpg?v=637740432127770000"
+    ],
+    "price": {
+      "current": 10.55,
+      "original": 10.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 527.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13876",
+        "sku": "13876",
+        "gtin": "10139707",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/trixie-ciotola-slow-feed-13876/p",
+        "price": {
+          "current": 10.55,
+          "original": 10.55,
+          "pricePerUnit": {
+            "value": 527.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-ciotola-slow-feed-13876p",
+        "name": "Ciotola Slow Feed",
+        "path": "/trixie-ciotola-slow-feed-13876/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16013",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "14171",
+    "sku": "14171",
+    "gtin": "10139970",
+    "title": "Bidone Porta Crocchette Happy Kibble",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265647/yes-bidone-porta-crocchette-happy-kibble-s.jpg?v=637734284037100000"
+    ],
+    "price": {
+      "current": 21.49,
+      "original": 21.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1074.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "14171",
+        "sku": "14171",
+        "gtin": "10139970",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "price": {
+          "current": 21.49,
+          "original": 21.49,
+          "pricePerUnit": {
+            "value": 1074.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "S"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/gatto/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserporta-crocchette",
+        "name": "Porta Crocchette",
+        "path": "/cane/accessori/ciotole-e-dispenser/porta-crocchette/",
+        "level": 5
+      },
+      {
+        "id": "yes-bidone-porta-crocchette-happy-kibble-14171p",
+        "name": "Bidone Porta Crocchette Happy Kibble",
+        "path": "/yes-bidone-porta-crocchette-happy-kibble-14171/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16308",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "14487",
+    "sku": "14487",
+    "gtin": "10140255",
+    "title": "Ciotola in Ceramica Bianca",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-ciotola-per-gatto-ceramica-bianco-14487/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270470/trixie-ciotola-in-ceramica-bianco.jpg?v=637848390048830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270472/trixie-ciotola-bianco-in-ceramica.jpg?v=638748712935370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270482/trixie-ciotola-bianca.jpg?v=638748712935530000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14487",
+        "sku": "14487",
+        "gtin": "10140255",
+        "title": "400ML",
+        "url": "https://www.arcaplanet.it/trixie-ciotola-per-gatto-ceramica-bianco-14487/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "400ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "trixie-ciotola-per-gatto-ceramica-bianco-14487p",
+        "name": "Ciotola in Ceramica Bianca",
+        "path": "/trixie-ciotola-per-gatto-ceramica-bianco-14487/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16624",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15264",
+    "sku": "15264",
+    "gtin": "10139236",
+    "title": "Gioco Gatto  Euphoria Palla Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-palla-catnip-15264/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271976/GIOCO-GATTO-EUPHORIA-PALLA-CATNIP.jpg?v=637896079269970000"
+    ],
+    "price": {
+      "current": 3.65,
+      "original": 3.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 182.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15264",
+        "sku": "15264",
+        "gtin": "10139236",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-euphoria-palla-catnip-15264/p",
+        "price": {
+          "current": 3.65,
+          "original": 3.65,
+          "pricePerUnit": {
+            "value": 182.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-euphoria-palla-catnip-15264p",
+        "name": "Gioco Gatto  Euphoria Palla Catnip",
+        "path": "/gioco-gatto-euphoria-palla-catnip-15264/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17401",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15271",
+    "sku": "15271",
+    "gtin": "10139243",
+    "title": "Gioco per Gatti Euphoria Sfera con Catnip",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271983/croci-euphoria-sfera-con-palla-catnip.jpg?v=637896651824330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271984/croci-euphoria-sfera-con-palla-catnip-gioco.jpg?v=637896651974000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271985/croci-sfera-euphoria-catnip.jpg?v=637896652137730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271986/croci-gioco-per-gatto-euphoria.jpg?v=637896652298230000"
+    ],
+    "price": {
+      "current": 5.59,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 279.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15271",
+        "sku": "15271",
+        "gtin": "10139243",
+        "title": "CM.8",
+        "url": "https://www.arcaplanet.it/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+        "price": {
+          "current": 5.59,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 279.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.8"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271p",
+        "name": "Gioco per Gatti Euphoria Sfera con Catnip",
+        "path": "/croci-gioco-per-gatto-euphoria-sfera-con-catnip-15271/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17408",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15272",
+    "sku": "15272",
+    "gtin": "10139244",
+    "title": "Bastoncini per Gatti Euphoria con Silvervine",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271987/croci-euphoria-stick-silvervine-5-pz.jpg?v=637896663247430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271988/croci-euphoria-stick-silvervine-gatto.jpg?v=637896663349100000"
+    ],
+    "price": {
+      "current": 1.84,
+      "original": 2.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 92,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15272",
+        "sku": "15272",
+        "gtin": "10139244",
+        "title": "5 PZ",
+        "url": "https://www.arcaplanet.it/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+        "price": {
+          "current": 1.84,
+          "original": 2.3,
+          "pricePerUnit": {
+            "value": 92,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272p",
+        "name": "Bastoncini per Gatti Euphoria con Silvervine",
+        "path": "/croci-bastoncini-per-gatti-euphoria-con-silvervine-5pz-15272/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17409",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15455",
+    "sku": "15455",
+    "gtin": "10060862",
+    "title": "Gioco Gatto Topo Per Stipiti Porte",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/gioco-gatto-topo--per-stipiti-porte-15455/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273003/TX-GIOCO-GATTO-TOPO-PER-STIPITI-DI-PORTE-CM.8---19.jpg?v=637919129776830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279139/trixie-gioco-gatto-topo.jpg?v=638101524896630000"
+    ],
+    "price": {
+      "current": 3.6,
+      "original": 3.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 180,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15455",
+        "sku": "15455",
+        "gtin": "10060862",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-topo--per-stipiti-porte-15455/p",
+        "price": {
+          "current": 3.6,
+          "original": 3.6,
+          "pricePerUnit": {
+            "value": 180,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-topo--per-stipiti-porte-15455p",
+        "name": "Gioco Gatto Topo Per Stipiti Porte",
+        "path": "/gioco-gatto-topo--per-stipiti-porte-15455/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17592",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15472",
+    "sku": "15472",
+    "gtin": "10139436",
+    "title": "Gioco Gatto Canna Da Pesca Con Pesce CM.42",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273114/LOVEDI-GIOCO-GATTO-CANNA-DA-PESCA-CON-PESCE-CM.42.jpg?v=637921027967030000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15472",
+        "sku": "15472",
+        "gtin": "10139436",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472p",
+        "name": "Gioco Gatto Canna Da Pesca Con Pesce CM.42",
+        "path": "/gioco-gatto-canna-da-pesca-con-pesce-cm-42-15472/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17609",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "15491",
+    "sku": "15491",
+    "gtin": "10077191",
+    "title": "Gioco Bacchetta per Gatto con Topini",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273144/croci-gioco-gatto-topini.jpg?v=637921882035730000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15491",
+        "sku": "15491",
+        "gtin": "10077191",
+        "title": "CM.40",
+        "url": "https://www.arcaplanet.it/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 3.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.40"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochibacchette-e-topini",
+        "name": "Bacchette e Topini",
+        "path": "/gatto/accessori/giochi/bacchette-e-topini/",
+        "level": 5
+      },
+      {
+        "id": "croci-gioco-bacchetta-per-gatto-con-topini-15491p",
+        "name": "Gioco Bacchetta per Gatto con Topini",
+        "path": "/croci-gioco-bacchetta-per-gatto-con-topini-15491/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17628",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "16288",
+    "sku": "16288",
+    "gtin": "10155800",
+    "title": "Ciotola Modern Bianca",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276599/luna-e-teo-ciotola-modern-bianca.jpg?v=638034341429300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276600/luna-e-teo-ciotola-modern-bianca-view.jpg?v=638034341796100000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16288",
+        "sku": "16288",
+        "gtin": "10155800",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-bianca-16288p",
+        "name": "Ciotola Modern Bianca",
+        "path": "/luna-e-teo-ciotola-modern-bianca-16288/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18426",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "16291",
+    "sku": "16291",
+    "gtin": "10155801",
+    "title": "Ciotola Modern Azzurra",
+    "brand": "Luna e Teo",
+    "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276595/luna-e-teo-ciotola-modern-azzurra.jpg?v=638034309577730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276605/luna-e-teo-ciotola-modern-azzurra-view.jpg?v=638034346231900000"
+    ],
+    "price": {
+      "current": 17.49,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 17.49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16291",
+        "sku": "16291",
+        "gtin": "10155801",
+        "title": "850ML",
+        "url": "https://www.arcaplanet.it/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "price": {
+          "current": 17.49,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 17.49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "850ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneaccessori",
+        "name": "Accessori",
+        "path": "/cane/accessori/",
+        "level": 3
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/cane/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "caneaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/cane/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "luna-e-teo-ciotola-modern-azzurra-16291p",
+        "name": "Ciotola Modern Azzurra",
+        "path": "/luna-e-teo-ciotola-modern-azzurra-16291/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18429",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "16609",
+    "sku": "16609",
+    "gtin": "10153330",
+    "title": "Fit+Fun Letto Teddy",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-fun-letto-teddy-16609/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278613/Teddy-grigio.jpg?v=638088607889100000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16609",
+        "sku": "16609",
+        "gtin": "10153330",
+        "title": "GRIGIO",
+        "url": "https://www.arcaplanet.it/fit-fun-letto-teddy-16609/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA",
+            "Color": "GRIGIO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/gatto/accessori/cucce-e-lettini/",
+        "level": 4
+      },
+      {
+        "id": "fit-fun-letto-teddy-16609p",
+        "name": "Fit+Fun Letto Teddy",
+        "path": "/fit-fun-letto-teddy-16609/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      }
+    ],
+    "metadata": {
+      "groupId": "18730",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "17488",
+    "sku": "17488",
+    "gtin": "10149227",
+    "title": "Gioco Gatto Pallina Piume",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/gioco-gatto-pallina-piume-17488/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285122/1270566.jpg?v=638192326625500000"
+    ],
+    "price": {
+      "current": 0.58,
+      "original": 1.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.999999999999996,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17488",
+        "sku": "17488",
+        "gtin": "10149227",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-pallina-piume-17488/p",
+        "price": {
+          "current": 0.58,
+          "original": 1.15,
+          "pricePerUnit": {
+            "value": 28.999999999999996,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-pallina-piume-17488p",
+        "name": "Gioco Gatto Pallina Piume",
+        "path": "/gioco-gatto-pallina-piume-17488/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "19606",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "17927",
+    "sku": "17927",
+    "gtin": "10150332",
+    "title": "Anione Gioco Topo con Pelo",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-gioco-topo-con-pelo-17927/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284702/050fa06b376556dc0e616638ded72340ff46fc2f_ccb740417ee0d5979fc38ac300651c99b9678575--1-.jpg?v=638186157493700000"
+    ],
+    "price": {
+      "current": 1.59,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 79.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17927",
+        "sku": "17927",
+        "gtin": "10150332",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-gioco-topo-con-pelo-17927/p",
+        "price": {
+          "current": 1.59,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 79.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipeluches",
+        "name": "Peluches",
+        "path": "/gatto/accessori/giochi/peluches/",
+        "level": 5
+      },
+      {
+        "id": "anione-gioco-topo-con-pelo-17927p",
+        "name": "Anione Gioco Topo con Pelo",
+        "path": "/anione-gioco-topo-con-pelo-17927/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20045",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18014",
+    "sku": "18014",
+    "gtin": "10149191",
+    "title": "Fit and Fun Cat Palline Riccio",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-palline-riccio-18014/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285845/52dd0a195d4a952e0dcbf1f28c362ee2b3cd04c9_6ef9ba345838975c17858a53068f9da93007ada9.jpg?v=638199266479770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318899/fit-and-fun-palline-riccio-10149191 -1-.jpg.jpg?v=638778160441270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318900/fit-and-fun-palline-riccio-10149191 -2-.jpg.jpg?v=638778160441430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318901/fit-and-fun-palline-riccio-10149191 -3-.jpg.jpg?v=638778160441570000"
+    ],
+    "price": {
+      "current": 2,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 100,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18014",
+        "sku": "18014",
+        "gtin": "10149191",
+        "title": "4PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-palline-riccio-18014/p",
+        "price": {
+          "current": 2,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 100,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "4 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipalle",
+        "name": "Palle",
+        "path": "/gatto/accessori/giochi/palle/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-palline-riccio-18014p",
+        "name": "Fit and Fun Cat Palline Riccio",
+        "path": "/fit-and-fun-palline-riccio-18014/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20132",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18153",
+    "sku": "18153",
+    "gtin": "10153613",
+    "title": "Anione Cuscino Valeriana",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-cuscino-valeriana-18153/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283788/95f237272506f45fd76b282cc0614fc6ef60fe14_1916e8c952fc98ec24319017d43928512f52f3d1--1-.jpg?v=638169761947130000"
+    ],
+    "price": {
+      "current": 1,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18153",
+        "sku": "18153",
+        "gtin": "10153613",
+        "title": "10X7CM",
+        "url": "https://www.arcaplanet.it/anione-cuscino-valeriana-18153/p",
+        "price": {
+          "current": 1,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 50,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettini",
+        "name": "Cucce e Lettini",
+        "path": "/gatto/accessori/cucce-e-lettini/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoricucce-e-lettinicuscini",
+        "name": "Cuscini",
+        "path": "/gatto/accessori/cucce-e-lettini/cuscini/",
+        "level": 5
+      },
+      {
+        "id": "anione-cuscino-valeriana-18153p",
+        "name": "Anione Cuscino Valeriana",
+        "path": "/anione-cuscino-valeriana-18153/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20272",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18328",
+    "sku": "18328",
+    "gtin": "10151408",
+    "title": "Anione Filtro Fontana Fiore",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-filtro-fontana-fiore-18328/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285836/9624eb55583adac13e43e257a7298e5c7534c623_971dcf5be7eb8550098e8596ccedf0830714899b--1-.jpg?v=638199183157570000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18328",
+        "sku": "18328",
+        "gtin": "10151408",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-filtro-fontana-fiore-18328/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenseraltro",
+        "name": "Altro",
+        "path": "/gatto/accessori/ciotole-e-dispenser/altro/",
+        "level": 5
+      },
+      {
+        "id": "anione-filtro-fontana-fiore-18328p",
+        "name": "Anione Filtro Fontana Fiore",
+        "path": "/anione-filtro-fontana-fiore-18328/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20446",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18405",
+    "sku": "18405",
+    "gtin": "10149190",
+    "title": "Fit and Fun Palline Morbide",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-palline-morbide-18405/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285844/5f6e9473b5772bd1deda543df4e2ad2d632ce02c_388028848620149689f805c4167d9c2f9b9dfb7c.jpg?v=638199262245200000"
+    ],
+    "price": {
+      "current": 1.49,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18405",
+        "sku": "18405",
+        "gtin": "10149190",
+        "title": "4PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-palline-morbide-18405/p",
+        "price": {
+          "current": 1.49,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 74.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "4 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipalle",
+        "name": "Palle",
+        "path": "/gatto/accessori/giochi/palle/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-palline-morbide-18405p",
+        "name": "Fit and Fun Palline Morbide",
+        "path": "/fit-and-fun-palline-morbide-18405/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20523",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18471",
+    "sku": "18471",
+    "gtin": "10148438",
+    "title": "Anione Ciotola in Ceramica con Gattini Bianca",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-con-gattini-bianca-18471/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285826/519faecb06c2b3a391e3ecdc527deba2769a7978_a4dd2e5e0f7228d7b1e30b69ba102381f56e83e0--1-.jpg?v=638199160778170000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18471",
+        "sku": "18471",
+        "gtin": "10148438",
+        "title": "300ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-con-gattini-bianca-18471/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BIANCO",
+            "Volume (L)": "300ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-ceramica-con-gattini-bianca-18471p",
+        "name": "Anione Ciotola in Ceramica con Gattini Bianca",
+        "path": "/anione-ciotola-in-ceramica-con-gattini-bianca-18471/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20589",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18717",
+    "sku": "18717",
+    "gtin": "10146780",
+    "title": "Anione Ciotola Piatta Antiscivolo in Acciaio Inox",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-piatta-antiscivolo-in-acciaio-inox-18717/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/289108/anione-ciotola-piatta-gatto-200ml.jpg?v=638288011312000000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18717",
+        "sku": "18717",
+        "gtin": "10146780",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-piatta-antiscivolo-in-acciaio-inox-18717/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-piatta-antiscivolo-in-acciaio-inox-18717p",
+        "name": "Anione Ciotola Piatta Antiscivolo in Acciaio Inox",
+        "path": "/anione-ciotola-piatta-antiscivolo-in-acciaio-inox-18717/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20835",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "19234",
+    "sku": "19234",
+    "gtin": "10153501",
+    "title": "Anione Gioco per Gatto Carota",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-gioco-per-gatto-carota-19234/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284699/1337053-416x197--1-.jpg?v=638186153395530000"
+    ],
+    "price": {
+      "current": 1,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19234",
+        "sku": "19234",
+        "gtin": "10153501",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-gioco-per-gatto-carota-19234/p",
+        "price": {
+          "current": 1,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 50,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipeluches",
+        "name": "Peluches",
+        "path": "/gatto/accessori/giochi/peluches/",
+        "level": 5
+      },
+      {
+        "id": "anione-gioco-per-gatto-carota-19234p",
+        "name": "Anione Gioco per Gatto Carota",
+        "path": "/anione-gioco-per-gatto-carota-19234/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21352",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "19257",
+    "sku": "19257",
+    "gtin": "10153549",
+    "title": "Gioco Gatto Pesci Colorati",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/gioco-gatto-pesci-colorati-19257/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285065/1337431.jpg?v=638192204605030000"
+    ],
+    "price": {
+      "current": 1,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 50,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19257",
+        "sku": "19257",
+        "gtin": "10153549",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/gioco-gatto-pesci-colorati-19257/p",
+        "price": {
+          "current": 1,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 50,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-pesci-colorati-19257p",
+        "name": "Gioco Gatto Pesci Colorati",
+        "path": "/gioco-gatto-pesci-colorati-19257/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "21375",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "18365",
+    "sku": "18365",
+    "gtin": "10153287",
+    "title": "AniOne Fenicottero Frusciante",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-fenicottero-frusciante-18365/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286162/0ae7aaed6a15c624632b828b144eaa7beff5f35c_7486c2d78c5ac16992e3c45d085d5fd6419f5e0a--1-.jpg?v=638204338429270000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18365",
+        "sku": "18365",
+        "gtin": "10153287",
+        "title": "ROSA",
+        "url": "https://www.arcaplanet.it/anione-fenicottero-frusciante-18365/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "ROSA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "anione-fenicottero-frusciante-18365p",
+        "name": "AniOne Fenicottero Frusciante",
+        "path": "/anione-fenicottero-frusciante-18365/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21397",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "19345",
+    "sku": "19345",
+    "gtin": "10149252",
+    "title": "Fit and Fun Ciotola per Gatto in Plastica Bianca",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-ciotola-per-gatti-in-plastica-bianca-19345/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283767/f8b37b5d0079c7e7b2d450a326e0212f66d7cc66_5c9588ad8ab849571e24bf687673ce11175538f9--1-.jpg?v=638168916453330000"
+    ],
+    "price": {
+      "current": 2.68,
+      "original": 3.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 134,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19345",
+        "sku": "19345",
+        "gtin": "10149252",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/fit-and-fun-ciotola-per-gatti-in-plastica-bianca-19345/p",
+        "price": {
+          "current": 2.68,
+          "original": 3.15,
+          "pricePerUnit": {
+            "value": 134,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "BIANCO",
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-ciotola-per-gatti-in-plastica-bianca-19345p",
+        "name": "Fit and Fun Ciotola per Gatto in Plastica Bianca",
+        "path": "/fit-and-fun-ciotola-per-gatti-in-plastica-bianca-19345/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21463",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "19430",
+    "sku": "19430",
+    "gtin": "10153547",
+    "title": "Fit and Fun Cat Piccole Palline Scoppiettanti",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/gioco-gatto-palle-scoppiettante-19430/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285064/1337420.jpg?v=638192200000400000"
+    ],
+    "price": {
+      "current": 0.84,
+      "original": 0.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19430",
+        "sku": "19430",
+        "gtin": "10153547",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-palle-scoppiettante-19430/p",
+        "price": {
+          "current": 0.84,
+          "original": 0.99,
+          "pricePerUnit": {
+            "value": 42,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gioco-gatto-palle-scoppiettante-19430p",
+        "name": "Fit and Fun Cat Piccole Palline Scoppiettanti",
+        "path": "/gioco-gatto-palle-scoppiettante-19430/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21548",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "19465",
+    "sku": "19465",
+    "gtin": "10152952",
+    "title": "Anione Ciotola in Ceramica Beige",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-beige-19465/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285823/3133f5ae8c52089879a54deab881f7e7d605acdc_f5702f63694f4c9a0b35c028f97a966abbf5aef8--1-.jpg?v=638199154519200000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 139.5,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19465",
+        "sku": "19465",
+        "gtin": "10152952",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/anione-ciotola-in-ceramica-beige-19465/p",
+        "price": {
+          "current": 2.79,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 139.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserciotole",
+        "name": "Ciotole",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ciotole/",
+        "level": 5
+      },
+      {
+        "id": "anione-ciotola-in-ceramica-beige-19465p",
+        "name": "Anione Ciotola in Ceramica Beige",
+        "path": "/anione-ciotola-in-ceramica-beige-19465/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21583",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "20174",
+    "sku": "20174",
+    "gtin": "10159560",
+    "title": "Catit Filtro Fontana Pixi",
+    "brand": "CATIT",
+    "url": "https://www.arcaplanet.it/catit-filtro-fontana-tixi-20174/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277927/catit-filtro-fontana-tixi.jpg?v=638055865454530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277928/catit-filtro-fontana-tixi-caratteristiche.jpg?v=638055865551000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277929/catit-filtro-fontana-tixi-acqua.jpg?v=638055865651670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277930/catit-filtro-fontana-tixi-dettagli.jpg?v=638055865738630000"
+    ],
+    "price": {
+      "current": 6.9,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 345,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20174",
+        "sku": "20174",
+        "gtin": "10159560",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/catit-filtro-fontana-tixi-20174/p",
+        "price": {
+          "current": 6.9,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "3 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserdispenser-acqua",
+        "name": "Dispenser Acqua",
+        "path": "/gatto/accessori/ciotole-e-dispenser/dispenser-acqua/",
+        "level": 5
+      },
+      {
+        "id": "catit-filtro-fontana-tixi-20174p",
+        "name": "Catit Filtro Fontana Pixi",
+        "path": "/catit-filtro-fontana-tixi-20174/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22292",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "20677",
+    "sku": "20677",
+    "gtin": "10166238",
+    "title": "Lovedi Spazzola Brigitte Gatto Morbida",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280567/23.01.2023---Brosserie-Arcaplanet--7-.jpg?v=638115505727200000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20677",
+        "sku": "20677",
+        "gtin": "10166238",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoritoelettatura",
+        "name": "Toelettatura",
+        "path": "/gatto/accessori/toelettatura/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoritoelettaturaspazzole",
+        "name": "Spazzole",
+        "path": "/gatto/accessori/toelettatura/spazzole/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-spazzola-brigitte-gatto-morbida-20677p",
+        "name": "Lovedi Spazzola Brigitte Gatto Morbida",
+        "path": "/lovedi-spazzola-brigitte-gatto-morbida-20677/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22795",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "21321",
+    "sku": "21321",
+    "gtin": "10168880",
+    "title": "Catit Filtro per Fontana Pixi",
+    "brand": "CATIT",
+    "url": "https://www.arcaplanet.it/catit-filtro-per-fontana-pixi-21321/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287160/680.0010.006--1-.jpg?v=638225070098300000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21321",
+        "sku": "21321",
+        "gtin": "10168880",
+        "title": "6PZ",
+        "url": "https://www.arcaplanet.it/catit-filtro-per-fontana-pixi-21321/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "6 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenser",
+        "name": "Ciotole e Dispenser",
+        "path": "/gatto/accessori/ciotole-e-dispenser/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessoriciotole-e-dispenserricambi",
+        "name": "Ricambi",
+        "path": "/gatto/accessori/ciotole-e-dispenser/ricambi/",
+        "level": 5
+      },
+      {
+        "id": "catit-filtro-per-fontana-pixi-21321p",
+        "name": "Catit Filtro per Fontana Pixi",
+        "path": "/catit-filtro-per-fontana-pixi-21321/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23412",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "22796",
+    "sku": "22796",
+    "gtin": "10129521",
+    "title": "Lovedì Gioco Gatto Palla in Corda con Piume",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gioco-gatto-palla-in-corda-con-piume-22796/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313584/lovedi-gioco-gatto-palla-in-corda-con-piume-10129521--1-.jpg?v=638703031490000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313585/lovedi-gioco-gatto-palla-in-corda-con-piume-10129521--2-.jpg?v=638703031609930000"
+    ],
+    "price": {
+      "current": 0.99,
+      "original": 0.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22796",
+        "sku": "22796",
+        "gtin": "10129521",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-gioco-gatto-palla-in-corda-con-piume-22796/p",
+        "price": {
+          "current": 0.99,
+          "original": 0.99,
+          "pricePerUnit": {
+            "value": 49.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochipalle",
+        "name": "Palle",
+        "path": "/gatto/accessori/giochi/palle/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-gioco-gatto-palla-in-corda-con-piume-22796p",
+        "name": "Lovedì Gioco Gatto Palla in Corda con Piume",
+        "path": "/lovedi-gioco-gatto-palla-in-corda-con-piume-22796/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "22899",
+    "sku": "22899",
+    "gtin": "10170458",
+    "title": "Gioco Gatto Crazy Fish Pagliaccio",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/gioco-gatto-crazy-fish-pagliaccio-22899/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315087/Gioco-Gatto-Crazy-Fish-Pagliaccio-10170458-1.jpg?v=638735632714670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315088/Gioco-Gatto-Crazy-Fish-Pagliaccio-10170458-2.jpg?v=638735632804770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315089/Gioco-Gatto-Crazy-Fish-Pagliaccio-10170458-3.jpg?v=638735632889800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315090/Gioco-Gatto-Crazy-Fish-Pagliaccio-10170458-4.jpg?v=638735632961170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315091/Gioco-Gatto-Crazy-Fish-Pagliaccio-10170458-5.jpg?v=638735633089870000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22899",
+        "sku": "22899",
+        "gtin": "10170458",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/gioco-gatto-crazy-fish-pagliaccio-22899/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochiintelligenza",
+        "name": "Intelligenza",
+        "path": "/gatto/accessori/giochi/intelligenza/",
+        "level": 5
+      },
+      {
+        "id": "gioco-gatto-crazy-fish-pagliaccio-22899p",
+        "name": "Gioco Gatto Crazy Fish Pagliaccio",
+        "path": "/gioco-gatto-crazy-fish-pagliaccio-22899/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24908",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  },
+  {
+    "id": "24716",
+    "sku": "24716",
+    "gtin": "10176586",
+    "title": "Lovedì Gioco Gatto Topini di Natale Winter",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-gioco-gatto-topini-di-natale-winter-24716/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308762/Lovedi-Gioco-Gatto-Topini-Winter-Natalizi-10176586-4.jpg?v=638653615938000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308759/Lovedi-Gioco-Gatto-Topini-Winter-Natalizi-10176586-1.jpg?v=638653615559870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308760/Lovedi-Gioco-Gatto-Topini-Winter-Natalizi-10176586-2.jpg?v=638653615686800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308761/Lovedi-Gioco-Gatto-Topini-Winter-Natalizi-10176586-3.jpg?v=638653615817000000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24716",
+        "sku": "24716",
+        "gtin": "10176586",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/lovedi-gioco-gatto-topini-di-natale-winter-24716/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoaccessori",
+        "name": "Accessori",
+        "path": "/gatto/accessori/",
+        "level": 3
+      },
+      {
+        "id": "gattoaccessorigiochi",
+        "name": "Giochi",
+        "path": "/gatto/accessori/giochi/",
+        "level": 4
+      },
+      {
+        "id": "gattoaccessorigiochicomportamentali",
+        "name": "Comportamentali",
+        "path": "/gatto/accessori/giochi/comportamentali/",
+        "level": 5
+      },
+      {
+        "id": "lovedi-gioco-gatto-topini-di-natale-winter-24716p",
+        "name": "Lovedì Gioco Gatto Topini di Natale Winter",
+        "path": "/lovedi-gioco-gatto-topini-di-natale-winter-24716/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26727",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:44:29.098Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/accessori/"
+  }
+]

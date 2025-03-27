@@ -1,0 +1,3568 @@
+[
+  {
+    "id": "12980",
+    "sku": "12980",
+    "gtin": "10138910",
+    "title": "Zaino Pet Blu",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/zaino-per-cane-blu-camon-12980/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256919/CA648-B.jpg?v=637572117293100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/256920/CA648-B_part.jpg?v=637572117218800000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12980",
+        "sku": "12980",
+        "gtin": "10138910",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/zaino-per-cane-blu-camon-12980/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "zaino-per-cane-blu-camon-12980p",
+        "name": "Zaino Pet Blu",
+        "path": "/zaino-per-cane-blu-camon-12980/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "137",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "6512",
+    "sku": "6512",
+    "gtin": "10129137",
+    "title": "Trasportino No Stress",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-no-stress-cane-trasportino-6512/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208297/Pet-Around-You-Trasportino-No-stress.jpg?v=637413969974830000"
+    ],
+    "price": {
+      "current": 25.99,
+      "original": 25.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "6512",
+        "sku": "6512",
+        "gtin": "10129137",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-no-stress-cane-trasportino-6512/p",
+        "price": {
+          "current": 25.99,
+          "original": 25.99,
+          "pricePerUnit": {
+            "value": 1299.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-no-stress-cane-trasportino-6512p",
+        "name": "Trasportino No Stress",
+        "path": "/pet-around-you-no-stress-cane-trasportino-6512/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6356",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "6672",
+    "sku": "6672",
+    "gtin": "10074466",
+    "title": "Croci Gipsy Trasportino",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gipsy-cane-trasportino-small-small-6672/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227428/croci-gipsy-cane-trasportino-small.jpg?v=637454792982530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261412/GIPSY_SALMONE.jpg?v=637635143363830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261413/GIPSY_ROSSO-copia.jpg?v=637635143539030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261414/GIPSY_AZZURRO-copia.jpg?v=637635143607870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261415/GIPSY_VERDE-copia.jpg?v=637635145664300000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6672",
+        "sku": "6672",
+        "gtin": "10074466",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/croci-gipsy-cane-trasportino-small-small-6672/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "croci-gipsy-cane-trasportino-small-small-6672p",
+        "name": "Croci Gipsy Trasportino",
+        "path": "/croci-gipsy-cane-trasportino-small-small-6672/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6514",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "7377",
+    "sku": "7377",
+    "gtin": "10069618",
+    "title": "Trasportino Cane Comfort Blu",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-comfort-cane-trasportino-cm-43x30x29-blu-misura-m-7377/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223065/camon-comfort-cane-trasportino-cm-43x30x29-blu.jpg?v=637454728203930000"
+    ],
+    "price": {
+      "current": 44.99,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7377",
+        "sku": "7377",
+        "gtin": "10069618",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/camon-comfort-cane-trasportino-cm-43x30x29-blu-misura-m-7377/p",
+        "price": {
+          "current": 44.99,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "camon-comfort-cane-trasportino-cm-43x30x29-blu-misura-m-7377p",
+        "name": "Trasportino Cane Comfort Blu",
+        "path": "/camon-comfort-cane-trasportino-cm-43x30x29-blu-misura-m-7377/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7214",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "7402",
+    "sku": "7402",
+    "gtin": "10077780",
+    "title": "Trasportino Evoque",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-evoque-cane-trasportino-7402/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272954/evoque.jpg?v=637915954988930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272955/colori.jpg?v=637915955116430000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "7402",
+        "sku": "7402",
+        "gtin": "10077780",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/croci-evoque-cane-trasportino-7402/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "croci-evoque-cane-trasportino-7402p",
+        "name": "Trasportino Evoque",
+        "path": "/croci-evoque-cane-trasportino-7402/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7239",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "7404",
+    "sku": "7404",
+    "gtin": "10066980",
+    "title": "Trasportino Plastica Blu/Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-blu-grigio-7404/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221754/trixie-capri-cane-trasportino-plastica-tg-1-blu-grigio.jpg?v=637454714987230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/232437/trixie-capri-cane-trasportino-plastica-tg-1-blu-grigio.jpg?v=637454850144900000"
+    ],
+    "price": {
+      "current": 22.59,
+      "original": 22.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1129.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7404",
+        "sku": "7404",
+        "gtin": "10066980",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-blu-grigio-7404/p",
+        "price": {
+          "current": 22.59,
+          "original": 22.59,
+          "pricePerUnit": {
+            "value": 1129.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-plastica-blu-grigio-7404p",
+        "name": "Trasportino Plastica Blu/Grigio",
+        "path": "/trixie-capri-cane-trasportino-plastica-blu-grigio-7404/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7241",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "7491",
+    "sku": "7491",
+    "gtin": "10066981",
+    "title": "Trasportino Verde e Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221758/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio.jpg?v=637454715044770000"
+    ],
+    "price": {
+      "current": 11.3,
+      "original": 22.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 565,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7491",
+        "sku": "7491",
+        "gtin": "10066981",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+        "price": {
+          "current": 11.3,
+          "original": 22.59,
+          "pricePerUnit": {
+            "value": 565,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491p",
+        "name": "Trasportino Verde e Grigio",
+        "path": "/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "7326",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "8071",
+    "sku": "8071",
+    "gtin": "10066989",
+    "title": "Trasportino Plastica Medio Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-platica-midi-grigio-44x33x32cm-8071/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221757/trixie-capri-cane-trasportino-platica-midi-grigio.jpg?v=637454715023970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/232443/trixie-capri-cane-trasportino-platica-midi-grigio.jpg?v=637454850238000000"
+    ],
+    "price": {
+      "current": 28.99,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8071",
+        "sku": "8071",
+        "gtin": "10066989",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-platica-midi-grigio-44x33x32cm-8071/p",
+        "price": {
+          "current": 28.99,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 1449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-platica-midi-grigio-44x33x32cm-8071p",
+        "name": "Trasportino Plastica Medio Grigio",
+        "path": "/trixie-capri-cane-trasportino-platica-midi-grigio-44x33x32cm-8071/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7900",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "8073",
+    "sku": "8073",
+    "gtin": "10066987",
+    "title": "Trasportino Capri 3 Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-3-grigio-38x61cm-8073/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266252/trixie-traspostino-capri-3-grigio.jpg?v=637756942422230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266253/trixie-traspostino-capri-3-grigio-aperto.jpg?v=637756942514400000"
+    ],
+    "price": {
+      "current": 47.9,
+      "original": 47.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2395,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8073",
+        "sku": "8073",
+        "gtin": "10066987",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-3-grigio-38x61cm-8073/p",
+        "price": {
+          "current": 47.9,
+          "original": 47.9,
+          "pricePerUnit": {
+            "value": 2395,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-plastica-tg-3-grigio-38x61cm-8073p",
+        "name": "Trasportino Capri 3 Grigio",
+        "path": "/trixie-capri-cane-trasportino-plastica-tg-3-grigio-38x61cm-8073/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7902",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "8074",
+    "sku": "8074",
+    "gtin": "10066988",
+    "title": "Trasportino Capri 3 Grigio Scuro e Azzurro",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-4-blu-grigio-38x61cm-8074/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266250/trixie-trasportino-capri-taglia-3.jpg?v=637756827784030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266251/trixie-trasportino-capri-taglia-3-aperto.jpg?v=637756827886170000"
+    ],
+    "price": {
+      "current": 47.9,
+      "original": 47.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2395,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8074",
+        "sku": "8074",
+        "gtin": "10066988",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-4-blu-grigio-38x61cm-8074/p",
+        "price": {
+          "current": 47.9,
+          "original": 47.9,
+          "pricePerUnit": {
+            "value": 2395,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-plastica-tg-4-blu-grigio-38x61cm-8074p",
+        "name": "Trasportino Capri 3 Grigio Scuro e Azzurro",
+        "path": "/trixie-capri-cane-trasportino-plastica-tg-4-blu-grigio-38x61cm-8074/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7903",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "8079",
+    "sku": "8079",
+    "gtin": "10065208",
+    "title": "Trolley Zainetto Mimetico",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/ferplast-cane-trasportino-trolley-zainetto-42x25x35cm-8079/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/238723/ferplast-cane-trasportino-trolley-zainetto.jpg?v=637454966898000000"
+    ],
+    "price": {
+      "current": 94.99,
+      "original": 94.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8079",
+        "sku": "8079",
+        "gtin": "10065208",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/ferplast-cane-trasportino-trolley-zainetto-42x25x35cm-8079/p",
+        "price": {
+          "current": 94.99,
+          "original": 94.99,
+          "pricePerUnit": {
+            "value": 4749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "ferplast-cane-trasportino-trolley-zainetto-42x25x35cm-8079p",
+        "name": "Trolley Zainetto Mimetico",
+        "path": "/ferplast-cane-trasportino-trolley-zainetto-42x25x35cm-8079/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7908",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "8281",
+    "sku": "8281",
+    "gtin": "10111479",
+    "title": "Trasportino Trolley Tracolla Cane",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-trasportino-cane-trolley-36x30x38-cm-8281/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209235/Trasportino-trolley-per-cani-Camon-36x30x38.jpg?v=637413984611770000"
+    ],
+    "price": {
+      "current": 75.5,
+      "original": 75.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3775,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8281",
+        "sku": "8281",
+        "gtin": "10111479",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-trasportino-cane-trolley-36x30x38-cm-8281/p",
+        "price": {
+          "current": 75.5,
+          "original": 75.5,
+          "pricePerUnit": {
+            "value": 3775,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "camon-trasportino-cane-trolley-36x30x38-cm-8281p",
+        "name": "Trasportino Trolley Tracolla Cane",
+        "path": "/camon-trasportino-cane-trolley-36x30x38-cm-8281/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8108",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "11017",
+    "sku": "11017",
+    "gtin": "10130682",
+    "title": "Trasportino Flora Beige",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-beige-11017/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260478/lovedi-trasportino-flora-beige.jpg?v=637614126276670000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 48.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11017",
+        "sku": "11017",
+        "gtin": "10130682",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-beige-11017/p",
+        "price": {
+          "current": 48.99,
+          "original": 48.99,
+          "pricePerUnit": {
+            "value": 2449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-trasportino-flora-beige-11017p",
+        "name": "Trasportino Flora Beige",
+        "path": "/lovedi-trasportino-flora-beige-11017/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10611",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "11016",
+    "sku": "11016",
+    "gtin": "10130685",
+    "title": "Trasportino Flora Nero",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-nero-11016/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260496/lovedi-trasportino-flora-nero.jpg?v=637614175033800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260497/trasportino-flora-nero.jpg?v=637614175142830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260498/lovedi-trasportino-flora-nero-dettaglio.jpg?v=637614175251000000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1949.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11016",
+        "sku": "11016",
+        "gtin": "10130685",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-nero-11016/p",
+        "price": {
+          "current": 38.99,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 1949.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-trasportino-flora-nero-11016p",
+        "name": "Trasportino Flora Nero",
+        "path": "/lovedi-trasportino-flora-nero-11016/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10612",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "12704",
+    "sku": "12704",
+    "gtin": "10138695",
+    "title": "Trasportino Rider Metal Door Azzurro",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292036/rider-1-PM-Artic-blu-blu-acciao.jpg?v=638361693811500000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12704",
+        "sku": "12704",
+        "gtin": "10138695",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704p",
+        "name": "Trasportino Rider Metal Door Azzurro",
+        "path": "/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14840",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "12707",
+    "sku": "12707",
+    "gtin": "10138698",
+    "title": "Trasportino Rider Metal Door Cipria",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264392/trasportino-rider-metal-door-cipria-taglia-1.jpg?v=637716384565100000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12707",
+        "sku": "12707",
+        "gtin": "10138698",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-trasportini-rider-metal-door-cipria-12707p",
+        "name": "Trasportino Rider Metal Door Cipria",
+        "path": "/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14843",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "12962",
+    "sku": "12962",
+    "gtin": "10129246",
+    "title": "Trasportino Rombo Blu",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-trasportino-rombo-blu-12962/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257890/trasportino-rombo-blu.jpg?v=637588301617530000"
+    ],
+    "price": {
+      "current": 39.7,
+      "original": 39.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1985,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12962",
+        "sku": "12962",
+        "gtin": "10129246",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/camon-trasportino-rombo-blu-12962/p",
+        "price": {
+          "current": 39.7,
+          "original": 39.7,
+          "pricePerUnit": {
+            "value": 1985,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "camon-trasportino-rombo-blu-12962p",
+        "name": "Trasportino Rombo Blu",
+        "path": "/camon-trasportino-rombo-blu-12962/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15099",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "12982",
+    "sku": "12982",
+    "gtin": "10138907",
+    "title": "Trolley Trasportino",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-trolley-trasportino-cm-53x31x31-12982/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257988/trolley-trasportino1.jpg?v=637589137935030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257989/trolley-trasportino2.jpg?v=637589138006930000"
+    ],
+    "price": {
+      "current": 98.9,
+      "original": 98.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4945,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12982",
+        "sku": "12982",
+        "gtin": "10138907",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/camon-trolley-trasportino-cm-53x31x31-12982/p",
+        "price": {
+          "current": 98.9,
+          "original": 98.9,
+          "pricePerUnit": {
+            "value": 4945,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "camon-trolley-trasportino-cm-53x31x31-12982p",
+        "name": "Trolley Trasportino",
+        "path": "/camon-trolley-trasportino-cm-53x31x31-12982/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15119",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "13878",
+    "sku": "13878",
+    "gtin": "10139698",
+    "title": "Borsa Viaggio Valery",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265753/266022_PHO_PRO_CLIP_28901-4.jpg?v=637738698337370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265754/266019_PHO_PRO_CLIP_28901-1.jpg?v=637738698661770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265755/266020_PHO_PRO_CLIP_28901-2.jpg?v=637738698838870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265756/266021_PHO_PRO_CLIP_28901-3.jpg?v=637738698928830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265757/266023_PHO_PRO_CLIP_28901-5.jpg?v=637738699041300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265758/266024_PHO_PRO_CLIP_28901-6.jpg?v=637738699160930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265759/266026_PHO_PRO_CLIP_28901-8.jpg?v=637738699281730000"
+    ],
+    "price": {
+      "current": 74.99,
+      "original": 74.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3749.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13878",
+        "sku": "13878",
+        "gtin": "10139698",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+        "price": {
+          "current": 74.99,
+          "original": 74.99,
+          "pricePerUnit": {
+            "value": 3749.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878p",
+        "name": "Borsa Viaggio Valery",
+        "path": "/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16015",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "14495",
+    "sku": "14495",
+    "gtin": "10140273",
+    "title": "Zaino Pet Blu",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-zaino-pet-blu-14495/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267098/camon-zaino-blu-apertura-anteriore.jpg?v=637805993872130000"
+    ],
+    "price": {
+      "current": 40.2,
+      "original": 40.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2010,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14495",
+        "sku": "14495",
+        "gtin": "10140273",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/camon-zaino-pet-blu-14495/p",
+        "price": {
+          "current": 40.2,
+          "original": 40.2,
+          "pricePerUnit": {
+            "value": 2010,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "camon-zaino-pet-blu-14495p",
+        "name": "Zaino Pet Blu",
+        "path": "/camon-zaino-pet-blu-14495/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "14574",
+    "sku": "14574",
+    "gtin": "10112340",
+    "title": "Trasportino Trolley Blu e Grigio",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-trasportino-trolley-blu-grigio-14574/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267114/camon-trasportino-trolley-blu-grigio.jpg?v=637806218159630000"
+    ],
+    "price": {
+      "current": 95.5,
+      "original": 95.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4775,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14574",
+        "sku": "14574",
+        "gtin": "10112340",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-trasportino-trolley-blu-grigio-14574/p",
+        "price": {
+          "current": 95.5,
+          "original": 95.5,
+          "pricePerUnit": {
+            "value": 4775,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "camon-trasportino-trolley-blu-grigio-14574p",
+        "name": "Trasportino Trolley Blu e Grigio",
+        "path": "/camon-trasportino-trolley-blu-grigio-14574/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16711",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "15126",
+    "sku": "15126",
+    "gtin": "10140896",
+    "title": "Trasportino Sierra in Plastica Eco",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-trasportino-sierra-plastica-eco-15126/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277811/yes-trasportino-sierra-plastica-eco-azzurro.jpg?v=638053154131770000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15126",
+        "sku": "15126",
+        "gtin": "10140896",
+        "title": "AZZURRO",
+        "url": "https://www.arcaplanet.it/yes-trasportino-sierra-plastica-eco-15126/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "AZZURRO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "yes-trasportino-sierra-plastica-eco-15126p",
+        "name": "Trasportino Sierra in Plastica Eco",
+        "path": "/yes-trasportino-sierra-plastica-eco-15126/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17263",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "17740",
+    "sku": "17740",
+    "gtin": "10151247",
+    "title": "Anione Borsa Anton",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-borsa-anton-17740/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284351/6a249843dd7bd508a35da4323e730b1e888eb944_98c378d3ec1620cc610e7cb8fab7f9a806ddc3a8--1-.jpg?v=638176812797230000"
+    ],
+    "price": {
+      "current": 37.49,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1874.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17740",
+        "sku": "17740",
+        "gtin": "10151247",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-borsa-anton-17740/p",
+        "price": {
+          "current": 37.49,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 1874.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "anione-borsa-anton-17740p",
+        "name": "Anione Borsa Anton",
+        "path": "/anione-borsa-anton-17740/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19858",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "17517",
+    "sku": "17517",
+    "gtin": "10154739",
+    "title": "Anione Trasportino Grigio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-trasportino-per-cane-grigio-17517/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282102/56b10c8db9f7b5855786681a254974dd266f77ba_1350548__de_DE__AniOneBoxM--1-.jpg?v=638132723562030000"
+    ],
+    "price": {
+      "current": 119.25,
+      "original": 159,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5962.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17517",
+        "sku": "17517",
+        "gtin": "10154739",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-trasportino-per-cane-grigio-17517/p",
+        "price": {
+          "current": 119.25,
+          "original": 159,
+          "pricePerUnit": {
+            "value": 5962.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "anione-trasportino-per-cane-grigio-17517p",
+        "name": "Anione Trasportino Grigio",
+        "path": "/anione-trasportino-per-cane-grigio-17517/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20135",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "20293",
+    "sku": "20293",
+    "gtin": "10166027",
+    "title": "Trasportino Traveller Suite",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/trasportino-traveller-suite-20293/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285856/10166027_1.jpg?v=638199896632130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285857/10166027_2.jpg?v=638199898944370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285858/10166027_3.jpg?v=638199899197430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285859/10166027_4.jpg?v=638199899434700000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20293",
+        "sku": "20293",
+        "gtin": "10166027",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/trasportino-traveller-suite-20293/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trasportino-traveller-suite-20293p",
+        "name": "Trasportino Traveller Suite",
+        "path": "/trasportino-traveller-suite-20293/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22411",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "21161",
+    "sku": "21161",
+    "gtin": "10168671",
+    "title": "Borsa Eco Mesh",
+    "brand": "UNITED PETS",
+    "url": "https://www.arcaplanet.it/trasportino-mesh-bag-eco-21161/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287501/de_mesh-bag_2426_HD-0-8f780fa2-b1eb-4696-935c-97fe14ffa5eb.jpg?v=638230236014330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287502/de_mesh-bag_2426_HD-1-b5bc1c56-021c-4549-a72b-a0120f282251.jpg?v=638230236328930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287503/de_mesh-bag_2426_HD-2-f9e9d2cd-cbc6-4068-8f68-34239d5d0f91.jpg?v=638230236707070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287504/de_mesh-bag_2426_HD-3-5b114d57-f328-43b5-9d4c-1d6531a3c6f2--1-.jpg?v=638230236999030000"
+    ],
+    "price": {
+      "current": 103.5,
+      "original": 114.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5175,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21161",
+        "sku": "21161",
+        "gtin": "10168671",
+        "title": "NERO/ROSA",
+        "url": "https://www.arcaplanet.it/trasportino-mesh-bag-eco-21161/p",
+        "price": {
+          "current": 103.5,
+          "original": 114.99,
+          "pricePerUnit": {
+            "value": 5175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "trasportino-mesh-bag-eco-21161p",
+        "name": "Borsa Eco Mesh",
+        "path": "/trasportino-mesh-bag-eco-21161/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23252",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "21472",
+    "sku": "21472",
+    "gtin": "10169106",
+    "title": "Trasportino con Tiragraffi per Gatto",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-trasportino-per-tiragraffi-21472/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286626/CG011-A--1-.jpg?v=638211321670370000"
+    ],
+    "price": {
+      "current": 40.49,
+      "original": 44.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2024.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "21472",
+        "sku": "21472",
+        "gtin": "10169106",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/camon-trasportino-per-tiragraffi-21472/p",
+        "price": {
+          "current": 40.49,
+          "original": 44.99,
+          "pricePerUnit": {
+            "value": 2024.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "camon-trasportino-per-tiragraffi-21472p",
+        "name": "Trasportino con Tiragraffi per Gatto",
+        "path": "/camon-trasportino-per-tiragraffi-21472/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23561",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "21476",
+    "sku": "21476",
+    "gtin": "10169093",
+    "title": "Trasportino Cubo con Tiragraffi per Gatto",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/trasportino-gatto-cubo-tiragraffi-21476/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286623/10169093.jpg?v=638211258342200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286624/10169093_2.jpg?v=638211258548330000"
+    ],
+    "price": {
+      "current": 35.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21476",
+        "sku": "21476",
+        "gtin": "10169093",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/trasportino-gatto-cubo-tiragraffi-21476/p",
+        "price": {
+          "current": 35.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trasportino-gatto-cubo-tiragraffi-21476p",
+        "name": "Trasportino Cubo con Tiragraffi per Gatto",
+        "path": "/trasportino-gatto-cubo-tiragraffi-21476/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23565",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "22060",
+    "sku": "22060",
+    "gtin": "10169503",
+    "title": "Borsa Trail",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-borsa-per-cane-trial-22060/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291915/Borsa-per-Cane-Trial-10169503.jpg?v=638357424228630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291916/Borsa-per-Cane-Trial-10169503..jpg?v=638357424342530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291917/Borsa-per-Cane-Trial-10169503.jpg?v=638357424471700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291918/Borsa-per-Cane-Trial-10169503...jpg?v=638357424574730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291919/Borsa-per-Cane-Trial-10169503.jpg?v=638357424673970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291920/Borsa-per-Cane-Trial-10169503.jpg?v=638357424780030000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22060",
+        "sku": "22060",
+        "gtin": "10169503",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-borsa-per-cane-trial-22060/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-borsa-per-cane-trial-22060p",
+        "name": "Borsa Trail",
+        "path": "/pet-around-you-borsa-per-cane-trial-22060/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24142",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "22062",
+    "sku": "22062",
+    "gtin": "10169501",
+    "title": "Borsa Semirigida Trail",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-borsa-per-cane-trail-semirigida-22062/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291906/P.A.Y.-Borsa-per-Cane-Trail-Semirigida-10169501.jpg?v=638357389723770000"
+    ],
+    "price": {
+      "current": 59.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22062",
+        "sku": "22062",
+        "gtin": "10169501",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-borsa-per-cane-trail-semirigida-22062/p",
+        "price": {
+          "current": 59.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 2999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-borsa-per-cane-trail-semirigida-22062p",
+        "name": "Borsa Semirigida Trail",
+        "path": "/pet-around-you-borsa-per-cane-trail-semirigida-22062/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24144",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "23506",
+    "sku": "23506",
+    "gtin": "10173510",
+    "title": "Pet Around You Zaino per Gatto Shuttle Oblo",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-shuttle-oblo-23506/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311782/pet-around-you-zaino-per-gatto-shuttle-oblo-10173510--1-.jpg?v=638682185313870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311783/pet-around-you-zaino-per-gatto-shuttle-oblo-10173510--2-.jpg?v=638682185383000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311784/pet-around-you-zaino-per-gatto-shuttle-oblo-10173510--3-.jpg?v=638682185498200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311785/pet-around-you-zaino-per-gatto-shuttle-oblo-10173510--4-.jpg?v=638682185591870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311786/pet-around-you-zaino-per-gatto-shuttle-oblo-10173510--5-.jpg?v=638682185748770000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23506",
+        "sku": "23506",
+        "gtin": "10173510",
+        "title": "BLU",
+        "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-shuttle-oblo-23506/p",
+        "price": {
+          "current": 29.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-zaino-per-gatto-shuttle-oblo-23506p",
+        "name": "Pet Around You Zaino per Gatto Shuttle Oblo",
+        "path": "/pet-around-you-zaino-per-gatto-shuttle-oblo-23506/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25517",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "23508",
+    "sku": "23508",
+    "gtin": "10173512",
+    "title": "Pet Around You Zaino per Gatto Apollo",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-apollo-23508/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311746/pet-around-you-zaino-per-gatto-apollo-10173512--1-.jpg?v=638682130815400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311747/pet-around-you-zaino-per-gatto-apollo-10173512--2-.jpg?v=638682131174730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311748/pet-around-you-zaino-per-gatto-apollo-10173512--3-.jpg?v=638682131252430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311749/pet-around-you-zaino-per-gatto-apollo-10173512--4-.jpg?v=638682131376400000"
+    ],
+    "price": {
+      "current": 29.99,
+      "original": 29.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23508",
+        "sku": "23508",
+        "gtin": "10173512",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-apollo-23508/p",
+        "price": {
+          "current": 29.99,
+          "original": 29.99,
+          "pricePerUnit": {
+            "value": 1499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-zaino-per-gatto-apollo-23508p",
+        "name": "Pet Around You Zaino per Gatto Apollo",
+        "path": "/pet-around-you-zaino-per-gatto-apollo-23508/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25519",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  },
+  {
+    "id": "23511",
+    "sku": "23511",
+    "gtin": "10173515",
+    "title": "Pet Around You Zaino per Gatto Voyager",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-voyager-23511/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311794/pet-around-you-zaino-per-gatto-voyager-10173515--1-.jpg?v=638682241273930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311795/pet-around-you-zaino-per-gatto-voyager-10173515--2-.jpg?v=638682241355770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311796/pet-around-you-zaino-per-gatto-voyager-10173515--3-.jpg?v=638682241454370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311797/pet-around-you-zaino-per-gatto-voyager-10173515--4-.jpg?v=638682241553770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311798/pet-around-you-zaino-per-gatto-voyager-10173515--5-.jpg?v=638682241633100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311799/pet-around-you-zaino-per-gatto-voyager-10173515--6-.jpg?v=638682241725100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311800/pet-around-you-zaino-per-gatto-voyager-10173515--7-.jpg?v=638682241811470000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23511",
+        "sku": "23511",
+        "gtin": "10173515",
+        "title": "VERDE",
+        "url": "https://www.arcaplanet.it/pet-around-you-zaino-per-gatto-voyager-23511/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-zaino-per-gatto-voyager-23511p",
+        "name": "Pet Around You Zaino per Gatto Voyager",
+        "path": "/pet-around-you-zaino-per-gatto-voyager-23511/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25522",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T20:51:22.325Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/trasportini/"
+  }
+]

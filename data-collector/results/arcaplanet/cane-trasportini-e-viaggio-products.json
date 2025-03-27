@@ -1,0 +1,4061 @@
+[
+  {
+    "id": "1045",
+    "sku": "1045",
+    "gtin": "10077593",
+    "title": "Gancio per Cintura di Sicurezza",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gancio-per-cintura-di-sicurezza-1045/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254449/gancio-cintura-sicurezza-cane-auto.jpg?v=637551170191870000"
+    ],
+    "price": {
+      "current": 6.19,
+      "original": 6.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 309.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1045",
+        "sku": "1045",
+        "gtin": "10077593",
+        "title": "CM.2",
+        "url": "https://www.arcaplanet.it/croci-gancio-per-cintura-di-sicurezza-1045/p",
+        "price": {
+          "current": 6.19,
+          "original": 6.19,
+          "pricePerUnit": {
+            "value": 309.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.2"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "croci-gancio-per-cintura-di-sicurezza-1045p",
+        "name": "Gancio per Cintura di Sicurezza",
+        "path": "/croci-gancio-per-cintura-di-sicurezza-1045/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1002",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "4876",
+    "sku": "4876",
+    "gtin": "10079318",
+    "title": "Probiotic Deodorante Auto",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-probiotic-gatto-deodorante-auto-250ml-4876/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225093/perfect-probiotic-gatto-deodorante-auto.jpg?v=637454749387730000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.76,
+        "unit": "none"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4876",
+        "sku": "4876",
+        "gtin": "10079318",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-probiotic-gatto-deodorante-auto-250ml-4876/p",
+        "price": {
+          "current": 7.19,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 28.76,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienedeodoranti",
+        "name": "Deodoranti",
+        "path": "/cane/igiene/deodoranti/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autodeodoranti",
+        "name": "Deodoranti",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/deodoranti/",
+        "level": 5
+      },
+      {
+        "id": "perfect-probiotic-gatto-deodorante-auto-250ml-4876p",
+        "name": "Probiotic Deodorante Auto",
+        "path": "/perfect-probiotic-gatto-deodorante-auto-250ml-4876/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4757",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "6334",
+    "sku": "6334",
+    "gtin": "10117874",
+    "title": "Zaino Kangoo color Rosa",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-kangoo-cane-zaino-rosa--6334/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250983/ferplast-kangoo-cane-zaino-small-rosa.jpg?v=637455071866230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227342/ferplast-kangoo-cane-zaino-small-rosa.jpg?v=637454792159800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250985/ferplast-kangoo-cane-zaino-small-rosa.jpg?v=637455071892970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250987/ferplast-kangoo-cane-zaino-small-rosa.jpg?v=637455071907200000"
+    ],
+    "price": {
+      "current": 39.99,
+      "original": 41.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6334",
+        "sku": "6334",
+        "gtin": "10117874",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/ferplast-kangoo-cane-zaino-rosa--6334/p",
+        "price": {
+          "current": 39.99,
+          "original": 41.99,
+          "pricePerUnit": {
+            "value": 1999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "ferplast-kangoo-cane-zaino-rosa--6334p",
+        "name": "Zaino Kangoo color Rosa",
+        "path": "/ferplast-kangoo-cane-zaino-rosa--6334/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6246",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "6672",
+    "sku": "6672",
+    "gtin": "10074466",
+    "title": "Croci Gipsy Trasportino",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-gipsy-cane-trasportino-small-small-6672/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227428/croci-gipsy-cane-trasportino-small.jpg?v=637454792982530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261412/GIPSY_SALMONE.jpg?v=637635143363830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261413/GIPSY_ROSSO-copia.jpg?v=637635143539030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261414/GIPSY_AZZURRO-copia.jpg?v=637635143607870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261415/GIPSY_VERDE-copia.jpg?v=637635145664300000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6672",
+        "sku": "6672",
+        "gtin": "10074466",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/croci-gipsy-cane-trasportino-small-small-6672/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "croci-gipsy-cane-trasportino-small-small-6672p",
+        "name": "Croci Gipsy Trasportino",
+        "path": "/croci-gipsy-cane-trasportino-small-small-6672/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6514",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "6893",
+    "sku": "6893",
+    "gtin": "10058384",
+    "title": "Casetta Mobile Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-twister-cane-casetta-mobile-31x33x50-6893/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/220163/trixie-twister-cane-casetta-mobile.jpg?v=637454698110700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218086/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-casetta-mobile-twister-tric101.jpg?v=637454595080570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218089/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-casetta-mobile-twister-tric101_1.jpg?v=637454595096700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218092/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-casetta-mobile-twister-tric101_2.jpg?v=637454595113400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/218095/https---www.arcaplanet.it-media-catalog-product--t-r-trixie-casetta-mobile-twister-tric101_3.jpg?v=637454595124370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/229342/trixie-twister-cane-casetta-mobile.jpg?v=637454816551730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/229345/trixie-twister-cane-casetta-mobile.jpg?v=637454816572430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/229348/trixie-twister-cane-casetta-mobile.jpg?v=637454816602330000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6893",
+        "sku": "6893",
+        "gtin": "10058384",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/trixie-twister-cane-casetta-mobile-31x33x50-6893/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "trixie-twister-cane-casetta-mobile-31x33x50-6893p",
+        "name": "Casetta Mobile Cane",
+        "path": "/trixie-twister-cane-casetta-mobile-31x33x50-6893/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6756",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "7107",
+    "sku": "7107",
+    "gtin": "10129557",
+    "title": "Divisorio Auto Universale per Cani",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-cane-divisorio-auto-universale-divisorio-auto-universale-7107/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251593/pet-around-you-cane-divisorio-auto-universale.jpg?v=637455077383170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227560/pet-around-you-cane-divisorio-auto-universale.jpg?v=637454794162600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251590/pet-around-you-cane-divisorio-auto-universale.jpg?v=637455077329900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251591/pet-around-you-cane-divisorio-auto-universale.jpg?v=637455077348830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251592/pet-around-you-cane-divisorio-auto-universale.jpg?v=637455077356970000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7107",
+        "sku": "7107",
+        "gtin": "10129557",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-cane-divisorio-auto-universale-divisorio-auto-universale-7107/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autodivisori",
+        "name": "Divisori",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/divisori/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-cane-divisorio-auto-universale-divisorio-auto-universale-7107p",
+        "name": "Divisorio Auto Universale per Cani",
+        "path": "/pet-around-you-cane-divisorio-auto-universale-divisorio-auto-universale-7107/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6946",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "7419",
+    "sku": "7419",
+    "gtin": "10113328",
+    "title": "Trasportino Cane Holiday",
+    "brand": "FERPLAST",
+    "url": "https://www.arcaplanet.it/ferplast-cane-canile-portatile-holiday-7419/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315168/trasportino-cane-holiday-10113328--1-.jpg?v=638736622489370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315169/trasportino-cane-holiday-10113328--2-.jpg?v=638736622673300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315170/trasportino-cane-holiday-10113328--3-.jpg?v=638736622825200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315171/trasportino-cane-holiday-10113328--4-.jpg?v=638736623095570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315172/trasportino-cane-holiday-10113328--5-.jpg?v=638736623353600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315173/trasportino-cane-holiday-10113328--6-.jpg?v=638736623494630000"
+    ],
+    "price": {
+      "current": 58.99,
+      "original": 61.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2949.5,
+        "unit": "none"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7419",
+        "sku": "7419",
+        "gtin": "10113328",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/ferplast-cane-canile-portatile-holiday-7419/p",
+        "price": {
+          "current": 58.99,
+          "original": 61.99,
+          "pricePerUnit": {
+            "value": 2949.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "ferplast-cane-canile-portatile-holiday-7419p",
+        "name": "Trasportino Cane Holiday",
+        "path": "/ferplast-cane-canile-portatile-holiday-7419/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7256",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "7491",
+    "sku": "7491",
+    "gtin": "10066981",
+    "title": "Trasportino Verde e Grigio",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221758/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio.jpg?v=637454715044770000"
+    ],
+    "price": {
+      "current": 11.3,
+      "original": 22.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 565,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7491",
+        "sku": "7491",
+        "gtin": "10066981",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+        "price": {
+          "current": 11.3,
+          "original": 22.59,
+          "pricePerUnit": {
+            "value": 565,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491p",
+        "name": "Trasportino Verde e Grigio",
+        "path": "/trixie-capri-cane-trasportino-plastica-tg-1-verde-grigio-31x48cm-7491/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "7326",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "7801",
+    "sku": "7801",
+    "gtin": "00015097",
+    "title": "Divisorio per Auto Walky Barrier",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-walky-barrier-divisorio-auto-7801/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268980/camon-walky-barrier.jpg?v=637823237205770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268981/camon-walky-barrier-bagagliaio.jpg?v=637823237394970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268982/camon-walky-barrier-auto.jpg?v=637823237511200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268983/camon-walky-barrier-montatura.jpg?v=637823237604430000"
+    ],
+    "price": {
+      "current": 59.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7801",
+        "sku": "7801",
+        "gtin": "00015097",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/camon-walky-barrier-divisorio-auto-7801/p",
+        "price": {
+          "current": 59.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 2999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autodivisori",
+        "name": "Divisori",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/divisori/",
+        "level": 5
+      },
+      {
+        "id": "camon-walky-barrier-divisorio-auto-7801p",
+        "name": "Divisorio per Auto Walky Barrier",
+        "path": "/camon-walky-barrier-divisorio-auto-7801/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "8496",
+    "sku": "8496",
+    "gtin": "10067826",
+    "title": "Rampa per Cane Filp Steps",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-rampa-cane-steps-8496/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222955/croci-rampa-cane.jpg?v=637454727230830000"
+    ],
+    "price": {
+      "current": 76.99,
+      "original": 76.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3849.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8496",
+        "sku": "8496",
+        "gtin": "10067826",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-rampa-cane-steps-8496/p",
+        "price": {
+          "current": 76.99,
+          "original": 76.99,
+          "pricePerUnit": {
+            "value": 3849.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiorampe-e-scalette",
+        "name": "Rampe e scalette",
+        "path": "/cane/trasportini-e-viaggio/rampe-e-scalette/",
+        "level": 4
+      },
+      {
+        "id": "croci-rampa-cane-steps-8496p",
+        "name": "Rampa per Cane Filp Steps",
+        "path": "/croci-rampa-cane-steps-8496/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "8323",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "8514",
+    "sku": "8514",
+    "gtin": "10129217",
+    "title": "Rampa Pieghevole Rocket",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/rampa-pieghevole-rocket-40x156cm-8514/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254806/rampa-rocket-pieghevole-per-cane.jpg?v=637556464482300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254807/rampa-rocket-pieghevole-per-cane-dettaglio.jpg?v=637556464587470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254808/rampa-rocket-pieghevole-per-cane-40x156cm.jpg?v=637556464679730000"
+    ],
+    "price": {
+      "current": 79.9,
+      "original": 79.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8514",
+        "sku": "8514",
+        "gtin": "10129217",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/rampa-pieghevole-rocket-40x156cm-8514/p",
+        "price": {
+          "current": 79.9,
+          "original": 79.9,
+          "pricePerUnit": {
+            "value": 3995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiorampe-e-scalette",
+        "name": "Rampe e scalette",
+        "path": "/cane/trasportini-e-viaggio/rampe-e-scalette/",
+        "level": 4
+      },
+      {
+        "id": "rampa-pieghevole-rocket-40x156cm-8514p",
+        "name": "Rampa Pieghevole Rocket",
+        "path": "/rampa-pieghevole-rocket-40x156cm-8514/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8341",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "8542",
+    "sku": "8542",
+    "gtin": "10118324",
+    "title": "Trasportino Auto per Cane Caddy Deluxe",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportino-auto-per-cane-caddy-deluxe-8542/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208270/Pet-Around-You-Caddy-Deluxe-tg-100.jpg?v=637413969546530000"
+    ],
+    "price": {
+      "current": 164,
+      "original": 164,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8200,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8542",
+        "sku": "8542",
+        "gtin": "10118324",
+        "title": "TG.80",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportino-auto-per-cane-caddy-deluxe-8542/p",
+        "price": {
+          "current": 164,
+          "original": 164,
+          "pricePerUnit": {
+            "value": 8200,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "pet-around-you-trasportino-auto-per-cane-caddy-deluxe-8542p",
+        "name": "Trasportino Auto per Cane Caddy Deluxe",
+        "path": "/pet-around-you-trasportino-auto-per-cane-caddy-deluxe-8542/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8369",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "8391",
+    "sku": "8391",
+    "gtin": "10110277",
+    "title": "Trasportino Caravan",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportino-caravan-8391/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/225626/pet-around-you-caravan-cane-trasportino.jpg?v=637454754191570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/245023/pet-around-you-caravan-cane-trasportino.jpg?v=637455019670670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/245026/pet-around-you-caravan-cane-trasportino.jpg?v=637455019695900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272628/trasportino-caravan-istruzioni-montaggio.jpg?v=637907015499130000"
+    ],
+    "price": {
+      "current": 144.99,
+      "original": 144.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8391",
+        "sku": "8391",
+        "gtin": "10110277",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportino-caravan-8391/p",
+        "price": {
+          "current": 144.99,
+          "original": 144.99,
+          "pricePerUnit": {
+            "value": 7249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "pet-around-you-trasportino-caravan-8391p",
+        "name": "Trasportino Caravan",
+        "path": "/pet-around-you-trasportino-caravan-8391/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8508",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "11016",
+    "sku": "11016",
+    "gtin": "10130685",
+    "title": "Trasportino Flora Nero",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-nero-11016/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260496/lovedi-trasportino-flora-nero.jpg?v=637614175033800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260497/trasportino-flora-nero.jpg?v=637614175142830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260498/lovedi-trasportino-flora-nero-dettaglio.jpg?v=637614175251000000"
+    ],
+    "price": {
+      "current": 38.99,
+      "original": 38.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1949.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11016",
+        "sku": "11016",
+        "gtin": "10130685",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/lovedi-trasportino-flora-nero-11016/p",
+        "price": {
+          "current": 38.99,
+          "original": 38.99,
+          "pricePerUnit": {
+            "value": 1949.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-trasportino-flora-nero-11016p",
+        "name": "Trasportino Flora Nero",
+        "path": "/lovedi-trasportino-flora-nero-11016/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10612",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "11137",
+    "sku": "11137",
+    "gtin": "10130873",
+    "title": "Trasportino Caddy Grande Auto per Cane",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/trasportino-caddy-grande-auto-per-cane-11137/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260131/pet-around-you-trasportino-auto-caddy-xxl.jpg?v=637611602500230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260132/pet-around-you-trasportino-auto-caddy-xxl-dimensioni.jpg?v=637611602583200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260133/pet-around-you-trasportino-auto-caddy-xxl-cani.jpg?v=637611602801330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260134/pet-around-you-trasportino-auto-caddy-xxl-chiusura.jpg?v=637611602898670000"
+    ],
+    "price": {
+      "current": 229,
+      "original": 229,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11450,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11137",
+        "sku": "11137",
+        "gtin": "10130873",
+        "title": "XXL",
+        "url": "https://www.arcaplanet.it/trasportino-caddy-grande-auto-per-cane-11137/p",
+        "price": {
+          "current": 229,
+          "original": 229,
+          "pricePerUnit": {
+            "value": 11450,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "trasportino-caddy-grande-auto-per-cane-11137p",
+        "name": "Trasportino Caddy Grande Auto per Cane",
+        "path": "/trasportino-caddy-grande-auto-per-cane-11137/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10731",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "12704",
+    "sku": "12704",
+    "gtin": "10138695",
+    "title": "Trasportino Rider Metal Door Azzurro",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292036/rider-1-PM-Artic-blu-blu-acciao.jpg?v=638361693811500000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12704",
+        "sku": "12704",
+        "gtin": "10138695",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704p",
+        "name": "Trasportino Rider Metal Door Azzurro",
+        "path": "/pet-around-you-trasportino-cane-rider-metal-door-azzurro-12704/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14840",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "12707",
+    "sku": "12707",
+    "gtin": "10138698",
+    "title": "Trasportino Rider Metal Door Cipria",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264392/trasportino-rider-metal-door-cipria-taglia-1.jpg?v=637716384565100000"
+    ],
+    "price": {
+      "current": 23.99,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12707",
+        "sku": "12707",
+        "gtin": "10138698",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+        "price": {
+          "current": 23.99,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-trasportini-rider-metal-door-cipria-12707p",
+        "name": "Trasportino Rider Metal Door Cipria",
+        "path": "/pet-around-you-trasportini-rider-metal-door-cipria-12707/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14843",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "13878",
+    "sku": "13878",
+    "gtin": "10139698",
+    "title": "Borsa Viaggio Valery",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265753/266022_PHO_PRO_CLIP_28901-4.jpg?v=637738698337370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265754/266019_PHO_PRO_CLIP_28901-1.jpg?v=637738698661770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265755/266020_PHO_PRO_CLIP_28901-2.jpg?v=637738698838870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265756/266021_PHO_PRO_CLIP_28901-3.jpg?v=637738698928830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265757/266023_PHO_PRO_CLIP_28901-5.jpg?v=637738699041300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265758/266024_PHO_PRO_CLIP_28901-6.jpg?v=637738699160930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265759/266026_PHO_PRO_CLIP_28901-8.jpg?v=637738699281730000"
+    ],
+    "price": {
+      "current": 74.99,
+      "original": 74.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3749.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13878",
+        "sku": "13878",
+        "gtin": "10139698",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+        "price": {
+          "current": 74.99,
+          "original": 74.99,
+          "pricePerUnit": {
+            "value": 3749.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878p",
+        "name": "Borsa Viaggio Valery",
+        "path": "/borsa-viaggio-valery-trasportino-cane-gatto-trixie-13878/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16015",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14495",
+    "sku": "14495",
+    "gtin": "10140273",
+    "title": "Zaino Pet Blu",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-zaino-pet-blu-14495/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267098/camon-zaino-blu-apertura-anteriore.jpg?v=637805993872130000"
+    ],
+    "price": {
+      "current": 40.2,
+      "original": 40.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2010,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14495",
+        "sku": "14495",
+        "gtin": "10140273",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/camon-zaino-pet-blu-14495/p",
+        "price": {
+          "current": 40.2,
+          "original": 40.2,
+          "pricePerUnit": {
+            "value": 2010,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportiniborse",
+        "name": "Borse",
+        "path": "/gatto/trasportini/borse/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "camon-zaino-pet-blu-14495p",
+        "name": "Zaino Pet Blu",
+        "path": "/camon-zaino-pet-blu-14495/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14577",
+    "sku": "14577",
+    "gtin": "10140313",
+    "title": "Safety Car Telo Coprisedile Auto",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-safety-car-telo-coprisedile-auto-14577/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269591/pet-around-you-car-security-telo-coprisedili-132cm.jpg?v=637829525214170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269729/safety-car-telo-coprisedile-auto.jpg?v=637834589803900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269730/safety-car-telo-coprisedile-auto-dettaglio.jpg?v=637834589906970000"
+    ],
+    "price": {
+      "current": 33.99,
+      "original": 33.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14577",
+        "sku": "14577",
+        "gtin": "10140313",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-safety-car-telo-coprisedile-auto-14577/p",
+        "price": {
+          "current": 33.99,
+          "original": 33.99,
+          "pricePerUnit": {
+            "value": 1699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autocoprisedili",
+        "name": "Coprisedili",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/coprisedili/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-safety-car-telo-coprisedile-auto-14577p",
+        "name": "Safety Car Telo Coprisedile Auto",
+        "path": "/pet-around-you-safety-car-telo-coprisedile-auto-14577/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16714",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14578",
+    "sku": "14578",
+    "gtin": "10140314",
+    "title": "Pettorina Sicurezza per Auto",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-pettorina-sicurezza-cane-per-auto-14578/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270558/pet-around-you-pettorina-cane-security-s.jpg?v=637849422957430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270559/pet-around-you-pettorina-cane-security.jpg?v=637849423077970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270560/pet-around-you-pettorina-cane-security-.jpg?v=637849423209230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270561/pet-around-you-pettorina-cane-safety.jpg?v=637849423330400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273358/pay-1.jpg?v=637933817093300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273359/pay2.jpg?v=637933817298730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273360/pay-3.jpg?v=637933817428300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/273361/pay-4.jpg?v=637933817617070000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14578",
+        "sku": "14578",
+        "gtin": "10140314",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/pet-around-you-pettorina-sicurezza-cane-per-auto-14578/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autopettorine",
+        "name": "Pettorine",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/pettorine/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-pettorina-sicurezza-cane-per-auto-14578p",
+        "name": "Pettorina Sicurezza per Auto",
+        "path": "/pet-around-you-pettorina-sicurezza-cane-per-auto-14578/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16715",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14582",
+    "sku": "14582",
+    "gtin": "10140318",
+    "title": "Cintura di Sicurezza per Cane",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-cuntura-sicurezza-cane-14582/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269726/pet-around-you-cintura-sicurezza-46-71cm.jpg?v=637834547573300000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14582",
+        "sku": "14582",
+        "gtin": "10140318",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-cuntura-sicurezza-cane-14582/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "pet-around-you-cuntura-sicurezza-cane-14582p",
+        "name": "Cintura di Sicurezza per Cane",
+        "path": "/pet-around-you-cuntura-sicurezza-cane-14582/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16719",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14583",
+    "sku": "14583",
+    "gtin": "10140319",
+    "title": "Rete Sedili Anteriori Auto",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/pet-around-you-rete-sedili-anteriori-auto-14583/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269727/pet-around-you-rete-sedili-anteriori.jpg?v=637834563617470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269728/pet-around-you-rete-sedili-anteriori-view.jpg?v=637834563705200000"
+    ],
+    "price": {
+      "current": 10.99,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 549.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14583",
+        "sku": "14583",
+        "gtin": "10140319",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/pet-around-you-rete-sedili-anteriori-auto-14583/p",
+        "price": {
+          "current": 10.99,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 549.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autodivisori",
+        "name": "Divisori",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/divisori/",
+        "level": 5
+      },
+      {
+        "id": "pet-around-you-rete-sedili-anteriori-auto-14583p",
+        "name": "Rete Sedili Anteriori Auto",
+        "path": "/pet-around-you-rete-sedili-anteriori-auto-14583/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16720",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "14622",
+    "sku": "14622",
+    "gtin": "10084403",
+    "title": "Coprisedile Singolo per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-coprisedile-singolo-per-cane-14622/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270397/trixie-coprisedile-cane.jpg?v=637847627572100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270398/trixie-coprisedile.jpg?v=637847627713130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270399/trixie-coprisedile-per-cane.jpg?v=637847627865030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270400/trixie-coprisedile-per-cani.jpg?v=637847627980100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270401/trixie-coprisedile-cani.jpg?v=637847628133230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270402/trixie-coprisedili.jpg?v=637847628233900000"
+    ],
+    "price": {
+      "current": 40.5,
+      "original": 40.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2025,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14622",
+        "sku": "14622",
+        "gtin": "10084403",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-coprisedile-singolo-per-cane-14622/p",
+        "price": {
+          "current": 40.5,
+          "original": 40.5,
+          "pricePerUnit": {
+            "value": 2025,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autocoprisedili",
+        "name": "Coprisedili",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/coprisedili/",
+        "level": 5
+      },
+      {
+        "id": "trixie-coprisedile-singolo-per-cane-14622p",
+        "name": "Coprisedile Singolo per Cane",
+        "path": "/trixie-coprisedile-singolo-per-cane-14622/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16759",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "15126",
+    "sku": "15126",
+    "gtin": "10140896",
+    "title": "Trasportino Sierra in Plastica Eco",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-trasportino-sierra-plastica-eco-15126/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277811/yes-trasportino-sierra-plastica-eco-azzurro.jpg?v=638053154131770000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15126",
+        "sku": "15126",
+        "gtin": "10140896",
+        "title": "AZZURRO",
+        "url": "https://www.arcaplanet.it/yes-trasportino-sierra-plastica-eco-15126/p",
+        "price": {
+          "current": 9.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "AZZURRO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "yes-trasportino-sierra-plastica-eco-15126p",
+        "name": "Trasportino Sierra in Plastica Eco",
+        "path": "/yes-trasportino-sierra-plastica-eco-15126/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17263",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "15143",
+    "sku": "15143",
+    "gtin": "10140923",
+    "title": "Zaino Pet Grigio",
+    "brand": "CAMON",
+    "url": "https://www.arcaplanet.it/camon-zaino-pet-grigio-15143/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271692/camon-zaino-pet-grigio-front.jpg?v=637879403966800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271693/camon-zaino-pet-grigio-back.jpg?v=637879404078230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271694/camon-zaino-pet-grigio-view.jpg?v=637879404189100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271695/camon-zaino-pet-grigio-dietro.jpg?v=637879404292500000"
+    ],
+    "price": {
+      "current": 59.99,
+      "original": 59.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15143",
+        "sku": "15143",
+        "gtin": "10140923",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/camon-zaino-pet-grigio-15143/p",
+        "price": {
+          "current": 59.99,
+          "original": 59.99,
+          "pricePerUnit": {
+            "value": 2999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "camon-zaino-pet-grigio-15143p",
+        "name": "Zaino Pet Grigio",
+        "path": "/camon-zaino-pet-grigio-15143/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17280",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "15465",
+    "sku": "15465",
+    "gtin": "10069161",
+    "title": "Coprisedile in Nylon per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-coprisedile-nylon-per-cane-15465/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272892/trixie-coprisedile-per-cane.jpg?v=637914801308370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272893/trixie-coprisedile-nero.jpg?v=637914801404770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272894/trixie-coprisedile-nero-per-cane.jpg?v=637914801493800000"
+    ],
+    "price": {
+      "current": 32.99,
+      "original": 32.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15465",
+        "sku": "15465",
+        "gtin": "10069161",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-coprisedile-nylon-per-cane-15465/p",
+        "price": {
+          "current": 32.99,
+          "original": 32.99,
+          "pricePerUnit": {
+            "value": 1649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autocoprisedili",
+        "name": "Coprisedili",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/coprisedili/",
+        "level": 5
+      },
+      {
+        "id": "trixie-coprisedile-nylon-per-cane-15465p",
+        "name": "Coprisedile in Nylon per Cane",
+        "path": "/trixie-coprisedile-nylon-per-cane-15465/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17602",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "15466",
+    "sku": "15466",
+    "gtin": "10069164",
+    "title": "Seggiolino Auto per Cane",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-seggiolino-auto-per-cane-15466/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272901/trixie-seggiolino-auto.jpg?v=637914846076770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272904/trixie-seggiolino-auto-aperto.jpg?v=637914846616370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272905/trixie-seggiolino-auto-apribile.jpg?v=637914846776830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272906/trixie-seggiolino-auto-cerniera.jpg?v=637914846931670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272907/trixie-seggiolino-auto-chiusura-2.jpg?v=637914847158100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272908/trixie-seggiolino-auto-chiusura.jpg?v=637914847305600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272909/trixie-seggiolino-auto-come-si-chiude.jpg?v=637914847522900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272910/trixie-seggiolino-auto-dettagli.jpg?v=637914847640200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272911/trixie-seggiolino-auto-sedile.jpg?v=637914847755930000"
+    ],
+    "price": {
+      "current": 77.99,
+      "original": 77.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3899.4999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15466",
+        "sku": "15466",
+        "gtin": "10069164",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/trixie-seggiolino-auto-per-cane-15466/p",
+        "price": {
+          "current": 77.99,
+          "original": 77.99,
+          "pricePerUnit": {
+            "value": 3899.4999999999995,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "trixie-seggiolino-auto-per-cane-15466p",
+        "name": "Seggiolino Auto per Cane",
+        "path": "/trixie-seggiolino-auto-per-cane-15466/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17603",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "16300",
+    "sku": "16300",
+    "gtin": "10155806",
+    "title": "Trasportino Espandibile per Cane",
+    "brand": "MR PET",
+    "url": "https://www.arcaplanet.it/mr-pet-trasportino-espandibile-per-cane-50x30x33-cm-16300/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276652/mr-pet-trasportino-espandibile-per-cane.jpg?v=638035000194430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276653/mr-pet-trasportino-espandibile-per-cane1.jpg?v=638035001809130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276654/mr-pet-trasportino-espandibile-per-cane2.jpg?v=638035001957570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276655/mr-pet-trasportino-espandibile-per-cane-pack.jpg?v=638035002082530000"
+    ],
+    "price": {
+      "current": 6,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 300,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16300",
+        "sku": "16300",
+        "gtin": "10155806",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/mr-pet-trasportino-espandibile-per-cane-50x30x33-cm-16300/p",
+        "price": {
+          "current": 6,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 300,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "mr-pet-trasportino-espandibile-per-cane-50x30x33-cm-16300p",
+        "name": "Trasportino Espandibile per Cane",
+        "path": "/mr-pet-trasportino-espandibile-per-cane-50x30x33-cm-16300/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "16303",
+    "sku": "16303",
+    "gtin": "10155809",
+    "title": "Set 2 Trasportini per Cane",
+    "brand": "MR PET",
+    "url": "https://www.arcaplanet.it/mr-pet-set-due-trasportini-per-cane-50x32x32-cm-16303/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276646/mr-pet-set-due-trasportini-per-cane1.jpg?v=638034985971400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276640/mr-pet-set-due-trasportini-per-cane.jpg?v=638034959578300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276647/mr-pet-set-due-trasportini-per-cane2.jpg?v=638034986115100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276648/mr-pet-set-due-trasportini-per-cane3.jpg?v=638034986251500000"
+    ],
+    "price": {
+      "current": 10,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 500,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16303",
+        "sku": "16303",
+        "gtin": "10155809",
+        "title": "2 PZ",
+        "url": "https://www.arcaplanet.it/mr-pet-set-due-trasportini-per-cane-50x32x32-cm-16303/p",
+        "price": {
+          "current": 10,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 500,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "mr-pet-set-due-trasportini-per-cane-50x32x32-cm-16303p",
+        "name": "Set 2 Trasportini per Cane",
+        "path": "/mr-pet-set-due-trasportini-per-cane-50x32x32-cm-16303/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18440",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "16304",
+    "sku": "16304",
+    "gtin": "10155810",
+    "title": "Mr Pet Trasportino",
+    "brand": "MR PET",
+    "url": "https://www.arcaplanet.it/mr-pet-trasportino-16304/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276453/mr-pet-trasportino-cani.jpg?v=638034062115630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276454/mr-pet-trasportino-cani-view.jpg?v=638034062219930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276455/mr-pet-trasportino-cani-alto.jpg?v=638034062321900000"
+    ],
+    "price": {
+      "current": 4,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 200,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16304",
+        "sku": "16304",
+        "gtin": "10155810",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/mr-pet-trasportino-16304/p",
+        "price": {
+          "current": 4,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 200,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "mr-pet-trasportino-16304p",
+        "name": "Mr Pet Trasportino",
+        "path": "/mr-pet-trasportino-16304/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18441",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "16594",
+    "sku": "16594",
+    "gtin": "10151254",
+    "title": "More Zaino Supreme",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-zaino-supreme-16594/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286585/e6acb12653907bab946212beb59c945b2c51f82d_bd2beb5c56513abb2684a4e7ef4f9bfe06e6b936--1-.jpg?v=638210603565030000"
+    ],
+    "price": {
+      "current": 52.49,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2624.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16594",
+        "sku": "16594",
+        "gtin": "10151254",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/more-zaino-supreme-16594/p",
+        "price": {
+          "current": 52.49,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 2624.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiozaini",
+        "name": "Zaini",
+        "path": "/cane/trasportini-e-viaggio/zaini/",
+        "level": 4
+      },
+      {
+        "id": "more-zaino-supreme-16594p",
+        "name": "More Zaino Supreme",
+        "path": "/more-zaino-supreme-16594/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18715",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "17558",
+    "sku": "17558",
+    "gtin": "10152718",
+    "title": "Fit and Fun Dog Coperta per Auto",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-coperta-per-auto-17558/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284412/1a24684362006c96669d6f4f97315a3d18e6ce50_ec3e32602a1c0d05fb427bf6039df16cff2853f8--1-.jpg?v=638179358642130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318674/fit-and-fun-coperta-per-auto-10152718--2-.jpg.jpg?v=638773029728870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318675/fit-and-fun-coperta-per-auto-10152718--1-.jpg.jpg?v=638773029728870000"
+    ],
+    "price": {
+      "current": 15.29,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 764.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17558",
+        "sku": "17558",
+        "gtin": "10152718",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-coperta-per-auto-17558/p",
+        "price": {
+          "current": 15.29,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 764.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autocoprisedili",
+        "name": "Coprisedili",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/coprisedili/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-coperta-per-auto-17558p",
+        "name": "Fit and Fun Dog Coperta per Auto",
+        "path": "/fit-and-fun-coperta-per-auto-17558/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19676",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "17517",
+    "sku": "17517",
+    "gtin": "10154739",
+    "title": "Anione Trasportino Grigio",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-trasportino-per-cane-grigio-17517/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282102/56b10c8db9f7b5855786681a254974dd266f77ba_1350548__de_DE__AniOneBoxM--1-.jpg?v=638132723562030000"
+    ],
+    "price": {
+      "current": 119.25,
+      "original": 159,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5962.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17517",
+        "sku": "17517",
+        "gtin": "10154739",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/anione-trasportino-per-cane-grigio-17517/p",
+        "price": {
+          "current": 119.25,
+          "original": 159,
+          "pricePerUnit": {
+            "value": 5962.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattotrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/",
+        "level": 3
+      },
+      {
+        "id": "gattotrasportinitrasportini",
+        "name": "Trasportini",
+        "path": "/gatto/trasportini/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "anione-trasportino-per-cane-grigio-17517p",
+        "name": "Anione Trasportino Grigio",
+        "path": "/anione-trasportino-per-cane-grigio-17517/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20135",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "18423",
+    "sku": "18423",
+    "gtin": "10149531",
+    "title": "Fit and Fun Dog Rete di Protezione per Auto",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-rete-di-protezione-per-auto-18423/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284411/98c50422dce2a0e96e3273e4f325510f42f3a977_4e559d4e221646fad720a0dfa41f7fd497f39696--1-.jpg?v=638179308717670000"
+    ],
+    "price": {
+      "current": 9.34,
+      "original": 10.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 467,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18423",
+        "sku": "18423",
+        "gtin": "10149531",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/fit-and-fun-rete-di-protezione-per-auto-18423/p",
+        "price": {
+          "current": 9.34,
+          "original": 10.99,
+          "pricePerUnit": {
+            "value": 467,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-auto",
+        "name": "Trasporto Auto",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/",
+        "level": 4
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasporto-autodivisori",
+        "name": "Divisori",
+        "path": "/cane/trasportini-e-viaggio/trasporto-auto/divisori/",
+        "level": 5
+      },
+      {
+        "id": "fit-and-fun-rete-di-protezione-per-auto-18423p",
+        "name": "Fit and Fun Dog Rete di Protezione per Auto",
+        "path": "/fit-and-fun-rete-di-protezione-per-auto-18423/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20541",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "17973",
+    "sku": "17973",
+    "gtin": "10155008",
+    "title": "Anione Cuscino per Trasportino",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-cuscino-per-trasportino-17973/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282113/7066860ed625ede5b0f183905e300c048cc5c8db_1362456_1362457_1362458_1362459_1362460_1362471_1362472_1__800x800px_72dpi_RGB.jpg?v=638132732223400000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17973",
+        "sku": "17973",
+        "gtin": "10155008",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/anione-cuscino-per-trasportino-17973/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "XL"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "anione-cuscino-per-trasportino-17973p",
+        "name": "Anione Cuscino per Trasportino",
+        "path": "/anione-cuscino-per-trasportino-17973/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "20700",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "18507",
+    "sku": "18507",
+    "gtin": "10154109",
+    "title": "Anione Borsa per Snack",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-borsa-per-snack-18507/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286054/db32901cc40586f197991894dbbfc92aaed77673_1343742__de_DE__anione_tasche__1_.jpg?v=638201005457130000"
+    ],
+    "price": {
+      "current": 7.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 374.5,
+        "unit": "none"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18507",
+        "sku": "18507",
+        "gtin": "10154109",
+        "title": "GIALLA",
+        "url": "https://www.arcaplanet.it/anione-borsa-per-snack-18507/p",
+        "price": {
+          "current": 7.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 374.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Color": "GIALLO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggioborse",
+        "name": "Borse",
+        "path": "/cane/trasportini-e-viaggio/borse/",
+        "level": 4
+      },
+      {
+        "id": "anione-borsa-per-snack-18507p",
+        "name": "Anione Borsa per Snack",
+        "path": "/anione-borsa-per-snack-18507/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21275",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "23512",
+    "sku": "23512",
+    "gtin": "10173508",
+    "title": "Passeggino Cane Giudy Pro Nero",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/passeggino-cane-giudy-pro-nero-23512/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309292/Passeggino-Cane-Giudy-Pro-10173509-1.jpg?v=638658859829070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309293/Passeggino-Cane-Giudy-Pro-10173509-2.jpg?v=638658859932370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309294/Passeggino-Cane-Giudy-Pro-10173509-3.jpg?v=638658860042500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309295/Passeggino-Cane-Giudy-Pro-10173509-4.jpg?v=638658860120370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309296/Passeggino-Cane-Giudy-Pro-10173509-5.jpg?v=638658860205530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309297/Passeggino-Cane-Giudy-Pro-10173509-6.jpg?v=638658860288570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309298/Passeggino-Cane-Giudy-Pro-10173509-7.jpg?v=638658860366100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309299/Passeggino-Cane-Giudy-Pro-10173509-8.jpg?v=638658860453870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/309300/Passeggino-Cane-Giudy-Pro-10173509-9.jpg?v=638658860541070000"
+    ],
+    "price": {
+      "current": 119.99,
+      "original": 119.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23512",
+        "sku": "23512",
+        "gtin": "10173508",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/passeggino-cane-giudy-pro-nero-23512/p",
+        "price": {
+          "current": 119.99,
+          "original": 119.99,
+          "pricePerUnit": {
+            "value": 5999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "passeggino-cane-giudy-pro-nero-23512p",
+        "name": "Passeggino Cane Giudy Pro Nero",
+        "path": "/passeggino-cane-giudy-pro-nero-23512/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25523",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "23513",
+    "sku": "23513",
+    "gtin": "10173509",
+    "title": "Passeggino Cane Giudy",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/passeggino-cane-giudy-pro-23513/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310061/Passeggino-Cane-Giudy-Pro-10173509.jpg?v=638669102177400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310062/Passeggino-Cane-Giudy-Pro-10173509-2.jpg?v=638669102286130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310063/Passeggino-Cane-Giudy-Pro-10173509-3.jpg?v=638669102406700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310064/Passeggino-Cane-Giudy-Pro-10173509-4.jpg?v=638669102498470000"
+    ],
+    "price": {
+      "current": 49.99,
+      "original": 49.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2499.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23513",
+        "sku": "23513",
+        "gtin": "10173509",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/passeggino-cane-giudy-pro-23513/p",
+        "price": {
+          "current": 49.99,
+          "original": 49.99,
+          "pricePerUnit": {
+            "value": 2499.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrolley",
+        "name": "Trolley",
+        "path": "/cane/trasportini-e-viaggio/trolley/",
+        "level": 4
+      },
+      {
+        "id": "passeggino-cane-giudy-pro-23513p",
+        "name": "Passeggino Cane Giudy",
+        "path": "/passeggino-cane-giudy-pro-23513/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25524",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  },
+  {
+    "id": "24054",
+    "sku": "24054",
+    "gtin": "10174225",
+    "title": "Trasportino Eco Top Suite Avio",
+    "brand": "PET AROUND YOU",
+    "url": "https://www.arcaplanet.it/trasportino-eco-top-suite-avio-24054/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311400/Trasportino-Eco-Top-Suite-Avio-10174225-1.jpg?v=638678669015170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311401/Trasportino-Eco-Top-Suite-Avio-10174225-2.jpg?v=638678669105430000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24054",
+        "sku": "24054",
+        "gtin": "10174225",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/trasportino-eco-top-suite-avio-24054/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canetrasportini-e-viaggio",
+        "name": "Trasportini e viaggio",
+        "path": "/cane/trasportini-e-viaggio/",
+        "level": 3
+      },
+      {
+        "id": "canetrasportini-e-viaggiotrasportini",
+        "name": "Trasportini",
+        "path": "/cane/trasportini-e-viaggio/trasportini/",
+        "level": 4
+      },
+      {
+        "id": "trasportino-eco-top-suite-avio-24054p",
+        "name": "Trasportino Eco Top Suite Avio",
+        "path": "/trasportino-eco-top-suite-avio-24054/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26065",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:36:49.982Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/trasportini/e/viaggio/"
+  }
+]

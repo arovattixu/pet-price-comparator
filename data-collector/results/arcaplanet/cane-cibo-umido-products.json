@@ -1,0 +1,3641 @@
+[
+  {
+    "id": "425",
+    "sku": "425",
+    "gtin": "10130125",
+    "title": "Next Natural Dog  Lattina Multipack 6x90G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-natural-dog-lattina-multipack-6x90g-425/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272070/Next-Dog-Filetti-al-Manzo-con-Verdure-6X90g-6X90G.jpg?v=637898389551330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272071/bollino-6x90--1-.jpg?v=637898389668900000"
+    ],
+    "price": {
+      "current": 8.1,
+      "original": 8.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.999999999999998,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "425",
+        "sku": "425",
+        "gtin": "10130125",
+        "title": "MANZO CON VERDURE",
+        "url": "https://www.arcaplanet.it/next-natural-dog-lattina-multipack-6x90g-425/p",
+        "price": {
+          "current": 8.1,
+          "original": 8.1,
+          "pricePerUnit": {
+            "value": 14.999999999999998,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "6X90G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-natural-dog-lattina-multipack-6x90g-425p",
+        "name": "Next Natural Dog  Lattina Multipack 6x90G",
+        "path": "/next-natural-dog-lattina-multipack-6x90g-425/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "413",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "4643",
+    "sku": "4643",
+    "gtin": "10078072",
+    "title": "Next Natural Dog Lattina Multipack 24x170G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-dog-natural-lattina-170g-4643/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/292967/Next-Natural-Dog-Lattina-Multipack-24x170G-10078072.jpg?v=638380601425830000"
+    ],
+    "price": {
+      "current": 2.09,
+      "original": 2.09,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.5122549019607843,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4643",
+        "sku": "4643",
+        "gtin": "10078072",
+        "title": "POLLO CON PROSCIUTTO",
+        "url": "https://www.arcaplanet.it/next-dog-natural-lattina-170g-4643/p",
+        "price": {
+          "current": 2.09,
+          "original": 2.09,
+          "pricePerUnit": {
+            "value": 0.5122549019607843,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO E PROSCIUTTO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-dog-natural-lattina-170g-4643p",
+        "name": "Next Natural Dog Lattina Multipack 24x170G",
+        "path": "/next-dog-natural-lattina-170g-4643/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1604",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "4152",
+    "sku": "4152",
+    "gtin": "00009209",
+    "title": "Schesir Dog Lattina Multipack 18x150G",
+    "brand": "SCHESIR",
+    "url": "https://www.arcaplanet.it/schesir-dog-filetti-lattina-150g-4152/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262975/01074255_8005852712554-V1.jpg?v=637674641309700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/260220/01074255_8005852712554.jpg?v=637611773907970000"
+    ],
+    "price": {
+      "current": 1.65,
+      "original": 2.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.611111111111111,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4152",
+        "sku": "4152",
+        "gtin": "00009209",
+        "title": "POLLO CON PROSCIUTTO",
+        "url": "https://www.arcaplanet.it/schesir-dog-filetti-lattina-150g-4152/p",
+        "price": {
+          "current": 1.65,
+          "original": 2.19,
+          "pricePerUnit": {
+            "value": 0.611111111111111,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 18,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO CON PROSCIUTTO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "schesir-dog-filetti-lattina-150g-4152p",
+        "name": "Schesir Dog Lattina Multipack 18x150G",
+        "path": "/schesir-dog-filetti-lattina-150g-4152/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4041",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 18,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5785",
+    "sku": "5785",
+    "gtin": "10077784",
+    "title": "Natural Trainer Dog Lattina 400G",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-maintenance-adult-medium-maxi-400g-5785/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302946/Natural-Trainer-Dog-Lattina-400G-10077784-1.jpg?v=638538663866000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302948/Natural-Trainer-Dog-Lattina-400G-10077784-3.jpg?v=638538664046470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302949/Natural-Trainer-Dog-Lattina-400G-10077784-4.jpg?v=638538664239430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302950/Natural-Trainer-Dog-Lattina-400G-10077784-5.jpg?v=638538664315870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302951/Natural-Trainer-Dog-Lattina-400G-10077784-6.jpg?v=638538664404700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302952/Natural-Trainer-Dog-Lattina-400G-10077784-7.jpg?v=638538664480000000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5785",
+        "sku": "5785",
+        "gtin": "10077784",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/natural-trainer-maintenance-adult-medium-maxi-400g-5785/p",
+        "price": {
+          "current": 2.79,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 6.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-maintenance-adult-medium-maxi-400g-5785p",
+        "name": "Natural Trainer Dog Lattina 400G",
+        "path": "/natural-trainer-maintenance-adult-medium-maxi-400g-5785/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5293",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5475",
+    "sku": "5475",
+    "gtin": "10129835",
+    "title": "Expecial Dog Lattina 405G",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-dog-bocconcini-405g-5475/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280402/expecial-cane-bocconcini-pollo-e-anatra.jpg?v=638115354441900000"
+    ],
+    "price": {
+      "current": 0.99,
+      "original": 0.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.4146341463414633,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5475",
+        "sku": "5475",
+        "gtin": "10129835",
+        "title": "POLLO E ANATRA",
+        "url": "https://www.arcaplanet.it/expecial-dog-bocconcini-405g-5475/p",
+        "price": {
+          "current": 0.99,
+          "original": 0.99,
+          "pricePerUnit": {
+            "value": 2.4146341463414633,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "expecial-dog-bocconcini-405g-5475p",
+        "name": "Expecial Dog Lattina 405G",
+        "path": "/expecial-dog-bocconcini-405g-5475/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5336",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "4034",
+    "sku": "4034",
+    "gtin": "10068074",
+    "title": "Cesar Dog Ricette Classiche Vaschetta Multipack 14x150G",
+    "brand": "CESAR",
+    "url": "https://www.arcaplanet.it/cesar-dog-ricette-classiche-vaschetta-multipack-14x150g-4034/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291398/CESAR--150-GR--Ricette-Classiche-Pollo-e-Manzo.jpg?v=638346073528900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284926/B07JW6XHSH.PT01.jpg?v=638191269881370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284927/B07JW6XHSH.PT02.jpg?v=638191269959300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284928/B07JW6XHSH.PT03.jpg?v=638191270084570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284929/B07JW6XHSH.PT04.jpg?v=638191270201300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/284930/B07JW6XHSH.PT05.jpg?v=638191270282370000"
+    ],
+    "price": {
+      "current": 0.74,
+      "original": 1.11,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.35238095238095235,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4034",
+        "sku": "4034",
+        "gtin": "10068074",
+        "title": "POLLO E MANZO",
+        "url": "https://www.arcaplanet.it/cesar-dog-ricette-classiche-vaschetta-multipack-14x150g-4034/p",
+        "price": {
+          "current": 0.74,
+          "original": 1.11,
+          "pricePerUnit": {
+            "value": 0.35238095238095235,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 14,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO E MANZO",
+            "ERP_Commercial_State": "OutStock",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "cesar-dog-ricette-classiche-vaschetta-multipack-14x150g-4034p",
+        "name": "Cesar Dog Ricette Classiche Vaschetta Multipack 14x150G",
+        "path": "/cesar-dog-ricette-classiche-vaschetta-multipack-14x150g-4034/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5538",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 14,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5758",
+    "sku": "5758",
+    "gtin": "10066048",
+    "title": "Next Dog Lattina 400G",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-dog-adult-lattina-400g-5758/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/248992/next-cane-coniglio.jpg?v=637455051936600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258316/next-adult-coniglio-piselli-dosaggio.jpg?v=637594467149830000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5758",
+        "sku": "5758",
+        "gtin": "10066048",
+        "title": "CONIGLIO CON PISELLI",
+        "url": "https://www.arcaplanet.it/next-dog-adult-lattina-400g-5758/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 4.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "CONIGLIO E PISELLI",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "next-dog-adult-lattina-400g-5758p",
+        "name": "Next Dog Lattina 400G",
+        "path": "/next-dog-adult-lattina-400g-5758/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5611",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5774",
+    "sku": "5774",
+    "gtin": "10067676",
+    "title": "Stuzzy Dog Monoprotein Lattina 400G",
+    "brand": "STUZZY",
+    "url": "https://www.arcaplanet.it/stuzzy-dog-monoproteico-lattina-400g-5774/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299955/Stuzzy-Dog-Monoprotein-Lattina-400G-10067676.jpg?v=638488755385270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299956/Stuzzy-Dog-Monoprotein-Lattina-400G-10067676..jpg?v=638488755452100000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.4750000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5774",
+        "sku": "5774",
+        "gtin": "10067676",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/stuzzy-dog-monoproteico-lattina-400g-5774/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 7.4750000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MAIALE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "stuzzy-dog-monoproteico-lattina-400g-5774p",
+        "name": "Stuzzy Dog Monoprotein Lattina 400G",
+        "path": "/stuzzy-dog-monoproteico-lattina-400g-5774/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5623",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "6683",
+    "sku": "6683",
+    "gtin": "10067685",
+    "title": "Stuzzy Dog Monoprotein Lattina 800G",
+    "brand": "STUZZY",
+    "url": "https://www.arcaplanet.it/stuzzy-dog-monoproteico-lattina-800g-6683/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315505/Stuzzy-Dog-Monoprotein-Lattina-800G-10067685.jpg?v=638741749835730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299986/Stuzzy-Dog-Monoprotein-Lattina-800G-10067685..jpg?v=638490264748300000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6125,
+        "unit": "KG"
+      },
+      "discountPercentage": 6
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6683",
+        "sku": "6683",
+        "gtin": "10067685",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/stuzzy-dog-monoproteico-lattina-800g-6683/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 5.6125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MAIALE",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "stuzzy-dog-monoproteico-lattina-800g-6683p",
+        "name": "Stuzzy Dog Monoprotein Lattina 800G",
+        "path": "/stuzzy-dog-monoproteico-lattina-800g-6683/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5627",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5789",
+    "sku": "5789",
+    "gtin": "10118148",
+    "title": "Virtus Protein Selection Dog Lattina 400G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-protein-selection-pate-lattina-400g-5789/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266207/virtus-dog-protein-selection-anatra-400g.jpg?v=637755900210570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258794/10118148-1-anatra.jpg?v=637598875545700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258795/10118148-anatra.jpg?v=637598875670800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262667/virtus-dog-protein-selection-anatra-400gr-dosaggio.jpg?v=637673756584600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264774/no_preservatives.png?v=637721615481130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264775/single_protein.png?v=637721615611270000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "5789",
+        "sku": "5789",
+        "gtin": "10118148",
+        "title": "ANATRA",
+        "url": "https://www.arcaplanet.it/virtus-dog-protein-selection-pate-lattina-400g-5789/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 7.975,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "ANATRA",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-protein-selection-pate-lattina-400g-5789p",
+        "name": "Virtus Protein Selection Dog Lattina 400G",
+        "path": "/virtus-dog-protein-selection-pate-lattina-400g-5789/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5642",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5831",
+    "sku": "5831",
+    "gtin": "10065559",
+    "title": "Expecial Pro Dog Sensible Lattina 400G",
+    "brand": "EXPECIAL PRO",
+    "url": "https://www.arcaplanet.it/expecial-pro-dog-adult-sensible-pate-400g-5831/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221438/expecial-pro-cane-sensible-pate-manzo.jpg?v=637454711332870000"
+    ],
+    "price": {
+      "current": 1.39,
+      "original": 1.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.4749999999999996,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5831",
+        "sku": "5831",
+        "gtin": "10065559",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/expecial-pro-dog-adult-sensible-pate-400g-5831/p",
+        "price": {
+          "current": 1.39,
+          "original": 1.39,
+          "pricePerUnit": {
+            "value": 3.4749999999999996,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "expecial-pro-dog-adult-sensible-pate-400g-5831p",
+        "name": "Expecial Pro Dog Sensible Lattina 400G",
+        "path": "/expecial-pro-dog-adult-sensible-pate-400g-5831/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "1372",
+        "name": "+ COMPRI - SPENDI"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5684",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5843",
+    "sku": "5843",
+    "gtin": "10110189",
+    "title": "In The Nature Dog Lattina 400G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-dog-all-breeds-lattina-400g-5843/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207250/In-The-Nature-Cane-Adult-Agnello-Farro-e-Mirtillo-400g.jpg?v=637413953178130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262692/in-the-nature-dog-adult-agnello-piatto.jpg?v=637673775538900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262693/in-the-nature-dog-adult-agnello-ingredienti.jpg?v=637673775614000000"
+    ],
+    "price": {
+      "current": 2.59,
+      "original": 2.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.475,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5843",
+        "sku": "5843",
+        "gtin": "10110189",
+        "title": "AGNELLO",
+        "url": "https://www.arcaplanet.it/in-the-nature-dog-all-breeds-lattina-400g-5843/p",
+        "price": {
+          "current": 2.59,
+          "original": 2.59,
+          "pricePerUnit": {
+            "value": 6.475,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "AGNELLO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "in-the-nature-dog-all-breeds-lattina-400g-5843p",
+        "name": "In The Nature Dog Lattina 400G",
+        "path": "/in-the-nature-dog-all-breeds-lattina-400g-5843/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5696",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5849",
+    "sku": "5849",
+    "gtin": "10073645",
+    "title": "Monge Monoprotein Dog Lattina 400G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-solo-lattina-400g-5849/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243843/monge-monoproteico-cane-pate-solo-agnello.jpg?v=637466529606970000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.725,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5849",
+        "sku": "5849",
+        "gtin": "10073645",
+        "title": "AGNELLO",
+        "url": "https://www.arcaplanet.it/monge-solo-lattina-400g-5849/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 8.725,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "AGNELLO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-solo-lattina-400g-5849p",
+        "name": "Monge Monoprotein Dog Lattina 400G",
+        "path": "/monge-solo-lattina-400g-5849/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5702",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5866",
+    "sku": "5866",
+    "gtin": "10118703",
+    "title": "Natural Trainer Sensitive Dog Lattina 400G",
+    "brand": "NATURAL TRAINER",
+    "url": "https://www.arcaplanet.it/natural-trainer-sensitive-medium-maxi-adult-400g-5866/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302993/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-1.jpg?v=638538718958430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302995/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-3.jpg?v=638538719797570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302996/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-4.jpg?v=638538719903430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302997/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-5.jpg?v=638538720091770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302998/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-6.jpg?v=638538720755330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302999/Natural-Trainer-Sensitive-Dog-Lattina-400G-10118703-7.jpg?v=638538720839370000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5866",
+        "sku": "5866",
+        "gtin": "10118703",
+        "title": "MAIALE E CEREALI",
+        "url": "https://www.arcaplanet.it/natural-trainer-sensitive-medium-maxi-adult-400g-5866/p",
+        "price": {
+          "current": 2.79,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 6.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "SUINO E CEREALI"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "natural-trainer-sensitive-medium-maxi-adult-400g-5866p",
+        "name": "Natural Trainer Sensitive Dog Lattina 400G",
+        "path": "/natural-trainer-sensitive-medium-maxi-adult-400g-5866/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5718",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "7143",
+    "sku": "7143",
+    "gtin": "10062263",
+    "title": "Expecial Dog Lattina 1250G",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-dog-pate-lattina-1250g-7143/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/242020/expecial-cane-bocconcini-agnello-e-tacchino.jpg?v=637454995085630000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7143",
+        "sku": "7143",
+        "gtin": "10062263",
+        "title": "AGNELLO E TACCHINO",
+        "url": "https://www.arcaplanet.it/expecial-dog-pate-lattina-1250g-7143/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.25,
+          "pricePerUnit": {
+            "value": 1.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "AGNELLO E TACCHINO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "expecial-dog-pate-lattina-1250g-7143p",
+        "name": "Expecial Dog Lattina 1250G",
+        "path": "/expecial-dog-pate-lattina-1250g-7143/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6934",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "9197",
+    "sku": "9197",
+    "gtin": "10078211",
+    "title": "Dr.Clauder's B.A.R.F. Mangine Completo Dog Lattina 800G",
+    "brand": "DRCLAUDERS BARF",
+    "url": "https://www.arcaplanet.it/barf-menu-completo-trito-800g-9197/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253117/trito-di-maiale.jpg?v=637504432318230000"
+    ],
+    "price": {
+      "current": 7.69,
+      "original": 7.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.6125,
+        "unit": "KG"
+      },
+      "discountPercentage": 3
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9197",
+        "sku": "9197",
+        "gtin": "10078211",
+        "title": "MAIALE CON PATATE E ZUCCHINE",
+        "url": "https://www.arcaplanet.it/barf-menu-completo-trito-800g-9197/p",
+        "price": {
+          "current": 7.69,
+          "original": 7.9,
+          "pricePerUnit": {
+            "value": 9.6125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "barf-menu-completo-trito-800g-9197p",
+        "name": "Dr.Clauder's B.A.R.F. Mangine Completo Dog Lattina 800G",
+        "path": "/barf-menu-completo-trito-800g-9197/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "9015",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5800",
+    "sku": "5800",
+    "gtin": "10074581",
+    "title": "Almo Nature Daily Dog Lattina 400G",
+    "brand": "ALMO NATURE",
+    "url": "https://www.arcaplanet.it/almo-nature-dog-daily-lattina-400g-5800/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315868/Almo-Nature-Daily-Dog-Lattina-400G-10074581.jpg?v=638743413131330000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.374999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5800",
+        "sku": "5800",
+        "gtin": "10074581",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/almo-nature-dog-daily-lattina-400g-5800/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 5.374999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "almo-nature-dog-daily-lattina-400g-5800p",
+        "name": "Almo Nature Daily Dog Lattina 400G",
+        "path": "/almo-nature-dog-daily-lattina-400g-5800/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12095",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "3529",
+    "sku": "3529",
+    "gtin": "10060050",
+    "title": "Monge Fresh Dog Vaschetta Multipack 32x100G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-fresh-pate-e-bocconcini-100g-3529/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252819/Monge-Vaschetta-Fresh-Pate-e-Bocconcini-Salmone.jpg?v=637478828228830000"
+    ],
+    "price": {
+      "current": 0.9,
+      "original": 0.92,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.28125,
+        "unit": "KG"
+      },
+      "discountPercentage": 2
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3529",
+        "sku": "3529",
+        "gtin": "10060050",
+        "title": "SALMONE",
+        "url": "https://www.arcaplanet.it/monge-fresh-pate-e-bocconcini-100g-3529/p",
+        "price": {
+          "current": 0.9,
+          "original": 0.92,
+          "pricePerUnit": {
+            "value": 0.28125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 32,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "SALMONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-fresh-pate-e-bocconcini-100g-3529p",
+        "name": "Monge Fresh Dog Vaschetta Multipack 32x100G",
+        "path": "/monge-fresh-pate-e-bocconcini-100g-3529/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "12199",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 32,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "3401",
+    "sku": "3401",
+    "gtin": "10065868",
+    "title": "Monge Grill Dog Busta Multipack 24x100G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-grill-dog-busta-multipack-24x100g-3401/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253139/monge_cane_umido_grill_bocconcini_jelly_agnello_e_ortaggi_adult.jpg?v=637505290630070000"
+    ],
+    "price": {
+      "current": 0.79,
+      "original": 0.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.3291666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3401",
+        "sku": "3401",
+        "gtin": "10065868",
+        "title": "AGNELLO E ORTAGGI",
+        "url": "https://www.arcaplanet.it/monge-grill-dog-busta-multipack-24x100g-3401/p",
+        "price": {
+          "current": 0.79,
+          "original": 0.79,
+          "pricePerUnit": {
+            "value": 0.3291666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 24,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "AGNELLO E ORTAGGI",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-grill-dog-busta-multipack-24x100g-3401p",
+        "name": "Monge Grill Dog Busta Multipack 24x100G",
+        "path": "/monge-grill-dog-busta-multipack-24x100g-3401/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "12203",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 24,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "955",
+    "sku": "955",
+    "gtin": "10130200",
+    "title": "Virtus Protein Selection Dog Vaschetta Multipack 9x300G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-protein-selection-pate-vaschetta-300g-955/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318197/VIRTUS-PS_-vaschetta-300g_vitello-7613036611299_result.jpg.jpg?v=638768750126000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318198/Virtus-Protein-Selection-Dog-Vaschetta-Multipack-9x300G-10130200-DOSAGGIO.jpg?v=638768749893770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318199/Virtus-Protein-Selection-Dog-Vaschetta-Multipack-9x300G-10130200-2.jpg?v=638768749893930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318200/Virtus-Protein-Selection-Dog-Vaschetta-Multipack-9x300G-10130200-3.jpg?v=638768749894100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318201/Virtus-Protein-Selection-Dog-Vaschetta-Multipack-9x300G-10130200-4.jpg?v=638768749894100000"
+    ],
+    "price": {
+      "current": 3.29,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.2185185185185186,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "955",
+        "sku": "955",
+        "gtin": "10130200",
+        "title": "VITELLO",
+        "url": "https://www.arcaplanet.it/virtus-dog-protein-selection-pate-vaschetta-300g-955/p",
+        "price": {
+          "current": 3.29,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 1.2185185185185186,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 9,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "VITELLO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-protein-selection-pate-vaschetta-300g-955p",
+        "name": "Virtus Protein Selection Dog Vaschetta Multipack 9x300G",
+        "path": "/virtus-dog-protein-selection-pate-vaschetta-300g-955/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 9,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "13798",
+    "sku": "13798",
+    "gtin": "10139616",
+    "title": "Monge Grill Dog Busta Multipack 12x100G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-grill-dog-busta-multipack-12x100g-13798/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261948/monge-grill-multipack-salmone-maiale-agnello-per-cane-12x100-g.jpg?v=637660168179700000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.658333333333334,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13798",
+        "sku": "13798",
+        "gtin": "10139616",
+        "title": "SALMONE MAIALE E AGNELLO",
+        "url": "https://www.arcaplanet.it/monge-grill-dog-busta-multipack-12x100g-13798/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 6.658333333333334,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "12X100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-grill-dog-busta-multipack-12x100g-13798p",
+        "name": "Monge Grill Dog Busta Multipack 12x100G",
+        "path": "/monge-grill-dog-busta-multipack-12x100g-13798/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15936",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "14235",
+    "sku": "14235",
+    "gtin": "10140050",
+    "title": "Virtus Country Paté Dog Lattina 400G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-adult-country-pate-lattina-400g-14235/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304045/virtus-country-pate-dog-lattina-400g-10140050.jpg?v=638563923017300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304046/virtus-dog-adult-sierra-formula-agnello-400g-razione-consigliata.jpg?v=638563923763330000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 2.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14235",
+        "sku": "14235",
+        "gtin": "10140050",
+        "title": "AGNELLO E CINGHIALE",
+        "url": "https://www.arcaplanet.it/virtus-dog-adult-country-pate-lattina-400g-14235/p",
+        "price": {
+          "current": 2.79,
+          "original": 2.79,
+          "pricePerUnit": {
+            "value": 6.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "AGNELLO E CINGHIALE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-adult-country-pate-lattina-400g-14235p",
+        "name": "Virtus Country Paté Dog Lattina 400G",
+        "path": "/virtus-dog-adult-country-pate-lattina-400g-14235/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16373",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "14246",
+    "sku": "14246",
+    "gtin": "10140061",
+    "title": "Virtus Wild Taste Dog Lattina 400G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-adult-wild-taste-pate-lattina-400g-14246/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304081/virtus-wild-taste-dog-lattina-400g-10140061.jpg?v=638563951573500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304084/virtus-dog-adult-wild-taste-salmone-dosaggio.jpg?v=638563951772800000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.4750000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14246",
+        "sku": "14246",
+        "gtin": "10140061",
+        "title": "SALMONE",
+        "url": "https://www.arcaplanet.it/virtus-dog-adult-wild-taste-pate-lattina-400g-14246/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 7.4750000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "SALMONE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-adult-wild-taste-pate-lattina-400g-14246p",
+        "name": "Virtus Wild Taste Dog Lattina 400G",
+        "path": "/virtus-dog-adult-wild-taste-pate-lattina-400g-14246/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16378",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "15229",
+    "sku": "15229",
+    "gtin": "10141019",
+    "title": "Virtus New Formula Dog Lattina 400G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-adult-pate-400g-15229/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304067/virtus-new-formula-dog-lattina-400g-10141018--3-.jpg?v=638563941192530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304068/virtus-new-formula-dog-lattina-400g-10141018--4-.jpg?v=638563941326300000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 2.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15229",
+        "sku": "15229",
+        "gtin": "10141019",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/virtus-dog-adult-pate-400g-15229/p",
+        "price": {
+          "current": 2.79,
+          "original": 2.79,
+          "pricePerUnit": {
+            "value": 6.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MANZO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-adult-pate-400g-15229p",
+        "name": "Virtus New Formula Dog Lattina 400G",
+        "path": "/virtus-dog-adult-pate-400g-15229/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17366",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "15631",
+    "sku": "15631",
+    "gtin": "10141167",
+    "title": "In The Nature Superfood Dog Lattina 400G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-superfood-dog-adult-pate-lattina-400g-15631/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275422/in-the-nature-dog-pate-di-tacchino-ceci-piselli-mela-400g.jpg?v=637986636047370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275423/in-the-nature-dog-pate-400g-dosaggio.jpg?v=637986636349830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275424/in-the-nature-dog-pate-di-tacchino-ceci-piselli-mela-400g-componenti-analitici.jpg?v=637986636475200000"
+    ],
+    "price": {
+      "current": 2.79,
+      "original": 2.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15631",
+        "sku": "15631",
+        "gtin": "10141167",
+        "title": "TACCHINO CON PISELLI E CECI E MELA",
+        "url": "https://www.arcaplanet.it/in-the-nature-superfood-dog-adult-pate-lattina-400g-15631/p",
+        "price": {
+          "current": 2.79,
+          "original": 2.79,
+          "pricePerUnit": {
+            "value": 6.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "TACCHINO CON PISELLI E CECI E MELA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "in-the-nature-superfood-dog-adult-pate-lattina-400g-15631p",
+        "name": "In The Nature Superfood Dog Lattina 400G",
+        "path": "/in-the-nature-superfood-dog-adult-pate-lattina-400g-15631/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17769",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "16820",
+    "sku": "16820",
+    "gtin": "10141535",
+    "title": "Select Gold Sensitive Dog Lattina 400G",
+    "brand": "SELECT GOLD",
+    "url": "https://www.arcaplanet.it/select-gold-sensitive-per-cani-adult-lattina-400g-16820/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316706/1002696001_risultato.jpg.jpg?v=638757237885230000"
+    ],
+    "price": {
+      "current": 2.24,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6000000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16820",
+        "sku": "16820",
+        "gtin": "10141535",
+        "title": "MANZO CON RISO",
+        "url": "https://www.arcaplanet.it/select-gold-sensitive-per-cani-adult-lattina-400g-16820/p",
+        "price": {
+          "current": 2.24,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 5.6000000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-sensitive-per-cani-adult-lattina-400g-16820p",
+        "name": "Select Gold Sensitive Dog Lattina 400G",
+        "path": "/select-gold-sensitive-per-cani-adult-lattina-400g-16820/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18833",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "17759",
+    "sku": "17759",
+    "gtin": "10141730",
+    "title": "Real Nature Dog Lattina 800G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-per-cani-adulti-800g-17759/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316683/1002928003_risultato.jpg.jpg?v=638756680044800000"
+    ],
+    "price": {
+      "current": 3.82,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.7749999999999995,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17759",
+        "sku": "17759",
+        "gtin": "10141730",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/real-nature-per-cani-adulti-800g-17759/p",
+        "price": {
+          "current": 3.82,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 4.7749999999999995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-per-cani-adulti-800g-17759p",
+        "name": "Real Nature Dog Lattina 800G",
+        "path": "/real-nature-per-cani-adulti-800g-17759/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19551",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "17121",
+    "sku": "17121",
+    "gtin": "10143754",
+    "title": "Real Nature Wilderness Dog Lattina 800G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-cane-pure-adult-800g-17121/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279316/1102965003-416x550.jpg?v=638104146653730000"
+    ],
+    "price": {
+      "current": 3.74,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.675,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17121",
+        "sku": "17121",
+        "gtin": "10143754",
+        "title": "ARINGA CON SALMONE E ANATRA",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-cane-pure-adult-800g-17121/p",
+        "price": {
+          "current": 3.74,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 4.675,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-wilderness-cane-pure-adult-800g-17121p",
+        "name": "Real Nature Wilderness Dog Lattina 800G",
+        "path": "/real-nature-wilderness-cane-pure-adult-800g-17121/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19569",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "17689",
+    "sku": "17689",
+    "gtin": "10152470",
+    "title": "Premiere Meati Dog Lattina 800G",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-meati-per-cani-adulti-800g-17689/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316661/1321622_risultato.jpg.jpg?v=638756647417130000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.7375000000000003,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17689",
+        "sku": "17689",
+        "gtin": "10152470",
+        "title": "PROSCIUTTO",
+        "url": "https://www.arcaplanet.it/premiere-meati-per-cani-adulti-800g-17689/p",
+        "price": {
+          "current": 2.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 3.7375000000000003,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "premiere-meati-per-cani-adulti-800g-17689p",
+        "name": "Premiere Meati Dog Lattina 800G",
+        "path": "/premiere-meati-per-cani-adulti-800g-17689/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19707",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "17665",
+    "sku": "17665",
+    "gtin": "10152562",
+    "title": "Real Nature Dog Lattina 400G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-per-cani-adulti-400g-17665/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316694/1322704_risultato.jpg.jpg?v=638756694391230000"
+    ],
+    "price": {
+      "current": 2.54,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.35,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17665",
+        "sku": "17665",
+        "gtin": "10152562",
+        "title": "TACCHINO CON VITELLO",
+        "url": "https://www.arcaplanet.it/real-nature-per-cani-adulti-400g-17665/p",
+        "price": {
+          "current": 2.54,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 6.35,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-per-cani-adulti-400g-17665p",
+        "name": "Real Nature Dog Lattina 400G",
+        "path": "/real-nature-per-cani-adulti-400g-17665/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19901",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "17140",
+    "sku": "17140",
+    "gtin": "10143738",
+    "title": "Real Nature Wilderness Dog Lattina 400G",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-wilderness-dog-lattina-400g-17140/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/317988/Real-Nature-Wilderness-Dog-Lattina-400G-10143738.jpg.jpg?v=638766820242430000"
+    ],
+    "price": {
+      "current": 2.47,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.175,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17140",
+        "sku": "17140",
+        "gtin": "10143738",
+        "title": "MANZO",
+        "url": "https://www.arcaplanet.it/real-nature-wilderness-dog-lattina-400g-17140/p",
+        "price": {
+          "current": 2.47,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 6.175,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "real-nature-wilderness-dog-lattina-400g-17140p",
+        "name": "Real Nature Wilderness Dog Lattina 400G",
+        "path": "/real-nature-wilderness-dog-lattina-400g-17140/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21829",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "19768",
+    "sku": "19768",
+    "gtin": "10141549",
+    "title": "Select Gold Sensitive Dog Lattina 800G",
+    "brand": "SELECT GOLD",
+    "url": "https://www.arcaplanet.it/select-gold-sensitive-per-cani-adult-lattina-800g-19768/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/319423/select-gold-sensitive-per-cani-adult-lattina-800g-10141549.jpg.jpg?v=638781478396570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/319424/select-gold-sensitive-dog-lattina-800g-10141549--1-.jpg.jpg?v=638781478396700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/319425/select-gold-sensitive-dog-lattina-800g-10141549--2-.jpg.jpg?v=638781478396870000"
+    ],
+    "price": {
+      "current": 3.29,
+      "original": 4.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.1125,
+        "unit": "KG"
+      },
+      "discountPercentage": 25
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19768",
+        "sku": "19768",
+        "gtin": "10141549",
+        "title": "MANZO CON RISO",
+        "url": "https://www.arcaplanet.it/select-gold-sensitive-per-cani-adult-lattina-800g-19768/p",
+        "price": {
+          "current": 3.29,
+          "original": 4.39,
+          "pricePerUnit": {
+            "value": 4.1125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "select-gold-sensitive-per-cani-adult-lattina-800g-19768p",
+        "name": "Select Gold Sensitive Dog Lattina 800G",
+        "path": "/select-gold-sensitive-per-cani-adult-lattina-800g-19768/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21889",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "5432",
+    "sku": "5432",
+    "gtin": "10118059",
+    "title": "Monge Fresh Dog Lattina 400G",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/monge-cane-fresh-adult-400g-5432/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226830/monge-fresh-cane-adult-maiale.jpg?v=637466528133900000"
+    ],
+    "price": {
+      "current": 1.75,
+      "original": 1.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5432",
+        "sku": "5432",
+        "gtin": "10118059",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/monge-cane-fresh-adult-400g-5432/p",
+        "price": {
+          "current": 1.75,
+          "original": 1.75,
+          "pricePerUnit": {
+            "value": 4.375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "MAIALE"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "monge-cane-fresh-adult-400g-5432p",
+        "name": "Monge Fresh Dog Lattina 400G",
+        "path": "/monge-cane-fresh-adult-400g-5432/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22530",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "20767",
+    "sku": "20767",
+    "gtin": "10168392",
+    "title": "In The Nature Gourmet Dog Lattina 400G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-dog-gourmet-400g-20767/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286295/ITN-400gr-GOURMET_manzo-1_10168392.jpg?v=638205993684730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286313/ITN-400gr-GOURMET_manzo-2_10168392.jpg?v=638206044255670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286314/ITN-400gr-GOURMET_manzo-3_10168392.jpg?v=638206044332370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286389/ITN-400gr-GOURMET_manzo-4_10168392.jpg?v=638206243360870000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.4750000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20767",
+        "sku": "20767",
+        "gtin": "10168392",
+        "title": "MANZO CON CAROTE",
+        "url": "https://www.arcaplanet.it/in-the-nature-dog-gourmet-400g-20767/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 7.4750000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "in-the-nature-dog-gourmet-400g-20767p",
+        "name": "In The Nature Gourmet Dog Lattina 400G",
+        "path": "/in-the-nature-dog-gourmet-400g-20767/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22873",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "22018",
+    "sku": "22018",
+    "gtin": "10169463",
+    "title": "Virtus Deli Topping Dog Lattina Multipack 4x150G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-dog-deli-topping-4x150g-22018/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288023/Virtus-Deli-Topping_fegatini-e-cuori_1-VI6001.jpg?v=638239754520400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288025/Virtus-Deli-Topping_fegatini-e-cuori_4-VI6001.jpg?v=638239754785600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288053/Virtus-Deli-Topping_fegatini-e-cuori_3-VI6001--1-.jpg?v=638239771873830000"
+    ],
+    "price": {
+      "current": 11.96,
+      "original": 11.96,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 19.933333333333337,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22018",
+        "sku": "22018",
+        "gtin": "10169463",
+        "title": "FEGATINI CON CUORI DI POLLO E CAROTE",
+        "url": "https://www.arcaplanet.it/virtus-dog-deli-topping-4x150g-22018/p",
+        "price": {
+          "current": 11.96,
+          "original": 11.96,
+          "pricePerUnit": {
+            "value": 19.933333333333337,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "150G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "canecibo-secco",
+        "name": "Cibo Secco",
+        "path": "/cane/cibo-secco/",
+        "level": 3
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-dog-deli-topping-4x150g-22018p",
+        "name": "Virtus Deli Topping Dog Lattina Multipack 4x150G",
+        "path": "/virtus-dog-deli-topping-4x150g-22018/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24106",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "22831",
+    "sku": "22831",
+    "gtin": "10170404",
+    "title": "Virtus Protein Selection Adult Lattina 400G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-protein-selection-adult-lattina-400g-22831/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/293728/Virtus-Protein-Selection-Adult-Lattina-400G-10170404.jpg?v=638410161643930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294024/Virtus-Protein-Selection-Adult-Lattina-400G-10170404.jpg?v=638412801028700000"
+    ],
+    "price": {
+      "current": 3.19,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.975,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "22831",
+        "sku": "22831",
+        "gtin": "10170404",
+        "title": "SALMONE",
+        "url": "https://www.arcaplanet.it/virtus-protein-selection-adult-lattina-400g-22831/p",
+        "price": {
+          "current": 3.19,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 7.975,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "virtus-protein-selection-adult-lattina-400g-22831p",
+        "name": "Virtus Protein Selection Adult Lattina 400G",
+        "path": "/virtus-protein-selection-adult-lattina-400g-22831/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "24856",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "24459",
+    "sku": "24459",
+    "gtin": "10116452",
+    "title": "Gemon Dog Adult All Breeds Lattina 400G",
+    "brand": "GEMON",
+    "url": "https://www.arcaplanet.it/gemon-dog-adult-all-breeds-lattina-400g-24459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305705/Gemon-Dog-Adult-All-Breeds-Lattina-400G-10116452-1.jpg?v=638597639839030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305706/Gemon-Dog-Adult-All-Breeds-Lattina-400G-10116452-2.jpg?v=638597639926970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305707/Gemon-Dog-Adult-All-Breeds-Lattina-400G-10116452-3.jpg?v=638597640132300000"
+    ],
+    "price": {
+      "current": 0.94,
+      "original": 0.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9583333333333333,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24459",
+        "sku": "24459",
+        "gtin": "10116452",
+        "title": "TRIPPA DI MANZO",
+        "url": "https://www.arcaplanet.it/gemon-dog-adult-all-breeds-lattina-400g-24459/p",
+        "price": {
+          "current": 0.94,
+          "original": 0.94,
+          "pricePerUnit": {
+            "value": 1.9583333333333333,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "gemon-dog-adult-all-breeds-lattina-400g-24459p",
+        "name": "Gemon Dog Adult All Breeds Lattina 400G",
+        "path": "/gemon-dog-adult-all-breeds-lattina-400g-24459/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26470",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "25310",
+    "sku": "25310",
+    "gtin": "1000000000089",
+    "title": "Kit Risparmio 6x800G Stuzzy Dog Monoprotein",
+    "brand": "STUZZY",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x800g-stuzzy-dog-monoprotein-25310/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308184/Stuzzy-Dog-Monoprotein-Lattina-800G-10067682_Agnello_x6_result.jpg?v=638648457291400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308207/Kit-Risparmio-6x800G-Stuzzy-Dog-Monoprotein-agnello.jpg?v=638648532397270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308208/Kit-Risparmio-6x800G-Stuzzy-Dog-Monoprotein--dosaggio.jpg?v=638648532539170000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 26.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.627777777777777,
+        "unit": "KG"
+      },
+      "discountPercentage": 7
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25310",
+        "sku": "25310",
+        "gtin": "1000000000089",
+        "title": "AGNELLO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x800g-stuzzy-dog-monoprotein-25310/p",
+        "price": {
+          "current": 24.99,
+          "original": 26.94,
+          "pricePerUnit": {
+            "value": 4.627777777777777,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-6x800g-stuzzy-dog-monoprotein-25310p",
+        "name": "Kit Risparmio 6x800G Stuzzy Dog Monoprotein",
+        "path": "/kit-risparmio-6x800g-stuzzy-dog-monoprotein-25310/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27321",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "25314",
+    "sku": "25314",
+    "gtin": "1000000000093",
+    "title": "Kit Risparmio 6x400G Monge Fresh Adult",
+    "brand": "MONGE",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x400g-monge-fresh-adult-25314/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308169/Kit-Risparmio-6x400G-Monge-Fresh-Adult_10118059_MAIALE_X6_ok.jpg?v=638648428813370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308159/Kit-Risparmio-6x400G-Monge-Fresh-Adult-m.jpg?v=638648366342400000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 11.94,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.5375,
+        "unit": "KG"
+      },
+      "discountPercentage": 29
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25314",
+        "sku": "25314",
+        "gtin": "1000000000093",
+        "title": "MAIALE",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x400g-monge-fresh-adult-25314/p",
+        "price": {
+          "current": 8.49,
+          "original": 11.94,
+          "pricePerUnit": {
+            "value": 3.5375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-6x400g-monge-fresh-adult-25314p",
+        "name": "Kit Risparmio 6x400G Monge Fresh Adult",
+        "path": "/kit-risparmio-6x400g-monge-fresh-adult-25314/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27325",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  },
+  {
+    "id": "26081",
+    "sku": "26081",
+    "gtin": "1000000000522",
+    "title": "Kit Risparmio 6x400G Virtus Protein Selection Dog Adult",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/kit-risparmio-6x400g-virtus-protein-selection-dog-adult-26081/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313080/kit-risparmio-6x400g--virtus-protein-selection-dog-adult-1000000000522--1-.jpg?v=638696013174300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/313081/kit-risparmio-6x400g--virtus-protein-selection-dog-adult-1000000000522--2-.jpg?v=638696013260000000"
+    ],
+    "price": {
+      "current": 19.14,
+      "original": 19.14,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.9750000000000005,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26081",
+        "sku": "26081",
+        "gtin": "1000000000522",
+        "title": "ANATRA",
+        "url": "https://www.arcaplanet.it/kit-risparmio-6x400g-virtus-protein-selection-dog-adult-26081/p",
+        "price": {
+          "current": 19.14,
+          "original": 19.14,
+          "pricePerUnit": {
+            "value": 7.9750000000000005,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "canecibo-umido",
+        "name": "Cibo Umido",
+        "path": "/cane/cibo-umido/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-6x400g-virtus-protein-selection-dog-adult-26081p",
+        "name": "Kit Risparmio 6x400G Virtus Protein Selection Dog Adult",
+        "path": "/kit-risparmio-6x400g-virtus-protein-selection-dog-adult-26081/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "28072",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:27:14.282Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/cibo/umido/"
+  }
+]

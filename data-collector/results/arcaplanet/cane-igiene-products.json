@@ -1,0 +1,3835 @@
+[
+  {
+    "id": "2774",
+    "sku": "2774",
+    "gtin": "10118229",
+    "title": "Sacchetti Igienici Happy Mix",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/249071/lovedi-cane-sacchetti-igienici-6x20.jpg?v=637455052617600000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2774",
+        "sku": "2774",
+        "gtin": "10118229",
+        "title": "6X20",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774p",
+        "name": "Sacchetti Igienici Happy Mix",
+        "path": "/lovedi-cane-sacchetti-igienici-6x20-happy-mix-2774/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2692",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "2805",
+    "sku": "2805",
+    "gtin": "10078480",
+    "title": "Sacchetti Igienici Blu Expecial",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/252505/Expecial-Dog-sacchetti-igienici_BLU--1-.jpg?v=637471862008200000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2805",
+        "sku": "2805",
+        "gtin": "10078480",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-blu-3x20-2805p",
+        "name": "Sacchetti Igienici Blu Expecial",
+        "path": "/expecial-cane-sacchetti-igienici-blu-3x20-2805/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2723",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "2806",
+    "sku": "2806",
+    "gtin": "10078479",
+    "title": "Expecial Sacchetti Igienici Neri",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276038/Expecial-Dog-sacchetti-igienici_NERO.jpg?v=638016733580970000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2806",
+        "sku": "2806",
+        "gtin": "10078479",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-neri-3x20-2806p",
+        "name": "Expecial Sacchetti Igienici Neri",
+        "path": "/expecial-cane-sacchetti-igienici-neri-3x20-2806/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2724",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "2807",
+    "sku": "2807",
+    "gtin": "10078481",
+    "title": "Expecial Sacchetti Igienici Rossi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276039/Expecial-Dog-sacchetti-igienici_ROSSO.jpg?v=638016733937700000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2807",
+        "sku": "2807",
+        "gtin": "10078481",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-rossi-3x20-2807p",
+        "name": "Expecial Sacchetti Igienici Rossi",
+        "path": "/expecial-cane-sacchetti-igienici-rossi-3x20-2807/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2725",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "2808",
+    "sku": "2808",
+    "gtin": "10078482",
+    "title": "Expecial Sacchetti Igienici Verdi",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276040/Expecial-Dog-sacchetti-igienici_VERDE.jpg?v=638016734292900000"
+    ],
+    "price": {
+      "current": 1.79,
+      "original": 1.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 89.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2808",
+        "sku": "2808",
+        "gtin": "10078482",
+        "title": "3X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+        "price": {
+          "current": 1.79,
+          "original": 1.79,
+          "pricePerUnit": {
+            "value": 89.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-verdi-3x20-2808p",
+        "name": "Expecial Sacchetti Igienici Verdi",
+        "path": "/expecial-cane-sacchetti-igienici-verdi-3x20-2808/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2726",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "3758",
+    "sku": "3758",
+    "gtin": "10129735",
+    "title": "Salviette Monouso Pulizia Occhi",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-salviette-monouso-pulizia-occhi-100pz-3758/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257310/29391.jpg?v=637580466401370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257311/29391--2-.jpg?v=637580466745500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257312/29391--3-.jpg?v=637580466838430000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3758",
+        "sku": "3758",
+        "gtin": "10129735",
+        "title": "100 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-salviette-monouso-pulizia-occhi-100pz-3758/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-salviette-monouso-pulizia-occhi-100pz-3758p",
+        "name": "Salviette Monouso Pulizia Occhi",
+        "path": "/trixie-cane-salviette-monouso-pulizia-occhi-100pz-3758/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3661",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "4073",
+    "sku": "4073",
+    "gtin": "10129701",
+    "title": "Spray Igienizzante Zampe",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257822/perfect-higiene-spray-igienizzante-zampe.jpg?v=637588224381130000"
+    ],
+    "price": {
+      "current": 5.49,
+      "original": 5.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.6,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4073",
+        "sku": "4073",
+        "gtin": "10129701",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+        "price": {
+          "current": 5.49,
+          "original": 5.49,
+          "pricePerUnit": {
+            "value": 36.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073p",
+        "name": "Spray Igienizzante Zampe",
+        "path": "/perfect-hygiene-spray-igienizzante-zampe-cane-150ml-4073/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "3975",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "4188",
+    "sku": "4188",
+    "gtin": "10078483",
+    "title": "Sacchetti Igienici Mix Color",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276041/Expecial-Dog-sacchetti-igienici_MISTI-6x20.jpg?v=638016735072300000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4188",
+        "sku": "4188",
+        "gtin": "10078483",
+        "title": "6X20",
+        "url": "https://www.arcaplanet.it/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+        "price": {
+          "current": 3.49,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "expecial-cane-sacchetti-igienici-mix-color-6x20-4188p",
+        "name": "Sacchetti Igienici Mix Color",
+        "path": "/expecial-cane-sacchetti-igienici-mix-color-6x20-4188/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4083",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "23157",
+    "sku": "23157",
+    "gtin": "10173086",
+    "title": "Tappetini Igienici 60x60CM",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x60-23157/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301249/Tappetini-Igienici-60x60CM-10173086-1.jpg?v=638515386524630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301250/Tappetini-Igienici-60x60CM-10173086-2.jpg?v=638515386637700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301251/Tappetini-Igienici-60x60CM-10173086-3.jpg?v=638515386713230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301252/Tappetini-Igienici-60x60CM-10173086-4.jpg?v=638515386798600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301253/Tappetini-Igienici-60x60CM-101730865-5.jpg?v=638515386896670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301254/Tappetini-Igienici-60x60CM-101730866-6.jpg?v=638515386982130000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23157",
+        "sku": "23157",
+        "gtin": "10173086",
+        "title": "120PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x60-23157/p",
+        "price": {
+          "current": 24.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-tappetini-igienici-60x60-23157p",
+        "name": "Tappetini Igienici 60x60CM",
+        "path": "/lovedi-cane-tappetini-igienici-60x60-23157/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "4196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "4671",
+    "sku": "4671",
+    "gtin": "10129733",
+    "title": "Salviette Dito Monouso Pulizia Denti",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257296/29393.jpg?v=638756469846300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257297/29393--2-.jpg?v=638756469846430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257298/29393-3.jpg?v=638756469846430000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4671",
+        "sku": "4671",
+        "gtin": "10129733",
+        "title": "50 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671p",
+        "name": "Salviette Dito Monouso Pulizia Denti",
+        "path": "/trixie-cane-salviette-dito-monouso-pulizia-denti-50pz-4671/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4552",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "4672",
+    "sku": "4672",
+    "gtin": "10129734",
+    "title": "Salviette Dito Monouso Pulizia Orecchie",
+    "brand": "TRIXIE",
+    "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-orecchie-50pz-4672/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257308/29392.jpg?v=638756467803270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257306/29392--2-.jpg?v=638756467803270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/257307/29392--3-.jpg?v=638756467803430000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4672",
+        "sku": "4672",
+        "gtin": "10129734",
+        "title": "50 PZ",
+        "url": "https://www.arcaplanet.it/trixie-cane-salviette-dito-monouso-pulizia-orecchie-50pz-4672/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "trixie-cane-salviette-dito-monouso-pulizia-orecchie-50pz-4672p",
+        "name": "Salviette Dito Monouso Pulizia Orecchie",
+        "path": "/trixie-cane-salviette-dito-monouso-pulizia-orecchie-50pz-4672/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4553",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "5976",
+    "sku": "5976",
+    "gtin": "10110743",
+    "title": "Inodorina Salviette Igiene Intima",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-cane-salviette-igiene-intima-5976/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303863/Inodorina-Salviette-Igiene-Intima-10110743.jpg?v=638557648756470000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5976",
+        "sku": "5976",
+        "gtin": "10110743",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/inodorina-cane-salviette-igiene-intima-5976/p",
+        "price": {
+          "current": 3.99,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-cane-salviette-igiene-intima-5976p",
+        "name": "Inodorina Salviette Igiene Intima",
+        "path": "/inodorina-cane-salviette-igiene-intima-5976/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5829",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "5977",
+    "sku": "5977",
+    "gtin": "10110744",
+    "title": "Inodorina Salviette per Zampe",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-cane-salviette-per-zampe-salviette-zampe-5977/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303862/Inodorina-Salviette-per-Zampe-10110744.jpg?v=638557647196000000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5977",
+        "sku": "5977",
+        "gtin": "10110744",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/inodorina-cane-salviette-per-zampe-salviette-zampe-5977/p",
+        "price": {
+          "current": 3.99,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-cane-salviette-per-zampe-salviette-zampe-5977p",
+        "name": "Inodorina Salviette per Zampe",
+        "path": "/inodorina-cane-salviette-per-zampe-salviette-zampe-5977/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "5830",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "6030",
+    "sku": "6030",
+    "gtin": "10129485",
+    "title": "Sacchetti Igienici 360 Pezzi Maxi Scorta",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274629/lovedi-sacchettini-igienici-maxi.jpg?v=637958208916830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274628/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi.jpg?v=637958208807200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274630/lovedi-sacchettini-igienici-maxi-dettagli.jpg?v=637958209155700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274631/lovedi-sacchettini-igienici-maxi-dettagli-2.jpg?v=637958209473100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274632/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-scatola.jpg?v=637958209616270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/274633/lovedi-sacchettini-igienici-maxi-scorta-360-pezzi-dettagli.jpg?v=637958209708600000"
+    ],
+    "price": {
+      "current": 10.3,
+      "original": 10.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 515,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6030",
+        "sku": "6030",
+        "gtin": "10129485",
+        "title": "360 SACCHETTI",
+        "url": "https://www.arcaplanet.it/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+        "price": {
+          "current": 10.3,
+          "original": 10.3,
+          "pricePerUnit": {
+            "value": 515,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030p",
+        "name": "Sacchetti Igienici 360 Pezzi Maxi Scorta",
+        "path": "/lovedi-cane-sacchetti-igienici-maxi-scorta-360-strappi-strap-6030/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5882",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "6220",
+    "sku": "6220",
+    "gtin": "00032127",
+    "title": "Inodorina Salviette Refresh",
+    "brand": "INODORINA",
+    "url": "https://www.arcaplanet.it/inodorina-salviette-refresh-6220/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/303857/Inodorina-Salviette-Refresh-00032127-TALCO.jpg?v=638557639581370000"
+    ],
+    "price": {
+      "current": 3.8,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 190,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6220",
+        "sku": "6220",
+        "gtin": "00032127",
+        "title": "TALCO",
+        "url": "https://www.arcaplanet.it/inodorina-salviette-refresh-6220/p",
+        "price": {
+          "current": 3.8,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 190,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "inodorina-salviette-refresh-6220p",
+        "name": "Inodorina Salviette Refresh",
+        "path": "/inodorina-salviette-refresh-6220/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6066",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "7084",
+    "sku": "7084",
+    "gtin": "10108604",
+    "title": "Tappetini Advanced Hygiene 10PZ",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-cane-tappetini-advanced-7084/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/243068/perfect-hygiene-cane-tappetini-advanced.jpg?v=637455003723000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7084",
+        "sku": "7084",
+        "gtin": "10108604",
+        "title": "CM.60X90",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-cane-tappetini-advanced-7084/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-cane-tappetini-advanced-7084p",
+        "name": "Tappetini Advanced Hygiene 10PZ",
+        "path": "/perfect-hygiene-cane-tappetini-advanced-7084/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6369",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "23158",
+    "sku": "23158",
+    "gtin": "10173087",
+    "title": "Tappetini Igienici 60X90CM",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x90-23158/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301255/Tappetini-Igienici-60X90CM-10173087-1.jpg?v=638515390762930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301256/Tappetini-Igienici-60X90CM-10173087-2.jpg?v=638515391870470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301259/Tappetini-Igienici-60X90CM-10173087-4.jpg?v=638515393475870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301260/Tappetini-Igienici-60X90CM-10173087-4.jpg?v=638515394019130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301261/Tappetini-Igienici-60X90CM-10173087-5.jpg?v=638515394221730000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 39.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23158",
+        "sku": "23158",
+        "gtin": "10173087",
+        "title": "120PZ",
+        "url": "https://www.arcaplanet.it/lovedi-cane-tappetini-igienici-60x90-23158/p",
+        "price": {
+          "current": 34.99,
+          "original": 39.99,
+          "pricePerUnit": {
+            "value": 1749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-cane-tappetini-igienici-60x90-23158p",
+        "name": "Tappetini Igienici 60X90CM",
+        "path": "/lovedi-cane-tappetini-igienici-60x90-23158/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "6594",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "7221",
+    "sku": "7221",
+    "gtin": "10077688",
+    "title": "Tappetini Super Assorbenti 30Pz",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/240925/next-dog-cane-tappetini-super-assorbenti-30pz.jpg?v=637454985826730000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 14.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7221",
+        "sku": "7221",
+        "gtin": "10077688",
+        "title": "CM.60xX60",
+        "url": "https://www.arcaplanet.it/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+        "price": {
+          "current": 14.99,
+          "original": 14.99,
+          "pricePerUnit": {
+            "value": 749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "next-dog-cane-tappetini-super-assorbenti-30pz-7221p",
+        "name": "Tappetini Super Assorbenti 30Pz",
+        "path": "/next-dog-cane-tappetini-super-assorbenti-30pz-7221/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7060",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "9116",
+    "sku": "9116",
+    "gtin": "10110268",
+    "title": "Tendi Tappetino per Cane Bridge",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-tendi-tappetino-per-cane-bridge-9116/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/227298/yes-cane-tenditappetino-bridge-cm-60x60.jpg?v=637454791746800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/250855/yes-cane-tenditappetino-bridge-cm-60x60.jpg?v=637455070710300000"
+    ],
+    "price": {
+      "current": 24.99,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9116",
+        "sku": "9116",
+        "gtin": "10110268",
+        "title": "CM.60X60",
+        "url": "https://www.arcaplanet.it/yes-tendi-tappetino-per-cane-bridge-9116/p",
+        "price": {
+          "current": 24.99,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 1249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "yes-tendi-tappetino-per-cane-bridge-9116p",
+        "name": "Tendi Tappetino per Cane Bridge",
+        "path": "/yes-tendi-tappetino-per-cane-bridge-9116/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8938",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "9354",
+    "sku": "9354",
+    "gtin": "10118317",
+    "title": "Dog Sacchetti Igienici 100 Per Cento Bio Mais",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208246/Perfect-Dog-sacchetti-igienici-100--Bio-Mais-4x12.jpg?v=638772129976800000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "9354",
+        "sku": "9354",
+        "gtin": "10118317",
+        "title": "4X10",
+        "url": "https://www.arcaplanet.it/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354p",
+        "name": "Dog Sacchetti Igienici 100 Per Cento Bio Mais",
+        "path": "/perfect-cane-sacchetti-igienici-100--bio-mais-4x10-9354/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "9172",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "11426",
+    "sku": "11426",
+    "gtin": "10138252",
+    "title": "Tappetini Odour Stop per Cane",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-dog-tappetini-carboni-attivi-11426/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253674/Perfect-tappetini-per-cani.jpg?v=637528664067900000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 249.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11426",
+        "sku": "11426",
+        "gtin": "10138252",
+        "title": "CM.57X54",
+        "url": "https://www.arcaplanet.it/perfect-dog-tappetini-carboni-attivi-11426/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 249.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-dog-tappetini-carboni-attivi-11426p",
+        "name": "Tappetini Odour Stop per Cane",
+        "path": "/perfect-dog-tappetini-carboni-attivi-11426/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11020",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12307",
+    "sku": "12307",
+    "gtin": "10120688",
+    "title": "Balsamo per Cane Districante con Olio Di Argan",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272631/lovedi-dog-balsamo-districante-olio-di-argan.jpg?v=637907053422730000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.95,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12307",
+        "sku": "12307",
+        "gtin": "10120688",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 29.95,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307p",
+        "name": "Balsamo per Cane Districante con Olio Di Argan",
+        "path": "/lovedi-balsamo-per-cane-districante-con-olio-di-argan-12307/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13716",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12319",
+    "sku": "12319",
+    "gtin": "10120723",
+    "title": "Shampoo Secco in Polvere al Profumo di Talco",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272654/Shampoo-secco-in-polvere.jpg?v=637907243321600000"
+    ],
+    "price": {
+      "current": 5.9,
+      "original": 5.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12319",
+        "sku": "12319",
+        "gtin": "10120723",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+        "price": {
+          "current": 5.9,
+          "original": 5.9,
+          "pricePerUnit": {
+            "value": 29.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319p",
+        "name": "Shampoo Secco in Polvere al Profumo di Talco",
+        "path": "/lovedi-shampoo-secco-in-polvere-dal-profumo-di-talco-12319/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13728",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12321",
+    "sku": "12321",
+    "gtin": "10108921",
+    "title": "Shampoo per Cane Addolcente con Aloe e Olio di Mandorle",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272633/lovedi-dog-shampoo-addolcente-aloe-olio-di-argan.jpg?v=637907092307330000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 14.950000000000001,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12321",
+        "sku": "12321",
+        "gtin": "10108921",
+        "title": "200ML",
+        "url": "https://www.arcaplanet.it/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 14.950000000000001,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "200ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321p",
+        "name": "Shampoo per Cane Addolcente con Aloe e Olio di Mandorle",
+        "path": "/lovedi-shampoo-per-cane-addolcente-con-aloe-olio-di-mandorle-12321/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13730",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12323",
+    "sku": "12323",
+    "gtin": "10110156",
+    "title": "Perfect Bio Detergente Contorno Occhi",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-bio-detergente-contorno-occhi-ml-100-12323/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253229/perfect-bio-detergente-occhi-cane-e-gatto.jpg?v=637509650685100000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 4.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12323",
+        "sku": "12323",
+        "gtin": "10110156",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/perfect-bio-detergente-contorno-occhi-ml-100-12323/p",
+        "price": {
+          "current": 4.9,
+          "original": 4.9,
+          "pricePerUnit": {
+            "value": 49,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneocchi",
+        "name": "Occhi",
+        "path": "/cane/igiene/occhi/",
+        "level": 4
+      },
+      {
+        "id": "perfect-bio-detergente-contorno-occhi-ml-100-12323p",
+        "name": "Perfect Bio Detergente Contorno Occhi",
+        "path": "/perfect-bio-detergente-contorno-occhi-ml-100-12323/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "13733",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12657",
+    "sku": "12657",
+    "gtin": "10138668",
+    "title": "Salviette Detergenti Multiuso 30pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-multiuso-talco-12657/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259959/lovedi-salviete-detergenti-talco-30pz.jpg?v=637608093497200000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12657",
+        "sku": "12657",
+        "gtin": "10138668",
+        "title": "TALCO",
+        "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-multiuso-talco-12657/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-salviette-detergenti-multiuso-talco-12657p",
+        "name": "Salviette Detergenti Multiuso 30pz",
+        "path": "/lovedi-salviette-detergenti-multiuso-talco-12657/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "14793",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12663",
+    "sku": "12663",
+    "gtin": "10138674",
+    "title": "Salviette Detergenti Occhi 15pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-occhi-camomilla-12663/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259960/lovedi-salviettte-occhi-camomilla-15pz.jpg?v=637608100637130000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12663",
+        "sku": "12663",
+        "gtin": "10138674",
+        "title": "CAMOMILLA",
+        "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-occhi-camomilla-12663/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-salviette-detergenti-occhi-camomilla-12663p",
+        "name": "Salviette Detergenti Occhi 15pz",
+        "path": "/lovedi-salviette-detergenti-occhi-camomilla-12663/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "14799",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12664",
+    "sku": "12664",
+    "gtin": "10138675",
+    "title": "Salviette Detergenti Pocket 12pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-pocket-clorexidina-12664/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/259857/lovedi-salviette-pocket-clorexidina-12pz.jpg?v=637607304983030000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12664",
+        "sku": "12664",
+        "gtin": "10138675",
+        "title": "CLOREXIDINA",
+        "url": "https://www.arcaplanet.it/lovedi-salviette-detergenti-pocket-clorexidina-12664/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-salviette-detergenti-pocket-clorexidina-12664p",
+        "name": "Salviette Detergenti Pocket 12pz",
+        "path": "/lovedi-salviette-detergenti-pocket-clorexidina-12664/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "14800",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "12684",
+    "sku": "12684",
+    "gtin": "10138477",
+    "title": "Salviette Umidificate Eco 30 PZ.",
+    "brand": "GILL'S",
+    "url": "https://www.arcaplanet.it/gills-salviette-umidificate-eco-pz-30-the-clorexid-12684/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/255165/Salviette-Umidificate-Eco-The-Clorexidina.jpg?v=637558269685170000"
+    ],
+    "price": {
+      "current": 4.1,
+      "original": 4.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 204.99999999999997,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12684",
+        "sku": "12684",
+        "gtin": "10138477",
+        "title": "CLOREXIDINA",
+        "url": "https://www.arcaplanet.it/gills-salviette-umidificate-eco-pz-30-the-clorexid-12684/p",
+        "price": {
+          "current": 4.1,
+          "original": 4.1,
+          "pricePerUnit": {
+            "value": 204.99999999999997,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "gills-salviette-umidificate-eco-pz-30-the-clorexid-12684p",
+        "name": "Salviette Umidificate Eco 30 PZ.",
+        "path": "/gills-salviette-umidificate-eco-pz-30-the-clorexid-12684/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14820",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "13787",
+    "sku": "13787",
+    "gtin": "10139603",
+    "title": "Perfect Salviette 40 PZ",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perferct-salviette-al-talco-13787/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265419/salviette-al-talco-per-cane.jpg?v=637727578143600000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13787",
+        "sku": "13787",
+        "gtin": "10139603",
+        "title": "TALCO",
+        "url": "https://www.arcaplanet.it/perferct-salviette-al-talco-13787/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "perferct-salviette-al-talco-13787p",
+        "name": "Perfect Salviette 40 PZ",
+        "path": "/perferct-salviette-al-talco-13787/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15925",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "14014",
+    "sku": "14014",
+    "gtin": "10139821",
+    "title": "Tappetini con Clorexidina Hygiene",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-hygiene-tappetini-clorexidina-14014/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266835/perfect-hygiene-tappetini-clorexidina-60x60.jpg?v=637789686518870000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 324.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14014",
+        "sku": "14014",
+        "gtin": "10139821",
+        "title": "CM.60X60",
+        "url": "https://www.arcaplanet.it/perfect-hygiene-tappetini-clorexidina-14014/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 324.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienetraversine-igieniche",
+        "name": "Traversine Igieniche",
+        "path": "/cane/igiene/traversine-igieniche/",
+        "level": 4
+      },
+      {
+        "id": "perfect-hygiene-tappetini-clorexidina-14014p",
+        "name": "Tappetini con Clorexidina Hygiene",
+        "path": "/perfect-hygiene-tappetini-clorexidina-14014/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16152",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "14144",
+    "sku": "14144",
+    "gtin": "10139959",
+    "title": "Yes! Sacchetti Igienici",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-sacchetti-igienici-14144/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276047/yes-sacchettini-igienici-rosso.jpg?v=638016747195170000"
+    ],
+    "price": {
+      "current": 2.2,
+      "original": 2.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 110,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14144",
+        "sku": "14144",
+        "gtin": "10139959",
+        "title": "ROSSO",
+        "url": "https://www.arcaplanet.it/yes-sacchetti-igienici-14144/p",
+        "price": {
+          "current": 2.2,
+          "original": 2.2,
+          "pricePerUnit": {
+            "value": 110,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "yes-sacchetti-igienici-14144p",
+        "name": "Yes! Sacchetti Igienici",
+        "path": "/yes-sacchetti-igienici-14144/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16281",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "19589",
+    "sku": "19589",
+    "gtin": "10150539",
+    "title": "Take Care Dentifricio per Cani",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-dentifricio-per-cani-19589/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283705/f08751a525cf961a2d37720f95d4ecee4bd263dc_e2e2c91121fcc7ecf6f573f0bedd8782e6b4616f--1-.jpg?v=638168128638500000"
+    ],
+    "price": {
+      "current": 5.39,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 53.89999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19589",
+        "sku": "19589",
+        "gtin": "10150539",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/take-care-dentifricio-per-cani-19589/p",
+        "price": {
+          "current": 5.39,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 53.89999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "take-care-dentifricio-per-cani-19589p",
+        "name": "Take Care Dentifricio per Cani",
+        "path": "/take-care-dentifricio-per-cani-19589/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21707",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "21280",
+    "sku": "21280",
+    "gtin": "10168875",
+    "title": "Sacchetti Igienici per Cane",
+    "brand": "START",
+    "url": "https://www.arcaplanet.it/sacchetti-igienici-per-cane-21280/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288302/sacchetti-igienici-nero.jpg?v=638243122340670000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21280",
+        "sku": "21280",
+        "gtin": "10168875",
+        "title": "NERO",
+        "url": "https://www.arcaplanet.it/sacchetti-igienici-per-cane-21280/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesacchetti-igienici",
+        "name": "Sacchetti Igienici",
+        "path": "/cane/igiene/sacchetti-igienici/",
+        "level": 4
+      },
+      {
+        "id": "sacchetti-igienici-per-cane-21280p",
+        "name": "Sacchetti Igienici per Cane",
+        "path": "/sacchetti-igienici-per-cane-21280/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23371",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "21347",
+    "sku": "21347",
+    "gtin": "10134148",
+    "title": "Yuup Balsamo Districante per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-balsamo-districante-per-cani-21347/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286138/EU-YHBR250--1-.jpg?v=638203551456800000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21347",
+        "sku": "21347",
+        "gtin": "10134148",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/yuup-balsamo-districante-per-cani-21347/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-balsamo-districante-per-cani-21347p",
+        "name": "Yuup Balsamo Districante per Cani",
+        "path": "/yuup-balsamo-districante-per-cani-21347/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23436",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "21348",
+    "sku": "21348",
+    "gtin": "10134156",
+    "title": "Yuup Scioglinodi Lucidante per Cani",
+    "brand": "YUUP",
+    "url": "https://www.arcaplanet.it/yuup-scioglinodi-lucidante-per-cani-21348/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286139/EU-YHSN150--1-.jpg?v=638203554034730000"
+    ],
+    "price": {
+      "current": 15.99,
+      "original": 15.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21348",
+        "sku": "21348",
+        "gtin": "10134156",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/yuup-scioglinodi-lucidante-per-cani-21348/p",
+        "price": {
+          "current": 15.99,
+          "original": 15.99,
+          "pricePerUnit": {
+            "value": 799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienemanto-e-cute",
+        "name": "Manto e Cute",
+        "path": "/cane/igiene/manto-e-cute/",
+        "level": 4
+      },
+      {
+        "id": "yuup-scioglinodi-lucidante-per-cani-21348p",
+        "name": "Yuup Scioglinodi Lucidante per Cani",
+        "path": "/yuup-scioglinodi-lucidante-per-cani-21348/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "21719",
+    "sku": "21719",
+    "gtin": "10169377",
+    "title": "Yes! Dog Salviette Umide Maxi",
+    "brand": "YES",
+    "url": "https://www.arcaplanet.it/yes-dog-salviette-umide-maxi-21719/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291733/Yes--Dog-Salviette-Umide-Maxi-10169377.jpg?v=638352038677400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/291734/Yes--Dog-Salviette-Umide-Maxi-10169377..jpg?v=638352039126100000"
+    ],
+    "price": {
+      "current": 5.99,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 299.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21719",
+        "sku": "21719",
+        "gtin": "10169377",
+        "title": "ARGAN",
+        "url": "https://www.arcaplanet.it/yes-dog-salviette-umide-maxi-21719/p",
+        "price": {
+          "current": 5.99,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 299.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienesalviette",
+        "name": "Salviette",
+        "path": "/cane/igiene/salviette/",
+        "level": 4
+      },
+      {
+        "id": "yes-dog-salviette-umide-maxi-21719p",
+        "name": "Yes! Dog Salviette Umide Maxi",
+        "path": "/yes-dog-salviette-umide-maxi-21719/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2669",
+        "name": "arca basics"
+      },
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "23813",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "23489",
+    "sku": "23489",
+    "gtin": "10173489",
+    "title": "Lovedì Pannolino Mutandina 10 Pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-10-pz-23489/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312150/Lovedi-Pannolino-Mutandina-10-Pz-10173489-1.jpg?v=638687309389430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312151/Lovedi-Pannolino-Mutandina-10-Pz-10173489-2.jpg?v=638687309499230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312152/Lovedi-Pannolino-Mutandina-10-Pz-10173489-3.jpg?v=638687309588000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23489",
+        "sku": "23489",
+        "gtin": "10173489",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-10-pz-23489/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-mutandina-10-pz-23489p",
+        "name": "Lovedì Pannolino Mutandina 10 Pz",
+        "path": "/lovedi-pannolino-mutandina-10-pz-23489/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25500",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "23492",
+    "sku": "23492",
+    "gtin": "10173492",
+    "title": "Lovedì Pannolino Fascia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-fascia-23492/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312172/Lovedi-Pannolino-Fascia-10173492-1.jpg?v=638687324087430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312173/Lovedi-Pannolino-Fascia-10173492-2.jpg?v=638687324181370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312174/Lovedi-Pannolino-Fascia-10173492-3.jpg?v=638687324295530000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23492",
+        "sku": "23492",
+        "gtin": "10173492",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-fascia-23492/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-fascia-23492p",
+        "name": "Lovedì Pannolino Fascia",
+        "path": "/lovedi-pannolino-fascia-23492/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25503",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  },
+  {
+    "id": "24002",
+    "sku": "24002",
+    "gtin": "10174071",
+    "title": "Restomyl Dentifricio Cane",
+    "brand": "RESTOMYL",
+    "url": "https://www.arcaplanet.it/restomyl-dentifricio-cane-24002/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302445/Restomyl-Dentifricio-Cane-10174071.jpg?v=638536146280030000"
+    ],
+    "price": {
+      "current": 11.88,
+      "original": 13.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 594,
+        "unit": "none"
+      },
+      "discountPercentage": 12
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24002",
+        "sku": "24002",
+        "gtin": "10174071",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/restomyl-dentifricio-cane-24002/p",
+        "price": {
+          "current": 11.88,
+          "original": 13.49,
+          "pricePerUnit": {
+            "value": 594,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigieneorale",
+        "name": "Orale",
+        "path": "/cane/igiene/orale/",
+        "level": 4
+      },
+      {
+        "id": "restomyl-dentifricio-cane-24002p",
+        "name": "Restomyl Dentifricio Cane",
+        "path": "/restomyl-dentifricio-cane-24002/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26013",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:38:36.170Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/"
+  }
+]

@@ -1,0 +1,846 @@
+[
+  {
+    "id": "7790",
+    "sku": "7790",
+    "gtin": "10077756",
+    "title": "Incubatore Digitale Per Uova Reptibator",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-incubatore-digitale-per-uova-reptibator-7790/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223463/croci-incubatore-digitale-per-uova-reptibator.jpg?v=637454732342030000"
+    ],
+    "price": {
+      "current": 279.99,
+      "original": 279.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13999.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "7790",
+        "sku": "7790",
+        "gtin": "10077756",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/croci-incubatore-digitale-per-uova-reptibator-7790/p",
+        "price": {
+          "current": 279.99,
+          "original": 279.99,
+          "pricePerUnit": {
+            "value": 13999.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "croci-incubatore-digitale-per-uova-reptibator-7790p",
+        "name": "Incubatore Digitale Per Uova Reptibator",
+        "path": "/croci-incubatore-digitale-per-uova-reptibator-7790/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "7621",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "10456",
+    "sku": "10456",
+    "gtin": "00003090",
+    "title": "Ghiaia per Rettili Repti Bark",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/repti-bark-10456/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223987/repti-bark-kg-1-2-lt-4-4.jpg?v=637454737988630000"
+    ],
+    "price": {
+      "current": 9.49,
+      "original": 9.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 474.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10456",
+        "sku": "10456",
+        "gtin": "00003090",
+        "title": "1.2KG",
+        "url": "https://www.arcaplanet.it/repti-bark-10456/p",
+        "price": {
+          "current": 9.49,
+          "original": 9.49,
+          "pricePerUnit": {
+            "value": 474.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalirettiliaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/rettili/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "repti-bark-10456p",
+        "name": "Ghiaia per Rettili Repti Bark",
+        "path": "/repti-bark-10456/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10050",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "10737",
+    "sku": "10737",
+    "gtin": "10077760",
+    "title": "Lettiera Rettili Forest Floor",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/lettiera-rettili-forest-floor-10737/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223460/lettiera-rettili-forest-floor-lt-26-4.jpg?v=637454732302470000"
+    ],
+    "price": {
+      "current": 41.99,
+      "original": 41.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2099.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10737",
+        "sku": "10737",
+        "gtin": "10077760",
+        "title": "26.4L",
+        "url": "https://www.arcaplanet.it/lettiera-rettili-forest-floor-10737/p",
+        "price": {
+          "current": 41.99,
+          "original": 41.99,
+          "pricePerUnit": {
+            "value": 2099.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-rettili-forest-floor-10737p",
+        "name": "Lettiera Rettili Forest Floor",
+        "path": "/lettiera-rettili-forest-floor-10737/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10332",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "10739",
+    "sku": "10739",
+    "gtin": "10077762",
+    "title": "Lettiera Rettili Repti Bark",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/lettiera-rettili-repti-bark-lt-26-4-10739/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223459/lettiera-rettili-repti-bark-lt-26-4.jpg?v=637454732287300000"
+    ],
+    "price": {
+      "current": 37.99,
+      "original": 37.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1899.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10739",
+        "sku": "10739",
+        "gtin": "10077762",
+        "title": "26.4L",
+        "url": "https://www.arcaplanet.it/lettiera-rettili-repti-bark-lt-26-4-10739/p",
+        "price": {
+          "current": 37.99,
+          "original": 37.99,
+          "pricePerUnit": {
+            "value": 1899.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-rettili-repti-bark-lt-26-4-10739p",
+        "name": "Lettiera Rettili Repti Bark",
+        "path": "/lettiera-rettili-repti-bark-lt-26-4-10739/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10333",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "10740",
+    "sku": "10740",
+    "gtin": "10077763",
+    "title": "Lettiera Serpenti Aspen Bedding",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/lettiera-serpenti-aspen-bedding-lt-26-4-10740/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223458/lettiera-serpenti-aspen-bedding-lt-26-4.jpg?v=637454732277300000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 27.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10740",
+        "sku": "10740",
+        "gtin": "10077763",
+        "title": "26.4L",
+        "url": "https://www.arcaplanet.it/lettiera-serpenti-aspen-bedding-lt-26-4-10740/p",
+        "price": {
+          "current": 27.99,
+          "original": 27.99,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "lettiera-serpenti-aspen-bedding-lt-26-4-10740p",
+        "name": "Lettiera Serpenti Aspen Bedding",
+        "path": "/lettiera-serpenti-aspen-bedding-lt-26-4-10740/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10334",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "11332",
+    "sku": "11332",
+    "gtin": "10077766",
+    "title": "Sfere Argilla per Terrari Hydroballs",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/sfere-argilla-per-terrari-hydroballs-lt-4-11332/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223457/sfere-argilla-per-terrari-hydroballs-lt-4.jpg?v=637454732261930000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 13.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 699.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11332",
+        "sku": "11332",
+        "gtin": "10077766",
+        "title": "4L",
+        "url": "https://www.arcaplanet.it/sfere-argilla-per-terrari-hydroballs-lt-4-11332/p",
+        "price": {
+          "current": 13.99,
+          "original": 13.99,
+          "pricePerUnit": {
+            "value": 699.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalirettiliaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/rettili/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "sfere-argilla-per-terrari-hydroballs-lt-4-11332p",
+        "name": "Sfere Argilla per Terrari Hydroballs",
+        "path": "/sfere-argilla-per-terrari-hydroballs-lt-4-11332/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10926",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "18045",
+    "sku": "18045",
+    "gtin": "10154693",
+    "title": "MultiFit Substrato di Sughero",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-substrato-di-sughero-18045/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283350/3aecb41ed98d5fc67b607ad8a0ff928638b84397_7f8c28f9622fba28a592b4cea04695d84ad9adf0--1-.jpg?v=638162814787200000"
+    ],
+    "price": {
+      "current": 17.33,
+      "original": 24.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.3326923076923074,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18045",
+        "sku": "18045",
+        "gtin": "10154693",
+        "title": "5.2KG",
+        "url": "https://www.arcaplanet.it/multifit-substrato-di-sughero-18045/p",
+        "price": {
+          "current": 17.33,
+          "original": 24.75,
+          "pricePerUnit": {
+            "value": 3.3326923076923074,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalirettiliaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/rettili/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "multifit-substrato-di-sughero-18045p",
+        "name": "MultiFit Substrato di Sughero",
+        "path": "/multifit-substrato-di-sughero-18045/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20159",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "21794",
+    "sku": "21794",
+    "gtin": "10154673",
+    "title": "MultiFit Substrato Vermiculite",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-substrato-vermiculite-21794/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288097/e3c7e94dbf341db34e1dbed91299c77248ea62a0_3581d8d6ecf895b5c056b9715fdf100b1cc62262--1-.jpg?v=638240635500500000"
+    ],
+    "price": {
+      "current": 7.64,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 382,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21794",
+        "sku": "21794",
+        "gtin": "10154673",
+        "title": "520G",
+        "url": "https://www.arcaplanet.it/multifit-substrato-vermiculite-21794/p",
+        "price": {
+          "current": 7.64,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 382,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "525G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalirettiliaccessorialtro",
+        "name": "Altro",
+        "path": "/piccoli-animali/rettili/accessori/altro/",
+        "level": 5
+      },
+      {
+        "id": "multifit-substrato-vermiculite-21794p",
+        "name": "MultiFit Substrato Vermiculite",
+        "path": "/multifit-substrato-vermiculite-21794/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23882",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  },
+  {
+    "id": "21888",
+    "sku": "21888",
+    "gtin": "10154716",
+    "title": "MultiFit Sabbia per Rettili 5KG",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-rettili-5kg-21888/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288095/0f5fa91c1a7ac5a86b571f34a20ffd6959549d53_0e6975cc1e987920c71d24183360990e52e18ec8--1-.jpg?v=638240624224900000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 339.5,
+        "unit": "none"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21888",
+        "sku": "21888",
+        "gtin": "10154716",
+        "title": "BIANCA",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-rettili-5kg-21888/p",
+        "price": {
+          "current": 6.79,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 339.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalirettili",
+        "name": "Rettili",
+        "path": "/piccoli-animali/rettili/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalirettiliaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/rettili/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalirettiliaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/rettili/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "multifit-sabbia-per-rettili-5kg-21888p",
+        "name": "MultiFit Sabbia per Rettili 5KG",
+        "path": "/multifit-sabbia-per-rettili-5kg-21888/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23977",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:24:12.769Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/rettili/accessori/"
+  }
+]

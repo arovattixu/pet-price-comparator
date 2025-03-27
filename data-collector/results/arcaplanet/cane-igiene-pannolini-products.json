@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "841",
+    "sku": "841",
+    "gtin": "10059527",
+    "title": "Assorbenti per Mutandine Igieniche",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-assorbenti-per-mutandine-igieniche-mini-nappy-cane-841/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/261569/croci-assorbenti-per-mutandine-igieniche-mini-nappy.jpg?v=637641835961600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/231187/croci-cane-assorbenti-per-mutandine-igieniche.jpg?v=637454836252900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287311/C7020206_C7020207_C7020208.jpg?v=638229307227100000"
+    ],
+    "price": {
+      "current": 1.8,
+      "original": 1.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 90,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "841",
+        "sku": "841",
+        "gtin": "10059527",
+        "title": "XXS",
+        "url": "https://www.arcaplanet.it/croci-assorbenti-per-mutandine-igieniche-mini-nappy-cane-841/p",
+        "price": {
+          "current": 1.8,
+          "original": 1.8,
+          "pricePerUnit": {
+            "value": 90,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "croci-assorbenti-per-mutandine-igieniche-mini-nappy-cane-841p",
+        "name": "Assorbenti per Mutandine Igieniche",
+        "path": "/croci-assorbenti-per-mutandine-igieniche-mini-nappy-cane-841/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "799",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "1358",
+    "sku": "1358",
+    "gtin": "10068599",
+    "title": "Fascia Igienica Cani Maschi",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-fascia-igienica-cani-maschi-1358/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223011/croci-cane-fascia-per-maschi.jpg?v=637454727736200000"
+    ],
+    "price": {
+      "current": 12.99,
+      "original": 12.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1358",
+        "sku": "1358",
+        "gtin": "10068599",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/croci-fascia-igienica-cani-maschi-1358/p",
+        "price": {
+          "current": 12.99,
+          "original": 12.99,
+          "pricePerUnit": {
+            "value": 649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "croci-fascia-igienica-cani-maschi-1358p",
+        "name": "Fascia Igienica Cani Maschi",
+        "path": "/croci-fascia-igienica-cani-maschi-1358/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "3545",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "10497",
+    "sku": "10497",
+    "gtin": "00036222",
+    "title": "Pannolini Igienici Dog Nappy",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/dog-nappy-10497/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221265/dog-nappy-lg-pz10.jpg?v=637454709469900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253423/C6020382_DOG-NAPPY-LG-PZ.10-34-48cm_8023222053823.MAIN.jpg?v=637521924418270000"
+    ],
+    "price": {
+      "current": 8.9,
+      "original": 8.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 445,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "10497",
+        "sku": "10497",
+        "gtin": "00036222",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/dog-nappy-10497/p",
+        "price": {
+          "current": 8.9,
+          "original": 8.9,
+          "pricePerUnit": {
+            "value": 445,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "dog-nappy-10497p",
+        "name": "Pannolini Igienici Dog Nappy",
+        "path": "/dog-nappy-10497/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10091",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "13929",
+    "sku": "13929",
+    "gtin": "10139751",
+    "title": "Pannolini Nappy Jeans",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/croci-pannolini-nappy-jeans-per-cani-13929/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272058/croci-pannolini-nappy-jeans.jpg?v=637898384775470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272059/croci-pannolini-nappy-jeans-indossati.jpg?v=637898384915230000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "13929",
+        "sku": "13929",
+        "gtin": "10139751",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/croci-pannolini-nappy-jeans-per-cani-13929/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "croci-pannolini-nappy-jeans-per-cani-13929p",
+        "name": "Pannolini Nappy Jeans",
+        "path": "/croci-pannolini-nappy-jeans-per-cani-13929/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16067",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "17557",
+    "sku": "17557",
+    "gtin": "10152714",
+    "title": "Take Care Dog Pannolini Monouso",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-pannolini-usa-getta-neri-17557/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/285639/cd868e6a677a4fde8b1cc9631fdcdb3859360c63_b83287061068872b9572b9a46a5890de60e82fcb--1-.jpg?v=638197517202900000"
+    ],
+    "price": {
+      "current": 10.79,
+      "original": 11.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 539.5,
+        "unit": "none"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17557",
+        "sku": "17557",
+        "gtin": "10152714",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/take-care-pannolini-usa-getta-neri-17557/p",
+        "price": {
+          "current": 10.79,
+          "original": 11.99,
+          "pricePerUnit": {
+            "value": 539.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "take-care-pannolini-usa-getta-neri-17557p",
+        "name": "Take Care Dog Pannolini Monouso",
+        "path": "/take-care-pannolini-usa-getta-neri-17557/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19673",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "18809",
+    "sku": "18809",
+    "gtin": "10149443",
+    "title": "Take Care Salvaslip",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-salvaslip-18809/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286225/1b52f2aa8e4d56a0f676fa6f878aa111ce4ed3ac_2cfe5e845e0293333401ce390edb9fd8b36dd44a--1-.jpg?v=638205220543270000"
+    ],
+    "price": {
+      "current": 1.5,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 75,
+        "unit": "none"
+      },
+      "discountPercentage": 50
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18809",
+        "sku": "18809",
+        "gtin": "10149443",
+        "title": "XS-S-M",
+        "url": "https://www.arcaplanet.it/take-care-salvaslip-18809/p",
+        "price": {
+          "current": 1.5,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "take-care-salvaslip-18809p",
+        "name": "Take Care Salvaslip",
+        "path": "/take-care-salvaslip-18809/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2851",
+        "name": "OUTLET -50%"
+      }
+    ],
+    "metadata": {
+      "groupId": "20927",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "17824",
+    "sku": "17824",
+    "gtin": "10149436",
+    "title": "Take Care Pannolino Lavabile per Cani Maschi",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-fascia-lavabile-grigia-per-maschi-17824/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286222/0c573559d241706912edfcbceb72a0a8d6c889da_904722c0e6336771a31f07999b998256d80d5637--1-.jpg?v=638205209340530000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 17.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 899.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17824",
+        "sku": "17824",
+        "gtin": "10149436",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/take-care-fascia-lavabile-grigia-per-maschi-17824/p",
+        "price": {
+          "current": 17.99,
+          "original": 17.99,
+          "pricePerUnit": {
+            "value": 899.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "take-care-fascia-lavabile-grigia-per-maschi-17824p",
+        "name": "Take Care Pannolino Lavabile per Cani Maschi",
+        "path": "/take-care-fascia-lavabile-grigia-per-maschi-17824/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21700",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "17869",
+    "sku": "17869",
+    "gtin": "10149433",
+    "title": "Take Care Pannolini Lavabili Grigi",
+    "brand": "Take Care",
+    "url": "https://www.arcaplanet.it/take-care-pannolini-lavabili-grigi-17869/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286218/a063f528605d4dab966ef7c38f4a2e09eb1ead83_b4684df9080601d80453728e324552570251c684--1-.jpg?v=638205203985230000"
+    ],
+    "price": {
+      "current": 19.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 999.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17869",
+        "sku": "17869",
+        "gtin": "10149433",
+        "title": "XL",
+        "url": "https://www.arcaplanet.it/take-care-pannolini-lavabili-grigi-17869/p",
+        "price": {
+          "current": 19.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 999.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "take-care-pannolini-lavabili-grigi-17869p",
+        "name": "Take Care Pannolini Lavabili Grigi",
+        "path": "/take-care-pannolini-lavabili-grigi-17869/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21735",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "23486",
+    "sku": "23486",
+    "gtin": "10173486",
+    "title": "Lovedì Pannolino Mutandina 14 Pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-14-pz-23486/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312137/Lovedi-Pannolino-Mutandina-14-PZ-10173486.jpg?v=638687292265030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312138/Lovedi-Pannolino-Mutandina-14-PZ-10173486-2.jpg?v=638687292347630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312139/Lovedi-Pannolino-Mutandina-14-PZ-10173486-3.jpg?v=638687292433330000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 349.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23486",
+        "sku": "23486",
+        "gtin": "10173486",
+        "title": "XS",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-14-pz-23486/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 349.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-mutandina-14-pz-23486p",
+        "name": "Lovedì Pannolino Mutandina 14 Pz",
+        "path": "/lovedi-pannolino-mutandina-14-pz-23486/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25497",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "23488",
+    "sku": "23488",
+    "gtin": "10173488",
+    "title": "Lovedì Pannolino Mutandina 12 Pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-12-pz-23488/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312143/Lovedi-Pannolino-Mutandina-12-PZ-10173488-1.jpg?v=638687298888100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312144/Lovedi-Pannolino-Mutandina-12-PZ-10173488-2.jpg?v=638687298961970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312145/Lovedi-Pannolino-Mutandina-12-PZ-10173488-3.jpg?v=638687299051630000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 424.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23488",
+        "sku": "23488",
+        "gtin": "10173488",
+        "title": "M",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-12-pz-23488/p",
+        "price": {
+          "current": 8.49,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 424.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-mutandina-12-pz-23488p",
+        "name": "Lovedì Pannolino Mutandina 12 Pz",
+        "path": "/lovedi-pannolino-mutandina-12-pz-23488/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25499",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "23489",
+    "sku": "23489",
+    "gtin": "10173489",
+    "title": "Lovedì Pannolino Mutandina 10 Pz",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-10-pz-23489/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312150/Lovedi-Pannolino-Mutandina-10-Pz-10173489-1.jpg?v=638687309389430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312151/Lovedi-Pannolino-Mutandina-10-Pz-10173489-2.jpg?v=638687309499230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312152/Lovedi-Pannolino-Mutandina-10-Pz-10173489-3.jpg?v=638687309588000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23489",
+        "sku": "23489",
+        "gtin": "10173489",
+        "title": "L",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-mutandina-10-pz-23489/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-mutandina-10-pz-23489p",
+        "name": "Lovedì Pannolino Mutandina 10 Pz",
+        "path": "/lovedi-pannolino-mutandina-10-pz-23489/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25500",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  },
+  {
+    "id": "23492",
+    "sku": "23492",
+    "gtin": "10173492",
+    "title": "Lovedì Pannolino Fascia",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/lovedi-pannolino-fascia-23492/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312172/Lovedi-Pannolino-Fascia-10173492-1.jpg?v=638687324087430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312173/Lovedi-Pannolino-Fascia-10173492-2.jpg?v=638687324181370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/312174/Lovedi-Pannolino-Fascia-10173492-3.jpg?v=638687324295530000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23492",
+        "sku": "23492",
+        "gtin": "10173492",
+        "title": "S",
+        "url": "https://www.arcaplanet.it/lovedi-pannolino-fascia-23492/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneigiene",
+        "name": "Igiene",
+        "path": "/cane/igiene/",
+        "level": 3
+      },
+      {
+        "id": "caneigienepannolini",
+        "name": "Pannolini",
+        "path": "/cane/igiene/pannolini/",
+        "level": 4
+      },
+      {
+        "id": "lovedi-pannolino-fascia-23492p",
+        "name": "Lovedì Pannolino Fascia",
+        "path": "/lovedi-pannolino-fascia-23492/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25503",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:41:54.514Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/igiene/pannolini/"
+  }
+]

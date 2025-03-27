@@ -1,0 +1,386 @@
+[
+  {
+    "id": "11574",
+    "sku": "11574",
+    "gtin": "00008723",
+    "title": "Lettiera per Uccelli Valman Ocean Fresh Air",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221594/ocean-fresh-air-kg-1.jpg?v=637454713117000000"
+    ],
+    "price": {
+      "current": 1.32,
+      "original": 1.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.32,
+        "unit": "litro"
+      },
+      "discountPercentage": 20
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11574",
+        "sku": "11574",
+        "gtin": "00008723",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+        "price": {
+          "current": 1.32,
+          "original": 1.65,
+          "pricePerUnit": {
+            "value": 1.32,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbievegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/uccelli/sabbie/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "lettiera-per-uccelli-valman-ocean-fresh-air-11574p",
+        "name": "Lettiera per Uccelli Valman Ocean Fresh Air",
+        "path": "/lettiera-per-uccelli-valman-ocean-fresh-air-11574/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11601",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:12:24.968Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/sabbie/"
+  },
+  {
+    "id": "17309",
+    "sku": "17309",
+    "gtin": "10142654",
+    "title": "MultiFit Sabbia per Uccelli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-uccelli-17309/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281288/6db31b7a6dd2c6577b0f0794db1d35b541945590_e9b9f3ef91f474b7bd5c261b212f8d2ea9369ca9--1-.jpg?v=638127515514470000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 8.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.3396,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17309",
+        "sku": "17309",
+        "gtin": "10142654",
+        "title": "25KG",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-uccelli-17309/p",
+        "price": {
+          "current": 8.49,
+          "original": 8.49,
+          "pricePerUnit": {
+            "value": 0.3396,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbieassorbente",
+        "name": "Assorbente",
+        "path": "/piccoli-animali/uccelli/sabbie/assorbente/",
+        "level": 5
+      },
+      {
+        "id": "multifit-sabbia-per-uccelli-17309p",
+        "name": "MultiFit Sabbia per Uccelli",
+        "path": "/multifit-sabbia-per-uccelli-17309/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19427",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:12:24.968Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/sabbie/"
+  },
+  {
+    "id": "16826",
+    "sku": "16826",
+    "gtin": "10142147",
+    "title": "MultiFit Sabbia per Pappagallini",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-sabbia-per-pappagallini-16826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283340/lettiera-sabbia-multifit-5kg.jpg?v=638162792405030000"
+    ],
+    "price": {
+      "current": 2.25,
+      "original": 2.65,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.45,
+        "unit": "litro"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16826",
+        "sku": "16826",
+        "gtin": "10142147",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/multifit-sabbia-per-pappagallini-16826/p",
+        "price": {
+          "current": 2.25,
+          "original": 2.65,
+          "pricePerUnit": {
+            "value": 0.45,
+            "unit": "litro"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbieassorbente",
+        "name": "Assorbente",
+        "path": "/piccoli-animali/uccelli/sabbie/assorbente/",
+        "level": 5
+      },
+      {
+        "id": "multifit-sabbia-per-pappagallini-16826p",
+        "name": "MultiFit Sabbia per Pappagallini",
+        "path": "/multifit-sabbia-per-pappagallini-16826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19450",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:12:24.968Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/sabbie/"
+  },
+  {
+    "id": "17358",
+    "sku": "17358",
+    "gtin": "10151682",
+    "title": "MultiFit Lettiera per Uccelli Foresta Pineta",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-lettiera-per-uccelli-foresta-pineta-17358/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/281289/b9066ef814523e9c6c57dc5d2c737182887e61a3_6a2d39d64837daadee7e7888aaa77240a232a5a2--1-.jpg?v=638127557503170000"
+    ],
+    "price": {
+      "current": 3.39,
+      "original": 3.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.9,
+        "unit": "litro"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "17358",
+        "sku": "17358",
+        "gtin": "10151682",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/multifit-lettiera-per-uccelli-foresta-pineta-17358/p",
+        "price": {
+          "current": 3.39,
+          "original": 3.39,
+          "pricePerUnit": {
+            "value": 33.9,
+            "unit": "litro"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliuccelli",
+        "name": "Uccelli",
+        "path": "/piccoli-animali/uccelli/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliuccellisabbie",
+        "name": "Sabbie",
+        "path": "/piccoli-animali/uccelli/sabbie/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animaliuccellisabbievegetale",
+        "name": "Vegetale",
+        "path": "/piccoli-animali/uccelli/sabbie/vegetale/",
+        "level": 5
+      },
+      {
+        "id": "multifit-lettiera-per-uccelli-foresta-pineta-17358p",
+        "name": "MultiFit Lettiera per Uccelli Foresta Pineta",
+        "path": "/multifit-lettiera-per-uccelli-foresta-pineta-17358/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19476",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:12:24.968Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/uccelli/sabbie/"
+  }
+]

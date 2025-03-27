@@ -1,0 +1,3766 @@
+[
+  {
+    "id": "6440",
+    "sku": "6440",
+    "gtin": "00004782",
+    "title": "Vitakraft Roditori Rollis Party",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-roditori-rollis-party-500g-6440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221376/vitakraft-roditori-rollis-party.jpg?v=637454710722930000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.98,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6440",
+        "sku": "6440",
+        "gtin": "00004782",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/vitakraft-roditori-rollis-party-500g-6440/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 9.98,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-roditori-rollis-party-500g-6440p",
+        "name": "Vitakraft Roditori Rollis Party",
+        "path": "/vitakraft-roditori-rollis-party-500g-6440/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6284",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "6478",
+    "sku": "6478",
+    "gtin": "00004842",
+    "title": "Vitakraft Life Dream Conigli Nani",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-life-dream-conigli-nani-600g-6478/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221391/vitakraft-life-dream-conigli-nani.jpg?v=637454710847230000"
+    ],
+    "price": {
+      "current": 5.2,
+      "original": 7.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 33
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6478",
+        "sku": "6478",
+        "gtin": "00004842",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/vitakraft-life-dream-conigli-nani-600g-6478/p",
+        "price": {
+          "current": 5.2,
+          "original": 7.8,
+          "pricePerUnit": {
+            "value": 8.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-life-dream-conigli-nani-600g-6478p",
+        "name": "Vitakraft Life Dream Conigli Nani",
+        "path": "/vitakraft-life-dream-conigli-nani-600g-6478/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "6322",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "6623",
+    "sku": "6623",
+    "gtin": "10129665",
+    "title": "In the Nature Conigli Nani Pellet Per Adulti",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-conigli-nani-pellet-per-adulti-800g-6623/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207244/In-the-nature-alimento-per-conigli-nani-adulti-800g.jpg?v=637413953049630000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.2375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6623",
+        "sku": "6623",
+        "gtin": "10129665",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/in-the-nature-conigli-nani-pellet-per-adulti-800g-6623/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 6.2375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-conigli-nani-pellet-per-adulti-800g-6623p",
+        "name": "In the Nature Conigli Nani Pellet Per Adulti",
+        "path": "/in-the-nature-conigli-nani-pellet-per-adulti-800g-6623/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6466",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "6624",
+    "sku": "6624",
+    "gtin": "10129666",
+    "title": "In the Nature Conigli Nani Pellet Per Cuccioli",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-conigli-nani-pellet-per-cuccioli-800g-6624/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/207245/In-The-Nature-alimento-per-conigli-nani-cuccioli-800g.jpg?v=637413953055900000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.2375,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6624",
+        "sku": "6624",
+        "gtin": "10129666",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/in-the-nature-conigli-nani-pellet-per-cuccioli-800g-6624/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 6.2375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-conigli-nani-pellet-per-cuccioli-800g-6624p",
+        "name": "In the Nature Conigli Nani Pellet Per Cuccioli",
+        "path": "/in-the-nature-conigli-nani-pellet-per-cuccioli-800g-6624/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "6467",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "6078",
+    "sku": "6078",
+    "gtin": "00004832",
+    "title": "Vitakraft menu conigli",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-menu-conigli-6078/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221374/vitakraft-menu-conigli.jpg?v=637454710698200000"
+    ],
+    "price": {
+      "current": 2.5,
+      "original": 4.1,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5,
+        "unit": "KG"
+      },
+      "discountPercentage": 39
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "6078",
+        "sku": "6078",
+        "gtin": "00004832",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/vitakraft-menu-conigli-6078/p",
+        "price": {
+          "current": 2.5,
+          "original": 4.1,
+          "pricePerUnit": {
+            "value": 5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-menu-conigli-6078p",
+        "name": "Vitakraft menu conigli",
+        "path": "/vitakraft-menu-conigli-6078/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "7838",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "8314",
+    "sku": "8314",
+    "gtin": "10065748",
+    "title": "Oxbow Essential Adult Rabbit Food",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-coniglio-adult-8314/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262202/oxbow-essential-adult-rabbit-food.jpg?v=637666054697130000"
+    ],
+    "price": {
+      "current": 22.5,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.955947136563877,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "8314",
+        "sku": "8314",
+        "gtin": "10065748",
+        "title": "4.5KG",
+        "url": "https://www.arcaplanet.it/oxbow-coniglio-adult-8314/p",
+        "price": {
+          "current": 22.5,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 4.955947136563877,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-coniglio-adult-8314p",
+        "name": "Oxbow Essential Adult Rabbit Food",
+        "path": "/oxbow-coniglio-adult-8314/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "8141",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11135",
+    "sku": "11135",
+    "gtin": "10138251",
+    "title": "In the nature Criceti Mix",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-criceti-gr-600-adult-pellet-11135/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262690/ITN-Criceti-mix-busta-600g.jpg?v=637673773280570000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.65,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11135",
+        "sku": "11135",
+        "gtin": "10138251",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/in-the-nature-criceti-gr-600-adult-pellet-11135/p",
+        "price": {
+          "current": 6.99,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 11.65,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-criceti-gr-600-adult-pellet-11135p",
+        "name": "In the nature Criceti Mix",
+        "path": "/in-the-nature-criceti-gr-600-adult-pellet-11135/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10729",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11136",
+    "sku": "11136",
+    "gtin": "10138250",
+    "title": "In the nature cavie adult pellet",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-cavie-gr-800-adult-pellet-11136/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262685/ITN-Cavie-mix-busta-800g.jpg?v=637673771530730000"
+    ],
+    "price": {
+      "current": 5.75,
+      "original": 5.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.1875,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11136",
+        "sku": "11136",
+        "gtin": "10138250",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/in-the-nature-cavie-gr-800-adult-pellet-11136/p",
+        "price": {
+          "current": 5.75,
+          "original": 5.75,
+          "pricePerUnit": {
+            "value": 7.1875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.8KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "in-the-nature-cavie-gr-800-adult-pellet-11136p",
+        "name": "In the nature cavie adult pellet",
+        "path": "/in-the-nature-cavie-gr-800-adult-pellet-11136/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10730",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11625",
+    "sku": "11625",
+    "gtin": "00008799",
+    "title": "Premium Coniglietti Mangime",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/premium-coniglietti-gr-500-11625/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254221/premium-conigli-500gr.jpg?v=637545950738770000"
+    ],
+    "price": {
+      "current": 3.3,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.6,
+        "unit": "KG"
+      },
+      "discountPercentage": 31
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11625",
+        "sku": "11625",
+        "gtin": "00008799",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/premium-coniglietti-gr-500-11625/p",
+        "price": {
+          "current": 3.3,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 6.6,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "premium-coniglietti-gr-500-11625p",
+        "name": "Premium Coniglietti Mangime",
+        "path": "/premium-coniglietti-gr-500-11625/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11651",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11779",
+    "sku": "11779",
+    "gtin": "00034898",
+    "title": "Grandmix Criceti 400gr",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/grandmix-criceti-gr-400-pz12-11779/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221362/grandmix-criceti-gr-400-pz12.jpg?v=637454710496900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251389/grandmix-criceti-gr-400-pz12.jpg?v=637455075533970000"
+    ],
+    "price": {
+      "current": 1.8,
+      "original": 2.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 23
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11779",
+        "sku": "11779",
+        "gtin": "00034898",
+        "title": "12 PZ",
+        "url": "https://www.arcaplanet.it/grandmix-criceti-gr-400-pz12-11779/p",
+        "price": {
+          "current": 1.8,
+          "original": 2.35,
+          "pricePerUnit": {
+            "value": 4.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "12 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "grandmix-criceti-gr-400-pz12-11779p",
+        "name": "Grandmix Criceti 400gr",
+        "path": "/grandmix-criceti-gr-400-pz12-11779/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11805",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11789",
+    "sku": "11789",
+    "gtin": "00008767",
+    "title": "Grandmix Coniglietti",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/grandmix-coniglietti-11789/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251383/grandmix-coniglietti-gr--850.jpg?v=637455075478730000"
+    ],
+    "price": {
+      "current": 2.8,
+      "original": 3.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.2941176470588234,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11789",
+        "sku": "11789",
+        "gtin": "00008767",
+        "title": "850G",
+        "url": "https://www.arcaplanet.it/grandmix-coniglietti-11789/p",
+        "price": {
+          "current": 2.8,
+          "original": 3.79,
+          "pricePerUnit": {
+            "value": 3.2941176470588234,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "850G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "grandmix-coniglietti-11789p",
+        "name": "Grandmix Coniglietti",
+        "path": "/grandmix-coniglietti-11789/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11815",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11811",
+    "sku": "11811",
+    "gtin": "00008768",
+    "title": "Grandmix Cavie",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/grandmix-cavie-gr-850-pz12-11811/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/251380/grandmix-cavie-gr-850-pz12.jpg?v=637455075453300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266840/valman-frandmix-cavie-composizione.jpg?v=637790673177230000"
+    ],
+    "price": {
+      "current": 2.8,
+      "original": 3.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.2941176470588234,
+        "unit": "KG"
+      },
+      "discountPercentage": 26
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11811",
+        "sku": "11811",
+        "gtin": "00008768",
+        "title": "850G",
+        "url": "https://www.arcaplanet.it/grandmix-cavie-gr-850-pz12-11811/p",
+        "price": {
+          "current": 2.8,
+          "original": 3.79,
+          "pricePerUnit": {
+            "value": 3.2941176470588234,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "850G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "grandmix-cavie-gr-850-pz12-11811p",
+        "name": "Grandmix Cavie",
+        "path": "/grandmix-cavie-gr-850-pz12-11811/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11837",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "11866",
+    "sku": "11866",
+    "gtin": "10060114",
+    "title": "Wellness Conigli Nani Adulti",
+    "brand": "PADOVAN",
+    "url": "https://www.arcaplanet.it/wellness-1-kg-conigli-nani-adulti-11866/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/221419/wellness-1-kg-conigli-nani-adulti.jpg?v=637454711153570000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 6.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.9,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11866",
+        "sku": "11866",
+        "gtin": "10060114",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/wellness-1-kg-conigli-nani-adulti-11866/p",
+        "price": {
+          "current": 4.9,
+          "original": 6.69,
+          "pricePerUnit": {
+            "value": 4.9,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "wellness-1-kg-conigli-nani-adulti-11866p",
+        "name": "Wellness Conigli Nani Adulti",
+        "path": "/wellness-1-kg-conigli-nani-adulti-11866/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11890",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "13938",
+    "sku": "13938",
+    "gtin": "10139759",
+    "title": "Vitakraft Menu per Riccio",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-menu-per-riccio-13938/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/265555/vitakraft-menu-per-ricci.jpg?v=637731879835270000"
+    ],
+    "price": {
+      "current": 6.75,
+      "original": 6.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 11.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13938",
+        "sku": "13938",
+        "gtin": "10139759",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/vitakraft-menu-per-riccio-13938/p",
+        "price": {
+          "current": 6.75,
+          "original": 6.75,
+          "pricePerUnit": {
+            "value": 11.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-menu-per-riccio-13938p",
+        "name": "Vitakraft Menu per Riccio",
+        "path": "/vitakraft-menu-per-riccio-13938/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16076",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "13948",
+    "sku": "13948",
+    "gtin": "10137625",
+    "title": "Oxbow Essentials Chinchillà Food",
+    "brand": "OXBOW",
+    "url": "https://www.arcaplanet.it/oxbow-essentials-chinchilla-food-13948/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266258/oxbow-essentials-chinchilla-food.jpg?v=637757642417170000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 499.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 5
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13948",
+        "sku": "13948",
+        "gtin": "10137625",
+        "title": "1.36KG",
+        "url": "https://www.arcaplanet.it/oxbow-essentials-chinchilla-food-13948/p",
+        "price": {
+          "current": 9.99,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 499.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.36KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "oxbow-essentials-chinchilla-food-13948p",
+        "name": "Oxbow Essentials Chinchillà Food",
+        "path": "/oxbow-essentials-chinchilla-food-13948/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16086",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "14475",
+    "sku": "14475",
+    "gtin": "10140236",
+    "title": "Expecial Pellet Conigli Adulti",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-pellet-conigli-adulti-14475/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/268995/expecial-pellet-coniglio-adulto.jpg?v=637823267657800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269094/expecial-pellet-conigli-adulti-componenti-analitici.jpg?v=637823306342500000"
+    ],
+    "price": {
+      "current": 4.49,
+      "original": 4.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6125,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14475",
+        "sku": "14475",
+        "gtin": "10140236",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/expecial-pellet-conigli-adulti-14475/p",
+        "price": {
+          "current": 4.49,
+          "original": 4.49,
+          "pricePerUnit": {
+            "value": 5.6125,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "expecial-pellet-conigli-adulti-14475p",
+        "name": "Expecial Pellet Conigli Adulti",
+        "path": "/expecial-pellet-conigli-adulti-14475/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16612",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "14541",
+    "sku": "14541",
+    "gtin": "10140300",
+    "title": "Bunny Sogno per Conigli Senior",
+    "brand": "BUNNY",
+    "url": "https://www.arcaplanet.it/bunny-sogno-conigli-senior-14541/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/266830/bunny-rabbit-dream.jpg?v=637789551432370000"
+    ],
+    "price": {
+      "current": 19.5,
+      "original": 22.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 13,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14541",
+        "sku": "14541",
+        "gtin": "10140300",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/bunny-sogno-conigli-senior-14541/p",
+        "price": {
+          "current": 19.5,
+          "original": 22.99,
+          "pricePerUnit": {
+            "value": 13,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "bunny-sogno-conigli-senior-14541p",
+        "name": "Bunny Sogno per Conigli Senior",
+        "path": "/bunny-sogno-conigli-senior-14541/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16678",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "14685",
+    "sku": "14685",
+    "gtin": "10069216",
+    "title": "Emotion Beauty per Cincillà",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-emotionbeauty-cincilla-600g-14685/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269991/vita-emotion-beauty-cincilla-600g.jpg?v=637840711863730000"
+    ],
+    "price": {
+      "current": 4.9,
+      "original": 6.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 8.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14685",
+        "sku": "14685",
+        "gtin": "10069216",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/vitakraft-emotionbeauty-cincilla-600g-14685/p",
+        "price": {
+          "current": 4.9,
+          "original": 6.69,
+          "pricePerUnit": {
+            "value": 8.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-emotionbeauty-cincilla-600g-14685p",
+        "name": "Emotion Beauty per Cincillà",
+        "path": "/vitakraft-emotionbeauty-cincilla-600g-14685/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16822",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "14686",
+    "sku": "14686",
+    "gtin": "10069217",
+    "title": "Vitakraft Emotion Beauty Mangime per Conigli Nani Adulti",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-emotion-beauty-mangime-per-conigli-nani-adulti-14686/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270230/vitakraft-emotion-beauty-conigli-nani.jpg?v=637846551342570000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 10.816666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14686",
+        "sku": "14686",
+        "gtin": "10069217",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/vitakraft-emotion-beauty-mangime-per-conigli-nani-adulti-14686/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 10.816666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-emotion-beauty-mangime-per-conigli-nani-adulti-14686p",
+        "name": "Vitakraft Emotion Beauty Mangime per Conigli Nani Adulti",
+        "path": "/vitakraft-emotion-beauty-mangime-per-conigli-nani-adulti-14686/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "16823",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "14689",
+    "sku": "14689",
+    "gtin": "10069223",
+    "title": "Vitakraft Emotion Sensitive Mangime per Piccoli Roditori",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-emotion-sensitive-mangime-per-piccoli-roditori-14689/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270260/vitakraft-emotion-sensitive-coniglio-nano.jpg?v=637846587375100000"
+    ],
+    "price": {
+      "current": 5.5,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 9.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 27
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14689",
+        "sku": "14689",
+        "gtin": "10069223",
+        "title": "600G",
+        "url": "https://www.arcaplanet.it/vitakraft-emotion-sensitive-mangime-per-piccoli-roditori-14689/p",
+        "price": {
+          "current": 5.5,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 9.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "600G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "vitakraft-emotion-sensitive-mangime-per-piccoli-roditori-14689p",
+        "name": "Vitakraft Emotion Sensitive Mangime per Piccoli Roditori",
+        "path": "/vitakraft-emotion-sensitive-mangime-per-piccoli-roditori-14689/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16826",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16703",
+    "sku": "16703",
+    "gtin": "10147505",
+    "title": "MultiFit Country Pellets",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-country-pellets-16703/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282799/f4bae8707aeef167dc7c7c95a8730cd846632b69_f4521756bf6b74b66ebb8a46a801f1033ef77666--1-.jpg?v=638155075478600000"
+    ],
+    "price": {
+      "current": 8.49,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.849,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16703",
+        "sku": "16703",
+        "gtin": "10147505",
+        "title": "10KG",
+        "url": "https://www.arcaplanet.it/multifit-country-pellets-16703/p",
+        "price": {
+          "current": 8.49,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 0.849,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "10KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-country-pellets-16703p",
+        "name": "MultiFit Country Pellets",
+        "path": "/multifit-country-pellets-16703/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18821",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16687",
+    "sku": "16687",
+    "gtin": "10142768",
+    "title": "MultiFit Mangime per Coniglio Nano Alfa Alfa",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-coniglio-nano-alfa-alfa-16687/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282843/d768c37199ca7fc99e33c2f6239ca88f9f5be856_4b6fd0f8079ad2dacb5e57521750d82e5b88c541--1-.jpg?v=638155856921100000"
+    ],
+    "price": {
+      "current": 14.87,
+      "original": 17.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.9479999999999995,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16687",
+        "sku": "16687",
+        "gtin": "10142768",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-coniglio-nano-alfa-alfa-16687/p",
+        "price": {
+          "current": 14.87,
+          "original": 17.49,
+          "pricePerUnit": {
+            "value": 5.9479999999999995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-coniglio-nano-alfa-alfa-16687p",
+        "name": "MultiFit Mangime per Coniglio Nano Alfa Alfa",
+        "path": "/multifit-mangime-per-coniglio-nano-alfa-alfa-16687/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18837",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "18089",
+    "sku": "18089",
+    "gtin": "10154261",
+    "title": "Real Nature Coniglio Nano Adult Optimal Menue 47",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-mix-per-coniglio-nano-adult-18089/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283370/1346059-416x666--1-.jpg?v=638162871500870000"
+    ],
+    "price": {
+      "current": 22.43,
+      "original": 26.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.6075,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18089",
+        "sku": "18089",
+        "gtin": "10154261",
+        "title": "4KG",
+        "url": "https://www.arcaplanet.it/real-nature-mix-per-coniglio-nano-adult-18089/p",
+        "price": {
+          "current": 22.43,
+          "original": 26.39,
+          "pricePerUnit": {
+            "value": 5.6075,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "4KG",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-mix-per-coniglio-nano-adult-18089p",
+        "name": "Real Nature Coniglio Nano Adult Optimal Menue 47",
+        "path": "/real-nature-mix-per-coniglio-nano-adult-18089/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18875",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16795",
+    "sku": "16795",
+    "gtin": "10147501",
+    "title": "MultiFit Mangime per Conigli Nani Senza Grano",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-conigli-nani-senza-grano-16795/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283210/cbdf86f7b773efb366958b0321292eab38a6c819_51d02d3f4f5b86d4affa622cc65e4edde988ee46--1-.jpg?v=638161170245830000"
+    ],
+    "price": {
+      "current": 2.71,
+      "original": 3.19,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.7749999999999995,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16795",
+        "sku": "16795",
+        "gtin": "10147501",
+        "title": "400G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-conigli-nani-senza-grano-16795/p",
+        "price": {
+          "current": 2.71,
+          "original": 3.19,
+          "pricePerUnit": {
+            "value": 6.7749999999999995,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "400G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-conigli-nani-senza-grano-16795p",
+        "name": "MultiFit Mangime per Conigli Nani Senza Grano",
+        "path": "/multifit-mangime-per-conigli-nani-senza-grano-16795/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18913",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.908Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16947",
+    "sku": "16947",
+    "gtin": "10142755",
+    "title": "MultiFit Mangime per Conigli Nani alle Carote",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-conigli-nani-alle-carote-16947/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277385/MultiFit-Coniglio-Nano-Carote-800gr.jpg?v=638046409252430000"
+    ],
+    "price": {
+      "current": 3.47,
+      "original": 3.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.3375,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16947",
+        "sku": "16947",
+        "gtin": "10142755",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-conigli-nani-alle-carote-16947/p",
+        "price": {
+          "current": 3.47,
+          "original": 3.85,
+          "pricePerUnit": {
+            "value": 4.3375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-conigli-nani-alle-carote-16947p",
+        "name": "MultiFit Mangime per Conigli Nani alle Carote",
+        "path": "/multifit-mangime-per-conigli-nani-alle-carote-16947/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18946",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16851",
+    "sku": "16851",
+    "gtin": "10146072",
+    "title": "Real Nature Criceti Optimal Muesli",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-mangime-per-criceti-16851/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283364/fe3e8f0dab990ab777cc3bfea11b4bc42283980e_cd765b689505bac4ca5e43adab706037a0a379a0--1-.jpg?v=638162844922970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318085/real-nature-mangime-per-criceti-10146072.jpg.jpg?v=638767811626400000"
+    ],
+    "price": {
+      "current": 3.73,
+      "original": 4.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.46,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16851",
+        "sku": "16851",
+        "gtin": "10146072",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/real-nature-mangime-per-criceti-16851/p",
+        "price": {
+          "current": 3.73,
+          "original": 4.39,
+          "pricePerUnit": {
+            "value": 7.46,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-mangime-per-criceti-16851p",
+        "name": "Real Nature Criceti Optimal Muesli",
+        "path": "/real-nature-mangime-per-criceti-16851/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18969",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16874",
+    "sku": "16874",
+    "gtin": "10142177",
+    "title": "Fit and Fun Mangime per Coniglio Nano",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-mangime-per-coniglio-nano-16874/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282911/48aa719ec8ac6bd59e600e3c3617b378dfca43f3_a6d6c3dbab41ef1f7aa6096db2583ae389b456da--1-.jpg?v=638156832583800000"
+    ],
+    "price": {
+      "current": 5.87,
+      "original": 6.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.9566666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16874",
+        "sku": "16874",
+        "gtin": "10142177",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/fit-and-fun-mangime-per-coniglio-nano-16874/p",
+        "price": {
+          "current": 5.87,
+          "original": 6.9,
+          "pricePerUnit": {
+            "value": 1.9566666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "fit-and-fun-mangime-per-coniglio-nano-16874p",
+        "name": "Fit and Fun Mangime per Coniglio Nano",
+        "path": "/fit-and-fun-mangime-per-coniglio-nano-16874/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19014",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16972",
+    "sku": "16972",
+    "gtin": "10142759",
+    "title": "MultiFit Mangime per Cincillà",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-cincilla-16972/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283205/9c40805fa60aef468150dedd12cfe94b2dc65e2e_abaa0c39e023b202673c0c6ac28963426f29d85b--1-.jpg?v=638161153122630000"
+    ],
+    "price": {
+      "current": 3.56,
+      "original": 3.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.45,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16972",
+        "sku": "16972",
+        "gtin": "10142759",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-cincilla-16972/p",
+        "price": {
+          "current": 3.56,
+          "original": 3.95,
+          "pricePerUnit": {
+            "value": 4.45,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-cincilla-16972p",
+        "name": "MultiFit Mangime per Cincillà",
+        "path": "/multifit-mangime-per-cincilla-16972/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19090",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16975",
+    "sku": "16975",
+    "gtin": "10142758",
+    "title": "Multifit Mangime per Criceti",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-criceti-16975/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283204/7b9b7cec894f27c346bbf780ade8e1408959b37a_fa3cd58c11efc5cbd3bdd55859515c8407f30db9--1-.jpg?v=638161149974470000"
+    ],
+    "price": {
+      "current": 3.74,
+      "original": 4.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.675,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16975",
+        "sku": "16975",
+        "gtin": "10142758",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-criceti-16975/p",
+        "price": {
+          "current": 3.74,
+          "original": 4.15,
+          "pricePerUnit": {
+            "value": 4.675,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-criceti-16975p",
+        "name": "Multifit Mangime per Criceti",
+        "path": "/multifit-mangime-per-criceti-16975/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19093",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16971",
+    "sku": "16971",
+    "gtin": "10142757",
+    "title": "MultiFit Mangime per Cavie",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-cavie-16971/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283203/2d92a0c9174efa0ef24dd7da81b8229b6d7fa412_f2f519354c500fc7af6ad95e842b8e2c93006aa5--1-.jpg?v=638161145801600000"
+    ],
+    "price": {
+      "current": 3.47,
+      "original": 3.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.3375,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "16971",
+        "sku": "16971",
+        "gtin": "10142757",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-cavie-16971/p",
+        "price": {
+          "current": 3.47,
+          "original": 3.85,
+          "pricePerUnit": {
+            "value": 4.3375,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-cavie-16971p",
+        "name": "MultiFit Mangime per Cavie",
+        "path": "/multifit-mangime-per-cavie-16971/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19148",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "16893",
+    "sku": "16893",
+    "gtin": "10142761",
+    "title": "MultiFit Mangime per Topi e Gerbilli",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-topi-e-gerbilli-16893/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283207/9703bc5856abc0915f014c19f951b13b23ddbe49_32c955fa544bb854409af51aeddb4ea55394ec83--1-.jpg?v=638161157896700000"
+    ],
+    "price": {
+      "current": 3.83,
+      "original": 4.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.7875,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16893",
+        "sku": "16893",
+        "gtin": "10142761",
+        "title": "800G",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-topi-e-gerbilli-16893/p",
+        "price": {
+          "current": 3.83,
+          "original": 4.25,
+          "pricePerUnit": {
+            "value": 4.7875,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "800G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-topi-e-gerbilli-16893p",
+        "name": "MultiFit Mangime per Topi e Gerbilli",
+        "path": "/multifit-mangime-per-topi-e-gerbilli-16893/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19464",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "18279",
+    "sku": "18279",
+    "gtin": "10146074",
+    "title": "Real Nature Topi Optimal Muesli",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-mangime-per-topi-18279/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283365/5c287e08584dd2f3c73c1ec3887fa94de13eb136_4709410623b826c0bacbdb8badfc47e1282bc1fa--1-.jpg?v=638162847946600000"
+    ],
+    "price": {
+      "current": 3.87,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.74,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18279",
+        "sku": "18279",
+        "gtin": "10146074",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/real-nature-mangime-per-topi-18279/p",
+        "price": {
+          "current": 3.87,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 7.74,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-mangime-per-topi-18279p",
+        "name": "Real Nature Topi Optimal Muesli",
+        "path": "/real-nature-mangime-per-topi-18279/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20397",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "18281",
+    "sku": "18281",
+    "gtin": "10146075",
+    "title": "Real Nature Ratti Optimal Muesli",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-mangime-per-ratti-18281/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283366/4277013985793556230c8ff2c66110ed0e9905f5_30cf0415eb3e4860e2bd91466f00af6accee5bc7--1-.jpg?v=638162851800700000"
+    ],
+    "price": {
+      "current": 3.87,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.74,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18281",
+        "sku": "18281",
+        "gtin": "10146075",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/real-nature-mangime-per-ratti-18281/p",
+        "price": {
+          "current": 3.87,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 7.74,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-mangime-per-ratti-18281p",
+        "name": "Real Nature Ratti Optimal Muesli",
+        "path": "/real-nature-mangime-per-ratti-18281/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20399",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "17968",
+    "sku": "17968",
+    "gtin": "10150019",
+    "title": "MultiFit Mangime per Porcellini d'India Senza Cereali",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-mangime-per-cavie-senza-cereali-17968/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283212/c245f09f16fa76b3782ebd8c2e02b2a190a90309_c1b5d963561d1ee77e2c7c9a8573755d71392f05.jpg?v=638161207638000000"
+    ],
+    "price": {
+      "current": 7.18,
+      "original": 8.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4.786666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "17968",
+        "sku": "17968",
+        "gtin": "10150019",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/multifit-mangime-per-cavie-senza-cereali-17968/p",
+        "price": {
+          "current": 7.18,
+          "original": 8.45,
+          "pricePerUnit": {
+            "value": 4.786666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-mangime-per-cavie-senza-cereali-17968p",
+        "name": "MultiFit Mangime per Porcellini d'India Senza Cereali",
+        "path": "/multifit-mangime-per-cavie-senza-cereali-17968/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20401",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "18740",
+    "sku": "18740",
+    "gtin": "10146082",
+    "title": "MultiFit Snack per Roditori Senza Cereali 100G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-100g-18740/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283218/1208529_3D--1-.jpg?v=638161227577230000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.900000000000002,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18740",
+        "sku": "18740",
+        "gtin": "10146082",
+        "title": "CAROTE",
+        "url": "https://www.arcaplanet.it/multifit-snack-per-roditori-senza-cereali-100g-18740/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 29.900000000000002,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "100G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "multifit-snack-per-roditori-senza-cereali-100g-18740p",
+        "name": "MultiFit Snack per Roditori Senza Cereali 100G",
+        "path": "/multifit-snack-per-roditori-senza-cereali-100g-18740/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20858",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "19795",
+    "sku": "19795",
+    "gtin": "10146076",
+    "title": "Real Nature Criceti Nani Optimal Muesli",
+    "brand": "REAL NATURE",
+    "url": "https://www.arcaplanet.it/real-nature-mangime-per-criceti-nani-19795/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283368/732c55834e10a01ac9357d05e6e1907966a18050_8986cfc39afd825c9aeddd02ee37e98441a1792d--1-.jpg?v=638162861114770000"
+    ],
+    "price": {
+      "current": 3.87,
+      "original": 4.55,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 7.74,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19795",
+        "sku": "19795",
+        "gtin": "10146076",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/real-nature-mangime-per-criceti-nani-19795/p",
+        "price": {
+          "current": 3.87,
+          "original": 4.55,
+          "pricePerUnit": {
+            "value": 7.74,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "real-nature-mangime-per-criceti-nani-19795p",
+        "name": "Real Nature Criceti Nani Optimal Muesli",
+        "path": "/real-nature-mangime-per-criceti-nani-19795/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "21913",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "20074",
+    "sku": "20074",
+    "gtin": "10160785",
+    "title": "Burgess Excel Junior & Dwarf Rabbit",
+    "brand": "BURGESS",
+    "url": "https://www.arcaplanet.it/burgess-excel-junior---dwarf-rabbit-20074/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280821/Excel-Junior-and-Dwarf-Rabbit-Nuggets.jpg?v=638119862092600000"
+    ],
+    "price": {
+      "current": 9.99,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.66,
+        "unit": "KG"
+      },
+      "discountPercentage": 13
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20074",
+        "sku": "20074",
+        "gtin": "10160785",
+        "title": "1.5KG",
+        "url": "https://www.arcaplanet.it/burgess-excel-junior---dwarf-rabbit-20074/p",
+        "price": {
+          "current": 9.99,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 6.66,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1.5KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "burgess-excel-junior---dwarf-rabbit-20074p",
+        "name": "Burgess Excel Junior & Dwarf Rabbit",
+        "path": "/burgess-excel-junior---dwarf-rabbit-20074/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22192",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "20075",
+    "sku": "20075",
+    "gtin": "10160742",
+    "title": "Burgess Excel Adult Rabbit Menta",
+    "brand": "BURGESS",
+    "url": "https://www.arcaplanet.it/burgess-excel-adult-rabbit-menta-20075/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280822/Excel-Adult-Rabbit-Nuggets-with-Mint.jpg?v=638119865292630000"
+    ],
+    "price": {
+      "current": 17.99,
+      "original": 19.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.996666666666666,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20075",
+        "sku": "20075",
+        "gtin": "10160742",
+        "title": "3KG",
+        "url": "https://www.arcaplanet.it/burgess-excel-adult-rabbit-menta-20075/p",
+        "price": {
+          "current": 17.99,
+          "original": 19.99,
+          "pricePerUnit": {
+            "value": 5.996666666666666,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "burgess-excel-adult-rabbit-menta-20075p",
+        "name": "Burgess Excel Adult Rabbit Menta",
+        "path": "/burgess-excel-adult-rabbit-menta-20075/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22193",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "20114",
+    "sku": "20114",
+    "gtin": "10137658",
+    "title": "Versele Laga Alimento per Cavie Complete",
+    "brand": "VERSELE LAGA",
+    "url": "https://www.arcaplanet.it/versele-laga-alimento-per-cavie-complete-20114/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286680/1128542-1-416x666--1-.jpg?v=638212222035770000"
+    ],
+    "price": {
+      "current": 10.95,
+      "original": 10.95,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 6.257142857142857,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20114",
+        "sku": "20114",
+        "gtin": "10137658",
+        "title": "1.75KG",
+        "url": "https://www.arcaplanet.it/versele-laga-alimento-per-cavie-complete-20114/p",
+        "price": {
+          "current": 10.95,
+          "original": 10.95,
+          "pricePerUnit": {
+            "value": 6.257142857142857,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "versele-laga-alimento-per-cavie-complete-20114p",
+        "name": "Versele Laga Alimento per Cavie Complete",
+        "path": "/versele-laga-alimento-per-cavie-complete-20114/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22236",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  },
+  {
+    "id": "20130",
+    "sku": "20130",
+    "gtin": "10086052",
+    "title": "Versele Laga Alimento per Coniglio Nano Adult",
+    "brand": "VERSELE LAGA",
+    "url": "https://www.arcaplanet.it/versele-laga-alimento-per-coniglio-nano-adult-20130/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286676/1008706-416x589--1-.jpg?v=638212206368830000"
+    ],
+    "price": {
+      "current": 2.75,
+      "original": 2.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "20130",
+        "sku": "20130",
+        "gtin": "10086052",
+        "title": "500G",
+        "url": "https://www.arcaplanet.it/versele-laga-alimento-per-coniglio-nano-adult-20130/p",
+        "price": {
+          "current": 2.75,
+          "original": 2.75,
+          "pricePerUnit": {
+            "value": 5.5,
+            "unit": "KG"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "500G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animaliroditori",
+        "name": "Roditori",
+        "path": "/piccoli-animali/roditori/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animaliroditorimangime",
+        "name": "Mangime",
+        "path": "/piccoli-animali/roditori/mangime/",
+        "level": 4
+      },
+      {
+        "id": "versele-laga-alimento-per-coniglio-nano-adult-20130p",
+        "name": "Versele Laga Alimento per Coniglio Nano Adult",
+        "path": "/versele-laga-alimento-per-coniglio-nano-adult-20130/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "22248",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:04:33.909Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/roditori/mangime/"
+  }
+]

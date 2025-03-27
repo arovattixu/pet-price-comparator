@@ -1,0 +1,3622 @@
+[
+  {
+    "id": "731",
+    "sku": "731",
+    "gtin": "10110289",
+    "title": "Expecial Sticks Snack Salmone 3X5G",
+    "brand": "EXPECIAL",
+    "url": "https://www.arcaplanet.it/expecial-sticks-gatto-snack-salmone-3x5-g-731/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/245738/expecial-sticks-gatto-snack-salmone.jpg?v=637455025326400000"
+    ],
+    "price": {
+      "current": 1.75,
+      "original": 1.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 87.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "731",
+        "sku": "731",
+        "gtin": "10110289",
+        "title": "3X5G",
+        "url": "https://www.arcaplanet.it/expecial-sticks-gatto-snack-salmone-3x5-g-731/p",
+        "price": {
+          "current": 1.75,
+          "original": 1.75,
+          "pricePerUnit": {
+            "value": 87.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3X5G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "expecial-sticks-gatto-snack-salmone-3x5-g-731p",
+        "name": "Expecial Sticks Snack Salmone 3X5G",
+        "path": "/expecial-sticks-gatto-snack-salmone-3x5-g-731/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "689",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "792",
+    "sku": "792",
+    "gtin": "10120968",
+    "title": "Vitakraft Gatto Stick Mini Salmone",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-gatto-stick-mini-salmone-18g-792/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/209542/VITA-CAT-STICK-MINI-SALMONE.jpg?v=637413988793870000"
+    ],
+    "price": {
+      "current": 1.29,
+      "original": 1.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 64.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 24
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "792",
+        "sku": "792",
+        "gtin": "10120968",
+        "title": "18G",
+        "url": "https://www.arcaplanet.it/vitakraft-gatto-stick-mini-salmone-18g-792/p",
+        "price": {
+          "current": 1.29,
+          "original": 1.69,
+          "pricePerUnit": {
+            "value": 64.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "18G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vitakraft-gatto-stick-mini-salmone-18g-792p",
+        "name": "Vitakraft Gatto Stick Mini Salmone",
+        "path": "/vitakraft-gatto-stick-mini-salmone-18g-792/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "750",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "813",
+    "sku": "813",
+    "gtin": "10118189",
+    "title": "Hi Duck Snack Cat Pure Fillet con Anatra",
+    "brand": "HI DUCK",
+    "url": "https://www.arcaplanet.it/hi-duck-gatto-pure-fillet-anatra-15g-813/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/253378/filetti-gatto-HI-DUCK-15g_tr.jpg?v=637517406391700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270003/hi-duck-cat-snack-al-gusto-anatra-componenti-analitici.jpg?v=637840775358000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270004/hi-duck-cat-snack-gusto-anatra-razione-giornaliera-.jpg?v=637840775555070000"
+    ],
+    "price": {
+      "current": 1.49,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "813",
+        "sku": "813",
+        "gtin": "10118189",
+        "title": "15G",
+        "url": "https://www.arcaplanet.it/hi-duck-gatto-pure-fillet-anatra-15g-813/p",
+        "price": {
+          "current": 1.49,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 74.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "15G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "hi-duck-gatto-pure-fillet-anatra-15g-813p",
+        "name": "Hi Duck Snack Cat Pure Fillet con Anatra",
+        "path": "/hi-duck-gatto-pure-fillet-anatra-15g-813/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "771",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "814",
+    "sku": "814",
+    "gtin": "10118190",
+    "title": "Hi Fish Snack Cat Pure Fillet di Pesce 15G",
+    "brand": "HI FISH",
+    "url": "https://www.arcaplanet.it/hi-fish-gatto-pure-fillet-pesce-15g-814/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308219/Kit-Risparmio-225G-Hi-Fish-Snack-Cat-Pure-Fille-2.jpg?v=638648621146830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270034/hi-fish-cat-pure-al-pesce-componenti-analitici.jpg?v=637841350738000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270035/hi-fish-cat-pure-al-pesce-razione-giornaliera.jpg?v=637841351086930000"
+    ],
+    "price": {
+      "current": 1.49,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "814",
+        "sku": "814",
+        "gtin": "10118190",
+        "title": "15G",
+        "url": "https://www.arcaplanet.it/hi-fish-gatto-pure-fillet-pesce-15g-814/p",
+        "price": {
+          "current": 1.49,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 74.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "15G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "hi-fish-gatto-pure-fillet-pesce-15g-814p",
+        "name": "Hi Fish Snack Cat Pure Fillet di Pesce 15G",
+        "path": "/hi-fish-gatto-pure-fillet-pesce-15g-814/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "772",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "1119",
+    "sku": "1119",
+    "gtin": "10110116",
+    "title": "Virtus Cat Mini Strips con Salmone 40G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-mini-strips-gatto-salmone-40g-1119/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/226897/virtus-mini-strips-gatto-salmone.jpg?v=637454787729900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264454/virtus-salmone-trips1.jpg?v=637719648251500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264456/wild_salmon.png?v=637719648446830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264457/omega.png?v=637719648553870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264461/no_artificial.png?v=637719648849400000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.75,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1119",
+        "sku": "1119",
+        "gtin": "10110116",
+        "title": "40G",
+        "url": "https://www.arcaplanet.it/virtus-mini-strips-gatto-salmone-40g-1119/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 49.75,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "40G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-mini-strips-gatto-salmone-40g-1119p",
+        "name": "Virtus Cat Mini Strips con Salmone 40G",
+        "path": "/virtus-mini-strips-gatto-salmone-40g-1119/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1076",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "3845",
+    "sku": "3845",
+    "gtin": "10129503",
+    "title": "Purina Dentalife Gatto Pollo",
+    "brand": "DENTALIFE",
+    "url": "https://www.arcaplanet.it/purina-dentalife-gatto-pollo-40g-3845/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208479/Purina-Dentalife-cat-pollo-140g.jpg?v=637413973660000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276113/PT02.PNG.jpg?v=638018485958000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276114/PT02.jpg?v=638018486142770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276115/PT03.jpg?v=638018486237970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276116/PT04.jpg?v=638018486362730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276117/PT05.jpg?v=638018486481170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276118/PT06.jpg?v=638018486572570000"
+    ],
+    "price": {
+      "current": 6.49,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 46.357142857142854,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "3845",
+        "sku": "3845",
+        "gtin": "10129503",
+        "title": "140G",
+        "url": "https://www.arcaplanet.it/purina-dentalife-gatto-pollo-40g-3845/p",
+        "price": {
+          "current": 6.49,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 46.357142857142854,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "140G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "purina-dentalife-gatto-pollo-40g-3845p",
+        "name": "Purina Dentalife Gatto Pollo",
+        "path": "/purina-dentalife-gatto-pollo-40g-3845/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1322",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "1538",
+    "sku": "1538",
+    "gtin": "10077987",
+    "title": "Gimcat Nutri Pockets Dental",
+    "brand": "GIMCAT",
+    "url": "https://www.arcaplanet.it/gimcat-gatto-nutri-pockets-dental-100g-1538/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/301708/gimcat-nutri-pockets-dental-10077987.jpg?v=638520749892730000"
+    ],
+    "price": {
+      "current": 1.75,
+      "original": 1.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1538",
+        "sku": "1538",
+        "gtin": "10077987",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/gimcat-gatto-nutri-pockets-dental-100g-1538/p",
+        "price": {
+          "current": 1.75,
+          "original": 1.75,
+          "pricePerUnit": {
+            "value": 29.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "gimcat-gatto-nutri-pockets-dental-100g-1538p",
+        "name": "Gimcat Nutri Pockets Dental",
+        "path": "/gimcat-gatto-nutri-pockets-dental-100g-1538/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1492",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "4498",
+    "sku": "4498",
+    "gtin": "10118204",
+    "title": "Erba Gatta Week Kit di Semina",
+    "brand": "ERBA PIU",
+    "url": "https://www.arcaplanet.it/erbapiu-erba-gatta-week-kit-di-semina-4498/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280175/week-erba-per-gatti.jpg?v=638114531772030000"
+    ],
+    "price": {
+      "current": 3.25,
+      "original": 3.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 162.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4498",
+        "sku": "4498",
+        "gtin": "10118204",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/erbapiu-erba-gatta-week-kit-di-semina-4498/p",
+        "price": {
+          "current": 3.25,
+          "original": 3.25,
+          "pricePerUnit": {
+            "value": 162.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "gattosnackerba-gatta",
+        "name": "Erba Gatta",
+        "path": "/gatto/snack/erba-gatta/",
+        "level": 4
+      },
+      {
+        "id": "erbapiu-erba-gatta-week-kit-di-semina-4498p",
+        "name": "Erba Gatta Week Kit di Semina",
+        "path": "/erbapiu-erba-gatta-week-kit-di-semina-4498/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "4386",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "4182",
+    "sku": "4182",
+    "gtin": "10129548",
+    "title": "Catisfactions Snack Gatto con Formaggio 180G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-gr-180-formaggio-4182/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288454/catisfaction-snack-gatto-formaggio-180g.jpg?v=638253718052400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283273/CAT_FORM.PT02.jpg?v=638161984135570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283274/CAT_FORM.PT03.jpg?v=638161984222030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283275/CAT_FORM.PT04.jpg?v=638161984302400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283276/CAT_FORM.PT05.jpg?v=638161984432730000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.722222222222225,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4182",
+        "sku": "4182",
+        "gtin": "10129548",
+        "title": "180G",
+        "url": "https://www.arcaplanet.it/catisfaction-gr-180-formaggio-4182/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 27.722222222222225,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "180G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-gr-180-formaggio-4182p",
+        "name": "Catisfactions Snack Gatto con Formaggio 180G",
+        "path": "/catisfaction-gr-180-formaggio-4182/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11431",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "4273",
+    "sku": "4273",
+    "gtin": "10129550",
+    "title": "Catisfactions Snack Gatto con Salmone 180G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-gr-180-salmone-4273/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288457/catisfaction-snack-gatto-180g-salmone.jpg?v=638254532704570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283934/CAT_SALM.PT02.jpg?v=638173217189270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283935/CAT_SALM.PT3.jpg?v=638173217256170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283936/CAT_SALM.PT04.jpg?v=638173217316800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283937/CAT_SALM.PT05.jpg?v=638173217382900000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.722222222222225,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4273",
+        "sku": "4273",
+        "gtin": "10129550",
+        "title": "180G",
+        "url": "https://www.arcaplanet.it/catisfaction-gr-180-salmone-4273/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 27.722222222222225,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "180G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-gr-180-salmone-4273p",
+        "name": "Catisfactions Snack Gatto con Salmone 180G",
+        "path": "/catisfaction-gr-180-salmone-4273/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11433",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "1509",
+    "sku": "1509",
+    "gtin": "10063528",
+    "title": "Catisfactions Snack per Gatto con Manzo",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-gr-60-manzo-1509/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279281/Catisfaction_Manzo_60g.jpg?v=638103405616300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283461/CAT_MANZO.PT02.jpg?v=638163924658670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283462/CAT_MANZO.PT03.jpg?v=638163924740900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283463/CAT_MANZO.PT04.jpg?v=638163924824970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283464/CAT_MANZO.PT05.jpg?v=638163924898070000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 35.833333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1509",
+        "sku": "1509",
+        "gtin": "10063528",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/catisfaction-gr-60-manzo-1509/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 35.833333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-gr-60-manzo-1509p",
+        "name": "Catisfactions Snack per Gatto con Manzo",
+        "path": "/catisfaction-gr-60-manzo-1509/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11437",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "13011",
+    "sku": "13011",
+    "gtin": "10138929",
+    "title": "Catisfactions Snack per Gatto con + Erba Gatta",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-gr-60-erba-gatta-13011/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279283/Catisfaction_ErbaGatta_60g.jpg?v=638103406410870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283265/CAT_ERBA.PT02.jpg?v=638161971567470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283266/CAT_ERBA.PT03.jpg?v=638161971646570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283267/CAT_ERBA.PT05.jpg?v=638161971741500000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 35.833333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13011",
+        "sku": "13011",
+        "gtin": "10138929",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/catisfaction-gr-60-erba-gatta-13011/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 35.833333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-gr-60-erba-gatta-13011p",
+        "name": "Catisfactions Snack per Gatto con + Erba Gatta",
+        "path": "/catisfaction-gr-60-erba-gatta-13011/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15148",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "13679",
+    "sku": "13679",
+    "gtin": "10139489",
+    "title": "In The Nature Cat Snack Stick Pollo e Tacchino 3X5G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-cat-snack-stick-pollo-tacchino-3x5gr-13679/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262413/in-the-nature-cat-snack-stick-pollo-tacchino-3x5gr.jpg?v=637671452234270000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13679",
+        "sku": "13679",
+        "gtin": "10139489",
+        "title": "3X5G",
+        "url": "https://www.arcaplanet.it/in-the-nature-cat-snack-stick-pollo-tacchino-3x5gr-13679/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3X5G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "in-the-nature-cat-snack-stick-pollo-tacchino-3x5gr-13679p",
+        "name": "In The Nature Cat Snack Stick Pollo e Tacchino 3X5G",
+        "path": "/in-the-nature-cat-snack-stick-pollo-tacchino-3x5gr-13679/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15814",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "13681",
+    "sku": "13681",
+    "gtin": "10139491",
+    "title": "In The Nature Cat Snack Stick Trota 3X5G",
+    "brand": "IN THE NATURE",
+    "url": "https://www.arcaplanet.it/in-the-nature-cat-snack-stick-trota-mirtillo-3x5gr-13681/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/262415/in-the-nature-cat-snack-stick-trota-3x5gr.jpg?v=637671453708000000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 99.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "13681",
+        "sku": "13681",
+        "gtin": "10139491",
+        "title": "3X5G",
+        "url": "https://www.arcaplanet.it/in-the-nature-cat-snack-stick-trota-mirtillo-3x5gr-13681/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 99.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "3X5G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "in-the-nature-cat-snack-stick-trota-mirtillo-3x5gr-13681p",
+        "name": "In The Nature Cat Snack Stick Trota 3X5G",
+        "path": "/in-the-nature-cat-snack-stick-trota-mirtillo-3x5gr-13681/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "15816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "14174",
+    "sku": "14174",
+    "gtin": "10139990",
+    "title": "BeFortis Cat Pillows Snack Hairball 180G",
+    "brand": "BEFORTIS",
+    "url": "https://www.arcaplanet.it/befortis-cat-pillows-snack-hairball-14174/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272178/BeFortis-Cat-Pillows-Hairball.jpg?v=637900963813300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272184/befortis-cat-snack-hairball-componenti-analitici.jpg?v=637900984697570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272185/befortis-cat-snack-hairball-razione-giornaliera.jpg?v=637900984799700000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14174",
+        "sku": "14174",
+        "gtin": "10139990",
+        "title": "180G",
+        "url": "https://www.arcaplanet.it/befortis-cat-pillows-snack-hairball-14174/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 22.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "180G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "befortis-cat-pillows-snack-hairball-14174p",
+        "name": "BeFortis Cat Pillows Snack Hairball 180G",
+        "path": "/befortis-cat-pillows-snack-hairball-14174/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16311",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "14175",
+    "sku": "14175",
+    "gtin": "10139991",
+    "title": "BeFortis Cat Pillows Snack Oral Care 180G",
+    "brand": "BEFORTIS",
+    "url": "https://www.arcaplanet.it/befortis-cat-pillows-snack-oral-care-14175/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272186/BeFortis-Cat-Pillows-Oral-Care.jpg?v=637900988077270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272188/befortis-cat-snack-oral-care-componenti-analitici.jpg?v=637900988186470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272190/befortis-cat-snack-oral-care-razione-giornaliera.jpg?v=637900988465400000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 22.166666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14175",
+        "sku": "14175",
+        "gtin": "10139991",
+        "title": "180G",
+        "url": "https://www.arcaplanet.it/befortis-cat-pillows-snack-oral-care-14175/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 22.166666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "180G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "befortis-cat-pillows-snack-oral-care-14175p",
+        "name": "BeFortis Cat Pillows Snack Oral Care 180G",
+        "path": "/befortis-cat-pillows-snack-oral-care-14175/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16312",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "14940",
+    "sku": "14940",
+    "gtin": "10140688",
+    "title": "Catisfactions Snack Gatto Mega Tub al Formaggio 350G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-maxi-tub-per-gatto-al-formaggio-14940/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288422/catisfaction-mega-tube-formattio-350g.jpg?v=638252615973570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283296/CAT_FORM.PT02.jpg?v=638162026182030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283297/CAT_FORM.PT03.jpg?v=638162026291370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283298/CAT_FORM.PT04.jpg?v=638162026374570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283299/CAT_FORM.PT05.jpg?v=638162026466970000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.685714285714287,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14940",
+        "sku": "14940",
+        "gtin": "10140688",
+        "title": "350G",
+        "url": "https://www.arcaplanet.it/catisfaction-maxi-tub-per-gatto-al-formaggio-14940/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 25.685714285714287,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "350G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-maxi-tub-per-gatto-al-formaggio-14940p",
+        "name": "Catisfactions Snack Gatto Mega Tub al Formaggio 350G",
+        "path": "/catisfaction-maxi-tub-per-gatto-al-formaggio-14940/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17077",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "14941",
+    "sku": "14941",
+    "gtin": "10140696",
+    "title": "Catisfactions Snack Gatto Mega Tub al Pollo 350G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-maxi-tub-pollo-14941/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/288423/catisfaction-mega-tube-pollo-350g.jpg?v=638252617077600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283919/CAT_POLLO.PT02.jpg?v=638173201943270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283920/CAT_POLLO.PT03.jpg?v=638173202018300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283921/CAT_POLLO.PT04.jpg?v=638173202099070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283922/CAT_POLLO.PT05.jpg?v=638173202202000000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 8.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 25.685714285714287,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14941",
+        "sku": "14941",
+        "gtin": "10140696",
+        "title": "350G",
+        "url": "https://www.arcaplanet.it/catisfaction-maxi-tub-pollo-14941/p",
+        "price": {
+          "current": 8.99,
+          "original": 8.99,
+          "pricePerUnit": {
+            "value": 25.685714285714287,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "350G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-maxi-tub-pollo-14941p",
+        "name": "Catisfactions Snack Gatto Mega Tub al Pollo 350G",
+        "path": "/catisfaction-maxi-tub-pollo-14941/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17078",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "15196",
+    "sku": "15196",
+    "gtin": "10057184",
+    "title": "Vitakraft Cat Liquid Snack con Omega-3",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-cat-liquid-snack-omega-3-15196/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276944/vitakraft-cat-liquid-snack-omega-3.jpg?v=638041031324430000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 3.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 44.333333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15196",
+        "sku": "15196",
+        "gtin": "10057184",
+        "title": "SALMONE",
+        "url": "https://www.arcaplanet.it/vitakraft-cat-liquid-snack-omega-3-15196/p",
+        "price": {
+          "current": 3.99,
+          "original": 3.99,
+          "pricePerUnit": {
+            "value": 44.333333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "SALMONE",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vitakraft-cat-liquid-snack-omega-3-15196p",
+        "name": "Vitakraft Cat Liquid Snack con Omega-3",
+        "path": "/vitakraft-cat-liquid-snack-omega-3-15196/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17333",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "15232",
+    "sku": "15232",
+    "gtin": "10141021",
+    "title": "Befortis Cat Snack Soft Relax 50G",
+    "brand": "BEFORTIS",
+    "url": "https://www.arcaplanet.it/befortis-cat-snack-soft-relax-15232/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276865/befortis-cat-snack-soft-relax.jpg?v=638040307798400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/276866/befortis-cat-snack-soft-relax-dosaggio.jpg?v=638040307882600000"
+    ],
+    "price": {
+      "current": 2.49,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.800000000000004,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15232",
+        "sku": "15232",
+        "gtin": "10141021",
+        "title": "50G",
+        "url": "https://www.arcaplanet.it/befortis-cat-snack-soft-relax-15232/p",
+        "price": {
+          "current": 2.49,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 49.800000000000004,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "50G",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "befortis-cat-snack-soft-relax-15232p",
+        "name": "Befortis Cat Snack Soft Relax 50G",
+        "path": "/befortis-cat-snack-soft-relax-15232/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17369",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "15682",
+    "sku": "15682",
+    "gtin": "10141207",
+    "title": "ViVi Cat Snack Liquid 6X15G",
+    "brand": "VIVI",
+    "url": "https://www.arcaplanet.it/vivi-cat-snack-liquid-6x15g-15682/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279875/VIVICAT_liquid_pollo_scatola.jpg?v=638110165372900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278674/vivi-cat-snack-liquid-6x15-pollo.jpg?v=638089566700400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/279876/VIVICAT_liquid_pollo_multi.jpg?v=638110165478830000"
+    ],
+    "price": {
+      "current": 3.29,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.55555555555556,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15682",
+        "sku": "15682",
+        "gtin": "10141207",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/vivi-cat-snack-liquid-6x15g-15682/p",
+        "price": {
+          "current": 3.29,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 36.55555555555556,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vivi-cat-snack-liquid-6x15g-15682p",
+        "name": "ViVi Cat Snack Liquid 6X15G",
+        "path": "/vivi-cat-snack-liquid-6x15g-15682/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      },
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "17821",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "15728",
+    "sku": "15728",
+    "gtin": "10155641",
+    "title": "ViVi Cat Snack Soft Stick 3X5G",
+    "brand": "VIVI",
+    "url": "https://www.arcaplanet.it/vivi-cat-snack-soft-stick-15728/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277584/VIVICAT-STICK-salmone.jpg?v=638047320333170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277585/VIVICAT-STICK-salmone2.jpg?v=638047320403030000"
+    ],
+    "price": {
+      "current": 1.49,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 74.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15728",
+        "sku": "15728",
+        "gtin": "10155641",
+        "title": "SALMONE",
+        "url": "https://www.arcaplanet.it/vivi-cat-snack-soft-stick-15728/p",
+        "price": {
+          "current": 1.49,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 74.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "SALMONE",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vivi-cat-snack-soft-stick-15728p",
+        "name": "ViVi Cat Snack Soft Stick 3X5G",
+        "path": "/vivi-cat-snack-soft-stick-15728/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17865",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16157",
+    "sku": "16157",
+    "gtin": "10155676",
+    "title": "Virtus Snack Cat Nutrition Selection  Maiale Latte e Mirtilli 60G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-snack-cat-nutrition-selection--maiale-latte-e-mirtilli-16157/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275465/maiale.jpg?v=637989130797870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275466/maiale-tab.jpg?v=637989139618530000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.833333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16157",
+        "sku": "16157",
+        "gtin": "10155676",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/virtus-snack-cat-nutrition-selection--maiale-latte-e-mirtilli-16157/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 49.833333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-snack-cat-nutrition-selection--maiale-latte-e-mirtilli-16157p",
+        "name": "Virtus Snack Cat Nutrition Selection  Maiale Latte e Mirtilli 60G",
+        "path": "/virtus-snack-cat-nutrition-selection--maiale-latte-e-mirtilli-16157/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18294",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16158",
+    "sku": "16158",
+    "gtin": "10155677",
+    "title": "Virtus Snack Cat Nutrition Selection Tacchino Latte e Curcuma 60G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-snack-cat-nutrition-selection-tacchino-latte-e-curcuma-16158/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275467/tacchino.jpg?v=637989140661700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/275468/tacchino-tab.jpg?v=637989140809100000"
+    ],
+    "price": {
+      "current": 2.99,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.833333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16158",
+        "sku": "16158",
+        "gtin": "10155677",
+        "title": "60G",
+        "url": "https://www.arcaplanet.it/virtus-snack-cat-nutrition-selection-tacchino-latte-e-curcuma-16158/p",
+        "price": {
+          "current": 2.99,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 49.833333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-snack-cat-nutrition-selection-tacchino-latte-e-curcuma-16158p",
+        "name": "Virtus Snack Cat Nutrition Selection Tacchino Latte e Curcuma 60G",
+        "path": "/virtus-snack-cat-nutrition-selection-tacchino-latte-e-curcuma-16158/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18295",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16401",
+    "sku": "16401",
+    "gtin": "10155897",
+    "title": "ViVi Cat Snack Dental Bites 60G",
+    "brand": "VIVI",
+    "url": "https://www.arcaplanet.it/vivi-cat-snack-dental-bites-60g-16401/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282001/Vivi-cat_dental-bites-Vista-1.jpg?v=638132615297470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282003/Vivi-cat_dental-bites2.jpg?v=638132615599000000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.166666666666664,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16401",
+        "sku": "16401",
+        "gtin": "10155897",
+        "title": "TROTA",
+        "url": "https://www.arcaplanet.it/vivi-cat-snack-dental-bites-60g-16401/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 33.166666666666664,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "60G",
+            "Flavour": "TROTA",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vivi-cat-snack-dental-bites-60g-16401p",
+        "name": "ViVi Cat Snack Dental Bites 60G",
+        "path": "/vivi-cat-snack-dental-bites-60g-16401/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "18538",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16691",
+    "sku": "16691",
+    "gtin": "10143522",
+    "title": "MultiFit Snack Cat Cream 7x15G",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-snack-cream-7x15g-16691/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/277188/MultiFit-Snack-Cream-Pollame-e-Fegato-7x15g.jpg?v=638042972120700000"
+    ],
+    "price": {
+      "current": 2.12,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 21.2,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16691",
+        "sku": "16691",
+        "gtin": "10143522",
+        "title": "POLLAME E FEGATO",
+        "url": "https://www.arcaplanet.it/multifit-snack-cream-7x15g-16691/p",
+        "price": {
+          "current": 2.12,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 21.2,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Flavour": "POLLAME E FEGATO",
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "OmnyChannel"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "multifit-snack-cream-7x15g-16691p",
+        "name": "MultiFit Snack Cat Cream 7x15G",
+        "path": "/multifit-snack-cream-7x15g-16691/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18883",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16830",
+    "sku": "16830",
+    "gtin": "10144444",
+    "title": "Fit and Fun Cat Sticks XXL 250G",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-sticks-xxl-5x50g-16830/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318826/fit-and-fun-sticks-xxl-5x50g-10144444--1-.jpg.jpg?v=638778017523800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318827/fit-and-fun-sticks-xxl-5x50g-10144444--2-.jpg.jpg?v=638778017523800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318828/8ae4dbe4f188eeda8c2bcefea71a7be9ad29487b_f4ffc2509f45068a5d06b794c342c5d71194f564.jpg?v=638777993109300000"
+    ],
+    "price": {
+      "current": 6.79,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.16,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16830",
+        "sku": "16830",
+        "gtin": "10144444",
+        "title": "POLLO MANZO TONNO CONIGLIO",
+        "url": "https://www.arcaplanet.it/fit-and-fun-sticks-xxl-5x50g-16830/p",
+        "price": {
+          "current": 6.79,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 27.16,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "250G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "fit-and-fun-sticks-xxl-5x50g-16830p",
+        "name": "Fit and Fun Cat Sticks XXL 250G",
+        "path": "/fit-and-fun-sticks-xxl-5x50g-16830/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "18948",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "16982",
+    "sku": "16982",
+    "gtin": "10142070",
+    "title": "MultiFit Gatto Acqua con Taurina",
+    "brand": "MULTIFIT",
+    "url": "https://www.arcaplanet.it/multifit-gatto-acqua-taurina-16982/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282167/1004673--1-.jpg?v=638133636315600000"
+    ],
+    "price": {
+      "current": 1.27,
+      "original": 1.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 0.8466666666666667,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16982",
+        "sku": "16982",
+        "gtin": "10142070",
+        "title": "1.5LT",
+        "url": "https://www.arcaplanet.it/multifit-gatto-acqua-taurina-16982/p",
+        "price": {
+          "current": 1.27,
+          "original": 1.49,
+          "pricePerUnit": {
+            "value": 0.8466666666666667,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "multifit-gatto-acqua-taurina-16982p",
+        "name": "MultiFit Gatto Acqua con Taurina",
+        "path": "/multifit-gatto-acqua-taurina-16982/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "19100",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "18565",
+    "sku": "18565",
+    "gtin": "10151994",
+    "title": "Premiere Snack Cat My Cream 6x15G",
+    "brand": "PREMIERE",
+    "url": "https://www.arcaplanet.it/premiere-snack-cat-my-cream-15gx6-18565/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316225/premiere-snack-cat-my-cream-15gx6-10151994--2-.jpg.jpg?v=638751225385370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/316226/premiere-snack-cat-my-cream-15gx6-10151994--1-.jpg.jpg?v=638751225385370000"
+    ],
+    "price": {
+      "current": 3.29,
+      "original": 3.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.55555555555556,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18565",
+        "sku": "18565",
+        "gtin": "10151994",
+        "title": "POLLO E MIRTILLI",
+        "url": "https://www.arcaplanet.it/premiere-snack-cat-my-cream-15gx6-18565/p",
+        "price": {
+          "current": 3.29,
+          "original": 3.29,
+          "pricePerUnit": {
+            "value": 36.55555555555556,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "15G",
+            "Flavour": "POLLO"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "premiere-snack-cat-my-cream-15gx6-18565p",
+        "name": "Premiere Snack Cat My Cream 6x15G",
+        "path": "/premiere-snack-cat-my-cream-15gx6-18565/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2882",
+        "name": "3X2"
+      }
+    ],
+    "metadata": {
+      "groupId": "20689",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "19496",
+    "sku": "19496",
+    "gtin": "10152751",
+    "title": "Fit and Fun Cat Snack Crunchy Pocket 65G",
+    "brand": "FIT AND FUN",
+    "url": "https://www.arcaplanet.it/fit-and-fun-crunchy-pocket-65g-19496/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280825/1325243--1-.jpg?v=638119874549200000"
+    ],
+    "price": {
+      "current": 0.76,
+      "original": 0.89,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 12.666666666666668,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "19496",
+        "sku": "19496",
+        "gtin": "10152751",
+        "title": "ERBA GATTA",
+        "url": "https://www.arcaplanet.it/fit-and-fun-crunchy-pocket-65g-19496/p",
+        "price": {
+          "current": 0.76,
+          "original": 0.89,
+          "pricePerUnit": {
+            "value": 12.666666666666668,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "65G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "fit-and-fun-crunchy-pocket-65g-19496p",
+        "name": "Fit and Fun Cat Snack Crunchy Pocket 65G",
+        "path": "/fit-and-fun-crunchy-pocket-65g-19496/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "21618",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.889Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "21755",
+    "sku": "21755",
+    "gtin": "10169430",
+    "title": "Catisfaction Shake Ups 55G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-shake-ups-55g-21755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287660/1.jpg?v=638233722803570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287661/2--1-.jpg?v=638233723219570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287662/3.jpg?v=638233723419770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287663/4.jpg?v=638233723630400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287664/5--1-.jpg?v=638233723833070000"
+    ],
+    "price": {
+      "current": 2.15,
+      "original": 2.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 42.99999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21755",
+        "sku": "21755",
+        "gtin": "10169430",
+        "title": "FRUTTI DI MARE",
+        "url": "https://www.arcaplanet.it/catisfaction-shake-ups-55g-21755/p",
+        "price": {
+          "current": 2.15,
+          "original": 2.15,
+          "pricePerUnit": {
+            "value": 42.99999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "55G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-shake-ups-55g-21755p",
+        "name": "Catisfaction Shake Ups 55G",
+        "path": "/catisfaction-shake-ups-55g-21755/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23845",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "21757",
+    "sku": "21757",
+    "gtin": "10169428",
+    "title": "Catisfaction Erba Gatta",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfaction-erba-gatta-21757/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287655/1.jpg?v=638233710656700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287656/Secondary-image-1.jpg?v=638233710863600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287657/Secondary-image-2.jpg?v=638233711142600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287658/Secondary-image-3.jpg?v=638233711397470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/287659/Secondary-image-4--1-.jpg?v=638233711686300000"
+    ],
+    "price": {
+      "current": 4.99,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.722222222222225,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "21757",
+        "sku": "21757",
+        "gtin": "10169428",
+        "title": "180G",
+        "url": "https://www.arcaplanet.it/catisfaction-erba-gatta-21757/p",
+        "price": {
+          "current": 4.99,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 27.722222222222225,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "180G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfaction-erba-gatta-21757p",
+        "name": "Catisfaction Erba Gatta",
+        "path": "/catisfaction-erba-gatta-21757/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "23846",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "23368",
+    "sku": "23368",
+    "gtin": "10173298",
+    "title": "Virtus Cat Snack Mini Strips 40G",
+    "brand": "VIRTUS",
+    "url": "https://www.arcaplanet.it/virtus-cat-snack-mini-strips-40g-23368/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/296148/Virtus-Cat-Snack-Mini-Strips-40G-10173298.jpg?v=638451418197400000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 49.75,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23368",
+        "sku": "23368",
+        "gtin": "10173298",
+        "title": "AGNELLO",
+        "url": "https://www.arcaplanet.it/virtus-cat-snack-mini-strips-40g-23368/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 49.75,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "virtus-cat-snack-mini-strips-40g-23368p",
+        "name": "Virtus Cat Snack Mini Strips 40G",
+        "path": "/virtus-cat-snack-mini-strips-40g-23368/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25379",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "23863",
+    "sku": "23863",
+    "gtin": "10173926",
+    "title": "Feliway Cat Happy Snack Pollo",
+    "brand": "FELIWAY",
+    "url": "https://www.arcaplanet.it/feliway-cat-happy-snack-pollo-23863/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302713/Feliway-Cat-Happy-Snack-Pollo-10173926-1.jpg?v=638537799635530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302714/Feliway-Cat-Happy-Snack-Pollo-10173926-2.jpg?v=638537799717330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302715/Feliway-Cat-Happy-Snack-Pollo-10173926-3.jpg?v=638537799788100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302716/Feliway-Cat-Happy-Snack-Pollo-10173926-4.jpg?v=638537799857270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302717/Feliway-Cat-Happy-Snack-Pollo-10173926-5.jpg?v=638537799934430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302718/Feliway-Cat-Happy-Snack-Pollo-10173926-6.jpg?v=638537800010470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302719/Feliway-Cat-Happy-Snack-Pollo-10173926-7.jpg?v=638537800081200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/302720/Feliway-Cat-Happy-Snack-Pollo-10173926-8.jpg?v=638537800161700000"
+    ],
+    "price": {
+      "current": 7.19,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 359.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23863",
+        "sku": "23863",
+        "gtin": "10173926",
+        "title": "90G",
+        "url": "https://www.arcaplanet.it/feliway-cat-happy-snack-pollo-23863/p",
+        "price": {
+          "current": 7.19,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 359.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "feliway-cat-happy-snack-pollo-23863p",
+        "name": "Feliway Cat Happy Snack Pollo",
+        "path": "/feliway-cat-happy-snack-pollo-23863/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25874",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "23971",
+    "sku": "23971",
+    "gtin": "10174028",
+    "title": "Vitakraft Cat Liquid Snack Multipack 16x15G",
+    "brand": "VITAKRAFT",
+    "url": "https://www.arcaplanet.it/vitakraft-cat-liquid-snack-multipack-16x15g-23971/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306614/Vitakraft-Cat-Liquid-Snack-Multipack-16x15G-10174028.jpg?v=638624195126300000"
+    ],
+    "price": {
+      "current": 6.74,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 28.083333333333336,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23971",
+        "sku": "23971",
+        "gtin": "10174028",
+        "title": "POLLO E MANZO",
+        "url": "https://www.arcaplanet.it/vitakraft-cat-liquid-snack-multipack-16x15g-23971/p",
+        "price": {
+          "current": 6.74,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 28.083333333333336,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "vitakraft-cat-liquid-snack-multipack-16x15g-23971p",
+        "name": "Vitakraft Cat Liquid Snack Multipack 16x15G",
+        "path": "/vitakraft-cat-liquid-snack-multipack-16x15g-23971/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25982",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "24090",
+    "sku": "24090",
+    "gtin": "10174196",
+    "title": "Catisfactions Snack Gatto Creamy 4x10G",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/catisfactions-snack-gatto-creamy-4x10g-24090/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304087/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-1.jpg?v=638563956612700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304088/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-2.jpg?v=638767029479800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304089/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-3.jpg?v=638767029479800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304090/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-4.jpg?v=638767029479800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304091/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-5.jpg?v=638767029479800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/304092/Catisfactions-Snack-Gatto-Creamy-4x10G-10174196-6.jpg?v=638767029479930000"
+    ],
+    "price": {
+      "current": 2.69,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 67.25,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24090",
+        "sku": "24090",
+        "gtin": "10174196",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/catisfactions-snack-gatto-creamy-4x10g-24090/p",
+        "price": {
+          "current": 2.69,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 67.25,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "catisfactions-snack-gatto-creamy-4x10g-24090p",
+        "name": "Catisfactions Snack Gatto Creamy 4x10G",
+        "path": "/catisfactions-snack-gatto-creamy-4x10g-24090/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26101",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "24569",
+    "sku": "24569",
+    "gtin": "10175955",
+    "title": "Felix Cat Tasty Nuggets Snack 50G",
+    "brand": "FELIX",
+    "url": "https://www.arcaplanet.it/felix-cat-tasty-nuggets-snack-50g-24569/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/306565/felix-cat-tasty-nuggets-snack-50g-10175955.jpg?v=638622421580830000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 1.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 39.8,
+        "unit": "KG"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "24569",
+        "sku": "24569",
+        "gtin": "10175955",
+        "title": "SALMONE CON TROTA",
+        "url": "https://www.arcaplanet.it/felix-cat-tasty-nuggets-snack-50g-24569/p",
+        "price": {
+          "current": 1.99,
+          "original": 1.99,
+          "pricePerUnit": {
+            "value": 39.8,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "felix-cat-tasty-nuggets-snack-50g-24569p",
+        "name": "Felix Cat Tasty Nuggets Snack 50G",
+        "path": "/felix-cat-tasty-nuggets-snack-50g-24569/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "26582",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "25497",
+    "sku": "25497",
+    "gtin": "1000000000118",
+    "title": "Kit Risparmio 2x180G Catisfaction Snack Gatto",
+    "brand": "CATISFACTIONS",
+    "url": "https://www.arcaplanet.it/kit-risparmio-2x180g-catisfaction-snack-gatto-25497/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310068/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-1.jpg?v=638669246223000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310069/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-2.png?v=638669246324200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310070/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-3.jpg?v=638669247303230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310071/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-4.jpg?v=638669247407370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310072/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-5.jpg?v=638669247494570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310073/Kit-Risparmio-2x180G-Catisfaction-Snack-Gatto-6.jpg?v=638669247642570000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 9.98,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 24.972222222222225,
+        "unit": "KG"
+      },
+      "discountPercentage": 10
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25497",
+        "sku": "25497",
+        "gtin": "1000000000118",
+        "title": "FORMAGGIO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-2x180g-catisfaction-snack-gatto-25497/p",
+        "price": {
+          "current": 8.99,
+          "original": 9.98,
+          "pricePerUnit": {
+            "value": 24.972222222222225,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-2x180g-catisfaction-snack-gatto-25497p",
+        "name": "Kit Risparmio 2x180G Catisfaction Snack Gatto",
+        "path": "/kit-risparmio-2x180g-catisfaction-snack-gatto-25497/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27508",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "25559",
+    "sku": "25559",
+    "gtin": "1000000000180",
+    "title": "Kit Risparmio 5x84G Petreet Cat Snack Cremosi",
+    "brand": "PETREET",
+    "url": "https://www.arcaplanet.it/kit-risparmio-5x84g-petreet-cat-snack-cremosi-25559/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310366/Kit-Risparmio-5x84G-Petreet-Cat-Snack-Cremosi-1000000000180.jpg?v=638671751288200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310367/Kit-Risparmio-5x84G-Petreet-Cat-Snack-Cremosi-1000000000180.jpg?v=638671751375000000"
+    ],
+    "price": {
+      "current": 13.99,
+      "original": 16.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.3309523809523807,
+        "unit": "KG"
+      },
+      "discountPercentage": 15
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25559",
+        "sku": "25559",
+        "gtin": "1000000000180",
+        "title": "POLLO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-5x84g-petreet-cat-snack-cremosi-25559/p",
+        "price": {
+          "current": 13.99,
+          "original": 16.45,
+          "pricePerUnit": {
+            "value": 3.3309523809523807,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-5x84g-petreet-cat-snack-cremosi-25559p",
+        "name": "Kit Risparmio 5x84G Petreet Cat Snack Cremosi",
+        "path": "/kit-risparmio-5x84g-petreet-cat-snack-cremosi-25559/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27570",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  },
+  {
+    "id": "25646",
+    "sku": "25646",
+    "gtin": "1000000000267",
+    "title": "Kit Risparmio 3x15G Vivi Cat Snack Soft Stick",
+    "brand": "VIVI",
+    "url": "https://www.arcaplanet.it/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-25646/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310270/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-1000000000267--1-.jpg?v=638670955483130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310271/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-1000000000267--2-.jpg?v=638670955578070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/310272/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-1000000000267--3-.jpg?v=638670955670970000"
+    ],
+    "price": {
+      "current": 3.99,
+      "original": 4.47,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 66.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 11
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25646",
+        "sku": "25646",
+        "gtin": "1000000000267",
+        "title": "AGNELLO E RISO",
+        "url": "https://www.arcaplanet.it/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-25646/p",
+        "price": {
+          "current": 3.99,
+          "original": 4.47,
+          "pricePerUnit": {
+            "value": 66.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattosnack",
+        "name": "Snack",
+        "path": "/gatto/snack/",
+        "level": 3
+      },
+      {
+        "id": "kit-risparmio-3x15g-vivi-cat-snack-soft-stick-25646p",
+        "name": "Kit Risparmio 3x15G Vivi Cat Snack Soft Stick",
+        "path": "/kit-risparmio-3x15g-vivi-cat-snack-soft-stick-25646/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27657",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:53:22.890Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/gatto/snack/"
+  }
+]

@@ -1,0 +1,3828 @@
+[
+  {
+    "id": "10498",
+    "sku": "10498",
+    "gtin": "00036556",
+    "title": "Sabbia Bianca Fine",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/sabbia-bianca-fine-kg-5-mm-0-1-0-7-10498/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222186/sabbia-bianca-fine-kg-5-mm-01-07.jpg?v=637454719404400000"
+    ],
+    "price": {
+      "current": 5.8,
+      "original": 8.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.162324649298597,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10498",
+        "sku": "10498",
+        "gtin": "00036556",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/sabbia-bianca-fine-kg-5-mm-0-1-0-7-10498/p",
+        "price": {
+          "current": 5.8,
+          "original": 8.29,
+          "pricePerUnit": {
+            "value": 1.162324649298597,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "sabbia-bianca-fine-kg-5-mm-0-1-0-7-10498p",
+        "name": "Sabbia Bianca Fine",
+        "path": "/sabbia-bianca-fine-kg-5-mm-0-1-0-7-10498/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10092",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10523",
+    "sku": "10523",
+    "gtin": "00037541",
+    "title": "Boxlife Extra",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/boxlife-extra-41x26--10523/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223979/boxlife-extra-41x26.jpg?v=637454737897030000"
+    ],
+    "price": {
+      "current": 20.29,
+      "original": 28.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1014.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10523",
+        "sku": "10523",
+        "gtin": "00037541",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/boxlife-extra-41x26--10523/p",
+        "price": {
+          "current": 20.29,
+          "original": 28.99,
+          "pricePerUnit": {
+            "value": 1014.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "boxlife-extra-41x26--10523p",
+        "name": "Boxlife Extra",
+        "path": "/boxlife-extra-41x26--10523/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "10117",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10689",
+    "sku": "10689",
+    "gtin": "10068955",
+    "title": "Amtra Algenkur",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-algen-kur-ml-150-10689/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223177/amtra-algen-kur-ml-150.jpg?v=637454729352630000"
+    ],
+    "price": {
+      "current": 4.19,
+      "original": 5.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 27.933333333333337,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10689",
+        "sku": "10689",
+        "gtin": "10068955",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/amtra-algen-kur-ml-150-10689/p",
+        "price": {
+          "current": 4.19,
+          "original": 5.99,
+          "pricePerUnit": {
+            "value": 27.933333333333337,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "amtra-algen-kur-ml-150-10689p",
+        "name": "Amtra Algenkur",
+        "path": "/amtra-algen-kur-ml-150-10689/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10283",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10690",
+    "sku": "10690",
+    "gtin": "10068956",
+    "title": "Amtra Care",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-care-10690/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223174/amtra-care-ml-150.jpg?v=637454729319770000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 23.26666666666667,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10690",
+        "sku": "10690",
+        "gtin": "10068956",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/amtra-care-10690/p",
+        "price": {
+          "current": 3.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 23.26666666666667,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "amtra-care-10690p",
+        "name": "Amtra Care",
+        "path": "/amtra-care-10690/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10284",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10700",
+    "sku": "10700",
+    "gtin": "10069356",
+    "title": "Acquario Wave Laguna Led",
+    "brand": "WAVE",
+    "url": "https://www.arcaplanet.it/wave-laguna-led-lt-16-cm-30-10700/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222830/wave-laguna-led-lt-16-cm-30.jpg?v=637454726028800000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 69.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10700",
+        "sku": "10700",
+        "gtin": "10069356",
+        "title": "18L",
+        "url": "https://www.arcaplanet.it/wave-laguna-led-lt-16-cm-30-10700/p",
+        "price": {
+          "current": 48.99,
+          "original": 69.99,
+          "pricePerUnit": {
+            "value": 2449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "wave-laguna-led-lt-16-cm-30-10700p",
+        "name": "Acquario Wave Laguna Led",
+        "path": "/wave-laguna-led-lt-16-cm-30-10700/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10294",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10692",
+    "sku": "10692",
+    "gtin": "10068958",
+    "title": "Amtra Clean",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-clean-10692/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/223170/amtra-clean-ml-150.jpg?v=637454729276900000"
+    ],
+    "price": {
+      "current": 4.89,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 32.6,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10692",
+        "sku": "10692",
+        "gtin": "10068958",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/amtra-clean-10692/p",
+        "price": {
+          "current": 4.89,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 32.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "amtra-clean-10692p",
+        "name": "Amtra Clean",
+        "path": "/amtra-clean-10692/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10322",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10754",
+    "sku": "10754",
+    "gtin": "10078659",
+    "title": "Sabbia Quarzo Bianco Avorio Fine",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/quarzo-bianco-kg-2-fine-mm-0-8-1-2-10754/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222194/quarzo-bianco-kg-2-fine-mm-08-12.jpg?v=637454719483770000"
+    ],
+    "price": {
+      "current": 1.99,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1,
+        "unit": "KG"
+      },
+      "discountPercentage": 43
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10754",
+        "sku": "10754",
+        "gtin": "10078659",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/quarzo-bianco-kg-2-fine-mm-0-8-1-2-10754/p",
+        "price": {
+          "current": 1.99,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 1,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "quarzo-bianco-kg-2-fine-mm-0-8-1-2-10754p",
+        "name": "Sabbia Quarzo Bianco Avorio Fine",
+        "path": "/quarzo-bianco-kg-2-fine-mm-0-8-1-2-10754/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10348",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11183",
+    "sku": "11183",
+    "gtin": "00015858",
+    "title": "Fibra Sintetica Master Filter",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/lana-di-vetro-master-filter-gr-100-11183/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/264259/amtra-fibra-sintetica-master-filter.jpg?v=637708524015430000"
+    ],
+    "price": {
+      "current": 2.44,
+      "original": 3.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 122,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11183",
+        "sku": "11183",
+        "gtin": "00015858",
+        "title": "100G",
+        "url": "https://www.arcaplanet.it/lana-di-vetro-master-filter-gr-100-11183/p",
+        "price": {
+          "current": 2.44,
+          "original": 3.49,
+          "pricePerUnit": {
+            "value": 122,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "1KG"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "lana-di-vetro-master-filter-gr-100-11183p",
+        "name": "Fibra Sintetica Master Filter",
+        "path": "/lana-di-vetro-master-filter-gr-100-11183/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10777",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11184",
+    "sku": "11184",
+    "gtin": "00015866",
+    "title": "Quarzo Ceramizzato Azzurro",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/quarzo-azzurro-kg-1-ceramizzato-11184/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/271670/CROCI-QUARZO-AZZURRO-CERAMIZZATO.jpg?v=637878623839770000"
+    ],
+    "price": {
+      "current": 2.86,
+      "original": 4.09,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.86,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11184",
+        "sku": "11184",
+        "gtin": "00015866",
+        "title": "1KG",
+        "url": "https://www.arcaplanet.it/quarzo-azzurro-kg-1-ceramizzato-11184/p",
+        "price": {
+          "current": 2.86,
+          "original": 4.09,
+          "pricePerUnit": {
+            "value": 2.86,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "quarzo-azzurro-kg-1-ceramizzato-11184p",
+        "name": "Quarzo Ceramizzato Azzurro",
+        "path": "/quarzo-azzurro-kg-1-ceramizzato-11184/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10778",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11206",
+    "sku": "11206",
+    "gtin": "00016484",
+    "title": "Plant classic",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/plant-classic-11206/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222125/plant-classic.jpg?v=637454718880930000"
+    ],
+    "price": {
+      "current": 2.09,
+      "original": 2.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 104.49999999999999,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11206",
+        "sku": "11206",
+        "gtin": "00016484",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/plant-classic-11206/p",
+        "price": {
+          "current": 2.09,
+          "original": 2.99,
+          "pricePerUnit": {
+            "value": 104.49999999999999,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "plant-classic-11206p",
+        "name": "Plant classic",
+        "path": "/plant-classic-11206/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10800",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11207",
+    "sku": "11207",
+    "gtin": "00016556",
+    "title": "Axorb",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/axorb-11207/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222143/axorb-gr-525.jpg?v=637454719041330000"
+    ],
+    "price": {
+      "current": 10.07,
+      "original": 14.39,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 503.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11207",
+        "sku": "11207",
+        "gtin": "00016556",
+        "title": "525G",
+        "url": "https://www.arcaplanet.it/axorb-11207/p",
+        "price": {
+          "current": 10.07,
+          "original": 14.39,
+          "pricePerUnit": {
+            "value": 503.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Weight (G)": "525G"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "axorb-11207p",
+        "name": "Axorb",
+        "path": "/axorb-11207/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "10803",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11410",
+    "sku": "11410",
+    "gtin": "10129558",
+    "title": "Riscaldatore Klima Evo",
+    "brand": "CROCI",
+    "url": "https://www.arcaplanet.it/amtra-riscaldatore-klima-evo-11410/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258466/amtra-riscaldatore-klima-evo1.jpg?v=637595972821470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258467/amtra-riscaldatore-klima-evo2.jpg?v=637595972885030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258468/amtra-riscaldatore-klima-evo3.jpg?v=637595972972970000"
+    ],
+    "price": {
+      "current": 16.79,
+      "original": 23.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 839.4999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11410",
+        "sku": "11410",
+        "gtin": "10129558",
+        "title": "75W",
+        "url": "https://www.arcaplanet.it/amtra-riscaldatore-klima-evo-11410/p",
+        "price": {
+          "current": 16.79,
+          "original": 23.99,
+          "pricePerUnit": {
+            "value": 839.4999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Power (W)": "75W"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "amtra-riscaldatore-klima-evo-11410p",
+        "name": "Riscaldatore Klima Evo",
+        "path": "/amtra-riscaldatore-klima-evo-11410/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11004",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11669",
+    "sku": "11669",
+    "gtin": "10056346",
+    "title": "Italia Srl Easy Balance",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/easy-balance-100-ml-11669/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222101/easy-balance-100-ml.jpg?v=637454718618570000"
+    ],
+    "price": {
+      "current": 3.61,
+      "original": 5.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 36.099999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11669",
+        "sku": "11669",
+        "gtin": "10056346",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/easy-balance-100-ml-11669/p",
+        "price": {
+          "current": 3.61,
+          "original": 5.15,
+          "pricePerUnit": {
+            "value": 36.099999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "100ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "easy-balance-100-ml-11669p",
+        "name": "Italia Srl Easy Balance",
+        "path": "/easy-balance-100-ml-11669/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11695",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11678",
+    "sku": "11678",
+    "gtin": "00015859",
+    "title": "Sabbia Quarzo Bianco Avorio Medio",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/quarzo-bianco-kg--5-medio-mm-1-3-11678/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222197/quarzo-bianco-kg--5-medio-mm-1-3.jpg?v=637454719503970000"
+    ],
+    "price": {
+      "current": 5.31,
+      "original": 7.59,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1.064128256513026,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11678",
+        "sku": "11678",
+        "gtin": "00015859",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/quarzo-bianco-kg--5-medio-mm-1-3-11678/p",
+        "price": {
+          "current": 5.31,
+          "original": 7.59,
+          "pricePerUnit": {
+            "value": 1.064128256513026,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "quarzo-bianco-kg--5-medio-mm-1-3-11678p",
+        "name": "Sabbia Quarzo Bianco Avorio Medio",
+        "path": "/quarzo-bianco-kg--5-medio-mm-1-3-11678/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "11704",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11905",
+    "sku": "11905",
+    "gtin": "00004432",
+    "title": "Cristal Water",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-cristal-water-11905/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222110/tetra-cristal-water-250-ml.jpg?v=637454718729170000"
+    ],
+    "price": {
+      "current": 8.04,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 32.16,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11905",
+        "sku": "11905",
+        "gtin": "00004432",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/tetra-cristal-water-11905/p",
+        "price": {
+          "current": 8.04,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 32.16,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "tetra-cristal-water-11905p",
+        "name": "Cristal Water",
+        "path": "/tetra-cristal-water-11905/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13381",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11906",
+    "sku": "11906",
+    "gtin": "00004452",
+    "title": "Tetra Aquasafe",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-aquasafe-11906/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222115/tetra-aquasafe-250-ml.jpg?v=637454718781600000"
+    ],
+    "price": {
+      "current": 7.34,
+      "original": 10.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 29.36,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11906",
+        "sku": "11906",
+        "gtin": "00004452",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/tetra-aquasafe-11906/p",
+        "price": {
+          "current": 7.34,
+          "original": 10.49,
+          "pricePerUnit": {
+            "value": 29.36,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "tetra-aquasafe-11906p",
+        "name": "Tetra Aquasafe",
+        "path": "/tetra-aquasafe-11906/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13388",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12035",
+    "sku": "12035",
+    "gtin": "10078541",
+    "title": "Aquaart Explorer Line Led Bianco",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-aquaart-explorer-line-led-bianco-60-litri-12035/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270429/tetra-aquaarat-explorer-line-led-bianco.jpg?v=637848293838170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270430/tetra-aquaarat-explorer-line-led-bianco-pack.jpg?v=637848293941930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270431/tetra-aquaarat-explorer-line-led-bianco-ambiente.jpg?v=637848294059430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/270432/tetra-aquaarat-explorer-line-led-bianco-view.jpg?v=637848294151970000"
+    ],
+    "price": {
+      "current": 115.5,
+      "original": 165,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 5775,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12035",
+        "sku": "12035",
+        "gtin": "10078541",
+        "title": "60L",
+        "url": "https://www.arcaplanet.it/tetra-aquaart-explorer-line-led-bianco-60-litri-12035/p",
+        "price": {
+          "current": 115.5,
+          "original": 165,
+          "pricePerUnit": {
+            "value": 5775,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "tetra-aquaart-explorer-line-led-bianco-60-litri-12035p",
+        "name": "Aquaart Explorer Line Led Bianco",
+        "path": "/tetra-aquaart-explorer-line-led-bianco-60-litri-12035/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13390",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12037",
+    "sku": "12037",
+    "gtin": "10028784",
+    "title": "Tetra a.nitrate minus pz6",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-a-nitrate-minus-ml100-pz6-12037/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222104/tetra-a-nitrate-minus-ml100-pz6.jpg?v=637454718646170000"
+    ],
+    "price": {
+      "current": 3.35,
+      "original": 4.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3.35,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12037",
+        "sku": "12037",
+        "gtin": "10028784",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-a-nitrate-minus-ml100-pz6-12037/p",
+        "price": {
+          "current": 3.35,
+          "original": 4.79,
+          "pricePerUnit": {
+            "value": 3.35,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-a-nitrate-minus-ml100-pz6-12037p",
+        "name": "Tetra a.nitrate minus pz6",
+        "path": "/tetra-a-nitrate-minus-ml100-pz6-12037/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "13393",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "11935",
+    "sku": "11935",
+    "gtin": "00037239",
+    "title": "Policromo Medio 5KG",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/policromo-medio-kg5-mm3-4-11935/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222157/policromo-medio-kg-5-mm-3-4.jpg?v=637454719169400000"
+    ],
+    "price": {
+      "current": 3.49,
+      "original": 4.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 174.5,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "11935",
+        "sku": "11935",
+        "gtin": "00037239",
+        "title": "5KG",
+        "url": "https://www.arcaplanet.it/policromo-medio-kg5-mm3-4-11935/p",
+        "price": {
+          "current": 3.49,
+          "original": 4.99,
+          "pricePerUnit": {
+            "value": 174.5,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "policromo-medio-kg5-mm3-4-11935p",
+        "name": "Policromo Medio 5KG",
+        "path": "/policromo-medio-kg5-mm3-4-11935/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14127",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "10755",
+    "sku": "10755",
+    "gtin": "10078660",
+    "title": "Quarzo Nero Ceramizzato",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/quarzo-nero-kg5-ceramizzato-mm2-3-10755/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/222200/quarzo-nero-kg-2-ceramizzato-mm-2-3.jpg?v=637454719545130000"
+    ],
+    "price": {
+      "current": 4.75,
+      "original": 6.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2.375,
+        "unit": "KG"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "10755",
+        "sku": "10755",
+        "gtin": "10078660",
+        "title": "2KG",
+        "url": "https://www.arcaplanet.it/quarzo-nero-kg5-ceramizzato-mm2-3-10755/p",
+        "price": {
+          "current": 4.75,
+          "original": 6.79,
+          "pricePerUnit": {
+            "value": 2.375,
+            "unit": "KG"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoridecorazioni",
+        "name": "Decorazioni",
+        "path": "/piccoli-animali/pesci/accessori/decorazioni/",
+        "level": 5
+      },
+      {
+        "id": "quarzo-nero-kg5-ceramizzato-mm2-3-10755p",
+        "name": "Quarzo Nero Ceramizzato",
+        "path": "/quarzo-nero-kg5-ceramizzato-mm2-3-10755/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14128",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12501",
+    "sku": "12501",
+    "gtin": "10030783",
+    "title": "Tetra Safe Start",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-safe-start-12501/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254461/Tetra-Safe-Start-pesci.jpg?v=637551955067230000"
+    ],
+    "price": {
+      "current": 4.54,
+      "original": 6.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 90.8,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12501",
+        "sku": "12501",
+        "gtin": "10030783",
+        "title": "50ML",
+        "url": "https://www.arcaplanet.it/tetra-safe-start-12501/p",
+        "price": {
+          "current": 4.54,
+          "original": 6.49,
+          "pricePerUnit": {
+            "value": 90.8,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-safe-start-12501p",
+        "name": "Tetra Safe Start",
+        "path": "/tetra-safe-start-12501/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14632",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12504",
+    "sku": "12504",
+    "gtin": "00004481",
+    "title": "Tetra Plant Flora Pride",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-plant-florapride-ml100-12504/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/254470/Tetra-Florapride.jpg?v=637551964825970000"
+    ],
+    "price": {
+      "current": 3.39,
+      "original": 4.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 33.9,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12504",
+        "sku": "12504",
+        "gtin": "00004481",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-plant-florapride-ml100-12504/p",
+        "price": {
+          "current": 3.39,
+          "original": 4.85,
+          "pricePerUnit": {
+            "value": 33.9,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-plant-florapride-ml100-12504p",
+        "name": "Tetra Plant Flora Pride",
+        "path": "/tetra-plant-florapride-ml100-12504/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "14635",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12689",
+    "sku": "12689",
+    "gtin": "10138682",
+    "title": "Biocondizionatore per Pesci Rossi",
+    "brand": "NEXT",
+    "url": "https://www.arcaplanet.it/next-biocondizionatore-pesci-rossi-120ml-12689/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258030/next-biocondizionatore-pesci-rossi-120ml.jpg?v=637589970006270000"
+    ],
+    "price": {
+      "current": 3.15,
+      "original": 3.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.25,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12689",
+        "sku": "12689",
+        "gtin": "10138682",
+        "title": "120ML",
+        "url": "https://www.arcaplanet.it/next-biocondizionatore-pesci-rossi-120ml-12689/p",
+        "price": {
+          "current": 3.15,
+          "original": 3.15,
+          "pricePerUnit": {
+            "value": 26.25,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "next-biocondizionatore-pesci-rossi-120ml-12689p",
+        "name": "Biocondizionatore per Pesci Rossi",
+        "path": "/next-biocondizionatore-pesci-rossi-120ml-12689/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "14825",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12947",
+    "sku": "12947",
+    "gtin": "10131378",
+    "title": "Amtra Flora X",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-flora-x-12947/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258745/amtra-flora-x-150ml.jpg?v=637598619150270000"
+    ],
+    "price": {
+      "current": 6.99,
+      "original": 9.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 46.6,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12947",
+        "sku": "12947",
+        "gtin": "10131378",
+        "title": "150ML",
+        "url": "https://www.arcaplanet.it/amtra-flora-x-12947/p",
+        "price": {
+          "current": 6.99,
+          "original": 9.99,
+          "pricePerUnit": {
+            "value": 46.6,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "150ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "amtra-flora-x-12947p",
+        "name": "Amtra Flora X",
+        "path": "/amtra-flora-x-12947/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15084",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12949",
+    "sku": "12949",
+    "gtin": "10131396",
+    "title": "Amtra Flora Complex 10 Caps",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-flora-complex-caps-12949/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258741/amtra-flora-complex-caps.jpg?v=637598614760670000"
+    ],
+    "price": {
+      "current": 6.47,
+      "original": 11.69,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 323.5,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12949",
+        "sku": "12949",
+        "gtin": "10131396",
+        "title": "10 CP",
+        "url": "https://www.arcaplanet.it/amtra-flora-complex-caps-12949/p",
+        "price": {
+          "current": 6.47,
+          "original": 11.69,
+          "pricePerUnit": {
+            "value": 323.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "amtra-flora-complex-caps-12949p",
+        "name": "Amtra Flora Complex 10 Caps",
+        "path": "/amtra-flora-complex-caps-12949/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15086",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "12958",
+    "sku": "12958",
+    "gtin": "00034230",
+    "title": "Amtra Cleanwater 250ML",
+    "brand": "AMTRA",
+    "url": "https://www.arcaplanet.it/amtra-cleanwater-ml-250-12958/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/258696/amtra-cleanwater-250ml.jpg?v=637598583934000000"
+    ],
+    "price": {
+      "current": 6.57,
+      "original": 11.79,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 26.28,
+        "unit": "none"
+      },
+      "discountPercentage": 44
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "12958",
+        "sku": "12958",
+        "gtin": "00034230",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/amtra-cleanwater-ml-250-12958/p",
+        "price": {
+          "current": 6.57,
+          "original": 11.79,
+          "pricePerUnit": {
+            "value": 26.28,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "amtra-cleanwater-ml-250-12958p",
+        "name": "Amtra Cleanwater 250ML",
+        "path": "/amtra-cleanwater-ml-250-12958/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "15095",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15432",
+    "sku": "15432",
+    "gtin": "00004477",
+    "title": "Rimedio Algizit per Alghe",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-rimedio-algizit-per-alghe-15432/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272719/tetra-algizit.jpg?v=637909792718400000"
+    ],
+    "price": {
+      "current": 6.19,
+      "original": 8.85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 309.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15432",
+        "sku": "15432",
+        "gtin": "00004477",
+        "title": "10 CP",
+        "url": "https://www.arcaplanet.it/tetra-rimedio-algizit-per-alghe-15432/p",
+        "price": {
+          "current": 6.19,
+          "original": 8.85,
+          "pricePerUnit": {
+            "value": 309.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-rimedio-algizit-per-alghe-15432p",
+        "name": "Rimedio Algizit per Alghe",
+        "path": "/tetra-rimedio-algizit-per-alghe-15432/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17569",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15439",
+    "sku": "15439",
+    "gtin": "10025220",
+    "title": "Cartucce Filtranti per Filtro EasyCrystal",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-cartucce-filtranti-per-filtro-easycrystal-15439/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272741/tetra-easycrystal-filterpack-250-300.jpg?v=637910501448830000"
+    ],
+    "price": {
+      "current": 5.24,
+      "original": 7.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 262,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15439",
+        "sku": "15439",
+        "gtin": "10025220",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/tetra-cartucce-filtranti-per-filtro-easycrystal-15439/p",
+        "price": {
+          "current": 5.24,
+          "original": 7.49,
+          "pricePerUnit": {
+            "value": 262,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-cartucce-filtranti-per-filtro-easycrystal-15439p",
+        "name": "Cartucce Filtranti per Filtro EasyCrystal",
+        "path": "/tetra-cartucce-filtranti-per-filtro-easycrystal-15439/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17576",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15440",
+    "sku": "15440",
+    "gtin": "10029314",
+    "title": "Tetra Algu Min 100ML",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-algu-min--100ml-15440/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272715/TETRA-A.-ALGU-MIN-ML100-PZ12.jpg?v=637909692703870000"
+    ],
+    "price": {
+      "current": 4.89,
+      "original": 6.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 48.89999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15440",
+        "sku": "15440",
+        "gtin": "10029314",
+        "title": "100ML",
+        "url": "https://www.arcaplanet.it/tetra-algu-min--100ml-15440/p",
+        "price": {
+          "current": 4.89,
+          "original": 6.99,
+          "pricePerUnit": {
+            "value": 48.89999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-algu-min--100ml-15440p",
+        "name": "Tetra Algu Min 100ML",
+        "path": "/tetra-algu-min--100ml-15440/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17577",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15441",
+    "sku": "15441",
+    "gtin": "10025275",
+    "title": "Cartucce Filtranti con Carbone Attivo per Filtro EasyCrystal",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-cartucce-filtranti-con-carbone-attivo-per-filtro-easycrystal-15441/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272744/tetra-easycrystal-filterpack-carbone-250-300.jpg?v=637910517126700000"
+    ],
+    "price": {
+      "current": 8.04,
+      "original": 11.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 401.99999999999994,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15441",
+        "sku": "15441",
+        "gtin": "10025275",
+        "title": "3 PZ",
+        "url": "https://www.arcaplanet.it/tetra-cartucce-filtranti-con-carbone-attivo-per-filtro-easycrystal-15441/p",
+        "price": {
+          "current": 8.04,
+          "original": 11.49,
+          "pricePerUnit": {
+            "value": 401.99999999999994,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "tetra-cartucce-filtranti-con-carbone-attivo-per-filtro-easycrystal-15441p",
+        "name": "Cartucce Filtranti con Carbone Attivo per Filtro EasyCrystal",
+        "path": "/tetra-cartucce-filtranti-con-carbone-attivo-per-filtro-easycrystal-15441/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17578",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15443",
+    "sku": "15443",
+    "gtin": "10030817",
+    "title": "Filtro per Acquario EasyCrystal 250",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-filtro-per-acquario-easycrystal-250-15443/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272739/tetra-easycrystal.jpg?v=637910492826330000"
+    ],
+    "price": {
+      "current": 18.4,
+      "original": 26.29,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 919.9999999999999,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15443",
+        "sku": "15443",
+        "gtin": "10030817",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tetra-filtro-per-acquario-easycrystal-250-15443/p",
+        "price": {
+          "current": 18.4,
+          "original": 26.29,
+          "pricePerUnit": {
+            "value": 919.9999999999999,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "tetra-filtro-per-acquario-easycrystal-250-15443p",
+        "name": "Filtro per Acquario EasyCrystal 250",
+        "path": "/tetra-filtro-per-acquario-easycrystal-250-15443/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17580",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "15447",
+    "sku": "15447",
+    "gtin": "10062606",
+    "title": "Tetra Easycrystal Filterpack C100",
+    "brand": "TETRA",
+    "url": "https://www.arcaplanet.it/tetra-easycrystal-filterpack-c100-15447/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272726/TETRA-EASYCRYSTAL-FILTERPACK-C-100.jpg?v=637910465735170000"
+    ],
+    "price": {
+      "current": 5.15,
+      "original": 7.35,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 257.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15447",
+        "sku": "15447",
+        "gtin": "10062606",
+        "title": "1 PZ",
+        "url": "https://www.arcaplanet.it/tetra-easycrystal-filterpack-c100-15447/p",
+        "price": {
+          "current": 5.15,
+          "original": 7.35,
+          "pricePerUnit": {
+            "value": 257.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "tetra-easycrystal-filterpack-c100-15447p",
+        "name": "Tetra Easycrystal Filterpack C100",
+        "path": "/tetra-easycrystal-filterpack-c100-15447/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "17584",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "16955",
+    "sku": "16955",
+    "gtin": "10148807",
+    "title": "Anione Starter Kit per Acquario",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-starter-kit-per-acquario-16955/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283164/a1d5629094cb7cef3da2aa2eb913f249c951c592_3720c84f53a1c476415375432d33434c2d50808d--1-.jpg?v=638158547273200000"
+    ],
+    "price": {
+      "current": 90.3,
+      "original": 129,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 4515,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "16955",
+        "sku": "16955",
+        "gtin": "10148807",
+        "title": "56L",
+        "url": "https://www.arcaplanet.it/anione-starter-kit-per-acquario-16955/p",
+        "price": {
+          "current": 90.3,
+          "original": 129,
+          "pricePerUnit": {
+            "value": 4515,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "CM.60"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "anione-starter-kit-per-acquario-16955p",
+        "name": "Anione Starter Kit per Acquario",
+        "path": "/anione-starter-kit-per-acquario-16955/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "19073",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.225Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18459",
+    "sku": "18459",
+    "gtin": "10148223",
+    "title": "Anione Termometro per Acquario",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-termometro-per-acquario-18459/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283163/d5a548db5c8d65e69ebb4f94dce661198776e8eb_0a7367bba1b58d3fddf1672551dc3097bec2c2de--1-.jpg?v=638158545044900000"
+    ],
+    "price": {
+      "current": 1.74,
+      "original": 2.49,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 87,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18459",
+        "sku": "18459",
+        "gtin": "10148223",
+        "title": "1PZ",
+        "url": "https://www.arcaplanet.it/anione-termometro-per-acquario-18459/p",
+        "price": {
+          "current": 1.74,
+          "original": 2.49,
+          "pricePerUnit": {
+            "value": 87,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "1 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "anione-termometro-per-acquario-18459p",
+        "name": "Anione Termometro per Acquario",
+        "path": "/anione-termometro-per-acquario-18459/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20577",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18618",
+    "sku": "18618",
+    "gtin": "10151464",
+    "title": "Anione Termosafe Riscaldatore",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-termosafe-riscaldatore-18618/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283176/5421c6196da3e3c3f1df7cdbabfaa200b99e8f0c_2655e24c2d9ec172829d66edb715131a037b1a13--1-.jpg?v=638158633907800000"
+    ],
+    "price": {
+      "current": 13.13,
+      "original": 18.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 656.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18618",
+        "sku": "18618",
+        "gtin": "10151464",
+        "title": "50W",
+        "url": "https://www.arcaplanet.it/anione-termosafe-riscaldatore-18618/p",
+        "price": {
+          "current": 13.13,
+          "original": 18.75,
+          "pricePerUnit": {
+            "value": 656.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Power (W)": "50W"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "anione-termosafe-riscaldatore-18618p",
+        "name": "Anione Termosafe Riscaldatore",
+        "path": "/anione-termosafe-riscaldatore-18618/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20758",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18711",
+    "sku": "18711",
+    "gtin": "10145933",
+    "title": "More For Fish Water Bacterial Care 250ML",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-stabilizzatore-flora-batterica-18711/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/282777/e936c7c803048f0cd3a158b3ce418aa8e18030f6_d7e2d4fd112a466306f69fa9d33aecd81d6ce717--1-.jpg?v=638155046866830000"
+    ],
+    "price": {
+      "current": 15.01,
+      "original": 21.45,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 60.04,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18711",
+        "sku": "18711",
+        "gtin": "10145933",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/more-stabilizzatore-flora-batterica-18711/p",
+        "price": {
+          "current": 15.01,
+          "original": 21.45,
+          "pricePerUnit": {
+            "value": 60.04,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "more-stabilizzatore-flora-batterica-18711p",
+        "name": "More For Fish Water Bacterial Care 250ML",
+        "path": "/more-stabilizzatore-flora-batterica-18711/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20829",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18725",
+    "sku": "18725",
+    "gtin": "10145935",
+    "title": "More For Fish Plants Leaf Fertiliser 250ML",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-fertilizzante-per-foglie-18725/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286762/2a44c18e9d09ce1bbd85a7390b85d8a7548958c2_77dde2bb7deb8e07edfe5d211d85725cbdd8a17a--1-.jpg?v=638215564989170000"
+    ],
+    "price": {
+      "current": 9.97,
+      "original": 14.25,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 39.88,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18725",
+        "sku": "18725",
+        "gtin": "10145935",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/more-fertilizzante-per-foglie-18725/p",
+        "price": {
+          "current": 9.97,
+          "original": 14.25,
+          "pricePerUnit": {
+            "value": 39.88,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "more-fertilizzante-per-foglie-18725p",
+        "name": "More For Fish Plants Leaf Fertiliser 250ML",
+        "path": "/more-fertilizzante-per-foglie-18725/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20843",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18749",
+    "sku": "18749",
+    "gtin": "10145944",
+    "title": "More For Fish Plants Pro CO2 250ML",
+    "brand": "MORE",
+    "url": "https://www.arcaplanet.it/more-fertilizzante-liquido-co2-18749/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286763/5d6537c2cc892bbbd1f2b088ebb342e1bb24ae63_71e6ff5f7b58434b422868172dab749f064cd999--1-.jpg?v=638215568506800000"
+    ],
+    "price": {
+      "current": 7.81,
+      "original": 11.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 31.24,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18749",
+        "sku": "18749",
+        "gtin": "10145944",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/more-fertilizzante-liquido-co2-18749/p",
+        "price": {
+          "current": 7.81,
+          "original": 11.15,
+          "pricePerUnit": {
+            "value": 31.24,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "more-fertilizzante-liquido-co2-18749p",
+        "name": "More For Fish Plants Pro CO2 250ML",
+        "path": "/more-fertilizzante-liquido-co2-18749/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20867",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18803",
+    "sku": "18803",
+    "gtin": "10150609",
+    "title": "AniOne Cartuccia in Carbone",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/anione-cartuccia-in-carbone-18803/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/283172/a0233938c54134234cad35d8eeec19d27552fb00_ba81049a408d5d7d969b4abfe1a245af86360319--1-.jpg?v=638158563180170000"
+    ],
+    "price": {
+      "current": 7.81,
+      "original": 11.15,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 390.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18803",
+        "sku": "18803",
+        "gtin": "10150609",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/anione-cartuccia-in-carbone-18803/p",
+        "price": {
+          "current": 7.81,
+          "original": 11.15,
+          "pricePerUnit": {
+            "value": 390.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "2 PZ"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessorivasche",
+        "name": "Vasche",
+        "path": "/piccoli-animali/pesci/accessori/vasche/",
+        "level": 5
+      },
+      {
+        "id": "anione-cartuccia-in-carbone-18803p",
+        "name": "AniOne Cartuccia in Carbone",
+        "path": "/anione-cartuccia-in-carbone-18803/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20921",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  },
+  {
+    "id": "18861",
+    "sku": "18861",
+    "gtin": "10149816",
+    "title": "Spugna Acquario",
+    "brand": "ANIONE",
+    "url": "https://www.arcaplanet.it/spugna-acquario-18861/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/286017/1275632.jpg?v=638200851982570000"
+    ],
+    "price": {
+      "current": 2.63,
+      "original": 3.75,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 131.5,
+        "unit": "none"
+      },
+      "discountPercentage": 30
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "18861",
+        "sku": "18861",
+        "gtin": "10149816",
+        "title": "TAGLIA UNICA",
+        "url": "https://www.arcaplanet.it/spugna-acquario-18861/p",
+        "price": {
+          "current": 2.63,
+          "original": 3.75,
+          "pricePerUnit": {
+            "value": 131.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Size": "TAGLIA UNICA"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "piccoli-animali",
+        "name": "Piccoli Animali",
+        "path": "/piccoli-animali/",
+        "level": 2
+      },
+      {
+        "id": "piccoli-animalipesci",
+        "name": "Pesci",
+        "path": "/piccoli-animali/pesci/",
+        "level": 3
+      },
+      {
+        "id": "piccoli-animalipesciaccessori",
+        "name": "Accessori",
+        "path": "/piccoli-animali/pesci/accessori/",
+        "level": 4
+      },
+      {
+        "id": "piccoli-animalipesciaccessoritrattamento-acqua",
+        "name": "Trattamento Acqua",
+        "path": "/piccoli-animali/pesci/accessori/trattamento-acqua/",
+        "level": 5
+      },
+      {
+        "id": "spugna-acquario-18861p",
+        "name": "Spugna Acquario",
+        "path": "/spugna-acquario-18861/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "20979",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T21:17:41.226Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/piccoli/animali/pesci/accessori/"
+  }
+]

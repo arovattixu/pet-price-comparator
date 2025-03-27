@@ -1,0 +1,4189 @@
+[
+  {
+    "id": "1240",
+    "sku": "1240",
+    "gtin": "00036175",
+    "title": "Frontline Combo Cane 20-40KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-1240/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308334/frontline-combo-cane-20-40kg-00036175--1-.jpg?v=638651207189570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308335/frontline-combo-cane-20-40kg-00036175--2-.jpg?v=638651207285070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308336/frontline-combo-cane-20-40kg-00036175--3-.jpg?v=638651207485000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308337/frontline-combo-cane-20-40kg-00036175--4-.jpg?v=638651207559370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308338/frontline-combo-cane-20-40kg-00036175--5-.jpg?v=638651207632670000"
+    ],
+    "price": {
+      "current": 29.9,
+      "original": 46.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1495,
+        "unit": "none"
+      },
+      "discountPercentage": 35
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1240",
+        "sku": "1240",
+        "gtin": "00036175",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-1240/p",
+        "price": {
+          "current": 29.9,
+          "original": 46.2,
+          "pricePerUnit": {
+            "value": 1495,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-cane-1240p",
+        "name": "Frontline Combo Cane 20-40KG",
+        "path": "/frontline-combo-spot-on-cane-1240/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "784",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.434Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "990",
+    "sku": "990",
+    "gtin": "10065813",
+    "title": "Frontline Tri-Act Cane 40-60KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-tri-act-cane-40-60kg-990/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308261/frontline-tri-act-cane-40-60kg-10065813--1-.jpg?v=638651184058300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308262/frontline-tri-act-cane-40-60kg-10065813--2-.jpg?v=638651184131000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308263/frontline-tri-act-cane-40-60kg-10065813--3-.jpg?v=638651184216070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308264/frontline-tri-act-cane-40-60kg-10065813--4-.jpg?v=638651184290030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308265/frontline-tri-act-cane-40-60kg-10065813--5-.jpg?v=638651184380500000"
+    ],
+    "price": {
+      "current": 31.5,
+      "original": 52.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1575,
+        "unit": "none"
+      },
+      "discountPercentage": 40
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "990",
+        "sku": "990",
+        "gtin": "10065813",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-tri-act-cane-40-60kg-990/p",
+        "price": {
+          "current": 31.5,
+          "original": 52.4,
+          "pricePerUnit": {
+            "value": 1575,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-tri-act-cane-40-60kg-990p",
+        "name": "Frontline Tri-Act Cane 40-60KG",
+        "path": "/frontline-tri-act-cane-40-60kg-990/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "948",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26674",
+    "sku": "26674",
+    "gtin": "1000000000807",
+    "title": "Frontline Tri-Act Cane 20-40KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-tri-act-cane-20-40kg-26674/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315293/frontline-tri-act-cane-20-40kg-1000000000807x2.jpg?v=638737461500700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315306/frontline-tri-act-cane-20-40kg-1000000000807-1.png?v=638737466714670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315307/frontline-tri-act-cane-20-40kg-2.jpg?v=638737466923700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315308/frontline-tri-act-cane-20-40kg-3.jpg?v=638737467062070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315309/frontline-tri-act-cane-20-40kg-4.jpg?v=638737467224100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315313/frontline-tri-act-cane-20-40kg-5.jpg?v=638737467404000000"
+    ],
+    "price": {
+      "current": 81.99,
+      "original": 148.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2049.75,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26674",
+        "sku": "26674",
+        "gtin": "1000000000807",
+        "title": "KIT RISPARMIO 2X6 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-tri-act-cane-20-40kg-26674/p",
+        "price": {
+          "current": 81.99,
+          "original": 148.6,
+          "pricePerUnit": {
+            "value": 2049.75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-tri-act-cane-20-40kg-26674p",
+        "name": "Frontline Tri-Act Cane 20-40KG",
+        "path": "/frontline-tri-act-cane-20-40kg-26674/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "959",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "1012",
+    "sku": "1012",
+    "gtin": "00036180",
+    "title": "Frontline Combo Cane 10-20KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-m-10-20kg-1012/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308329/frontline-combo-cane-10-20kg-00036180--1-.jpg?v=638651205218530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308330/frontline-combo-cane-10-20kg-00036180--2-.jpg?v=638651205325600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308331/frontline-combo-cane-10-20kg-00036180--3-.jpg?v=638651205398270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308332/frontline-combo-cane-10-20kg-00036180--4-.jpg?v=638651205540000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308333/frontline-combo-cane-10-20kg-00036180--5-.jpg?v=638651205637670000"
+    ],
+    "price": {
+      "current": 28.9,
+      "original": 42.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1445,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1012",
+        "sku": "1012",
+        "gtin": "00036180",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-m-10-20kg-1012/p",
+        "price": {
+          "current": 28.9,
+          "original": 42.3,
+          "pricePerUnit": {
+            "value": 1445,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-cane-m-10-20kg-1012p",
+        "name": "Frontline Combo Cane 10-20KG",
+        "path": "/frontline-combo-spot-on-cane-m-10-20kg-1012/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "970",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "1013",
+    "sku": "1013",
+    "gtin": "00036179",
+    "title": "Frontline Combo Cane 2-10KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-s-2-10kg-1013/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308324/frontline-combo-cane-2-10kg-00036179--1-.jpg?v=638651202322400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308325/frontline-combo-cane-2-10kg-00036179--2-.jpg?v=638651203015270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308326/frontline-combo-cane-2-10kg-00036179--3-.jpg?v=638651203547730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308327/frontline-combo-cane-2-10kg-00036179--4-.jpg?v=638651203693270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308328/frontline-combo-cane-2-10kg-00036179--5-.jpg?v=638651203811300000"
+    ],
+    "price": {
+      "current": 24.5,
+      "original": 37.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1225,
+        "unit": "none"
+      },
+      "discountPercentage": 34
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1013",
+        "sku": "1013",
+        "gtin": "00036179",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-cane-s-2-10kg-1013/p",
+        "price": {
+          "current": 24.5,
+          "original": 37.4,
+          "pricePerUnit": {
+            "value": 1225,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-cane-s-2-10kg-1013p",
+        "name": "Frontline Combo Cane 2-10KG",
+        "path": "/frontline-combo-spot-on-cane-s-2-10kg-1013/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "971",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26678",
+    "sku": "26678",
+    "gtin": "1000000000811",
+    "title": "Frontline Tri-Act Cane 5-10KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-tri-act-cane-5-10kg-26678/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315340/frontline-tri-act-cane-5-10kg-1000000000811x2.jpg?v=638737503440100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315341/frontline-tri-act-cane-5-10kg-1000000000811-1.png?v=638737503577170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315342/frontline-tri-act-cane-5-10kg-1000000000811-2.jpg?v=638737503722430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315343/frontline-tri-act-cane-5-10kg-1000000000811-3.jpg?v=638737503859700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315344/frontline-tri-act-cane-5-10kg-1000000000811-4.jpg?v=638737504004630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315345/frontline-tri-act-cane-5-10kg-1000000000811-5.jpg?v=638737504185530000"
+    ],
+    "price": {
+      "current": 65.98,
+      "original": 126,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1649.5,
+        "unit": "none"
+      },
+      "discountPercentage": 48
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26678",
+        "sku": "26678",
+        "gtin": "1000000000811",
+        "title": "KIT RISPARMIO 2X6 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-tri-act-cane-5-10kg-26678/p",
+        "price": {
+          "current": 65.98,
+          "original": 126,
+          "pricePerUnit": {
+            "value": 1649.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-tri-act-cane-5-10kg-26678p",
+        "name": "Frontline Tri-Act Cane 5-10KG",
+        "path": "/frontline-tri-act-cane-5-10kg-26678/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "977",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "1020",
+    "sku": "1020",
+    "gtin": "10065809",
+    "title": "Frontline Tri-Act Cane 2-5KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-tri-act-cane-2-5kg-1020/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308304/frontline-tri-act-cane-2-5kg-10065809--1-.jpg?v=638651195024000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308305/frontline-tri-act-cane-2-5kg-10065809--2-.jpg?v=638651195119100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308306/frontline-tri-act-cane-2-5kg-10065809--3-.jpg?v=638651195190270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308307/frontline-tri-act-cane-2-5kg-10065809--4-.jpg?v=638651195251770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308308/frontline-tri-act-cane-2-5kg-10065809--5-.jpg?v=638651195330230000"
+    ],
+    "price": {
+      "current": 23.5,
+      "original": 40.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1175,
+        "unit": "none"
+      },
+      "discountPercentage": 42
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1020",
+        "sku": "1020",
+        "gtin": "10065809",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-tri-act-cane-2-5kg-1020/p",
+        "price": {
+          "current": 23.5,
+          "original": 40.7,
+          "pricePerUnit": {
+            "value": 1175,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-tri-act-cane-2-5kg-1020p",
+        "name": "Frontline Tri-Act Cane 2-5KG",
+        "path": "/frontline-tri-act-cane-2-5kg-1020/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "978",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26681",
+    "sku": "26681",
+    "gtin": "1000000000814",
+    "title": "Frontline Tri-Act Cane 10-20KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-tri-act-cane-10-20kg-26681/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315358/frontline-tri-act-cane-10-20kg-1000000000814x2.jpg?v=638737515420470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315359/frontline-tri-act-cane-10-20kg-1000000000814-1.png?v=638737515542430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315360/frontline-tri-act-cane-10-20kg-1000000000814-2.jpg?v=638737515670670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315361/frontline-tri-act-cane-10-20kg-1000000000814-3.jpg?v=638737515814030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315362/frontline-tri-act-cane-10-20kg-1000000000814-4.jpg?v=638737515958700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315363/frontline-tri-act-cane-10-20kg-1000000000814-5.jpg?v=638737516118530000"
+    ],
+    "price": {
+      "current": 71.98,
+      "original": 136.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1799.5,
+        "unit": "none"
+      },
+      "discountPercentage": 47
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26681",
+        "sku": "26681",
+        "gtin": "1000000000814",
+        "title": "KIT RISPARMIO 2X6 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-tri-act-cane-10-20kg-26681/p",
+        "price": {
+          "current": 71.98,
+          "original": 136.8,
+          "pricePerUnit": {
+            "value": 1799.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-tri-act-cane-10-20kg-26681p",
+        "name": "Frontline Tri-Act Cane 10-20KG",
+        "path": "/frontline-tri-act-cane-10-20kg-26681/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "981",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26676",
+    "sku": "26676",
+    "gtin": "1000000000809",
+    "title": "Scalibor Collare Antiparassitario per Cani 48 cm",
+    "brand": "SCALIBOR",
+    "url": "https://www.arcaplanet.it/scalibor-cane-protector-band-48cm-26676/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315324/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809X2.jpg?v=638737477179630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315325/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809-1.png?v=638737477341630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315326/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809-2.jpg?v=638737477516430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315327/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809-3.jpg?v=638737478038970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315328/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809-4.jpg?v=638737478426130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315329/Scalibor-Collare-Antiparassitario-per-Cani-48-cm-1000000000809-5.jpg?v=638737478571600000"
+    ],
+    "price": {
+      "current": 48.99,
+      "original": 89.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1224.75,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26676",
+        "sku": "26676",
+        "gtin": "1000000000809",
+        "title": "KIT RISPARMIO 2PZ",
+        "url": "https://www.arcaplanet.it/scalibor-cane-protector-band-48cm-26676/p",
+        "price": {
+          "current": 48.99,
+          "original": 89.2,
+          "pricePerUnit": {
+            "value": 1224.75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "scalibor-cane-protector-band-48cm-26676p",
+        "name": "Scalibor Collare Antiparassitario per Cani 48 cm",
+        "path": "/scalibor-cane-protector-band-48cm-26676/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1176",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26675",
+    "sku": "26675",
+    "gtin": "1000000000808",
+    "title": "Scalibor Collare Antiparassitario per Cani",
+    "brand": "SCALIBOR",
+    "url": "https://www.arcaplanet.it/collare-antiparassitario-per-cani-scalibor-65cm-26675/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315317/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808x2.jpg?v=638737471022870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315319/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808-1.png?v=638737471565000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315320/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808-2.jpg?v=638737471804500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315321/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808-3.jpg?v=638737471953700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315322/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808-4.jpg?v=638737472141370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315323/Scalibor-Collare-Antiparassitario-per-Cani-1000000000808-5.jpg?v=638737472531400000"
+    ],
+    "price": {
+      "current": 45.98,
+      "original": 93.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 51
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26675",
+        "sku": "26675",
+        "gtin": "1000000000808",
+        "title": "KIT RISPARMIO 2PZ",
+        "url": "https://www.arcaplanet.it/collare-antiparassitario-per-cani-scalibor-65cm-26675/p",
+        "price": {
+          "current": 45.98,
+          "original": 93.8,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-antiparassitario-per-cani-scalibor-65cm-26675p",
+        "name": "Scalibor Collare Antiparassitario per Cani",
+        "path": "/collare-antiparassitario-per-cani-scalibor-65cm-26675/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1177",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "1223",
+    "sku": "1223",
+    "gtin": "00000169",
+    "title": "Exspot Spot On 6 Pipette",
+    "brand": "EXSPOT",
+    "url": "https://www.arcaplanet.it/exspot-cane-6-fiale-1-ml-1223/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307953/Exspot-Spot-On-6-Pipette-00000169-1.jpg?v=638646024361630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307954/Exspot-Spot-On-6-Pipette-00000169-2.jpg?v=638646024474330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307955/Exspot-Spot-On-6-Pipette-00000169-3.jpg?v=638646024570500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/307956/Exspot-Spot-On-6-Pipette-00000169-4.jpg?v=638646024704500000"
+    ],
+    "price": {
+      "current": 27.9,
+      "original": 46.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1395,
+        "unit": "none"
+      },
+      "discountPercentage": 41
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "1223",
+        "sku": "1223",
+        "gtin": "00000169",
+        "title": "6x1ML",
+        "url": "https://www.arcaplanet.it/exspot-cane-6-fiale-1-ml-1223/p",
+        "price": {
+          "current": 27.9,
+          "original": 46.9,
+          "pricePerUnit": {
+            "value": 1395,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "1ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "exspot-cane-6-fiale-1-ml-1223p",
+        "name": "Exspot Spot On 6 Pipette",
+        "path": "/exspot-cane-6-fiale-1-ml-1223/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1180",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "826",
+    "sku": "826",
+    "gtin": "00036183",
+    "title": "Frontline Combo Puppy 2-10KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-combo-spot-on-puppy-826/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308256/frontline-combo-puppy-2-10kg-00036183--1-.jpg?v=638651181096730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308257/frontline-combo-puppy-2-10kg-00036183--2-.jpg?v=638651181477400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308258/frontline-combo-puppy-2-10kg-00036183--3-.jpg?v=638651181639830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308259/frontline-combo-puppy-2-10kg-00036183--4-.jpg?v=638651181797830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308260/frontline-combo-puppy-2-10kg-00036183--5-.jpg?v=638651181926870000"
+    ],
+    "price": {
+      "current": 8.99,
+      "original": 13.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 449.5,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "826",
+        "sku": "826",
+        "gtin": "00036183",
+        "title": "1 PIPETTA",
+        "url": "https://www.arcaplanet.it/frontline-combo-spot-on-puppy-826/p",
+        "price": {
+          "current": 8.99,
+          "original": 13.2,
+          "pricePerUnit": {
+            "value": 449.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-combo-spot-on-puppy-826p",
+        "name": "Frontline Combo Puppy 2-10KG",
+        "path": "/frontline-combo-spot-on-puppy-826/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "1197",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26671",
+    "sku": "26671",
+    "gtin": "1000000000804",
+    "title": "Advantix Spot On Cane 10-25Kg",
+    "brand": "ADVANTIX",
+    "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-10-a-25kg-26671/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315256/advantix-spot-on-cane-10-25kg-1000000000804x2.jpg?v=638737398027170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315257/advantix-spot-on-cane-10-25kg-1000000000804-1.png?v=638768557954400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315258/advantix-spot-on-cane-10-25kg-1000000000804-2.jpg?v=638768557954400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315259/Advantix-Spot-On-Cane-10-25Kg-1000000000804-3.jpg?v=638768557954400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315261/advantix-spot-on-cane-10-25kg-1000000000804-4--2-.jpg?v=638768557954530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315262/advantix-spot-on-cane-10-25kg-1000000000804-5.jpg?v=638768557954530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315263/Advantix-Spot-On-Cane-10-25Kg-1000000000804-6.jpg?v=638768557954530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315264/advantix-spot-on-cane-10-25kg-1000000000804-7.jpg?v=638768557954530000"
+    ],
+    "price": {
+      "current": 45.98,
+      "original": 94.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 51
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26671",
+        "sku": "26671",
+        "gtin": "1000000000804",
+        "title": "KIT RISPARMIO 2X4 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-10-a-25kg-26671/p",
+        "price": {
+          "current": 45.98,
+          "original": 94.6,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantix-spot-on-cane-da-10-a-25kg-26671p",
+        "name": "Advantix Spot On Cane 10-25Kg",
+        "path": "/advantix-spot-on-cane-da-10-a-25kg-26671/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1259",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26670",
+    "sku": "26670",
+    "gtin": "1000000000803",
+    "title": "Advantix Spot On Cane 25-40Kg",
+    "brand": "ADVANTIX",
+    "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-25-a-40kg-26670/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315247/Advantix-Spot-On-Cane-10-25Kg-1000000000803-x2.jpg?v=638737389132270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315249/Advantix-Spot-On-Cane-10-25Kg-1000000000803-1.png?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315250/Advantix-Spot-On-Cane-10-25Kg-1000000000803-2.jpg?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315251/Advantix-Spot-On-Cane-10-25Kg-1000000000803-3.jpg?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315252/Advantix-Spot-On-Cane-10-25Kg-1000000000803-4.jpg?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315253/Advantix-Spot-On-Cane-10-25Kg-1000000000803-5.jpg?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315254/Advantix-Spot-On-Cane-10-25Kg-1000000000803-6.jpg?v=638768523898100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315255/Advantix-Spot-On-Cane-10-25Kg-1000000000803-7.jpg?v=638768523898100000"
+    ],
+    "price": {
+      "current": 45.98,
+      "original": 98.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 53
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26670",
+        "sku": "26670",
+        "gtin": "1000000000803",
+        "title": "KIT RISPARMIO 2X4 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-25-a-40kg-26670/p",
+        "price": {
+          "current": 45.98,
+          "original": 98.4,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantix-spot-on-cane-da-25-a-40kg-26670p",
+        "name": "Advantix Spot On Cane 25-40Kg",
+        "path": "/advantix-spot-on-cane-da-25-a-40kg-26670/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1260",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26672",
+    "sku": "26672",
+    "gtin": "1000000000805",
+    "title": "Advantix Spot On Cane 4-10Kg",
+    "brand": "ADVANTIX",
+    "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-4-a-10-kg-26672/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315271/Advantix-Spot-On-Cane-4-10Kg-1000000000805x2.jpg?v=638737447885430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315272/Advantix-Spot-On-Cane-4-10Kg-1000000000805-1.png?v=638768560000270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315273/Advantix-Spot-On-Cane-4-10Kg-1000000000805-2.jpg?v=638768560000270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315274/Advantix-Spot-On-Cane-4-10Kg-1000000000805-3.jpg?v=638768560000400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315275/Advantix-Spot-On-Cane-4-10Kg-1000000000805-4.jpg?v=638768560000400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315276/Advantix-Spot-On-Cane-4-10Kg-1000000000805-5.jpg?v=638768560000400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315277/Advantix-Spot-On-Cane-4-10Kg-1000000000805-6.jpg?v=638768560000400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315278/advantix-spot-on-cane-4-10kg-00004505--6-_risultato.jpg?v=638768560000400000"
+    ],
+    "price": {
+      "current": 45.98,
+      "original": 85,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1149.5,
+        "unit": "none"
+      },
+      "discountPercentage": 46
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26672",
+        "sku": "26672",
+        "gtin": "1000000000805",
+        "title": "KIT RISPARMIO 2X4 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-4-a-10-kg-26672/p",
+        "price": {
+          "current": 45.98,
+          "original": 85,
+          "pricePerUnit": {
+            "value": 1149.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantix-spot-on-cane-da-4-a-10-kg-26672p",
+        "name": "Advantix Spot On Cane 4-10Kg",
+        "path": "/advantix-spot-on-cane-da-4-a-10-kg-26672/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "1261",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "2579",
+    "sku": "2579",
+    "gtin": "10129669",
+    "title": "Beaphar Collare Antiparassitario Canishield L",
+    "brand": "BEAPHAR",
+    "url": "https://www.arcaplanet.it/beaphar-canishield-cane-l-2579/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/280168/beaphar-collare-antiparassitario-cane-canishield-large.jpg?v=638114526645430000"
+    ],
+    "price": {
+      "current": 14.43,
+      "original": 24.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 721.5,
+        "unit": "none"
+      },
+      "discountPercentage": 42
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "2579",
+        "sku": "2579",
+        "gtin": "10129669",
+        "title": "65CM",
+        "url": "https://www.arcaplanet.it/beaphar-canishield-cane-l-2579/p",
+        "price": {
+          "current": 14.43,
+          "original": 24.99,
+          "pricePerUnit": {
+            "value": 721.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "beaphar-canishield-cane-l-2579p",
+        "name": "Beaphar Collare Antiparassitario Canishield L",
+        "path": "/beaphar-canishield-cane-l-2579/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2498",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26824",
+    "sku": "26824",
+    "gtin": "10174598",
+    "title": "Advantix Spot On Cane 40-60KG",
+    "brand": "ADVANTIX",
+    "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-40-a-60kg-26824/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318166/advantix-spot-on-6-pipetta-per-cani-da-40-a-60-kg_risultato.jpg.jpg?v=638768678099600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318167/Advantix-Spot-On-Cane-10-25Kg-1000000000803-2_risultato.jpg.jpg?v=638768678099770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318168/Advantix-Spot-On-Cane-10-25Kg-1000000000803-3_risultato.jpg.jpg?v=638768678099770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318169/Advantix-Spot-On-Cane-10-25Kg-1000000000803-4_risultato.jpg.jpg?v=638768678099930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318170/Advantix-Spot-On-Cane-10-25Kg-1000000000803-5_risultato.jpg.jpg?v=638768678099930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318171/Advantix-Spot-On-Cane-10-25Kg-1000000000803-6_risultato.jpg.jpg?v=638768678099930000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318172/Advantix-Spot-On-Cane-10-25Kg-1000000000803-7_risultato.jpg.jpg?v=638768678099930000"
+    ],
+    "price": {
+      "current": 73.6,
+      "original": 73.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 3679.9999999999995,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": false,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Non disponibile",
+      "seller": "1",
+      "estimatedDelivery": "Non disponibile"
+    },
+    "variants": [
+      {
+        "id": "26824",
+        "sku": "26824",
+        "gtin": "10174598",
+        "title": "6 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantix-spot-on-cane-da-40-a-60kg-26824/p",
+        "price": {
+          "current": 73.6,
+          "original": 73.6,
+          "pricePerUnit": {
+            "value": 3679.9999999999995,
+            "unit": "none"
+          }
+        },
+        "available": false,
+        "deliveryInfo": {
+          "status": "Non disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantix-spot-on-cane-da-40-a-60kg-26824p",
+        "name": "Advantix Spot On Cane 40-60KG",
+        "path": "/advantix-spot-on-cane-da-40-a-60kg-26824/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "2781",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "4810",
+    "sku": "4810",
+    "gtin": "10111770",
+    "title": "Lozione Spray Neem",
+    "brand": "PERFECT",
+    "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/208265/Perfect-Lozione-Spray-Neem-250ml.jpg?v=637413969505730000"
+    ],
+    "price": {
+      "current": 14.9,
+      "original": 21.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 57.30769230769231,
+        "unit": "none"
+      },
+      "discountPercentage": 32
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4810",
+        "sku": "4810",
+        "gtin": "10111770",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "price": {
+          "current": 14.9,
+          "original": 21.99,
+          "pricePerUnit": {
+            "value": 57.30769230769231,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "gatto",
+        "name": "Gatto",
+        "path": "/gatto/",
+        "level": 2
+      },
+      {
+        "id": "gattoantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/gatto/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "gattoantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/gatto/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiinsettorepellenti",
+        "name": "Insettorepellenti",
+        "path": "/cane/antiparassitari-e-curativi/insettorepellenti/",
+        "level": 4
+      },
+      {
+        "id": "perfect-cane-lozione-spray-neem-250ml-4810p",
+        "name": "Lozione Spray Neem",
+        "path": "/perfect-cane-lozione-spray-neem-250ml-4810/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "4691",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "5226",
+    "sku": "5226",
+    "gtin": "00036166",
+    "title": "Frontline Spray",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-spray-5226/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308364/frontline-spray-00036166--1-.jpg?v=638651218091770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308365/frontline-spray-00036166--2-.jpg?v=638651218173870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308366/frontline-spray-00036166--3-.jpg?v=638651218267030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308367/frontline-spray-00036166--4-.jpg?v=638651218339070000"
+    ],
+    "price": {
+      "current": 27.99,
+      "original": 49.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 43
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "5226",
+        "sku": "5226",
+        "gtin": "00036166",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/frontline-spray-5226/p",
+        "price": {
+          "current": 27.99,
+          "original": 49.5,
+          "pricePerUnit": {
+            "value": 1399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispray",
+        "name": "Spray",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spray/",
+        "level": 5
+      },
+      {
+        "id": "frontline-spray-5226p",
+        "name": "Frontline Spray",
+        "path": "/frontline-spray-5226/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "5101",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26823",
+    "sku": "26823",
+    "gtin": "10186749",
+    "title": "Advantix Spot On Cane Fino a 4Kg",
+    "brand": "ADVANTIX",
+    "url": "https://www.arcaplanet.it/advantix-spot-on-cane-26823/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318159/advantix-spot-on-antiparassitario-per-cani-0-4kg-6-pipette_risultato.jpg.jpg?v=638768672317130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318160/Advantix-Spot-On-Cane-10-25Kg-1000000000803-2_risultato.jpg.jpg?v=638768672317300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318161/Advantix-Spot-On-Cane-10-25Kg-1000000000803-3_risultato.jpg.jpg?v=638768672317430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318162/Advantix-Spot-On-Cane-10-25Kg-1000000000803-4_risultato.jpg.jpg?v=638768672317430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318163/Advantix-Spot-On-Cane-10-25Kg-1000000000803-5_risultato.jpg.jpg?v=638768672317430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318164/Advantix-Spot-On-Cane-10-25Kg-1000000000803-6_risultato.jpg.jpg?v=638768672317430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/318165/Advantix-Spot-On-Cane-10-25Kg-1000000000803-7_risultato.jpg.jpg?v=638768672317430000"
+    ],
+    "price": {
+      "current": 56.7,
+      "original": 56.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2835,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26823",
+        "sku": "26823",
+        "gtin": "10186749",
+        "title": "6 PIPETTE",
+        "url": "https://www.arcaplanet.it/advantix-spot-on-cane-26823/p",
+        "price": {
+          "current": 56.7,
+          "original": 56.7,
+          "pricePerUnit": {
+            "value": 2835,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "advantix-spot-on-cane-26823p",
+        "name": "Advantix Spot On Cane Fino a 4Kg",
+        "path": "/advantix-spot-on-cane-26823/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11946",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26669",
+    "sku": "26669",
+    "gtin": "1000000000802",
+    "title": "Seresto Collare per Cani fino a 8Kg",
+    "brand": "SERESTO",
+    "url": "https://www.arcaplanet.it/seresto-collare-per-cani-fino-8kg-26669/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315229/seresto-collare-per-cani-fino-a-8kg-1000000000802x2.jpg?v=638737381382070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315231/seresto-collare-per-cani-fino-a-8kg-1000000000802.png?v=638737382372570000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315232/seresto-collare-per-cani-fino-a-8kg-1000000000802-1..png?v=638737382535230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315233/seresto-collare-per-cani-fino-a-8kg-1000000000802-1.jpg?v=638737382773430000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315234/seresto-collare-per-cani-fino-a-8kg-1000000000802-2.jpg?v=638737382992830000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315235/seresto-collare-per-cani-fino-a-8kg-1000000000802-3.jpg?v=638737383259130000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315236/seresto-collare-per-cani-fino-a-8kg-1000000000802-4.jpg?v=638737383512630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315237/seresto-collare-per-cani-fino-a-8kg-1000000000802-5.jpg?v=638737383764330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315238/seresto-collare-per-cani-fino-a-8kg-1000000000802-6.jpg?v=638737384049770000"
+    ],
+    "price": {
+      "current": 56.99,
+      "original": 104.8,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1424.75,
+        "unit": "none"
+      },
+      "discountPercentage": 46
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26669",
+        "sku": "26669",
+        "gtin": "1000000000802",
+        "title": "KIT RISPARMIO 2PZ",
+        "url": "https://www.arcaplanet.it/seresto-collare-per-cani-fino-8kg-26669/p",
+        "price": {
+          "current": 56.99,
+          "original": 104.8,
+          "pricePerUnit": {
+            "value": 1424.75,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "seresto-collare-per-cani-fino-8kg-26669p",
+        "name": "Seresto Collare per Cani fino a 8Kg",
+        "path": "/seresto-collare-per-cani-fino-8kg-26669/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11951",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "4072",
+    "sku": "4072",
+    "gtin": "10059020",
+    "title": "Seresto Collare Antiparassitario Cani Grandi",
+    "brand": "SERESTO",
+    "url": "https://www.arcaplanet.it/seresto-collare-antiparassitario-cani-oltre-8-kg-4072/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/269684/seresto-antiparassitario-cane-grande.jpg?v=637831870401100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299747/seresto-collare-antiparassitario-cani-grandi-10059020--1-.jpg?v=638484358734670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299748/seresto-collare-antiparassitario-cani-grandi-10059020--2-.jpg?v=638484358849530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299749/seresto-collare-antiparassitario-cani-grandi-10059020--3-.jpg?v=638484358956330000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299750/seresto-collare-antiparassitario-cani-grandi-10059020--4-.jpg?v=638484359032500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299751/seresto-collare-antiparassitario-cani-grandi-10059020--5-.jpg?v=638484359142200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/299752/seresto-collare-antiparassitario-cani-grandi-10059020--6-.jpg?v=638484359234300000"
+    ],
+    "price": {
+      "current": 34.99,
+      "original": 58.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1749.5,
+        "unit": "none"
+      },
+      "discountPercentage": 40
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "4072",
+        "sku": "4072",
+        "gtin": "10059020",
+        "title": "70CM",
+        "url": "https://www.arcaplanet.it/seresto-collare-antiparassitario-cani-oltre-8-kg-4072/p",
+        "price": {
+          "current": 34.99,
+          "original": 58.7,
+          "pricePerUnit": {
+            "value": 1749.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "seresto-collare-antiparassitario-cani-oltre-8-kg-4072p",
+        "name": "Seresto Collare Antiparassitario Cani Grandi",
+        "path": "/seresto-collare-antiparassitario-cani-oltre-8-kg-4072/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "11952",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "14679",
+    "sku": "14679",
+    "gtin": "10118247",
+    "title": "Vectra 3D Antiparassitario per Cani sotto 4KG",
+    "brand": "Vectra",
+    "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-sotto-4kg-14679/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267086/vectra-1-5-4-kg-giallo-pack.jpg?v=637805951306270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267087/vectra-1-5-4-kg-giallo.jpg?v=637805951419230000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294573/Vectra-3D-Antiparassitario-per-Cani-10118247.jpg?v=638429093055600000"
+    ],
+    "price": {
+      "current": 23.7,
+      "original": 38.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1185,
+        "unit": "none"
+      },
+      "discountPercentage": 38
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14679",
+        "sku": "14679",
+        "gtin": "10118247",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-sotto-4kg-14679/p",
+        "price": {
+          "current": 23.7,
+          "original": 38.4,
+          "pricePerUnit": {
+            "value": 1185,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "vectra-3d-antiparassitario-per-cani-sotto-4kg-14679p",
+        "name": "Vectra 3D Antiparassitario per Cani sotto 4KG",
+        "path": "/vectra-3d-antiparassitario-per-cani-sotto-4kg-14679/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "16816",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "15207",
+    "sku": "15207",
+    "gtin": "10140991",
+    "title": "Chifa Dog Shampoo Insecticidal",
+    "brand": "CHIFA",
+    "url": "https://www.arcaplanet.it/chifa-dog-shampoo-insecticidal-15207/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/272224/CHIFA-DOG-SHAMPOO-INSECTICIDAL-ML.250.jpg?v=637901836616900000"
+    ],
+    "price": {
+      "current": 14.99,
+      "original": 18,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 59.96,
+        "unit": "none"
+      },
+      "discountPercentage": 17
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "15207",
+        "sku": "15207",
+        "gtin": "10140991",
+        "title": "250ML",
+        "url": "https://www.arcaplanet.it/chifa-dog-shampoo-insecticidal-15207/p",
+        "price": {
+          "current": 14.99,
+          "original": 18,
+          "pricePerUnit": {
+            "value": 59.96,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "Volume (L)": "250ML"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarishampoo",
+        "name": "Shampoo",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/shampoo/",
+        "level": 5
+      },
+      {
+        "id": "chifa-dog-shampoo-insecticidal-15207p",
+        "name": "Chifa Dog Shampoo Insecticidal",
+        "path": "/chifa-dog-shampoo-insecticidal-15207/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "17344",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "20539",
+    "sku": "20539",
+    "gtin": "10166111",
+    "title": "Prevendog 2 Collari Antiparassitari per Cani fino a 25KG",
+    "brand": "VIRBAC",
+    "url": "https://www.arcaplanet.it/ciam-prevendog-2-collari-antiparassitari-per-cani-fino-a-25kg-20539/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/278794/ciam-prevendog-2-collari-antiparassitari-per-cani-fino-a-25kg.jpg?v=638092031480930000"
+    ],
+    "price": {
+      "current": 39.7,
+      "original": 39.7,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1985,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "20539",
+        "sku": "20539",
+        "gtin": "10166111",
+        "title": "2PZ",
+        "url": "https://www.arcaplanet.it/ciam-prevendog-2-collari-antiparassitari-per-cani-fino-a-25kg-20539/p",
+        "price": {
+          "current": 39.7,
+          "original": 39.7,
+          "pricePerUnit": {
+            "value": 1985,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "ciam-prevendog-2-collari-antiparassitari-per-cani-fino-a-25kg-20539p",
+        "name": "Prevendog 2 Collari Antiparassitari per Cani fino a 25KG",
+        "path": "/ciam-prevendog-2-collari-antiparassitari-per-cani-fino-a-25kg-20539/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "22657",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23163",
+    "sku": "23163",
+    "gtin": "10173089",
+    "title": "AdTab Compresse Masticabili Cane 112 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-112mg-23163/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294343/AdTab-Cani-25-55-KG-Compresse-112-MG-10173089.jpg?v=638423735466470000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305717/DOSAGGIO.jpg?v=638599278136630000"
+    ],
+    "price": {
+      "current": 37.3,
+      "original": 37.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1864.9999999999998,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23163",
+        "sku": "23163",
+        "gtin": "10173089",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-112mg-23163/p",
+        "price": {
+          "current": 37.3,
+          "original": 37.3,
+          "pricePerUnit": {
+            "value": 1864.9999999999998,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-cane-112mg-23163p",
+        "name": "AdTab Compresse Masticabili Cane 112 MG",
+        "path": "/adtab-compresse-masticabili-cane-112mg-23163/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25172",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23165",
+    "sku": "23165",
+    "gtin": "10173090",
+    "title": "AdTab Compresse Masticabili Cane 225 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-225mg-23165/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294345/AdTab-Compresse-Masticabili-Cane-225-MG-10173090.jpg?v=638423772242030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305716/DOSAGGIO.jpg?v=638599277289370000"
+    ],
+    "price": {
+      "current": 39.5,
+      "original": 39.5,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1975,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23165",
+        "sku": "23165",
+        "gtin": "10173090",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-225mg-23165/p",
+        "price": {
+          "current": 39.5,
+          "original": 39.5,
+          "pricePerUnit": {
+            "value": 1975,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-cane-225mg-23165p",
+        "name": "AdTab Compresse Masticabili Cane 225 MG",
+        "path": "/adtab-compresse-masticabili-cane-225mg-23165/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25174",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23166",
+    "sku": "23166",
+    "gtin": "10173091",
+    "title": "AdTab Compresse Masticabili Cane 450 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-450mg-23166/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294346/AdTab-Compresse-Masticabili-Cane-450-MG-10173091.jpg?v=638423780123530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305718/DOSAGGIO.jpg?v=638599287135470000"
+    ],
+    "price": {
+      "current": 43.3,
+      "original": 43.3,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2165,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23166",
+        "sku": "23166",
+        "gtin": "10173091",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-450mg-23166/p",
+        "price": {
+          "current": 43.3,
+          "original": 43.3,
+          "pricePerUnit": {
+            "value": 2165,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-cane-450mg-23166p",
+        "name": "AdTab Compresse Masticabili Cane 450 MG",
+        "path": "/adtab-compresse-masticabili-cane-450mg-23166/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25175",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23169",
+    "sku": "23169",
+    "gtin": "10173093",
+    "title": "AdTab Compresse Masticabili Cane 900 MG",
+    "brand": "ADTAB",
+    "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-900mg-23169/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294349/AdTab-Compresse-Masticabili-Cane-900-MG-10173093.jpg?v=638423791809770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/305720/DOSAGGIO.jpg?v=638599294938570000"
+    ],
+    "price": {
+      "current": 47.9,
+      "original": 47.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2395,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23169",
+        "sku": "23169",
+        "gtin": "10173093",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/adtab-compresse-masticabili-cane-900mg-23169/p",
+        "price": {
+          "current": 47.9,
+          "original": 47.9,
+          "pricePerUnit": {
+            "value": 2395,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "adtab-compresse-masticabili-cane-900mg-23169p",
+        "name": "AdTab Compresse Masticabili Cane 900 MG",
+        "path": "/adtab-compresse-masticabili-cane-900mg-23169/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25178",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23185",
+    "sku": "23185",
+    "gtin": "10173097",
+    "title": "Frontpro Compresse Masticabili Cane 68MG",
+    "brand": "FRONTPRO",
+    "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-68mg-23185/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308372/frontpro-compresse-masticabili-cane-68mg-10173097--1-.jpg?v=638651221364200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308373/frontpro-compresse-masticabili-cane-68mg-10173097--2-.jpg?v=638651221467900000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308374/frontpro-compresse-masticabili-cane-68mg-10173097--3-.jpg?v=638651221918800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308375/frontpro-compresse-masticabili-cane-68mg-10173097--4-.jpg?v=638651222014730000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308376/frontpro-compresse-masticabili-cane-68mg-10173097--5-.jpg?v=638651222102200000"
+    ],
+    "price": {
+      "current": 47.4,
+      "original": 47.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2370,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23185",
+        "sku": "23185",
+        "gtin": "10173097",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-68mg-23185/p",
+        "price": {
+          "current": 47.4,
+          "original": 47.4,
+          "pricePerUnit": {
+            "value": 2370,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "frontpro-compresse-masticabili-cane-68mg-23185p",
+        "name": "Frontpro Compresse Masticabili Cane 68MG",
+        "path": "/frontpro-compresse-masticabili-cane-68mg-23185/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25194",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23186",
+    "sku": "23186",
+    "gtin": "10173096",
+    "title": "Frontpro Compresse Masticabili Cane 11,3MG",
+    "brand": "FRONTPRO",
+    "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-113mg-23186/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308377/frontpro-compresse-masticabili-cane-113mg-10173096--1-.jpg?v=638651223944800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308378/frontpro-compresse-masticabili-cane-113mg-10173096--2-.jpg?v=638651224077000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308379/frontpro-compresse-masticabili-cane-113mg-10173096--3-.jpg?v=638651224271400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308380/frontpro-compresse-masticabili-cane-113mg-10173096--4-.jpg?v=638651224387270000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308381/frontpro-compresse-masticabili-cane-113mg-10173096--5-.jpg?v=638651224486470000"
+    ],
+    "price": {
+      "current": 41.4,
+      "original": 41.4,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2070,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23186",
+        "sku": "23186",
+        "gtin": "10173096",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-113mg-23186/p",
+        "price": {
+          "current": 41.4,
+          "original": 41.4,
+          "pricePerUnit": {
+            "value": 2070,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "frontpro-compresse-masticabili-cane-113mg-23186p",
+        "name": "Frontpro Compresse Masticabili Cane 11,3MG",
+        "path": "/frontpro-compresse-masticabili-cane-113mg-23186/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25195",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23187",
+    "sku": "23187",
+    "gtin": "10173095",
+    "title": "Frontpro Compresse Masticabili Cane 136MG",
+    "brand": "FRONTPRO",
+    "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-136mg-23187/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308387/frontpro-compresse-masticabili-cane-136mg-10173095--1-.jpg?v=638651228248530000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308388/frontpro-compresse-masticabili-cane-136mg-10173095--2-.jpg?v=638651228342000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308389/frontpro-compresse-masticabili-cane-136mg-10173095--3-.jpg?v=638651228417800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308390/frontpro-compresse-masticabili-cane-136mg-10173095--4-.jpg?v=638651228504030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308391/frontpro-compresse-masticabili-cane-136mg-10173095--5-.jpg?v=638651228581070000"
+    ],
+    "price": {
+      "current": 52.9,
+      "original": 52.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2645,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23187",
+        "sku": "23187",
+        "gtin": "10173095",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-136mg-23187/p",
+        "price": {
+          "current": 52.9,
+          "original": 52.9,
+          "pricePerUnit": {
+            "value": 2645,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "frontpro-compresse-masticabili-cane-136mg-23187p",
+        "name": "Frontpro Compresse Masticabili Cane 136MG",
+        "path": "/frontpro-compresse-masticabili-cane-136mg-23187/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "25196",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23188",
+    "sku": "23188",
+    "gtin": "10173094",
+    "title": "Frontpro Compresse Masticabili Cane 28,3MG",
+    "brand": "FRONTPRO",
+    "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-28m3mg-23188/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308382/frontpro-compresse-masticabili-cane-283mg-10173094--1-.jpg?v=638651226776030000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308383/frontpro-compresse-masticabili-cane-283mg-10173094--2-.jpg?v=638651227051070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308384/frontpro-compresse-masticabili-cane-283mg-10173094--3-.jpg?v=638651227120500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308385/frontpro-compresse-masticabili-cane-283mg-10173094--4-.jpg?v=638651227216630000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308386/frontpro-compresse-masticabili-cane-283mg-10173094--5-.jpg?v=638651227311930000"
+    ],
+    "price": {
+      "current": 43.2,
+      "original": 43.2,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 2160,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23188",
+        "sku": "23188",
+        "gtin": "10173094",
+        "title": "3CP",
+        "url": "https://www.arcaplanet.it/frontpro-compresse-masticabili-cane-28m3mg-23188/p",
+        "price": {
+          "current": 43.2,
+          "original": 43.2,
+          "pricePerUnit": {
+            "value": 2160,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricompresse",
+        "name": "Compresse",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/compresse/",
+        "level": 5
+      },
+      {
+        "id": "frontpro-compresse-masticabili-cane-28m3mg-23188p",
+        "name": "Frontpro Compresse Masticabili Cane 28,3MG",
+        "path": "/frontpro-compresse-masticabili-cane-28m3mg-23188/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25197",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "23898",
+    "sku": "23898",
+    "gtin": "10173944",
+    "title": "Collare Naturale per Cane Neem e Lavanda",
+    "brand": "LOVEDI",
+    "url": "https://www.arcaplanet.it/collare-naturale-per-cane-neem-e-lavanda-23898/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/311440/Collare-Naturale-per-Cane-Neem-e-Lavanda-10173944.jpg?v=638678777766430000"
+    ],
+    "price": {
+      "current": 7.99,
+      "original": 7.99,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 399.5,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "23898",
+        "sku": "23898",
+        "gtin": "10173944",
+        "title": "75CM",
+        "url": "https://www.arcaplanet.it/collare-naturale-per-cane-neem-e-lavanda-23898/p",
+        "price": {
+          "current": 7.99,
+          "original": 7.99,
+          "pricePerUnit": {
+            "value": 399.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitaricollari",
+        "name": "Collari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/collari/",
+        "level": 5
+      },
+      {
+        "id": "collare-naturale-per-cane-neem-e-lavanda-23898p",
+        "name": "Collare Naturale per Cane Neem e Lavanda",
+        "path": "/collare-naturale-per-cane-neem-e-lavanda-23898/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "25909",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "14677",
+    "sku": "14677",
+    "gtin": "10110351",
+    "title": "Vectra 3D Antiparassitario per Cani 25-40KG",
+    "brand": "Vectra",
+    "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-25-40kg-14677/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267092/vectra-25-40-kg-viola-pack.jpg?v=637805953065400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267093/vectra-25-40-kg-viola.jpg?v=637805953163600000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294571/Vectra-3D-Antiparassitario-per-Cani-10110351.jpg?v=638429092204270000"
+    ],
+    "price": {
+      "current": 27.9,
+      "original": 45.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1395,
+        "unit": "none"
+      },
+      "discountPercentage": 39
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14677",
+        "sku": "14677",
+        "gtin": "10110351",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-25-40kg-14677/p",
+        "price": {
+          "current": 27.9,
+          "original": 45.6,
+          "pricePerUnit": {
+            "value": 1395,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "vectra-3d-antiparassitario-per-cani-25-40kg-14677p",
+        "name": "Vectra 3D Antiparassitario per Cani 25-40KG",
+        "path": "/vectra-3d-antiparassitario-per-cani-25-40kg-14677/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26067",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "26677",
+    "sku": "26677",
+    "gtin": "1000000000810",
+    "title": "Vectra 3D Antiparassitario per Cani 10-25KG",
+    "brand": "Vectra",
+    "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-10-25kg-26677/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315336/vectra-10-25-kg-blu-pack_1000000000810-x2.jpg?v=638737499867670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315337/vectra-10-25-kg-blu-pack_1000000000810-1.png?v=638737500008100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315338/vectra-10-25-kg-blu-pack_1000000000810-2.jpg?v=638737500171370000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/315339/vectra-10-25-kg-blu-pack_1000000000810-3.jpg?v=638737500323600000"
+    ],
+    "price": {
+      "current": 47.98,
+      "original": 87,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1199.5,
+        "unit": "none"
+      },
+      "discountPercentage": 45
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "26677",
+        "sku": "26677",
+        "gtin": "1000000000810",
+        "title": "KIT RISPARMIO 2X3 PIPETTE",
+        "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-10-25kg-26677/p",
+        "price": {
+          "current": 47.98,
+          "original": 87,
+          "pricePerUnit": {
+            "value": 1199.5,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {
+            "ERP_Commercial_State": "onSale",
+            "ERP_SaleChannel": "ECommerceOnly"
+          }
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "vectra-3d-antiparassitario-per-cani-10-25kg-26677p",
+        "name": "Vectra 3D Antiparassitario per Cani 10-25KG",
+        "path": "/vectra-3d-antiparassitario-per-cani-10-25kg-26677/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26069",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "14678",
+    "sku": "14678",
+    "gtin": "10110352",
+    "title": "Vectra 3D Antiparassitario per Cani 4-10KG",
+    "brand": "Vectra",
+    "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-4-10kg-14678/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267088/vectra-4-10-kg-verde-pack.jpg?v=637805951943200000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/267089/vectra-4-10-kg-verde.jpg?v=637805952044870000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/294572/Vectra-3D-Antiparassitario-per-Cani-10110352.jpg?v=638429092600700000"
+    ],
+    "price": {
+      "current": 24.9,
+      "original": 40.6,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1245,
+        "unit": "none"
+      },
+      "discountPercentage": 39
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "14678",
+        "sku": "14678",
+        "gtin": "10110352",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/vectra-3d-antiparassitario-per-cani-4-10kg-14678/p",
+        "price": {
+          "current": 24.9,
+          "original": 40.6,
+          "pricePerUnit": {
+            "value": 1245,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "vectra-3d-antiparassitario-per-cani-4-10kg-14678p",
+        "name": "Vectra 3D Antiparassitario per Cani 4-10KG",
+        "path": "/vectra-3d-antiparassitario-per-cani-4-10kg-14678/p",
+        "level": 2
+      }
+    ],
+    "badges": [
+      {
+        "id": "2867",
+        "name": "Occasione"
+      }
+    ],
+    "metadata": {
+      "groupId": "26071",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "25112",
+    "sku": "25112",
+    "gtin": "10176983",
+    "title": "Frontline Spot On Cane 2-10KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-spot-on-cane-2-10kg-25112/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308427/Frontline-Spot-On-Cane-2-10KG-10176983-1.jpg?v=638651826621500000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308428/Frontline-Spot-On-Cane-2-10KG-10176983-2.jpg?v=638651826702300000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308429/Frontline-Spot-On-Cane-2-10KG-10176983-3.jpg?v=638651826781770000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308430/Frontline-Spot-On-Cane-2-10KG-10176983-4.jpg?v=638651826862670000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308431/Frontline-Spot-On-Cane-2-10KG-10176983-5.jpg?v=638651826940730000"
+    ],
+    "price": {
+      "current": 20.9,
+      "original": 20.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1045,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25112",
+        "sku": "25112",
+        "gtin": "10176983",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-spot-on-cane-2-10kg-25112/p",
+        "price": {
+          "current": 20.9,
+          "original": 20.9,
+          "pricePerUnit": {
+            "value": 1045,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-spot-on-cane-2-10kg-25112p",
+        "name": "Frontline Spot On Cane 2-10KG",
+        "path": "/frontline-spot-on-cane-2-10kg-25112/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27123",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "25113",
+    "sku": "25113",
+    "gtin": "10176984",
+    "title": "Frontline Spot On Cane 10-20KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontline-spot-on-cane-10-20kg-25113/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308437/Frontline-Spot-On-Cane-10-20KG-10176984-1.jpg?v=638651831292800000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308438/Frontline-Spot-On-Cane-10-20KG-10176984-2.jpg?v=638651831374000000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308439/Frontline-Spot-On-Cane-10-20KG-10176984-3.jpg?v=638651831482070000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308440/Frontline-Spot-On-Cane-10-20KG-10176984-4.jpg?v=638651831603970000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308441/Frontline-Spot-On-Cane-10-20KG-10176984-5.jpg?v=638651831714130000"
+    ],
+    "price": {
+      "current": 23.9,
+      "original": 23.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1195,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25113",
+        "sku": "25113",
+        "gtin": "10176984",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontline-spot-on-cane-10-20kg-25113/p",
+        "price": {
+          "current": 23.9,
+          "original": 23.9,
+          "pricePerUnit": {
+            "value": 1195,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontline-spot-on-cane-10-20kg-25113p",
+        "name": "Frontline Spot On Cane 10-20KG",
+        "path": "/frontline-spot-on-cane-10-20kg-25113/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27124",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  },
+  {
+    "id": "25114",
+    "sku": "25114",
+    "gtin": "10176985",
+    "title": "Frontilne Spot On Cane 20-40KG",
+    "brand": "FRONTLINE",
+    "url": "https://www.arcaplanet.it/frontilne-spot-on-20-40kg-cani-25114/p",
+    "images": [
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308432/Frontilne-Spot-On-20-40KG-Cani-10176985-1.jpg?v=638651829041700000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308433/Frontilne-Spot-On-20-40KG-Cani-1017698-2.jpg?v=638651829126170000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308434/Frontilne-Spot-On-20-40KG-Cani-10176985-3.jpg?v=638651829234400000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308435/Frontilne-Spot-On-20-40KG-Cani-10176985-4.jpg?v=638651829322100000",
+      "https://arcaplanet.vtexassets.com/arquivos/ids/308436/Frontilne-Spot-On-20-40KG-Cani-10176985-5.jpg?v=638651829395970000"
+    ],
+    "price": {
+      "current": 26.9,
+      "original": 26.9,
+      "currency": "EUR",
+      "pricePerUnit": {
+        "value": 1345,
+        "unit": "none"
+      },
+      "discountPercentage": 0
+    },
+    "available": true,
+    "store": "arcaplanet",
+    "deliveryInfo": {
+      "status": "Disponibile",
+      "seller": "1",
+      "estimatedDelivery": "1-3 giorni lavorativi"
+    },
+    "variants": [
+      {
+        "id": "25114",
+        "sku": "25114",
+        "gtin": "10176985",
+        "title": "3 PIPETTE",
+        "url": "https://www.arcaplanet.it/frontilne-spot-on-20-40kg-cani-25114/p",
+        "price": {
+          "current": 26.9,
+          "original": 26.9,
+          "pricePerUnit": {
+            "value": 1345,
+            "unit": "none"
+          }
+        },
+        "available": true,
+        "deliveryInfo": {
+          "status": "Disponibile",
+          "seller": "1"
+        },
+        "specifications": {
+          "unitMultiplier": 1,
+          "unitMeasurement": "un",
+          "properties": {}
+        }
+      }
+    ],
+    "categories": [
+      {
+        "id": "cane",
+        "name": "Cane",
+        "path": "/cane/",
+        "level": 2
+      },
+      {
+        "id": "caneantiparassitari-e-curativi",
+        "name": "Antiparassitari e Curativi",
+        "path": "/cane/antiparassitari-e-curativi/",
+        "level": 3
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitari",
+        "name": "Antiparassitari",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/",
+        "level": 4
+      },
+      {
+        "id": "caneantiparassitari-e-curativiantiparassitarispot-on",
+        "name": "Spot On",
+        "path": "/cane/antiparassitari-e-curativi/antiparassitari/spot-on/",
+        "level": 5
+      },
+      {
+        "id": "frontilne-spot-on-20-40kg-cani-25114p",
+        "name": "Frontilne Spot On Cane 20-40KG",
+        "path": "/frontilne-spot-on-20-40kg-cani-25114/p",
+        "level": 2
+      }
+    ],
+    "badges": [],
+    "metadata": {
+      "groupId": "27125",
+      "variantCount": 1,
+      "scrapedAt": "2025-03-23T19:46:44.435Z",
+      "unitMultiplier": 1,
+      "unitMeasurement": "un"
+    },
+    "category": "/cane/antiparassitari/e/curativi/antiparassitari/"
+  }
+]
